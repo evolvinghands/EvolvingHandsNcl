@@ -210,6 +210,11 @@
             <country>England</country>
             <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1030202"/>
          </place>
+            <place xml:id="place7004540" corresp="http://vocab.getty.edu/page/tgn/7004540">
+                  <placeName>Palestine</placeName>
+                  <region>Palestine</region>
+                  <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7004540"/>
+            </place>
       </listPlace>
       <listOrg>
          <org xml:id="org-245646536" corresp="http://viaf.org/viaf/245646536">
@@ -229,6 +234,13 @@
             </event>
             <idno type="VIAF">134825322</idno>
          </org>
+            <org xml:id="org-155121446" corresp="http://viaf.org/viaf/155121446">
+                  <orgName>Iraq Ministry of the Interior</orgName>
+                  <event type="creation" when="1921">
+                        <ab>1921</ab>
+                  </event>
+                  <idno type="VIAF">155121446</idno>
+            </org>
       </listOrg>
    </standOff>
    <facsimile>
@@ -1013,11 +1025,11 @@
                <lb facs="#facs_1_r1l3" n="N005"/>
                <persName ref="#person-EH030">Darling Parents</persName>. I'm answering your letters of <date when="1921-05-04">May 4</date> - I may say 
                <lb facs="#facs_1_r1l4" n="N006"/> incidentally that your weekly letters are the greatest joy. I don't know 
-               <lb facs="#facs_1_r1l5" n="N007"/> what I should do without them. <persName ref="#person-EH009">Mother's </persName>was full of the Ross 
-               <lb facs="#facs_1_r1l6" n="N008"/> Smith flight, which indeed sounds wonderful - I wish I had been 
+                  <lb facs="#facs_1_r1l5" n="N007"/> what I should do without them. <persName ref="#person-EH009">Mother's </persName>was full of the <seg type='editorialNote-target-text'> Ross 
+                        <lb facs="#facs_1_r1l6" n="N008"/> Smith flight<note type='editorial'> Ross Smith was an Australian aviator who, with his borther Keith, were the first pilots to fly fom England to Australia in 1919. He was a pilot for TE Lawrence, and made pioneering flights from Cairo to Calcutta, and Calcutta to Timor. It is unclear which flight this letter refers to, or it may even mean a documentary 'The Ross Smith Flight,' released in 1921.</note></seg>, which indeed sounds wonderful - I wish I had been 
                <lb facs="#facs_1_r1l7" n="N009"/>there. And yours, <persName ref="#person-EH006">Father</persName>, told of the very interesting <choice>
                   <abbr>Rly</abbr>
-                  <expan>Railway</expan>
+                  <expan><seg type="editorialNote-target-text">Railway<note type="editorial"> Likely refers to 1921 Railways Act, grouping railways into amalgamated regional lines.</note></seg></expan>
                </choice> arrangements + 
                <lb facs="#facs_1_r1l8" n="N010"/> of the appeal of the Steel Smelters Association - isn't it incredible! You 
                <lb facs="#facs_1_r1l9" n="N011"/>speak of there being a good deal of distress, + that's a month ago 
@@ -1043,7 +1055,7 @@
                <lb facs="#facs_1_r1l29" n="N030"/> over Asia should gather under the shadow of its wings every patriot 
                <lb facs="#facs_1_r1l30" n="N031"/> who is out of a job. Saiyid Zia is a very interesting man. He 
                <lb facs="#facs_1_r1l31" n="N032"/> lunched one day with the <persName ref="#person-EH026">Coxes</persName> (I had met him in <placeName ref="#place-7002004">Tehran</placeName>) 
-               <lb facs="#facs_1_r1l32" n="N033"/> + dined next day with me to meet Ja'far whose acquaintance 
+               <lb facs="#facs_1_r1l32" n="N033"/> + dined next day with me to meet <persName ref="#person-EH011">Ja'far</persName> whose acquaintance 
                <lb facs="#facs_1_r1l33" n="N034"/>he wanted to make. We talked Persian + French. He attributes his 
                <lb facs="#facs_1_r1l34" n="N035"/>
                <name type="event"
@@ -1053,10 +1065,10 @@
                <lb facs="#facs_1_r1l35" n="N036"/>projects of social reform + was determined to displace him. 
                <lb facs="#facs_1_r1l36" n="N037"/> I don't want Persia to lapse into a Bolshevist chaos but it will 
                <lb facs="#facs_1_r1l37" n="N038"/> make me laugh to see the Shah engulfed in it. 
-            </ab>
+               </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r1">
-               <lb facs="#facs_2_r1l1" n="N001"/> well that's that. In <placeName ref="#place-1000144">Angora</placeName>, I think I told you, the extremists have  
+               <lb facs="#facs_2_r1l1" n="N001"/> Well that's that. In <placeName ref="#place-1000144">Angora</placeName>, I think I told you, the extremists have  
                <lb facs="#facs_2_r1l2" n="N002"/>got the upper hand which from our point of view means that Turkish 
                <lb facs="#facs_2_r1l3" n="N003"/>agitation continues on our northern frontier. The last incident is 
                <lb facs="#facs_2_r1l4" n="N004"/>that a Turkish officer + 13 men have appeared at <placeName ref="#place-1079434">Rawandaz</placeName>
@@ -1108,7 +1120,7 @@
                <lb facs="#facs_3_r2l4" n="N005"/> should certainly have had to give later at his request. 
                <lb facs="#facs_3_r2l5" n="N006"/>Meantime <seg type="editorialNote-target-text">the amnesty<note type="editorial">Amnesty granted by the British to pardon those involved in the 1920 Iraqi Revolt against the British.</note>
                </seg> is out + my friends are busying 
-               <lb facs="#facs_3_r2l6" n="N007"/>themselves in the constitution of a moderate Sharifian party  
+                  <lb facs="#facs_3_r2l6" n="N007"/>themselves in the constitution of a moderate <seg type="editorialNote-target-text">Sharifian party<note type="editorial">Term referring to things related to the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), in this case a political party organised under Faisal, the Sharif.</note></seg>  
                <lb facs="#facs_3_r2l7" n="N008"/> with a definite programme - the latter was submitted 
                <lb facs="#facs_3_r2l8" n="N009"/> to me. Their difficulties are set forth in the enclosed very 
                <lb facs="#facs_3_r2l9" n="N010"/> confidential note, but <persName ref="#person-EH002">Sir Percy</persName> has told them (through me) 
@@ -1130,7 +1142,7 @@
                <lb facs="#facs_3_r2l24" n="N024"/>the Nabi Isa (the Prophet Jesus). How is he to know what 
                <lb facs="#facs_3_l_715" n="N025"/>is going on the world if you' re not there?" 
                <lb facs="#facs_3_r2l27" n="N026"/>One of the difficulties is <persName ref="#person-EH003">Mr Philby</persName>. He has a strong prejudice 
-               <lb facs="#facs_3_r2l28" n="N027"/>against Faisal + as he is running the Ministry of the Interior
+               <lb facs="#facs_3_r2l28" n="N027"/>against Faisal + as he is running the <orgName ref="#org-155121446">Ministry of the Interior</orgName>
                <lb facs="#facs_3_r2l29" n="N028"/> he is in a position to make a passive resistance of a 
                <lb facs="#facs_3_r2l30" n="N029"/> very effective kind. We can't get a Nationalist paper started 
                <lb facs="#facs_3_r2l31" n="N030"/> because it has to be registered in the Interior + all kinds 
@@ -1195,7 +1207,7 @@
                <lb facs="#facs_5_r2l11" n="N012"/>
                <persName ref="#person-EH013"> Jamil Zahawi</persName> was followed by another + rival poet, 
                <lb facs="#facs_5_r2l12" n="N013"/>a man called <persName ref="#person-EH033">Ma'ruf </persName>who has just returned from 
-               <lb facs="#facs_5_r2l13" n="N014"/>Palestine - he came back with us on the <objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge">Hardinge</objectName>. 
+               <lb facs="#facs_5_r2l13" n="N014"/><placeName ref="#7004540">Palestine</placeName> - he came back with us on the <objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge">Hardinge</objectName>. 
                <lb facs="#facs_5_r2l14" n="N015"/>He is said to be one of the greatest Arabists living. I did 
                <lb facs="#facs_5_r2l15" n="N016"/>n't understand the poem which was immensely 
                <lb facs="#facs_5_r2l16" n="N017"/> applauded, but I did understand the speech with which 
@@ -1221,7 +1233,7 @@
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/>soundlessly to this day for ought I know. 
-               <lb facs="#facs_6_r1l2" n="N002"/> We all had to get up at 5 next morning to go to the King's 
+               <lb facs="#facs_6_r1l2" n="N002"/> We all had to get up at 5 next morning to go to the <persName ref="#personEH001">King</persName>'s 
                <lb facs="#facs_6_r1l3" n="N003"/> Birthday Parade which was held in the desert quite near my 
                <lb facs="#facs_6_r1l4" n="N004"/> house. All the Arab magnates came + there were an 
                <lb facs="#facs_6_r1l5" n="N005"/>astonishing number of troops, but this was a deception

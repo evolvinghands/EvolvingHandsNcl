@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c./ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -668,8 +668,8 @@
                <lb facs="#facs_2_r1l15" n="N014"/> What everybody wants is to know our wishes + be 
                <lb facs="#facs_2_r1l16" n="N015"/> guided by them + as soon, as they get any kind of lead
                <lb facs="#facs_2_r1l17" n="N016"/>they will all, I think, come into line. Meantime, in 
-               <lb facs="#facs_2_r1l18" n="N017"/> my rôle as the <note>Nabi 'Isa</note> I receive many agitated 
-               <lb facs="#facs_2_r1l19" n="N018"/> visits from my young Sharifian friends asking for 
+               <lb facs="#facs_2_r1l18" n="N017"/> my rôle as the <seg type="editorialNote-target-text">Nabi 'Isa<note type="editorial">Name used in Qur'an to refer to Jesus Christ.</note></seg> I receive many agitated 
+                  <lb facs="#facs_2_r1l19" n="N018"/> visits from my young <seg type="editorialNote-target-text">Sharifian<note type="editorial">Term referring to things related to the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), in this people loyal to Faisal, the Sharif, and his rule.</note></seg> friends asking for 
                <lb facs="#facs_2_r1l20" n="N019"/>reassurances + for guidance, which I give to the 
                <lb facs="#facs_2_r1l21" n="N020"/> best of my ability + according to Sir Percy's directions.
                <lb facs="#facs_2_r1l22" n="N021"/>He is a master hand at the game of politics; it's 
@@ -685,9 +685,9 @@
                <lb facs="#facs_2_l_1110" n="N002"/> go completely to bed, to my relief. It's very boring 
                <lb facs="#facs_2_r2l4" n="N003"/> for her, poor thing 
                <lb facs="#facs_2_r2l5" n="N004"/> I've just had this Sunday morning a long visit 
-               <lb facs="#facs_2_r2l6" n="N005"/> from 2 big shaikhs, <persName ref="#person-EH042">Fahad Beg</persName> of the 'Anizah
+               <lb facs="#facs_2_r2l6" n="N005"/> from 2 big shaikhs, <persName ref="#person-EH042">Fahad Beg</persName> of the <seg type="editorialNote-target-text">'Anizah<note type="editorial">Tribe originating from Arab peninsula, placed within the Rabi'a branch of Adnanite tribes.</note></seg>
                <lb facs="#facs_2_r2l7" n="N006"/>(the giver of my dogs) + <persName ref="#person-EH043">'Ali Sulaiman</persName>, of the 
-               <lb facs="#facs_2_r2l8" n="N007"/> Dulaim. Both came down from <placeName ref="#place-1079402">Ramadi</placeName> to 
+               <lb facs="#facs_2_r2l8" n="N007"/> <seg type="editorialNote-target-text">Dulaim<note type="editorial">Large Sunni Arab royal tribe.</note></seg>. Both came down from <placeName ref="#place-1079402">Ramadi</placeName> to 
                <lb facs="#facs_2_r2l9" n="N008"/> see Sir Percy + find out his views. They have 
                <lb facs="#facs_2_r2l10" n="N009"/> hitherto been running a campaign on behalf 
                <lb facs="#facs_2_r2l11" n="N010"/> of the Naqib, on the ground that they are 
