@@ -209,6 +209,8 @@
             <country>England</country>
             <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1030202"/>
          </place>
+            <place xml:id="place-1001220" corresp="http://vocab.getty.edu/tgn/1001220"><placeName>Chabayish</placeName><region>Dhi Qar</region><country>Iraq</country></place>
+      <place xml:id="place-1115337" corresp="http://vocab.getty.edu/tgn/1115337"><placeName>Hammar Lake</placeName></place>
       </listPlace>
       <listOrg>
          <org xml:id="org-569145857873923020129"
@@ -1067,7 +1069,7 @@
                <lb facs="#facs_1_r2l4" n="N005"/> came home with <persName ref="#person-EH048">Mr Tod</persName> at midnight, while the gay 
                <lb facs="#facs_1_r2l5" n="N006"/>
                <persName ref="#person-EH016">Lady Cox</persName> danced till 4 a.m!
-               <lb facs="#facs_1_r2l6" n="N007"/>I must till you that <persName ref="#person-EH055">Shaikh Khaz'al</persName> has abandoned 
+               <lb facs="#facs_1_r2l6" n="N007"/>I must <choice><corr>tell</corr><sic>till</sic></choice> you that <persName ref="#person-EH055">Shaikh Khaz'al</persName> has abandoned 
                <lb facs="#facs_1_r2l7" n="N008"/> his candidature for the throne, of the 'Iraq, with a 
                <lb facs="#facs_1_r2l8" n="N009"/>
                <foreign>beau geste</foreign> declaring that Faisal was a candidate he 
@@ -1083,7 +1085,7 @@
                <lb facs="#facs_1_r2l17" n="N018"/> I've sent him a letter explaining how the wind blows 
                <lb facs="#facs_1_r2l18" n="N019"/>throughout the 'Iraq + as soon as he comes up here I shall 
                <lb facs="#facs_1_r2l19" n="N020"/> be able to keep him posted in local politics. Oddly 
-               <lb facs="#facs_1_r2l20" n="N021"/> enough <persName ref="#person-EH003">Mr Philby</persName>, who is strongly anti-Sharifian + 
+                  <lb facs="#facs_1_r2l20" n="N021"/> enough <persName ref="#person-EH003">Mr Philby</persName>, who is strongly anti-<seg type="editorialNote-arget-text">Sharifian<note type="editorial">Term referring to things or people related to or supportive of the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), in this case Mr Philby is opposed to the idea of a system headed by a Sharif.</note></seg> + 
                <lb facs="#facs_1_r2l21" n="N022"/>has really been doing a good deal of harm by 
                <lb facs="#facs_1_r2l22" n="N023"/>openly advocating a republic (very wrong of him)  
                <lb facs="#facs_1_r2l23" n="N024"/> has also gone down to Basrah "on business". I hope
@@ -1169,7 +1171,6 @@
                <lb facs="#facs_2_r2l23" n="N023"/> same way he does here he won't often get any where. He 
                <lb facs="#facs_2_r2l24" n="N024"/> was half an hour late arriving at the station + even 
                <lb facs="#facs_2_r2l25" n="N025"/>then was in no hurry to get himself packed in.
-               <lb facs="#facs_2_r2l26" n="N026"/>His wife is a charming little lady brought up in Brussels 
                <lb facs="#facs_2_r2l27" n="N027"/>+ dying to get out of Mohammadan countries to somewhere 
                <lb facs="#facs_2_r2l28" n="N028"/> where she can drop her veil. Having disposed of his 
                <lb facs="#facs_2_r2l29" n="N029"/>+ her women + eunuchs I set off to Lady Cox's 
@@ -1183,14 +1184,14 @@
                <lb facs="#facs_3_l_695" n="N002"/>is therefore wrong, isn't it? 
                <lb facs="#facs_3_r2l4" n="N003"/>
                <date when="1921-06-26"> June 26</date>. I left off writing to go out to dinner with <persName ref="#person-EH057">the Shaik</persName>
-               <lb facs="#facs_3_r2l6" n="N004"/> of <placeName n="country: India; ">Chabaish </placeName>- it's near the <placeName>Hammar Lake</placeName> - who is here in 
+               <lb facs="#facs_3_r2l6" n="N004"/> of <placeName ref="place-1001220">Chabaish </placeName>- it's near the <placeName ref="place-1115337">Hammar Lake</placeName> - who is here in 
                <lb facs="#facs_3_l_718" n="N005"/> his capacity as Minister without portfolio. He is a <persName>wealthy </persName>
                <lb facs="#facs_3_r2l9" n="N006"/>
                <persName>man</persName> + has just bought a very expensive motor which he sent to 
-               <lb facs="#facs_3_r2l10" n="N007"/> fetch me to dinner. Really the combination of tribal shaikhs,
+               <lb facs="#facs_3_r2l10" n="N007"/> fetch me to dinner. Really the combination of tribal shaikhs <damage type="inkSpill">+</damage>
                <lb facs="#facs_3_r2l11" n="N008"/> motor cars of the latest pattern is one to which I find it 
                <lb facs="#facs_3_r2l12" n="N009"/> difficult to adjust myself. Shaikh Salim has considerable ability
-               <lb facs="#facs_3_r2l13" n="N010"/>+ even more ambition. He's a strong supporter of the idea of a 
+               <lb facs="#facs_3_r2l13" n="N010"/>+ even more ambition. He's a strong supporter of the idea of a
                <lb facs="#facs_3_r2l14" n="N011"/>republic mainly, I think, because he believes he might become  
                <lb facs="#facs_3_r2l15" n="N012"/> President - a fantastic notion. It was a pleasant party, all 
                <lb facs="#facs_3_r2l16" n="N013"/> my intimate friends such as <persName ref="#person-EH015">'Abdul Majid Shawi</persName> + <persName ref="#person-EH049">Fakhri</persName>
@@ -1255,18 +1256,18 @@
                <lb facs="#facs_4_l_1297" n="N002"/>them against their own extremists, but nothing is  
                <lb facs="#facs_4_r2l4" n="N003"/> insurmountable so long as they are not straining 
                <lb facs="#facs_4_r2l5" n="N004"/> against our rein. You understand, these men with whom 
-               <lb facs="#facs_4_r2l6" n="N005"/> Sir Percy + I are working are bitterly anti-panislamic + 
+               <lb facs="#facs_4_r2l6" n="N005"/> Sir Percy + I are working are bitterly anti-<seg type="editorialNote-target-text">panislamic<note type="editorial">Collins defines panislamic as, 'of or relating to the doctrine that all Muslims should be united under an Islamic state.'</note></seg> + 
                <lb facs="#facs_4_r2l7" n="N006"/>bitterly anti-Turkish. They regard us as their best 
-               <lb facs="#facs_4_r2l8" n="N007"/>hope in winning through to pan - Arabism, + so we 
+               <lb facs="#facs_4_r2l8" n="N007"/>hope in winning through to <seg type="editorialNote-target-text">pan - Arabism<note type="editorial">Collins defines pan-Arabism as, 'the principle of, or support for, or movement towards, Arab political union or cooperation.'</note></seg>, + so we 
                <lb facs="#facs_4_r2l9" n="N008"/> are here in <placeName ref="#place-1000118">Mesopotamia</placeName> but I fear in the future 
-               <lb facs="#facs_4_r2l10" n="N009"/> we shall be hampered by our support of Zionism 
+               <lb facs="#facs_4_r2l10" n="N009"/> we shall be hampered by our support of <seg type="editorialNote-target-text">Zionism<note type="editorial">Collins defines Zionism as, 'a political movement for the establishment and support of a natal homeland for Jews in Palestine, now chiefly conserned with the development of the modern state of Israel,' or 'a policy or movement for Jews to return to Palestine from the diaspora.'</note></seg> 
                <lb facs="#facs_4_r2l11" n="N010"/>in <placeName ref="#place-7018359">Palestine</placeName> + the French in <placeName ref="#place-1000140">Syria</placeName>, neither of which  
                <lb facs="#facs_4_r2l12" n="N011"/> is consistent with a pan-Arab policy.
                <lb facs="#facs_4_r2l13" n="N012"/>This morning, Sunday, I went for a long ride 
                <lb facs="#facs_4_r2l14" n="N013"/> with <persName ref="#person-EH048">Mr Tod</persName> before breakfast + tonight we 
                <lb facs="#facs_4_r2l15" n="N014"/>have a swimming party on his launch which should
                <lb facs="#facs_4_r2l16" n="N015"/> make a well-spent Sunday. 
-               <lb facs="#facs_4_r2l17" n="N016"/> I forgot to till you that <persName ref="#person-EH041">Marie</persName> hadn't after 
+                  <lb facs="#facs_4_r2l17" n="N016"/> I forgot to <choice><corr>tell</corr><sic>till</sic></choice> you that <persName ref="#person-EH041">Marie</persName> hadn't after 
                <lb facs="#facs_4_r2l18" n="N017"/>all cracked the bone + she is now nearly well.
                <lb facs="#facs_4_r2l19" n="N018"/>My wardrobe has benefited by her enforced inactivity.
                <lb facs="#facs_4_r2l20" n="N019"/> This week I've had letters from <persName ref="#person-EH006">you</persName> + <persName ref="#person-EH009">Mother</persName> dated 

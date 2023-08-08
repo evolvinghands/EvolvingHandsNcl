@@ -192,6 +192,8 @@
             </event>
             <idno type="VIAF">132548028</idno>
          </org>
+            <org xml:id="org-126651825" corresp="http://viaf.org/viaf/126651825"><orgName>Constituent Assembly</orgName><idno type="VIAF">126651825</idno></org>
+            <org xml:id="org-129437055" corresp="http://viaf.org/viaf/129437055"><orgName>Council of Ministers</orgName><idno type="VIAF">129437055</idno></org>
       </listOrg>
    </standOff>
    <facsimile>
@@ -1022,7 +1024,7 @@
                <lb facs="#facs_1_r2l34" n="N034"/> to conciliate. He promised to do so but I don't think the relations 
             </ab>
             <ab facs="#facs_1_r1">
-               <lb facs="#facs_1_r1l1" n="N001"/> to the Council, who stopped me + told me this excellent news. 
+               <lb facs="#facs_1_r1l1" n="N001"/> to the <orgName ref="org-129437055">Council</orgName>, who stopped me + told me this excellent news. 
                <lb facs="#facs_1_r1l2" n="N002"/> I rode on much cheered + when I got home found a letter
                <lb facs="#facs_1_r1l3" n="N003"/> from <persName ref="#person-EH002">Sir Percy</persName> enclosing the long-expected <foreign xml:lang="fr">communiqué</foreign>
                <lb facs="#facs_1_r1l4" n="N004"/> which he told me to get through to <persName ref="#person-EH011">Ja'far </persName>or Naji
@@ -1059,7 +1061,7 @@
                <lb facs="#facs_2_r1l2" n="N002"/> careful watching + any help one can discreetly give it. 
                <lb facs="#facs_2_r1l3" n="N003"/>The younger men have frequented my office this 
                <lb facs="#facs_2_r1l4" n="N004"/>week. We had to settle on a temporary flag - I 
-               <lb facs="#facs_2_l" n="N005"/> suppose the Constituent Assembly will have the final word there - 
+               <lb facs="#facs_2_l" n="N005"/> suppose the <orgName ref="org-126651825">Constituent Assembly</orgName> will have the final word there - 
                <lb facs="#facs_2_r1l6" n="N006"/>+ then there was the difficult question as to where <persName ref="#person-EH001">Faisal </persName>
                <lb facs="#facs_2_r1l7" n="N007"/> should be lodged. If only we had got the official <foreign xml:lang="fr">communiqué</foreign>
                <lb facs="#facs_2_r1l8" n="N008"/> from home earlier everything would have been much easier. 
@@ -1067,7 +1069,6 @@
                <lb facs="#facs_2_r1l10" n="N010"/> the people + a more decided warning to our own officers.
                <lb facs="#facs_2_r1l11" n="N011"/>As it was our friends here of the <persName ref="#person-EH015">Abdul Majid</persName> type were
                <lb facs="#facs_2_r1l12" n="N012"/>always trying to find out what the British <choice>
-                  <abbr>Govt</abbr>
                   <expan>Government</expan>
                </choice> really  
                <lb facs="#facs_2_r1l13" n="N013"/> wanted + we couldn't in plain words tell them, while  
@@ -1089,7 +1090,7 @@
                <lb facs="#facs_2_r1l29" n="N029"/> sympathetically considered. Their argument is that they 
                <lb facs="#facs_2_r1l30" n="N030"/> witnessed the young extremists make a mess of <placeName ref="#place-1000140">Syria</placeName>
                <lb facs="#facs_2_r1l31" n="N031"/>+ they don't want a repetition of those events here. They 
-               <lb facs="#facs_2_r1l32" n="N032"/> disapproved of <seg type="editorialNote-target-text">the rebellion<note type="editorial">Iraqi Revolt of 1920 against the British\u003b suppressed by the British using heavy artillery and aerial bombardment.</note>
+               <lb facs="#facs_2_r1l32" n="N032"/> disapproved of <seg type="editorialNote-target-text">the rebellion<note type="editorial">Iraqi Revolt of 1920 against the British suppressed by the British using heavy artillery and aerial bombardment.</note>
                </seg> last year + now they see the  
             </ab>
             <ab facs="#facs_2_r2">
@@ -1109,11 +1110,11 @@
                <lb facs="#facs_2_r2l13" n="N013"/>never said officially that he was arriving. But his 
                <lb facs="#facs_2_r2l14" n="N014"/>partisans were growing naturally impatient + anxious to get. 
                <lb facs="#facs_2_r2l15" n="N015"/> busy. <persName ref="#person-EH002">Sir Percy</persName> realized this + unofficially approved the 
-               <lb facs="#facs_2_r2l16" n="N016"/> project presented through me - in my capacity as the <note>Nabi </note>
+                  <lb facs="#facs_2_r2l16" n="N016"/> project presented through me - in my capacity as the <seg type="editorialNote-target-text">Nabi<note type="editorial">Name used in Qur'an to refer to Jesus Christ.</note></seg> 
                <lb facs="#facs_2_r2l17" n="N017"/>'Isa, you understand - that they should summon the town 
                <lb facs="#facs_2_r2l18" n="N018"/>to a big meeting on Friday, 6 days before Faisal's arrival. 
                <lb facs="#facs_2_r2l19" n="N019"/>As soon as the invitations were out, in the name of <persName ref="#person-EH019">Naji</persName>
-               <lb facs="#facs_2_r2l20" n="N020"/> Suwaidi. bishops + others dropped in to my office to sound  
+               <lb facs="#facs_2_r2l20" n="N020"/> Suwaidi, bishops + others dropped in to my office to sound  
                <lb facs="#facs_2_r2l21" n="N021"/> me as to whether they ought to go. "Oh yes" said I 
                <lb facs="#facs_2_r2l22" n="N022"/>"why not? the meeting has the approval of <choice>
                   <abbr>
@@ -1122,7 +1123,7 @@
                   <expan>His Excellency</expan>
                </choice>" On 
                <lb facs="#facs_2_r2l23" n="N023"/>Thursday afternoon the Naqib, like the old gentleman he 
-               <lb facs="#facs_2_r2l24" n="N024"/>is, made a sound move. He informed the Council of 
+                  <lb facs="#facs_2_r2l24" n="N024"/>is, made a sound move. He informed the <orgName ref="org-129437055">Council</orgName> of 
                <lb facs="#facs_2_r2l25" n="N025"/>Ministers that Faisal was coming + that they must 
                <lb facs="#facs_2_r2l26" n="N026"/> make preparations to receive him properly + see that he 
                <lb facs="#facs_2_r2l27" n="N027"/> was suitably lodged. Thereupon they appointed a reception  
@@ -1208,22 +1209,22 @@
             <ab facs="#facs_4_r2">
                <lb facs="#facs_4_r2l2" n="N001"/>life of the town. I now begin to understand why
                <lb facs="#facs_4_l_1246" n="N002"/>
-               <seg type="editorialNote-target-text">British Govt has come to grief in India<note type="editorial">India was under rule of the British Empire at this time.</note>
+               <seg type="editorialNote-target-text">British <choice><abbr>Govt</abbr>
+                  <expan>Government</expan></choice> has come to grief in India<note type="editorial">India was under rule of the British Empire at this time.</note>
                </seg> where
                <lb facs="#facs_4_l_1274" n="N003"/>our women do just the same thing. <persName ref="#person-EH003">Mr Philby</persName>
                <lb facs="#facs_4_r2l7" n="N004"/>told me that he was worn out. He is also
                <lb facs="#facs_4_r2l8" n="N005"/>rather on edge because he is very anti-
-               <lb facs="#facs_4_r2l9" n="N006"/>Sharifian+ has taken <choice>
+                  <lb facs="#facs_4_r2l9" n="N006"/><seg type="editorialNote-arget-text">Sharifian<note type="editorial">Term referring to things or people related to or supportive of the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), in this case Mr Philby is opposed to the idea of a system headed by a Sharif.</note></seg>+ has taken <choice>
                   <abbr>H. M. G.</abbr>
                   <expan>His Majesty's Government</expan>
                </choice>' s policy ill.
                <lb facs="#facs_4_r2l11" n="N007"/>I told him I wasn't going to let any politics
                <lb facs="#facs_4_r2l12" n="N008"/>make a difference to our friendship + he
                <lb facs="#facs_4_r2l13" n="N009"/>was delightful on that head. But it's no
-               <lb facs="#facs_4_r2l14" n="N010"/>good for a <choice>
-                  <abbr>Govt</abbr>
-                  <expan>Government</expan>
-               </choice> servant to be in opposition
+               <lb facs="#facs_4_r2l14" n="N010"/>good for a 
+                  Govt
+                servant to be in opposition
                <lb facs="#facs_4_r2l15" n="N011"/>to official policy + he has done some harm
                <lb facs="#facs_4_r2l16" n="N012"/>by openly advocating a republic. <persName ref="#person-EH002">Sir Percy</persName> has
                <lb facs="#facs_4_r2l17" n="N013"/>now stopped him but he can't be expected to
