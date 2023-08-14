@@ -1320,7 +1320,7 @@
                <lb facs="#facs_1_r2l3" n="N003"/> 1921
                <lb facs="#facs_1_l_1452" n="N004"/> Darling <persName ref="#person-EH006">Father</persName>. It's being so frightfully interesting - 
                <lb facs="#facs_1_r2l5" n="N005"/> there! there! let me begin at the beginning. Where was I?
-               <lb facs="#facs_1_l" n="N006"/> It was Monday's vernacular paper which gave the first full.
+               <lb facs="#facs_1_l" n="N006"/> It was Monday's vernacular paper which gave the first full
                <lb facs="#facs_1_r2l9" n="N007"/> account of <persName ref="#person-EH001">Faisal</persName>'s arrival at <placeName ref="#place-7016465">Basrah</placeName> + the quite admirable 
                <lb facs="#facs_1_r2l10" n="N008"/>speech which he made at a big function they had for him.
                <lb facs="#facs_1_r2l11" n="N009"/> Tumbling in on this came an agent whom I had sent down 
@@ -1331,7 +1331,7 @@
                <lb facs="#facs_1_r2l16" n="N014"/> after tea, Naji back from Basrah with a rosy tale. Then 
                <lb facs="#facs_1_r2l17" n="N015"/> we fell a-talking of the next steps + agreed that we 
                <lb facs="#facs_1_r2l18" n="N016"/> couldn't leave him here not knowing what his position
-               <lb facs="#facs_1_r2l19" n="N017"/> would be for 6 or 8 weeks till the elections were over.
+               <lb facs="#facs_1_r2l19" n="N017"/> would be for 6 or 8 weeks till the <seg type="editorialNote-target-text">elections<note type="editorial">Likely refers to the plebiscite, or referendum, held in the Summer of 1921, where citizens voted on the form of government and head of state. The results were overwhelmingly in favour of Faisal in the role of Sharif.</note></seg> were over.
                <lb facs="#facs_1_r2l20" n="N018"/>Somehow or other the country must be got to declare itself. 
                <lb facs="#facs_1_r2l21" n="N019"/>
                <persName ref="#person-EH002">Sir Percy</persName> + I had already discussed this but I didn't feel 
@@ -1365,7 +1365,7 @@
                   <abbr>H. M. G.</abbr>
                   <expan>His Majesty's Government</expan>
                </choice> Naturally Faisal was  
-               <lb facs="#facs_1_r1l4" n="N004"/> bewildered - was the High Commissioner with him + if so 
+                  <lb facs="#facs_1_r1l4" n="N004"/> bewildered - was the <persName ref="#person-EH002">High Commissioner</persName> with him + if so 
                <lb facs="#facs_1_r1l5" n="N005"/> why did his officers adopt a different attitude? All the 
                <lb facs="#facs_1_r1l6" n="N006"/> more was he bewildered because he was told with equal 
                <lb facs="#facs_1_r1l7" n="N007"/> frequency that if the local officers would lift a finger 
@@ -1408,7 +1408,7 @@
                <lb facs="#facs_2_r1l6" n="N005"/> motor + hoped to arrive at the appointed hour.
                <lb facs="#facs_2_r1l7" n="N006"/> We waited, we talked, we shook hands all round 
                <lb facs="#facs_2_r1l8" n="N007"/>- at least I did - we looked at the <orgName>Arab Levies</orgName>
-               <lb facs="#facs_2_r1l9" n="N008"/>+ towards 8 paf! came a message down the line
+               <lb facs="#facs_2_r1l9" n="N008"/>+ towards 8 <unclear>paf!</unclear> came a message down the line
                <lb facs="#facs_2_r1l10" n="N009"/>to say that he was in the train after all, couldn't 
                <lb facs="#facs_2_r1l11" n="N010"/>get through + might be there at midday! Sir Percy 
                <lb facs="#facs_2_r1l12" n="N011"/> quickly took command. Noon at the end of June is  
@@ -1431,7 +1431,7 @@
                <lb facs="#facs_2_r1l27" n="N027"/>scarcely thought we should get through. However we did, + 
                <lb facs="#facs_2_r1l28" n="N028"/> arrived to kind the station similarly much fuller of 
                <lb facs="#facs_2_r1l29" n="N029"/> people. And this time the train arrived. 
-               <lb facs="#facs_2_r1l30" n="N030"/> Sidi Faisal stood at the carriage door looking very 
+               <lb facs="#facs_2_r1l30" n="N030"/> <seg type="editorialNote-target-text">Sidi<note type="editorial">Arabic title of respect often used to mean 'saint' or 'my lord/master'.</note></seg> Faisal stood at the carriage door looking very 
                <lb facs="#facs_2_r1l31" n="N031"/> splendid in full Arab dress, saluting the guard of honour. 
             </ab>
             <ab facs="#facs_2_r2">
@@ -1455,7 +1455,7 @@
                <lb facs="#facs_2_r2l19" n="N018"/>(this part isn't to be repeated!) + <persName ref="#person-EH003">Mr Philby</persName> was the 
                <lb facs="#facs_2_r2l20" n="N019"/> worst. Fortunately he was down with fever at <placeName ref="#place-1079385">Hillah</placeName>!
                <lb facs="#facs_2_r2l21" n="N020"/>So I parked Mr C. into Sasun's motor + we set off for 
-               <lb facs="#facs_2_r2l23" n="N021"/> the Maude bridge. But don't think we got there. In the first 
+               <lb facs="#facs_2_r2l23" n="N021"/> the <objectType n="objectType: Bridge;">Maude</objectType> bridge. But don't think we got there. In the first 
                <lb facs="#facs_2_r2l24" n="N022"/>quarter of an hour we got perhaps half way + then 
                <lb facs="#facs_2_r2l25" n="N023"/> stuck fast in the traffic. And there was Mr Cornwallis 
                <lb facs="#facs_2_r2l26" n="N024"/> dying of thirst. We abandoned the motor + walked to 
@@ -1465,14 +1465,14 @@
                <lb facs="#facs_2_r2l29" n="N027"/> Mr Cornwallis + I sat on the garden terrace over 
                <lb facs="#facs_2_r2l30" n="N028"/>the river + talked for an hour. 
                <lb facs="#facs_2_r2l31" n="N029"/> All the way up the story they had heard was: the 
-               <lb facs="#facs_2_r2l32" n="N030"/> High Commissioner is neutral, <seg type="editorialNote-target-text">the Khatun<note type="editorial">Honorific title given to Bell.</note>
+                  <lb facs="#facs_2_r2l32" n="N030"/> <persName ref="#person-EH002">High Commissioner</persName> is neutral, <seg type="editorialNote-target-text">the Khatun<note type="editorial">Honorific title given to Bell.</note>
                </seg> + Mr Garbett 
                <lb facs="#facs_2_r2l33" n="N031"/> want Faisal + Mr Philby wants a republic, nor apparently 
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_r2">
-               <lb facs="#facs_3_r2l1" n="N001"/>in <placeName ref="#place-1000118">Mesopotamia</placeName>, a leader of last year's rebellion released 
-               <lb facs="#facs_3_r2l2" n="N002"/> under the amnesty + now an object of universal 
+                  <lb facs="#facs_3_r2l1" n="N001"/>in <placeName ref="#place-1000118">Mesopotamia</placeName>, a leader of last year's <seg type="editorialNote-target-text">Rebellion<note type="editorial">Iraqi Revolt of 1920 against the British suppressed by the British using heavy artillery and aerial bombardment.</note></seg> released 
+                  <lb facs="#facs_3_r2l2" n="N002"/> under the <seg type="editorialNote-target-text">amnesty<note type="editorial">Amnesty issued by the British government in which those imprisoned for their involvement in the 1920 Iraqi revolt were pardoned.</note></seg> + now an object of universal 
                <lb facs="#facs_3_r2l4" n="N003"/>ridicule. Fancy what a companion that would 
                <lb facs="#facs_3_l_1392" n="N004"/>have been with whom to make a <foreign xml:lang="fr">début</foreign>! The  
                <lb facs="#facs_3_r2l6" n="N005"/> chauffeur was longing to tell his tale + he found a 
@@ -1486,8 +1486,8 @@
                <lb facs="#facs_3_r2l14" n="N013"/> Bridge to the Sarai - he did seem pleased!"
                <lb facs="#facs_3_r2l15" n="N014"/> So that was how he came to <placeName ref="#place-7002482">Baghdad</placeName>. 
                <lb facs="#facs_3_r2l16" n="N015"/>This morning on my way to the office I went to the 
-               <lb facs="#facs_3_r2l17" n="N016"/> Sarai + gave by card to <persName ref="#person-EH001">Faisal</persName>'s ADC. He said would 
-               <lb facs="#facs_3_r2l18" n="N017"/>I wait a moment - the Amir would like to see me; 
+                  <lb facs="#facs_3_r2l17" n="N016"/> Sarai + gave by card to <persName ref="#person-EH001">Faisal</persName>'s <choice><abbr>ADC</abbr><expan>Aide-De-Camp</expan></choice>. He said would 
+               <lb facs="#facs_3_r2l18" n="N017"/>I wait a moment - the <seg type="editorialNote-target-text">Amir<note type="editorial">Title given to rulers or military leaders.</note></seg> would like to see me; 
                <lb facs="#facs_3_r2l19" n="N018"/> it was only a little past 7, rather early for a 
                <lb facs="#facs_3_r2l20" n="N019"/> morning call. I waited, talking to the ADC + presently 
                <lb facs="#facs_3_r2l21" n="N020"/> Faisal sent for me. They showed me into a big room +  
@@ -1521,9 +1521,9 @@
                <lb facs="#facs_3_r1l15" n="N013"/>+ great toper as a rule - confided to me that he 
                <lb facs="#facs_3_r1l16" n="N014"/> did hate the Shi'ahs! And after dinner <persName ref="#person-EH061">Shaikh Ahmad</persName>
                <lb facs="#facs_3_r1l17" n="N015"/> Daud, the old ass, went up to <persName ref="#person-EH005">Sir Aylmer</persName> + shook 
-               <lb facs="#facs_3_r1l18" n="N016"/> him warmly by the hand. Sir A. hadn't an idea 
+               <lb facs="#facs_3_r1l18" n="N016"/> him warmly by the hand. Sir <choice><abbr>A.</abbr><expan>Aylmer</expan></choice> hadn't an idea 
                <lb facs="#facs_3_r1l19" n="N017"/> who he was but <persName ref="#person-EH017">Sasun Eff</persName>, standing by explained 
-               <lb facs="#facs_3_r1l20" n="N018"/>+ translated. "Well, well" said Sh. Ahmad "just 
+               <lb facs="#facs_3_r1l20" n="N018"/>+ translated. "Well, well" said <choice><abbr>Sh.</abbr><expan>Shaikh</expan></choice> Ahmad "just 
                <lb facs="#facs_3_r1l21" n="N019"/>this time last year we were beginning the rebellion, 
                <lb facs="#facs_3_r1l22" n="N020"/> but I like it better this way. Yes I would rather 
                <lb facs="#facs_3_r1l23" n="N021"/> exchange compliments with you than bullets." I must 
@@ -1565,7 +1565,7 @@
                <lb facs="#facs_4_r1l22" n="N021"/> of the Dulaim from <placeName ref="#place-1079402">Ramadi</placeName>, the staunchest opponent 
                <lb facs="#facs_4_r1l23" n="N022"/> whom Faisal has had. I've wrestled with him long 
                <lb facs="#facs_4_r1l25" n="N023"/> in speech + letter. He brought the next most important 
-               <lb facs="#facs_4_r1l26" n="N024"/> Dulaim shaikh with him. Mr Cornwallis was with 
+                  <lb facs="#facs_4_r1l26" n="N024"/> <seg type="editorialNote-target-text">Dulaim<note type="editorial">Large Sunni Arab royal tribe.</note></seg> shaikh with him. Mr Cornwallis was with 
                <lb facs="#facs_4_r1l27" n="N025"/> me + I introduced him as having come with  
                <lb facs="#facs_4_r1l28" n="N026"/> Faisal. 'Ali Sulaiman sat down + announced that 
                <lb facs="#facs_4_r1l29" n="N027"/> he had that minute arrived by motor from Ramadi
@@ -1653,7 +1653,7 @@
                <lb facs="#facs_5_r1l24" n="N020"/> are true but they keep one in anxiety. Today I sent 
                <lb facs="#facs_5_r1l25" n="N021"/>for one of the principal Euphrates shaikhs - <persName ref="#person-EH058">Abdul Wahid</persName>
                <lb facs="#facs_5_r1l26" n="N022"/> with whom you had lunch that day we went on the 
-               <lb facs="#facs_5_r1l27" n="N023"/> river from <placeName ref="#place-1079401">Najaf</placeName>. He's a strong Sharifian + we talked 
+                  <lb facs="#facs_5_r1l27" n="N023"/> river from <placeName ref="#place-1079401">Najaf</placeName>. He's a strong <seg type="editorialNote-target-text">Sharifian<note type="editorial">Term referring to things related to the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), here referring to a person supportive of a form of government headed by a Sharif, in this case Faisal.</note></seg> + we talked 
                <lb facs="#facs_5_r1l28" n="N024"/> the whole matter over. Before him I had had an 
                <lb facs="#facs_5_r1l29" n="N025"/> influential little group of Baghdadis saying that we must 
                <lb facs="#facs_5_r1l30" n="N026"/> finish the business, we couldn't wait for elections. Somehow 
@@ -1698,7 +1698,7 @@
                   <persName ref="#person-EH006">you</persName>
                </del>
                <del rend="strikethrough"> of June 1 + 2 +</del>
-               <lb facs="#facs_6_r1l25" n="N023"/>Heaven be praised <orgName ref="#org-132548028">Reuter</orgName> tells us the strike is over but I'm 
+               <lb facs="#facs_6_r1l25" n="N023"/>Heaven be praised <orgName ref="#org-132548028">Reuter</orgName> tells us the <seg type="editorialNote-target-text">strike<note type="editorialNote">Likely refers to the 1921 coal strike, which was ended on the 28th June when the Government agreed to subsidise the coal industry.</note></seg> is over but I'm 
                <lb facs="#facs_6_l_712" n="N024"/>very very anxious to know whether the terms accepted are 
                <lb facs="#facs_6_r1l28" n="N025"/>reasonable.
                <lb facs="#facs_6_r1l29" n="N026"/>Ever your very affectionate daughter  
