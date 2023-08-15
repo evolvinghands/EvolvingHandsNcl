@@ -22,8 +22,10 @@
       <listPerson>
          <person xml:id="person-EH006">
             <persName>Father</persName>
-            <idno type="EH">EH006</idno>
-         </person>
+            <idno type="EH">EH006</idno>    
+         </person><person xml:id="person-EH120">
+                     <persName>Mr Lawrence</persName>
+                     <idno type="EH">EH120</idno></person>
          <person xml:id="person-EH002">
             <persName>Sir Percy</persName>
             <idno type="EH">EH002</idno>
@@ -1137,7 +1139,7 @@
                <lb facs="#facs_1_r1l6" n="N008"/>NB temp. 121.8. On the other hand politics are running on wheels 
                <lb facs="#facs_1_r1l7" n="N009"/> greased with extremely well-melted grease + Sir Percy + <persName ref="#person-EH001">Faisal</persName>
                <lb facs="#facs_1_r1l8" n="N010"/> are scoring great triumphs. On Monday 11th <orgName ref="#org-129437055">the Council</orgName>, at the 
-               <lb facs="#facs_1_r1l9" n="N011"/>instance of <persName ref="#person-EH068">the Naqib</persName>, rose to the fly I described to you in my 
+               <lb facs="#facs_1_r1l9" n="N011"/><seg type="editorialNote-target-text">instance<note type="editorial">Meaning 'at the insistence of' or 'at the request of', slightly dated phrasing.</note></seg> of <persName ref="#person-EH068">the Naqib</persName>, rose to the fly I described to you in my 
                <lb facs="#facs_1_r1l10" n="N012"/>last letter even more perfectly than we could have hoped. They 
                <lb facs="#facs_1_r1l11" n="N013"/> unanimously declared Faisal King + charged the <orgName ref="#org-155121446">Ministry</orgName>
                <lb facs="#facs_1_r1l12" n="N014"/> of the Interior <del rend="strikethrough">to</del> with the necessary arrangements. I was dining 
@@ -1154,15 +1156,15 @@
                <lb facs="#facs_1_r1l20" n="N022"/> me + asked me to go round. I found him radiant - it was 
                <lb facs="#facs_1_r1l21" n="N023"/> very different from my first early morning visit the day after 
                <lb facs="#facs_1_r1l22" n="N024"/>he arrived! - but eagerly insisting on the need of a referendum
-               <lb facs="#facs_1_r1l23" n="N025"/>through the machinery of the Ministry of the Interior which, I  
+                  <lb facs="#facs_1_r1l23" n="N025"/>through the machinery of the <orgName ref="#org-155121446">Ministry</orgName> of the Interior which, I  
                <lb facs="#facs_1_r1l24" n="N026"/> was able to assure him was exactly what Sir Percy 
                <lb facs="#facs_1_r1l25" n="N027"/> wanted too. <persName ref="#person-EH014">Mr Cornwallis</persName> joined us + we three sat 
                <lb facs="#facs_1_r1l26" n="N028"/>rejoicing together for a few minutes. His anti chamber was  
                <lb facs="#facs_1_r1l27" n="N029"/>a sight to gladden one - full of Baghdad notables +  
-               <lb facs="#facs_1_l_802" n="N030"/> shaikhs from all parts of <placeName ref="#place-1000118">the 'Iraq</placeName>. <del rend="strikethrough">The</del> I went back
+               <lb facs="#facs_1_l_802" n="N030"/> <seg type="editorialNote-target-text">shaikhs<note type="editorial">Honorific title meaning 'Elder', used for leaders of tribes and royal family members.</note></seg> from all parts of <placeName ref="#place-1000118">the 'Iraq</placeName>. <del rend="strikethrough">The</del> I went back
                <lb facs="#facs_1_r1l30" n="N031"/> to Sir Percy to report. The thing we have been working for 
                <lb facs="#facs_1_r1l31" n="N032"/> seems to be in fair way to fulfilment. Sir Percy + 
-               <lb facs="#facs_1_r1l32" n="N033"/>Faisal between them are making a new Sharifian 
+                  <lb facs="#facs_1_r1l32" n="N033"/>Faisal between them are making a new <seg type="editorialNote-target-text">Sharifian<note type="editorial">Term referring to things related to the Sharif (a title used to describe those - usually royal - claiming descent from the prophet Muhammad), in this case a political party organised under Faisal, the Sharif.</note></seg> 
                <lb facs="#facs_1_r1l33" n="N034"/>party composed of all the solid moderate people, + the 
                <lb facs="#facs_1_r1l34" n="N035"/>old Sharifian party which raised <name type="event" when="1920" subtype="Revolution" n="IraqiRevolt">the revolt</name> is sinking with 
                <lb facs="#facs_1_l_845" n="N036"/> an obscurity not ever decent, for it lies or will lie submerged  
@@ -1175,7 +1177,7 @@
                <lb facs="#facs_2_r1l4" n="N004"/>meeting in one of the <seg type="editorialNote-target-text">Shi'ah<note type="editorial">An Islamic sect who believe that the descendants of the Prophet Muhammad are the rightful leaders of Islam.</note>
                </seg> independent schools, a lawyer 
                <lb facs="#facs_2_r1l5" n="N005"/>lately interned in Henjam, claiming to represent all the 
-               <lb facs="#facs_2_r1l6" n="N006"/>legal profession, proclained him King. Faisal at once 
+               <lb facs="#facs_2_r1l6" n="N006"/>legal profession, proclaimed him King. Faisal at once 
                <lb facs="#facs_2_r1l7" n="N007"/>turned him down, saying that if he had known what he 
                <lb facs="#facs_2_r1l8" n="N008"/> intended to say he would not have let him speak, that he 
                <lb facs="#facs_2_r1l9" n="N009"/>hadn't come to impose himself on <placeName ref="#place-1000118">the 'Iraq</placeName> + that he 
@@ -1190,7 +1192,7 @@
                <lb facs="#facs_2_r1l18" n="N018"/> more ardent adherents, egged on I think by <persName ref="#person-EH073">Saiyid Mhd</persName>
                <lb facs="#facs_2_r1l19" n="N019"/> Sadr (of whose pretentions Faisal is growing heartily 
                <lb facs="#facs_2_r1l20" n="N020"/> weary) composed a formula of allegiance in which 
-               <lb facs="#facs_2_r1l21" n="N021"/>there was a great deal of talk of are absolutely free 
+               <lb facs="#facs_2_r1l21" n="N021"/>there was a great deal of talk of an absolutely free 
                <lb facs="#facs_2_r1l22" n="N022"/>+ independent 'Iraq + proceeded to circulate it 
                <lb facs="#facs_2_r1l23" n="N023"/> broadcast for signature. The idea was that it should 
                <lb facs="#facs_2_r1l24" n="N024"/> be carried out into the provinces by Baghdadis + 
@@ -1198,7 +1200,7 @@
                <lb facs="#facs_2_r1l26" n="N026"/> pauper. It might have created a serious difficulty. The  
                <lb facs="#facs_2_r1l27" n="N027"/> provinces have the profoundest mistrust of the Baghdadis 
                <lb facs="#facs_2_r1l28" n="N028"/>+ very likely would have declined to sign. The <persName ref="#person-EH074">Amir</persName>
-               <lb facs="#facs_2_r1l29" n="N029"/>Rabi'ah (head of the big Rabi'ah tribe, a nice boy who 
+               <lb facs="#facs_2_r1l29" n="N029"/>Rabi'ah (head of the big <seg type="editorialNote-target-text">Rabi'ah<note type="editorial">Large, historically nomadic Adnanite tribe, believed to have originated in Timhamah region of Western Arabia.</note></seg> tribe, a nice boy who 
                <lb facs="#facs_2_r1l30" n="N030"/> describes himself as "one of the household" - ie our
                <lb facs="#facs_2_r1l31" n="N031"/> household) came in to me in consternation + asked 
             </ab>
@@ -1209,7 +1211,7 @@
                <lb facs="#facs_3_r1l4" n="N003"/> document in which there was no mention of our 
                <lb facs="#facs_3_r1l5" n="N004"/> continued presence. And on his heels came Umran al
                <lb facs="#facs_3_r1l6" n="N005"/>
-               <persName ref="#person-EH075">Haji Sa'dun</persName>, head of the Bani Hasan (+ one of the 
+               <persName ref="#person-EH075">Haji Sa'dun</persName>, head of the <seg type="editorialNote-target-text">Bani Hasan<note type="editorial">Several possible meanings, may refer to Beni Hassan, a Bedouin Arab tribe, or perhaps Bani Hasan, a town in Western Libya, or even Beni Hasan, an Ancient Egyptian cemetry near modern-day Minya.</note></seg> (+ one of the 
                <lb facs="#facs_3_r1l7" n="N006"/> leaders of <name type="event" when="1920" subtype="Revolution" n="IraqiRevolt">the revolt</name>!) + several others, all asking 
                <lb facs="#facs_3_r1l8" n="N007"/> if this was our paper declaration + whether they 
                <lb facs="#facs_3_r1l9" n="N008"/> should sign it. It was all right: <persName ref="#person-EH001">Faisal</persName> had 
@@ -1217,7 +1219,7 @@
                <lb facs="#facs_3_r1l11" n="N010"/> him to stop the thing + at a conference, which had 
                <lb facs="#facs_3_r1l12" n="N011"/>taken place early that morning between him + <persName ref="#person-EH002">Sir Percy</persName>
                <lb facs="#facs_3_r1l13" n="N012"/> it had been decided that 
-               <lb facs="#facs_3_r1l14" n="N013"/>the advisor to the Interior - dear little <persName ref="#person-EH063">Mr Thomson</persName> - 
+                  <lb facs="#facs_3_r1l14" n="N013"/>the advisor to the <orgName ref="#org-155121446">Interior</orgName> - dear little <persName ref="#person-EH063">Mr Thomson</persName> - 
                <lb facs="#facs_3_r1l16" n="N014"/> should <del rend="strikethrough">summon</del> form a small committee at once of 
                <lb facs="#facs_3_r1l17" n="N015"/> people like <persName ref="#person-EH015">Majid Shawi</persName> (tactfully including Naji 
                <lb facs="#facs_3_r1l18" n="N016"/> Suwaidi who had drawn up the unofficial 
@@ -1234,7 +1236,7 @@
                <lb facs="#facs_3_r1l27" n="N025"/> summoned together all the leading townsmen +  
                <lb facs="#facs_3_r1l28" n="N026"/>they spontaneously swore allegiance to Faisal +
                <lb facs="#facs_3_r1l30" n="N027"/> sent him a deputation to tell him so. I liked that.
-               <lb facs="#facs_3_r1l31" n="N028"/> It is very significant that the Kamalists, as soon 
+               <lb facs="#facs_3_r1l31" n="N028"/> It is very significant that the <seg type="editorialNote-target-type">Kamalists<note type="editorial">Now Kemalists, refers to the founding ideology of the Republic of Turkiye, characterised by reform and embracing of Western lifestyle. Founded by Mustafa Kemal Ataturk.</note></seg>, as soon 
                <lb facs="#facs_3_r1l32" n="N029"/>as they heard that Faisal was coming began 
                <lb facs="#facs_3_r1l33" n="N030"/> a hot propaganda in favour of their candidate,
                <lb facs="#facs_3_r1l34" n="N031"/>Shaikh <persName ref="#person-EH077">Ahmad Idrisi</persName>, the Sanusi - he hails from
@@ -1254,7 +1256,7 @@
                <lb facs="#facs_4_r1l12" n="N009"/> roguish reputation but I rather took to him. He told 
                <lb facs="#facs_4_r1l13" n="N010"/>me that the Turks had invited him to bring down  
                <lb facs="#facs_4_r1l14" n="N011"/>these allegiance papers + that he had refused, 
-               <lb facs="#facs_4_r1l15" n="N012"/> through he mentioned others who had accepted. Sure 
+               <lb facs="#facs_4_r1l15" n="N012"/> though he mentioned others who had accepted. Sure 
                <lb facs="#facs_4_r1l16" n="N013"/> enough, that very day, another gentleman came  
                <lb facs="#facs_4_r1l17" n="N014"/> to <persName ref="#person-EH011">Ja'far Pasha</persName> + produced 80 of them which he 
                <lb facs="#facs_4_r1l18" n="N015"/>asked Ja'far to hand over to <persName ref="#person-EH001">Faisal</persName>! The 
@@ -1286,8 +1288,8 @@
                <lb facs="#facs_5_r1l9" n="N007"/>in + see Sir Percy. So that Faisal gets the 
                <lb facs="#facs_5_l_740" n="N008"/>kudos + we retain our <del rend="strikethrough">official</del> decent rights!
                <lb facs="#facs_5_r1l12" n="N009"/> Incidentally some of these messengers are the most 
-               <lb facs="#facs_5_r1l13" n="N010"/> remarkable people, 'Aqail who fought with Mr 
-               <lb facs="#facs_5_r1l14" n="N011"/>Lawrence, whom I greet as friends once removed.
+               <lb facs="#facs_5_r1l13" n="N010"/> remarkable people, <seg type="editorialNote-target-text">'Aqail<note type="editorial">Residents of Qasim and Baghdad.</note></seg> who fought with <persName ref="#person-EH120">Mr 
+               <lb facs="#facs_5_r1l14" n="N011"/>Lawrence</persName>, whom I greet as friends once removed.
                <lb facs="#facs_5_r1l15" n="N012"/>The office of a morning is flooded with tribal shaikhs.
                <lb facs="#facs_5_r1l16" n="N013"/> Today they were sitting in rows on the ground under 
                <lb facs="#facs_5_r1l17" n="N014"/>the awning of the courtyard. They come up to see 
@@ -1324,7 +1326,7 @@
                <lb facs="#facs_6_r1l10" n="N007"/> Yetts's: when a <seg type="editorialNote-target-text">Mutasarrif<note type="editorial">Governor of an administrative district.</note>
                </seg> was appointed 
                <lb facs="#facs_6_r1l11" n="N008"/> to Ramadi last January, a noted highway man 
-               <lb facs="#facs_6_r1l12" n="N009"/>of the Dulaim tribe came to Major Yetts + 
+                  <lb facs="#facs_6_r1l12" n="N009"/>of the <seg type="editorialNote-target-text">Dulaim<note type="editorial">Large Sunni Arab royal tribe.</note></seg> tribe came to Major Yetts + 
                <lb facs="#facs_6_l_878" n="N010"/> asked whether he should oblige by terrifying 
                <lb facs="#facs_6_r1l15" n="N011"/> the Mutasarrif on arrival. Major Yetts thanked 
                <lb facs="#facs_6_r1l16" n="N012"/> him for his kind thought but said it wasn't
@@ -1393,7 +1395,7 @@
             </ab>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             <ab facs="#facs_8_r1">
-               <lb facs="#facs_8_r1l1" n="N001"/> possible from of <choice>
+               <lb facs="#facs_8_r1l1" n="N001"/> possible form of <choice>
                   <corr>exercise</corr>
                   <sic>excercise</sic>
                </choice> in this weather.
@@ -1415,7 +1417,7 @@
                <lb facs="#facs_8_r1l17" n="N017"/>I've got <persName ref="#person-EH009">Mother</persName>'s letter of June 19 with an enclosure
                <lb facs="#facs_8_r1l18" n="N018"/> from <persName>Alice Egerton</persName>, + also your letter of June 16. I hope 
                <lb facs="#facs_8_r1l19" n="N019"/> the <persName>Dow. Lady Carlisle</persName> will die. I'm longing for your 
-               <lb facs="#facs_8_r1l20" n="N020"/> comments on the coal strike settlement. 
+                  <lb facs="#facs_8_r1l20" n="N020"/> comments on the <seg type="editorialNote-target-text">coal strike<note type="editorialNote">Likely refers to the 1921 coal strike, which was ended on the 28th June when the Government agreed to subsidise the coal industry.</note></seg> settlement. 
                <lb facs="#facs_8_r1l21" n="N021"/>Your very affectionate daughter
                <lb facs="#facs_8_r1l22" n="N022"/>Gertrude.
             </ab>
