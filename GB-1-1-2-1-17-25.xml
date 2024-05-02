@@ -1383,7 +1383,7 @@
                <lb facs="#facs_7_r4l8" n="N007"/> leave the table the moment he has finished.
                <lb facs="#facs_7_l_1007" n="N008"/> After a little more talk I took my leave + went 
                <lb facs="#facs_7_l_1038" n="N009"/> to bed on <persName ref="#person-EH045">the Mutasarrif</persName>'s roof. It was all hung 
-               <lb facs="#facs_7_l_1074" n="N010"/> with <del rend="strikethrough">the</del> Hijaz flags + as I lay down in my bed 
+               <lb facs="#facs_7_l_1074" n="N010"/> with <del rend="strikethrough">the</del> <seg type="editorialNote-target-text">Hijaz flags<note type="editorial">Refers to the Hejaz flag, which was used during the Arab Revolt against the Ottoman Empire.</note></seg> + as I lay down in my bed 
                <lb facs="#facs_7_l_1105" n="N011"/>I fell to thinking how pleasant it was to be sleeping 
                <lb facs="#facs_7_l_1135" n="N012"/>as peacefully + naturally under the Sharifian 
                <lb facs="#facs_7_l_1163" n="N013"/> flag as under the British.
@@ -1519,3 +1519,4 @@
       </body>
    </text>
 </TEI>
+
