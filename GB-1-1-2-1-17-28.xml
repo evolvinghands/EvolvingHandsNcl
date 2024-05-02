@@ -1624,10 +1624,8 @@
                <lb facs="#facs_6_r1l4" n="N004"/> said "I'll tell you. It was <persName ref="#person-EH127">Leachman</persName>. When I came 
                <lb facs="#facs_6_r1l5" n="N005"/>in at his bidding to <placeName ref="#place-7002471">Mosul</placeName> (he was Political 
                <lb facs="#facs_6_r1l6" n="N006"/>
-               <choice>
-                  <corr>Officer</corr>
-                  <sic>office</sic>
-               </choice> there) I tried to speak + he bade me be silent, 
+               office
+               there) I tried to speak + he bade me be silent, 
                <lb facs="#facs_6_r1l7" n="N007"/>he told me I was like a woman + that he would give me 
                <lb facs="#facs_6_r1l8" n="N008"/> no recognition in my tribe. <seg type="editorialNote-target-text">Khatun<note type="editorial">Title of nobility\u003b female counterpart to 'khan'.</note>
                </seg>, I'm a shaikh of 
@@ -1686,7 +1684,7 @@
                <lb facs="#facs_7_r2l23" n="N021"/> "<foreign xml:lang="ar">Enti 'Iraqiyah, enti badawiyah</foreign> - you're a 
                <lb facs="#facs_7_l_711" n="N022"/>Mesopotamian, a Beduin." 
                <lb facs="#facs_7_r2l26" n="N023"/>I dressed like lightning for an enormous dinner party  
-               <lb facs="#facs_7_r2l27" n="N024"/> given by <persName ref="#person-EH099">Mr Barrington Ward K. C.</persName> at the Club - 40 of
+               <lb facs="#facs_7_r2l27" n="N024"/> given by <persName ref="#person-EH099">Mr Barrington Ward K. C.</persName> at <seg type="editorialNote-target-text">the Club<note type="editorial">Possibly the British, Railway or Alwiyah Social Club in Baghdad.</note></seg>  - 40 of
                <lb facs="#facs_7_r2l28" n="N025"/> us + a burning wind in addition. I was happy 
                <lb facs="#facs_7_r2l29" n="N026"/> because I sat by <persName ref="#person-EH063">Mr Thomson</persName>, + there were plenty of 
                <lb facs="#facs_7_r2l30" n="N027"/> people to talk to who didn't dance. I went away 
