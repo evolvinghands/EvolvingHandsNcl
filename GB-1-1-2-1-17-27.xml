@@ -855,7 +855,7 @@
                <lb facs="#facs_2_r1l11" n="N011"/> Now it's better.
                <lb facs="#facs_2_r1l12" n="N012"/> It was partly the climate + partly its our misdemeanours 
                <lb facs="#facs_2_r1l13" n="N013"/> which made me fall foul of one of the local newspapers. 
-               <lb facs="#facs_2_r1l14" n="N014"/>The Dijlah is edited by a young ass who is <choice>
+               <lb facs="#facs_2_r1l14" n="N014"/><seg type="editorialNote-target-text">The Dijlah<note type="editorial">Dijlah refers to an Iraqi current affairs publication.</note></seg>is edited by a young ass who is <choice>
                   <corr>against</corr>
                   <sic>agin</sic>
                </choice> everybody, 
@@ -868,7 +868,7 @@
                <lb facs="#facs_2_r1l21" n="N021"/>happened 6 weeks ago without dreaming of giving a  
                <lb facs="#facs_2_r1l22" n="N022"/> date. Finally the clouds + the fact that on one + the 
                <lb facs="#facs_2_r1l23" n="N023"/> same day he announced that the Greeks were escaping 
-               <lb facs="#facs_2_r1l24" n="N024"/>in ships from <placeName ref="#place-7002543">Ismir</placeName> while the Reuters in another Arab
+               <lb facs="#facs_2_r1l24" n="N024"/>in ships from <placeName ref="#place-7002543">Ismir</placeName> while the <seg type="editorialNote-target-text">Reuters<note type="editorial">Bell may be using this term to refer to published news in general (in reference to the Reuters news organisation)</note></seg> in another Arab
                <lb facs="#facs_2_r1l25" n="N025"/> paper related that the Turks were evacuating <placeName ref="#place-1001101">Angora</placeName>,
                <lb facs="#facs_2_r1l26" n="N026"/> were more than I could bear. You understand the  
                <lb facs="#facs_2_r1l27" n="N027"/> public here hates the Greek successes + applauds anyone 
@@ -884,7 +884,7 @@
             <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l1" n="N001"/>2 
                <lb facs="#facs_3_r1l2" n="N002"/> an Arab state in <placeName ref="#place-1000118">Mesopotamia</placeName> + the only visible enemy 
-               <lb facs="#facs_3_r1l3" n="N003"/>is the Kamalists allied with the Bolshevists. They have 
+               <lb facs="#facs_3_r1l3" n="N003"/>is the <seg type="editorialNote-target-text">Kamalists<note type="editorial">Bell is likely referring to Turkish Nationalists, under the leadership of Mustapha Kemal Atatürk.</note></seg> allied with the Bolshevists. They have 
                <lb facs="#facs_3_r1l4" n="N004"/> at this very moment occupied with a force of 60 
                <lb facs="#facs_3_r1l5" n="N005"/> men a bit of our mountain country north of <placeName ref="#place-1001311">Arbil</placeName>
                <lb facs="#facs_3_r1l6" n="N006"/>+ set up Turkish <choice>
@@ -940,14 +940,14 @@
                <lb facs="#facs_4_r1l19" n="N019"/> day a young gentleman from <placeName ref="#place-7002471">Mosul</placeName> who designs to starts.
                <lb facs="#facs_4_r1l20" n="N020"/>a paper there asked me to draw him up some
                <lb facs="#facs_4_r1l21" n="N021"/>
-               <del rend="strikethrough">pam</del> directions for the guidance of the press. I did, 
+               <gap reason="illegible"/> directions for the guidance of the press. I did, 
                <lb facs="#facs_4_r1l22" n="N022"/> with a will, + produced a minor masterpiece - with 
                <lb facs="#facs_4_r1l23" n="N023"/>the more pleasure because I sent a copy to Faisal, who 
                <lb facs="#facs_4_r1l24" n="N024"/> was delighted. I mentioned incidentally that in my 
                <lb facs="#facs_4_r1l25" n="N025"/>opinion it would be easy to exaggerate the value of 
                <lb facs="#facs_4_r1l26" n="N026"/>
                <foreign xml:lang="ar">al damakratiyah</foreign> in this country; I didn't think that 
-               <lb facs="#facs_4_r1l27" n="N027"/> the shaikhs of the <seg type="editorialNote-target-text">Shibi<note type="editorial">A tribe in Iraq.</note>
+               <lb facs="#facs_4_r1l27" n="N027"/> the shaikhs of the <seg type="editorialNote-target-text">Shibi<note type="editorial">The Shibil tribe is one of many tribes within Iraq, some of which pre-date Islam. For centuries, tribes were the primary form of social organization through much of the Arabian Peninsula and tribal traditions remain culturally important in the region today.</note>
                </seg>, the Ghazalat + other 
                <lb facs="#facs_4_r1l28" n="N028"/>Mesopotamian tribes whose names would occur
                <lb facs="#facs_4_r1l29" n="N029"/> to my young friend, had thoroughly mastered 
@@ -984,7 +984,7 @@
                <persName ref="#person-EH119">Hasanain</persName>, who was with her, an Egyptian  
                <lb facs="#facs_5_r1l24" n="N024"/> without whom she couldn't have done anything.
                <lb facs="#facs_5_r1l25" n="N025"/> She doesn't know a word of Arabic. Well, as I 
-               <lb facs="#facs_5_r1l26" n="N026"/> say, Dunya!
+               <lb facs="#facs_5_r1l26" n="N026"/> say, <seg type="editorialNote-target-text">Dunya!<note type="editorial">An Islamic term referring to the earthly world and its possessions, as opposed to the spiritual world and the hereafter.</note></seg>
                <lb facs="#facs_5_r1l28" n="N027"/>The little artist man, <persName ref="#person-EH120">Mr Lawrence</persName>'s friend in 
             </ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
