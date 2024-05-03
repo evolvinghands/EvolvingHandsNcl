@@ -1540,8 +1540,9 @@
                <lb facs="#facs_1_r1l4" n="N004"/> of Yorkshire. I'm writing to <persName ref="#person-EH009">Mother</persName>. My letters seem to behave in just 
                <lb facs="#facs_1_l" n="N005"/> the same curious way. Well, we've had a terrific week, but 
                <lb facs="#facs_1_r1l7" n="N006"/> we've got our king crowned + <persName ref="#person-EH002">Sir Percy</persName> + I agree that we are now 
-               <lb facs="#facs_1_r1l8" n="N007"/> half seas over. The remaining half is the Congress + the Organic 
-               <lb facs="#facs_1_r1l9" n="N008"/> Law. By the way (secret) I told you the impossible problem
+                  <lb facs="#facs_1_r1l8" n="N007"/> half seas over. The remaining half is the Congress + the <seg type="editorialNote-target-text">Organic 
+                        <lb facs="#facs_1_r1l9" n="N008"/> Law.<note type="editorial">Provided for a constitutional monarchy, a parliamentary government and a bicameral legislature.</note>
+                  </seg> By the way (secret) I told you the impossible problem
                <lb facs="#facs_1_r1l10" n="N009"/> which <choice>
                   <abbr>H M G</abbr>
                   <expan>His Majesty's Government</expan>
@@ -1935,7 +1936,8 @@
                <lb facs="#facs_10_r1l6" n="N004"/> fatly perplexed. Now I must tell you that the man Sir 
                <lb facs="#facs_10_r1l7" n="N005"/>
                <persName ref="#person-EH002">Percy</persName> wants for this interim, during which we summon 
-               <lb facs="#facs_10_r1l8" n="N006"/>+ guide the Congress while it makes the Organic Law,
+                  <lb facs="#facs_10_r1l8" n="N006"/>+ guide the Congress while it makes the <seg type="editorialNote-target-text">Organic Law,<note type="editorial">Provided for a constitutional monarchy, a parliamentary government and a bicameral legislature.</note>
+                  </seg>
                <lb facs="#facs_10_r1l9" n="N007"/>is <persName ref="#person-EH134">Ahmad Pasha Sana'</persName>. Ja'far + Nuri have also thought 
                <lb facs="#facs_10_l_853" n="N008"/> of him, we know privately from Ahmad Pasha. So I said 
                <lb facs="#facs_10_r1l12" n="N009"/> I had heard that they had discussed the possibility of 
