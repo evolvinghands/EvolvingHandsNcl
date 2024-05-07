@@ -1343,7 +1343,7 @@
                <lb facs="#facs_1_r2l27" n="N025"/> invitations to a big dinner which is to be given by the 
                <lb facs="#facs_1_r2l28" n="N026"/>Municipality tonight. In the evening I went to a <orgName ref="#org-569145857873923020129">library</orgName>
                <lb facs="#facs_1_r2l29" n="N027"/> committee meeting after which <persName ref="#person-EH017">Sasun Eff</persName> + I motored to  
-               <lb facs="#facs_1_r2l30" n="N028"/> the Sarai to see Faisal's lodging which was very satisfactory 
+               <lb facs="#facs_1_r2l30" n="N028"/> the <seg type="editorialNote-target-text">Sarai<note type="editorial">It’s not certain what Bell is referring to as the term Sarai has multiple meanings, but it is perhaps reference to a government building.</note></seg> to see Faisal's lodging which was very satisfactory 
                <lb facs="#facs_1_r2l31" n="N029"/> - big rooms in a <choice>
                   <abbr>Govt</abbr>
                   <expan>Government</expan>
@@ -1455,7 +1455,7 @@
                <lb facs="#facs_2_r2l19" n="N018"/>(this part isn't to be repeated!) + <persName ref="#person-EH003">Mr Philby</persName> was the 
                <lb facs="#facs_2_r2l20" n="N019"/> worst. Fortunately he was down with fever at <placeName ref="#place-1079385">Hillah</placeName>!
                <lb facs="#facs_2_r2l21" n="N020"/>So I parked Mr C. into Sasun's motor + we set off for 
-               <lb facs="#facs_2_r2l23" n="N021"/> the <objectType n="objectType: Bridge;">Maude</objectType> bridge. But don't think we got there. In the first 
+               <lb facs="#facs_2_r2l23" n="N021"/> the Maude bridge. But don't think we got there. In the first 
                <lb facs="#facs_2_r2l24" n="N022"/>quarter of an hour we got perhaps half way + then 
                <lb facs="#facs_2_r2l25" n="N023"/> stuck fast in the traffic. And there was Mr Cornwallis 
                <lb facs="#facs_2_r2l26" n="N024"/> dying of thirst. We abandoned the motor + walked to 
@@ -1482,7 +1482,7 @@
                <lb facs="#facs_3_r2l10" n="N009"/>But when we got into the big street the police 
                <lb facs="#facs_3_r2l11" n="N010"/>opened the way. I went very slow + he stood up 
                <lb facs="#facs_3_r2l12" n="N011"/>in the car + the people shouted + shouted + he 
-               <lb facs="#facs_3_r2l13" n="N012"/> saluted all the time. All the way from the <objectType n="objectType: Bridge; ">Maude </objectType>
+               <lb facs="#facs_3_r2l13" n="N012"/> saluted all the time. All the way from the Maude
                <lb facs="#facs_3_r2l14" n="N013"/> Bridge to the Sarai - he did seem pleased!"
                <lb facs="#facs_3_r2l15" n="N014"/> So that was how he came to <placeName ref="#place-7002482">Baghdad</placeName>. 
                <lb facs="#facs_3_r2l16" n="N015"/>This morning on my way to the office I went to the 
@@ -1578,8 +1578,8 @@
                <lb facs="#facs_4_r2l3" n="N003"/> Faisal! I took him up to Sir Percy + left him in 
                <lb facs="#facs_4_r2l4" n="N004"/> his wise hands.
                <lb facs="#facs_4_r2l5" n="N005"/>
-               <date when="1921-07-02">July 2</date>. The next event was that evening's banquet in the Maude 
-               <lb facs="#facs_4_r2l6" n="N006"/>gardens. It was really beautifully done. The place, lighted with electric 
+               <date when="1921-07-02">July 2</date>. The next event was that evening's banquet in the <seg type="editorialNote-target-text">Maude 
+                  <lb facs="#facs_4_r2l6" n="N006"/>gardens.<note type="editorial">Maude Gardens perhaps refers to gardens located near the Maude Bridge in Baghdad.</note></seg> It was really beautifully done. The place, lighted with electric 
                <lb facs="#facs_4_r2l7" n="N007"/>lights looked lovely. But I really shall have to set about getting
                <lb facs="#facs_4_r2l8" n="N008"/>a proper ceremonial for Faisal's court - when he has one 
                <lb facs="#facs_4_r2l9" n="N009"/>- for they none of them have the least idea what to do
