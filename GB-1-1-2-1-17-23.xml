@@ -256,6 +256,12 @@
             <idno type="VIAF">155121446</idno>
          </org>
       </listOrg>
+      <listOrg>
+         <org xml:id="org-159121440" corresp="http://viaf.org/viaf/159121440">
+            <orgName>Royal Military Academy, Sandhurst</orgName>
+            <idno type="VIAF">159121440</idno>
+         </org>
+      </listOrg>
    </standOff>
    <facsimile>
       <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_1">
@@ -1526,7 +1532,7 @@
                <lb facs="#facs_4_r1l8" n="N005"/> one all one's time. There are so many quicksands. 
                <lb facs="#facs_4_r1l9" n="N006"/> Since his return, I hadn't seen <persName ref="#person-EH073">Muhammad Sadr</persName>
                <lb facs="#facs_4_r1l10" n="N007"/> till today. This evening there was a great function to celebrate 
-               <lb facs="#facs_4_r1l11" n="N008"/>the opening of the Officers' School, our Sandhurst for the 
+               <lb facs="#facs_4_r1l11" n="N008"/>the opening of the Officers' School, our <orgName ref="#org-159121440"></orgName>Sandhurst for the 
                <lb facs="#facs_4_r1l12" n="N009"/>Arab Army. I arrived rather late + the first person I saw  
                <lb facs="#facs_4_r1l13" n="N010"/> was Saiyid Muhammad sitting by <persName ref="#person-EH002">Sir Percy</persName> in the seats 
                <lb facs="#facs_4_r1l14" n="N011"/> reserved for great personages. He looked like Lucifer + 
@@ -1586,7 +1592,9 @@
                <lb facs="#facs_5_r1l25" n="N025"/> for half an hour explaining to me how it had 
                <lb facs="#facs_5_r1l26" n="N026"/>all happened. It was rather a muddled explanation  
                <lb facs="#facs_5_l_734" n="N027"/> but I didn't <foreign xml:lang="fr">appuyer</foreign> much, partly because I 
-               <lb facs="#facs_5_r1l28" n="N028"/>was distractling occupied with the irrelevant 
+               <lb facs="#facs_5_r1l28" n="N028"/>was <choice>
+                  <sic>distractling</sic>
+                  <corr>distracted</corr> </choice> occupied with the irrelevant 
                <lb facs="#facs_5_r1l29" n="N029"/> thought that Saiyid Nur is the walking image 
                <lb facs="#facs_5_l_761" n="N030"/> of Noah out of Noah's ark. It was towards 
                <lb facs="#facs_5_l_796" n="N031"/>the end of a long hot morning + I think I must have 
