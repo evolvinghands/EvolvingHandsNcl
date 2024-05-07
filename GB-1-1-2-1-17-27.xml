@@ -57,7 +57,7 @@
             <idno type="EH">EH119</idno>
          </person>
          <person xml:id="person-EH120">
-            <persName>Mr Lawrence</persName>
+            <persName cert="medium">Mr Lawrence</persName>
             <idno type="EH">EH120</idno>
          </person>
          <person xml:id="person-EH106">
@@ -1020,8 +1020,8 @@
                <lb facs="#facs_7_r1l9" n="N010"/> ARAB BUREAU, BAGHDAD.
                <lb facs="#facs_7_r1l11" n="N011"/> G L Bell
             </ab>
-            <ab facs="#facs_7_r2">
-               <lb facs="#facs_7_r2l1" n="N001"/> ice.
+            <ab>
+               <lb facs="#facs_7_r2l1" n="N001"/> <damage>ice.</damage>
             </ab>
             <pb facs="#facs_8" n="8" xml:id="img_0008"/>
          </div>
