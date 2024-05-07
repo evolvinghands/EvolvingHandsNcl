@@ -1554,7 +1554,7 @@
                </choice> climbed down at once, I may say 
                <lb facs="#facs_1_r1l12" n="N011"/> grovelled. It was all a mistake + far from their intention
                <lb facs="#facs_1_r1l13" n="N012"/> to interfere + God bless us all. Thereat we went gaily forward.
-               <lb facs="#facs_1_r1l14" n="N013"/> On Monday night I dined <foreign xml:lang="fr">en famille</foreign> with <persName ref="#person-EH011">Ja'far</persName> + <persName ref="#person-EH018">Nuri</persName> + their 
+               <lb facs="#facs_1_r1l14" n="N013"/> On Monday night I dined <foreign xml:lang="fr">en famille</foreign> with <persName ref="#person-EH011" cert="high">Ja'far</persName> + <persName ref="#person-EH018" cert="high">Nuri</persName> + their 
                <lb facs="#facs_1_r1l15" n="N014"/> wives + Ja'far's young brother <persName>Tahsin</persName>, inspector of police at 
                <lb facs="#facs_1_r1l16" n="N015"/>
                <placeName ref="#place-7002480">Samarra</placeName>, a very good + capable young man. It was a happy 
@@ -1994,7 +1994,3 @@
                <lb facs="#facs_11_r1l12" n="N011"/> G L Bell
             </ab>
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-         </div>
-      </body>
-   </text>
-</TEI>
