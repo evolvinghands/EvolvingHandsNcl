@@ -1318,7 +1318,7 @@
                <lb facs="#facs_1_r2l13" n="N016"/>Advisor at Hillah, <persName ref="#person-EH065">Major Dickson</persName>, to carry on with a projected
                <lb facs="#facs_1_r2l14" n="N017"/> tour, so that Major Dickson was not at Hillah when Faisal 
                <lb facs="#facs_1_r2l16" n="N018"/> passed through. Major Dickson has been here since + has made his peace 
-               <lb facs="#facs_1_r2l17" n="N019"/> with Faisal. It is difficult to tell what spirit of evil has taken 
+               <lb facs="#facs_1_r2l17" n="N019"/> with Faisal. <delSpan rend="strikethrough" spanTo="#facs_1_r2l37"></delSpan>It is difficult to tell what spirit of evil has taken 
                <lb facs="#facs_1_r2l18" n="N020"/>hold of Mr Philby but the net result is that he has been 
                <lb facs="#facs_1_l_1723" n="N021"/> thoroughly disloyal to his Chief + disobedient to the orders of 
                <lb facs="#facs_1_r2l21" n="N022"/> his Government. Sir Percy, who never hesitates in what he 
@@ -1340,8 +1340,7 @@
                </choice>
                <lb facs="#facs_1_r2l35" n="N036"/>had won as it always would. After that it wasn't any 
                <lb facs="#facs_1_r2l36" n="N037"/> good continuing the conversation, so I went away. I don't 
-               <lb facs="#facs_1_r2l37" n="N038"/>know what they are going to do. They talk of going to 
-            </ab>
+               <lb facs="#facs_1_r2l37" n="N038"/>know what they are going to do. They talk of going to<anchor facs="#facs_1_r2l37"/>            </ab>
             <ab facs="#facs_1_r1">
                <lb facs="#facs_1_l" n="N001"/> Most of the towns - I think I told you - have sent deputations
                <lb facs="#facs_1_r1l4" n="N002"/> to greet Faisal. With these I exchange visits. The Basrah 
@@ -1357,8 +1356,7 @@
                <lb facs="#facs_1_r1l15" n="N012"/> dinner was very long but the party broke up 
                <lb facs="#facs_1_r1l16" n="N013"/> pretty soon afterwards. It's rather a complication  
                <lb facs="#facs_1_r1l17" n="N014"/>in all these festivities, that the temperature is 
-               <lb facs="#facs_1_r1l18" n="N015"/>120<hi>° - at least that's what it goes up to by 
-               </hi>
+               <lb facs="#facs_1_r1l18" n="N015"/>120° - at least that's what it goes up to by 
                <lb facs="#facs_1_r1l19" n="N016"/> day.
                <lb facs="#facs_1_r1l20" n="N017"/> One by one all the leaders of the rebellion are  
                <lb facs="#facs_1_r1l22" n="N018"/> coming in to pay their respects. <persName ref="#person-EH066">Yusuf Suwaidi</persName>
@@ -1377,7 +1375,7 @@
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/>
-               <placeName ref="#place-7002135">Kermanshah</placeName> for the summer. I wish them well, but I know he
+               <placeName ref="#place-7002135"><delSpan rend="strikethrough" spanTo="#facs_2_r1l9"></delSpan>Kermanshah</placeName> for the summer. I wish them well, but I know he
                <lb facs="#facs_2_r1l2" n="N002"/> will never make a success of anything. He is too obstinately 
                <lb facs="#facs_2_r1l3" n="N003"/> convinced that there is no point of view but his own 
                <lb facs="#facs_2_r1l4" n="N004"/>How he could embrace the cause of that rogue <persName ref="#person-EH012">Talib</persName>
@@ -1385,7 +1383,7 @@
                <lb facs="#facs_2_r1l7" n="N006"/> since his removal he has been spinning a bad cotton.  
                <lb facs="#facs_2_r1l8" n="N007"/>
                <persName ref="#person-EH001">Faisal</persName> + Talib are like light + darkness, + only one who 
-               <lb facs="#facs_2_r1l9" n="N008"/>is blind can fail to detect the difference!
+               <lb facs="#facs_2_r1l9" n="N008"/>is blind can fail to detect the difference!<anchor facs="#facs_2_r1l9"/>
                <lb facs="#facs_2_l_1560" n="N009"/>Meantime on that same Monday morning I was having a 
                <lb facs="#facs_2_r1l13" n="N010"/> crucial interview. The leading <del rend="strikethrough">Christian</del> Christian here, <persName ref="#person-EH067">'Abdul Jabbar Pasha</persName>,
                <lb facs="#facs_2_r1l14" n="N011"/>came in with <persName ref="#person-EH045">the Mutasarrif</persName> + <persName ref="#person-EH019">Naji Suwaidi</persName> to urge that 
@@ -1411,7 +1409,7 @@
                <lb facs="#facs_2_r1l32" n="N026"/> get the registration of electors through under 2 months, 
                <lb facs="#facs_2_l_1722" n="N027"/> which is longer than we can afford. He will therefore 
                <lb facs="#facs_2_l_1770" n="N028"/> reply in that sense to the Council, but add that  the Council 
-               <lb facs="#facs_2_r1l40" n="N029"/>approves we can resort to a speedier process. It will then, 
+               <lb facs="#facs_2_r1l40" n="N029"/>approves we can resort to a <gap reason="illegible"/> speedier process. It will then, 
                <lb facs="#facs_2_r1l41" n="N030"/> to put it quite baldly, be up to us to rig the Council 
                <lb facs="#facs_2_r1l42" n="N031"/> which no doubt we can. I would rather have had elections
                <lb facs="#facs_2_r1l43" n="N032"/> but 2 months is too long to wait + I hope that in our
