@@ -1189,7 +1189,7 @@
                <persName ref="#person-EH049">Fakhri Jamil</persName> begs me to say to you that he
                <lb facs="#facs_4_r1l10" n="N010"/>sent you his photograph, but you haven't sent
                <lb facs="#facs_4_r1l11" n="N011"/>him yours in return!
-               <lb facs="#facs_4_r1l12" n="N012"/>In the middle of all these absorbing events, I went
+               <lb facs="#facs_4_r1l12" n="N012"/><delSpan rend="strikethrough" spanTo="#facs_4_r1l24"></delSpan>In the middle of all these absorbing events, I went
                <lb facs="#facs_4_r1l13" n="N013"/>to a ball given by <persName ref="#person-EH051">the Philbys</persName> at <seg type="editorialNote-target-text">the Club<note type="editorial">Possibly either the Railway or the Alwiyah Social Club but other social clubs existed in Baghdad at this time.</note>
                </seg>. I didn't
                <lb facs="#facs_4_r1l14" n="N014"/>dance but I sat out in the garden, + talked to
@@ -1202,12 +1202,12 @@
                <lb facs="#facs_4_r1l21" n="N021"/>up till one or two in the morning + be in their
                <lb facs="#facs_4_r1l22" n="N022"/>offices at 7 or 8. It's the wives that do it,
                <lb facs="#facs_4_r1l23" n="N023"/>confound them. They take no sort of interest in
-                  <lb facs="#facs_4_r1l24" n="N024"/>what's going on, know no Arabic + see no Arabs
+               <lb facs="#facs_4_r1l24" n="N024"/>what's going on, know no Arabic + see no Arabs<anchor facs="#facs_4_r1l24"/>
                <lb facs="#facs_4_r1l25" n="N025"/>They create an exclusive (though it's also a very
                <lb facs="#facs_4_r1l26" n="N026"/>second rate) English society, quite cut off from the
             </ab>
             <ab facs="#facs_4_r2">
-               <lb facs="#facs_4_r2l2" n="N001"/>life of the town. I now begin to understand why
+               <lb facs="#facs_4_r2l2" n="N001"/>life of the town. <delSpan rend="strikethrough" spanTo="#facs_4_r2l25"></delSpan> I now begin to understand why
                <lb facs="#facs_4_l_1246" n="N002"/>
                <seg type="editorialNote-target-text">British <choice><abbr>Govt</abbr>
                   <expan>Government</expan></choice> has come to grief in India<note type="editorial">India was under rule of the British Empire at this time.</note>
@@ -1234,7 +1234,7 @@
                <lb facs="#facs_4_r2l21" n="N017"/>+ you'll scarcely believe it but <persName ref="#person-EH016">Lady Cox</persName> goes to
                <lb facs="#facs_4_l_1311" n="N018"/>every one + dances all night - with yon figure!
                <lb facs="#facs_4_r2l24" n="N019"/>She is giving a ball this week to which I shall
-               <lb facs="#facs_4_r2l25" n="N020"/>have to go.
+               <lb facs="#facs_4_r2l25" n="N020"/>have to go.<anchor facs="#facs_4_r2l25"/>
                <lb facs="#facs_4_r2l26" n="N021"/>This afternoon I've got to call on <persName ref="#person-EH052">the wife </persName>of
                <lb facs="#facs_4_r2l27" n="N022"/>
                <persName ref="#person-EH053">the Persian heir-apparent</persName>- they are on their
