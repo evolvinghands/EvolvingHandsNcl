@@ -977,15 +977,15 @@
                <persName ref="#person-EH118">Frederic Harrison</persName>. He is a remarkable old thing, is 
                <lb facs="#facs_5_r1l18" n="N018"/> not he? for that matter, though not so old,
                <lb facs="#facs_5_r1l19" n="N019"/> so are you, bless you. 
-               <lb facs="#facs_5_r1l20" n="N020"/>Oh Father I am so sick of <persName ref="#person-EH078">Rosita Forbes</persName>! 
+               <lb facs="#facs_5_r1l20" n="N020"/><delSpan rend="strikethrough" spanTo="#facs_5_r1l26"></delSpan>Oh Father I am so sick of <persName ref="#person-EH078">Rosita Forbes</persName>! 
                <lb facs="#facs_5_r1l21" n="N021"/>+ the thing that makes me sickest is that she 
                <lb facs="#facs_5_r1l22" n="N022"/>scarcely ever alludes to that capital boy, 
                <lb facs="#facs_5_r1l23" n="N023"/>
                <persName ref="#person-EH119">Hasanain</persName>, who was with her, an Egyptian  
                <lb facs="#facs_5_r1l24" n="N024"/> without whom she couldn't have done anything.
                <lb facs="#facs_5_r1l25" n="N025"/> She doesn't know a word of Arabic. Well, as I 
-               <lb facs="#facs_5_r1l26" n="N026"/> say, <seg type="editorialNote-target-text">Dunya!<note type="editorial">An Islamic term referring to the earthly world and its possessions, as opposed to the spiritual world and the hereafter.</note></seg>
-               <lb facs="#facs_5_r1l28" n="N027"/>The little artist man, <persName ref="#person-EH120">Mr Lawrence</persName>'s friend in 
+               <lb facs="#facs_5_r1l26" n="N026"/> say, <seg type="editorialNote-target-text">Dunya!<anchor facs="#facs_5_r1l26"/><note type="editorial">An Islamic term referring to the earthly world and its possessions, as opposed to the spiritual world and the hereafter.</note></seg>
+               <lb facs="#facs_5_r1l28" n="N027"/><delSpan rend="strikethrough" spanTo="#facs_6_r1l6"></delSpan>The little artist man, <persName ref="#person-EH120">Mr Lawrence</persName>'s friend in 
             </ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_r1">
@@ -994,7 +994,7 @@
                <lb facs="#facs_6_r1l2" n="N002"/>last of which runs: "We don't hear much of you, nor 
                <lb facs="#facs_6_l" n="N003"/>little of <persName ref="#person-EH078">Rosita Forbes</persName>." Thank heaven for the first part. 
                <lb facs="#facs_6_r1l5" n="N004"/> I have very despondent letters from <persName ref="#person-EH106">Milly</persName> - have you 
-               <lb facs="#facs_6_r1l6" n="N005"/> seen anything of her lately?
+               <lb facs="#facs_6_r1l6" n="N005"/> seen anything of her lately?<anchor facs="#facs_6_r1l6"/>
                <lb facs="#facs_6_r1l7" n="N006"/>Your very devoted daughter 
                <lb facs="#facs_6_r1l8" n="N007"/>Gertrude
             </ab>
