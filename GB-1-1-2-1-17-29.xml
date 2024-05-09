@@ -1869,7 +1869,7 @@
                <lb facs="#facs_8_r1l19" n="N018"/> We then spent a happy hour discussing (a) our desert 
                <lb facs="#facs_8_r1l20" n="N019"/> frontier to south + west + (b) the national flying + 
                <lb facs="#facs_8_r1l21" n="N020"/> Faisal's personal flag. For the latter we arranged 
-               <lb facs="#facs_8_r1l23" n="N021"/> provisionally this 
+               <lb facs="#facs_8_r1l23" n="N021"/> provisionally this<gap reason="illegible"/><figure><figDesc>Sketch showing a design for a flag.</figDesc></figure>
                <lb facs="#facs_8_r1l29" n="N022"/>i.e. the Hijaz flag
                <lb facs="#facs_8_r1l30" n="N023"/> with a gold crown 
                <lb facs="#facs_8_r1l31" n="N024"/> on the red triangle. The red I must tell you is 
@@ -1994,3 +1994,7 @@
                <lb facs="#facs_11_r1l12" n="N011"/> G L Bell
             </ab>
             <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+         </div>
+      </body>
+   </text>
+</TEI>
