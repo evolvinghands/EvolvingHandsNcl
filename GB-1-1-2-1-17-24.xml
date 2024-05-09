@@ -463,7 +463,7 @@
                <lb facs="#facs_2_r1l3" n="N002"/> things I've ever witnessed. I 
                <lb facs="#facs_2_r1l4" n="N003"/> tell you all about it in my 
                <lb facs="#facs_2_r1l5" n="N004"/> weekly letter.
-               <lb facs="#facs_2_r1l6" n="N005"/> Yesterday I got your letter of 
+               <lb facs="#facs_2_r1l6" n="N005"/> <delSpan rend="strikethrough" spanTo="#facs_2_r1l21"></delSpan>Yesterday I got your letter of 
                <lb facs="#facs_2_r1l7" n="N006"/> June 28 + one from <persName ref="#person-EH009">Mother</persName>
                <lb facs="#facs_2_r1l8" n="N007"/> both telling me that she has 
                <lb facs="#facs_2_r1l9" n="N008"/> broken her wrist, just as if
@@ -478,11 +478,11 @@
                <lb facs="#facs_2_r1l18" n="N017"/>hard that you should have
                <lb facs="#facs_2_r1l19" n="N018"/> fallen on such difficult
                <lb facs="#facs_2_r1l20" n="N019"/>times, but you will still see 
-               <lb facs="#facs_2_r1l21" n="N020"/> it work out right, <seg type="editorialNote-target-text">inshallah<note type="editorial">Arabic language expression meaning 'if God wills it'.</note>
+               <lb facs="#facs_2_r1l21" n="N020"/> it work out right, <seg type="editorialNote-target-text">inshallah<anchor facs="#facs_2_r1l21"/><note type="editorial">Arabic language expression meaning 'if God wills it'.</note>
                </seg>,
             </ab>
             <ab facs="#facs_2_r2">
-               <lb facs="#facs_2_r2l1" n="N001"/>just as I'm seeing our difficult 
+               <lb facs="#facs_2_r2l1" n="N001"/><delSpan rend="strikethrough" spanTo="#facs_2_r2l12"></delSpan>just as I'm seeing our difficult 
                <lb facs="#facs_2_r2l2" n="N002"/>task here work out in success
                <lb facs="#facs_2_l_898" n="N003"/>- the luck of the Bells, do 
                <lb facs="#facs_2_r2l4" n="N004"/> you remember <persName ref="#person-EH104">Mr Strong</persName> used 
@@ -492,7 +492,7 @@
                <lb facs="#facs_2_r2l9" n="N008"/> we adapt ourselves to it.
                <lb facs="#facs_2_r2l10" n="N009"/>The only thing that matters is  
                <lb facs="#facs_2_r2l11" n="N010"/>that you should be well + 
-               <lb facs="#facs_2_r2l12" n="N011"/>happy.
+               <lb facs="#facs_2_r2l12" n="N011"/>happy.<anchor facs="#facs_2_r2l12"/>
                <lb facs="#facs_2_r2l13" n="N012"/> For my part I'm immensely 
                <lb facs="#facs_2_r2l14" n="N013"/>happy over the way this 
                <lb facs="#facs_2_r2l15" n="N014"/>thing is going. I feel as if 
@@ -532,3 +532,4 @@
       </body>
    </text>
 </TEI>
+
