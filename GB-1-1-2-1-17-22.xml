@@ -1399,12 +1399,12 @@
                   <corr>exercise</corr>
                   <sic>excercise</sic>
                </choice> in this weather.
-               <lb facs="#facs_8_r1l2" n="N002"/>The Philby business is clearing up. It has been very
+               <lb facs="#facs_8_r1l2" n="N002"/>The Philby business is clearing up. <delSpan rend="strikethrough" spanTo="#facs_8_r1l7"></delSpan>It has been very
                <lb facs="#facs_8_r1l3" n="N003"/> horrid for me, for in their angry amazement at 
                <lb facs="#facs_8_r1l4" n="N004"/> having to suffer for what was entirely <persName ref="#person-EH003">his</persName> own fault 
                <lb facs="#facs_8_r1l5" n="N005"/>they have accused me of being the cause of his dismissal 
                <lb facs="#facs_8_r1l6" n="N006"/>- at least <persName ref="#person-EH050">she</persName> has. But I think she has thought 
-               <lb facs="#facs_8_r1l7" n="N007"/> better of it. She came to lunch with <persName ref="#person-EH026">the Coxes</persName> and 
+               <lb facs="#facs_8_r1l7" n="N007"/> better of it.<anchor facs="#facs_8_r1l7"/> She came to lunch with <persName ref="#person-EH026">the Coxes</persName> and 
                <lb facs="#facs_8_r1l8" n="N008"/> was very pleasant, + he lunched yesterday to say 
                <lb facs="#facs_8_r1l9" n="N009"/>goodbye; he has gone up to <placeName ref="#place-7000231">Persia</placeName> for a bit. We
                <lb facs="#facs_8_r1l10" n="N010"/> came home together after lunch + he said he had 
@@ -1414,10 +1414,10 @@
                <lb facs="#facs_8_r1l14" n="N014"/>some work of that kind here. He is very capable 
                <lb facs="#facs_8_r1l15" n="N015"/>+ devoted to the country; he's not a man we  
                <lb facs="#facs_8_r1l16" n="N016"/> can afford to lose. 
-               <lb facs="#facs_8_r1l17" n="N017"/>I've got <persName ref="#person-EH009">Mother</persName>'s letter of June 19 with an enclosure
+               <lb facs="#facs_8_r1l17" n="N017"/><delSpan rend="strikethrough" spanTo="#facs_8_r1l20"></delSpan>I've got <persName ref="#person-EH009">Mother</persName>'s letter of June 19 with an enclosure
                <lb facs="#facs_8_r1l18" n="N018"/> from <persName>Alice Egerton</persName>, + also your letter of June 16. I hope 
                <lb facs="#facs_8_r1l19" n="N019"/> the <persName>Dow. Lady Carlisle</persName> will die. I'm longing for your 
-                  <lb facs="#facs_8_r1l20" n="N020"/> comments on the <seg type="editorialNote-target-text">coal strike<note type="editorialNote">Likely refers to the 1921 coal strike, which was ended on the 28th June when the Government agreed to subsidise the coal industry.</note></seg> settlement. 
+               <lb facs="#facs_8_r1l20" n="N020"/> comments on the <seg type="editorialNote-target-text">coal strike<note type="editorialNote">Likely refers to the 1921 coal strike, which was ended on the 28th June when the Government agreed to subsidise the coal industry.</note></seg> settlement.<anchor facs="#facs_8_r1l20"/> 
                <lb facs="#facs_8_r1l21" n="N021"/>Your very affectionate daughter
                <lb facs="#facs_8_r1l22" n="N022"/>Gertrude.
             </ab>
