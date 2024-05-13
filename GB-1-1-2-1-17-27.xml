@@ -57,7 +57,7 @@
             <idno type="EH">EH119</idno>
          </person>
          <person xml:id="person-EH120">
-            <persName cert="medium">Mr Lawrence</persName>
+            <persName>Mr Lawrence</persName>
             <idno type="EH">EH120</idno>
          </person>
          <person xml:id="person-EH106">
@@ -985,7 +985,7 @@
                <lb facs="#facs_5_r1l24" n="N024"/> without whom she couldn't have done anything.
                <lb facs="#facs_5_r1l25" n="N025"/> She doesn't know a word of Arabic. Well, as I 
                <lb facs="#facs_5_r1l26" n="N026"/> say, <seg type="editorialNote-target-text">Dunya!<anchor facs="#facs_5_r1l26"/><note type="editorial">An Islamic term referring to the earthly world and its possessions, as opposed to the spiritual world and the hereafter.</note></seg>
-               <lb facs="#facs_5_r1l28" n="N027"/><delSpan rend="strikethrough" spanTo="#facs_6_r1l6"></delSpan>The little artist man, <persName ref="#person-EH120">Mr Lawrence</persName>'s friend in 
+               <lb facs="#facs_5_r1l28" n="N027"/><delSpan rend="strikethrough" spanTo="#facs_6_r1l6"></delSpan>The little artist man, <persName ref="#person-EH120" cert="medium">Mr Lawrence</persName>'s friend in 
             </ab>
             <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_r1">
