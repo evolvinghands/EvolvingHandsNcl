@@ -311,6 +311,12 @@
             <country>England</country>
             <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7011781"/>
          </place>
+         <place xml:id="place-1085141"
+            corresp="http://vocab.getty.edu/page/tgn/1085141">
+            <placeName>Dayr az-Zawr</placeName>
+            <country>Syria</country>
+            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1085141"/>
+         </place>
       </listPlace>
       <listOrg>
          <org xml:id="org-129437055" corresp="http://viaf.org/viaf/129437055">
@@ -1862,7 +1868,7 @@
                <lb facs="#facs_8_r1l13" n="N012"/> Syria. It was he who led the attack against us on the 
                <lb facs="#facs_8_r1l14" n="N013"/>
                <placeName ref="#place-1123842">Euphrates</placeName> last year, disobeying Faisal's repeated commands. 
-               <lb facs="#facs_8_r1l15" n="N014"/> It would be a little comic if after conquering <placeName>Dair</placeName> from 
+               <lb facs="#facs_8_r1l15" n="N014"/> It would be a little comic if after conquering <placeName ref="#place-1085141">Dair</placeName> from 
                <lb facs="#facs_8_r1l16" n="N015"/>the north + driving out the British administration in 1920, 
                <lb facs="#facs_8_r1l17" n="N016"/> he took Dair from the south + drove out the French administration
                <lb facs="#facs_8_r1l18" n="N017"/>in <del rend="strikethrough">1920</del> 1921! but of course we shall not let him.
