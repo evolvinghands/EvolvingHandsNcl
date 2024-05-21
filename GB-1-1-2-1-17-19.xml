@@ -1069,7 +1069,7 @@
                <lb facs="#facs_1_r2l4" n="N005"/> came home with <persName ref="#person-EH048">Mr Tod</persName> at midnight, while the gay 
                <lb facs="#facs_1_r2l5" n="N006"/>
                <persName ref="#person-EH016">Lady Cox</persName> danced till 4 a.m!
-               <lb facs="#facs_1_r2l6" n="N007"/>I must <choice><corr>tell</corr><sic>till</sic></choice> you that <persName ref="#person-EH055">Shaikh Khaz'al</persName> has abandoned 
+               <lb facs="#facs_1_r2l6" n="N007"/>I must <choice><corr>tell</corr><sic>till</sic></choice> you that <persName ref="#person-EH055"><seg type="editorialNote-target-text">Shaikh<note type="editorial">Honorific title meaning 'Elder', used for leaders of tribes and royal family members.</note></seg> Khaz'al</persName> has abandoned 
                <lb facs="#facs_1_r2l7" n="N008"/> his candidature for the throne, of the 'Iraq, with a 
                <lb facs="#facs_1_r2l8" n="N009"/>
                <foreign>beau geste</foreign> declaring that Faisal was a candidate he 
@@ -1300,3 +1300,4 @@
       </body>
    </text>
 </TEI>
+
