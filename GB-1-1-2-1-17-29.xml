@@ -1640,7 +1640,7 @@
                <lb facs="#facs_3_r1l3" n="N003"/>the Dulaim. "By God" he said "<persName ref="#person-EH002">Sir Percy Cox</persName> looked like the moon 
                <lb facs="#facs_3_r1l4" n="N004"/> among them (the moon is masculine in Arabic) + his face 
                <lb facs="#facs_3_r1l5" n="N005"/>looked like the heavens." I heard from others that the great 
-               <lb facs="#facs_3_r1l6" n="N006"/>excitement among shaikhs from remote places who hadn't met Sir 
+               <lb facs="#facs_3_r1l6" n="N006"/>excitement among <seg type="editorialNote-target-text">shaikhs<note type="editorial">Honorific title meaning 'Elder', used for leaders of tribes and royal family members.</note></seg> from remote places who hadn't met Sir 
                <lb facs="#facs_3_r1l7" n="N007"/> Percy before, was to see him. It's a good thing that he is such a  
                <lb facs="#facs_3_r1l8" n="N008"/> figure when you do see him; with his gaunt height + eagle's 
                <lb facs="#facs_3_r1l9" n="N009"/>beak he was very striking. <del rend="strikethrough">
@@ -2004,3 +2004,4 @@
       </body>
    </text>
 </TEI>
+
