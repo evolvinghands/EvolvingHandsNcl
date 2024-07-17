@@ -130,9 +130,9 @@
 <persName>the Minister of Auqaf</persName>
 <idno type="EH">EH137</idno>
 </person>
-<person xml:id="person-EH138">
+<person xml:id="person-EH137">
 <persName>the Mayor</persName>
-<idno type="EH">EH138</idno>
+<idno type="EH">EH137</idno>
 </person>
 <person xml:id="person-EH139">
 <persName>the Naqib</persName>
@@ -1185,7 +1185,7 @@ Mandil +
 Auqaf + 4 Mosulis,
 <persName ref="#person-EH137">the Minister of Auqaf</persName>
 ,
-<persName ref="#person-EH138">the Mayor</persName>
+<persName ref="#person-EH137">the Mayor</persName>
 ,
 <lb facs="#facs_4_r1l22" n="N017"/>
 <persName ref="#person-EH139">the Naqib</persName>
