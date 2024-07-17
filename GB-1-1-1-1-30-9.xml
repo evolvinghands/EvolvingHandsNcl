@@ -1,467 +1,380 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">GB-1-1-1-1-30-9</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>File created by Evolving Hands project, Newcastle University</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title type="main">GB-1-1-1-1-30-9</title>
-               <idno type="Transkribus">1172126</idno>
-               <idno type="external">NA</idno>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
-   <standOff>
-      <listPerson>
-         <person xml:id="person-EH009">
-            <persName>Mother</persName>
-            <idno type="EH">EH009</idno>
-         </person>
-         <person xml:id="person-EH163">
-            <persName>Hugo</persName>
-            <idno type="EH">EH163</idno>
-         </person>
-         <person xml:id="person-EH002">
-            <persName>Sir Percy</persName>
-            <idno type="EH">EH002</idno>
-         </person>
-         <person xml:id="person-EH001">
-            <persName>Faisal</persName>
-            <idno type="EH">EH001</idno>
-         </person>
-      </listPerson>
-      <listPlace>
-         <place xml:id="place-7002482"
-                corresp="http://vocab.getty.edu/page/tgn/7002482">
-            <placeName>Baghdād</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
-         </place>
-         <place xml:id="place-7010051"
-                corresp="http://vocab.getty.edu/page/tgn/7010051">
-            <placeName>Middlesbrough</placeName>
-            <country>England</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7010051"/>
-         </place>
-         <place xml:id="place-1030202"
-                corresp="http://vocab.getty.edu/page/tgn/1030202">
-            <placeName>Northallerton</placeName>
-            <country>England</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1030202"/>
-         </place>
-         <place xml:id="place-7002445"
-                corresp="http://vocab.getty.edu/page/tgn/7002445">
-            <placeName>England</placeName>
-            <country>England</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002445"/>
-         </place>
-      </listPlace>
-   </standOff>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_1">
-         <graphic url="0001_GB-LET-GB-FB-1921-04-01-01.jpg"
-                  width="5788px"
-                  height="4635px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FAJXNLSNCLKQWQNGTCZCDXOS&amp;fileType=view"
-                  width="5788px"
-                  height="4635px"/>
-         <zone points="3105,308 5575,308 5575,4178 3105,4178"
-               rendition="TextRegion"
-               xml:id="facs_1_r2">
-            <zone points="3118,334 3607,334 3607,539 3118,539"
-                  rendition="Line"
-                  xml:id="facs_1_r2l1"/>
-            <zone points="4520,293 5242,293 5242,519 4520,519"
-                  rendition="Line"
-                  xml:id="facs_1_r2l2"/>
-            <zone points="3222,776 4385,776 4385,812 3222,812"
-                  rendition="Line"
-                  xml:id="facs_1_r2l3"/>
-            <zone points="3468,994 5372,994 5372,1064 3468,1064"
-                  rendition="Line"
-                  xml:id="facs_1_r2l4"/>
-            <zone points="3141,1100 5462,1100 5462,1337 3141,1337"
-                  rendition="Line"
-                  xml:id="facs_1_r2l5"/>
-            <zone points="3189,1284 5367,1284 5367,1540 3189,1540"
-                  rendition="Line"
-                  xml:id="facs_1_r2l6"/>
-            <zone points="3254,1614 5351,1614 5351,1714 3254,1714"
-                  rendition="Line"
-                  xml:id="facs_1_r2l7"/>
-            <zone points="3207,1769 5253,1769 5253,2005 3207,2005"
-                  rendition="Line"
-                  xml:id="facs_1_r2l8"/>
-            <zone points="3225,2119 5543,2119 5543,2257 3225,2257"
-                  rendition="Line"
-                  xml:id="facs_1_r2l9"/>
-            <zone points="3221,2228 5441,2228 5441,2515 3221,2515"
-                  rendition="Line"
-                  xml:id="facs_1_r2l10"/>
-            <zone points="3204,2610 5279,2610 5279,2680 3204,2680"
-                  rendition="Line"
-                  xml:id="facs_1_r2l11"/>
-            <zone points="3379,2756 5460,2756 5460,3057 3379,3057"
-                  rendition="Line"
-                  xml:id="facs_1_r2l12"/>
-            <zone points="3160,3022 5315,3022 5315,3231 3160,3231"
-                  rendition="Line"
-                  xml:id="facs_1_r2l13"/>
-            <zone points="3207,3226 5275,3226 5275,3480 3207,3480"
-                  rendition="Line"
-                  xml:id="facs_1_r2l14"/>
-            <zone points="3207,3448 5364,3448 5364,3743 3207,3743"
-                  rendition="Line"
-                  xml:id="facs_1_r2l15"/>
-            <zone points="3228,3710 4668,3710 4668,3906 3228,3906"
-                  rendition="Line"
-                  xml:id="facs_1_r2l16"/>
-            <zone points="3350,3898 5413,3898 5413,4175 3350,4175"
-                  rendition="Line"
-                  xml:id="facs_1_r2l17"/>
-         </zone>
-         <zone points="502,382 2833,382 2833,2342 502,2342"
-               rendition="TextRegion"
-               xml:id="facs_1_r1">
-            <zone points="539,394 2608,394 2608,638 539,638"
-                  rendition="Line"
-                  xml:id="facs_1_r1l1"/>
-            <zone points="485,604 2800,604 2800,835 485,835"
-                  rendition="Line"
-                  xml:id="facs_1_l"/>
-            <zone points="596,855 2680,855 2680,1083 596,1083"
-                  rendition="Line"
-                  xml:id="facs_1_r1l4"/>
-            <zone points="623,1067 2762,1067 2762,1391 623,1391"
-                  rendition="Line"
-                  xml:id="facs_1_r1l5"/>
-            <zone points="731,1297 1638,1297 1638,1521 731,1521"
-                  rendition="Line"
-                  xml:id="facs_1_r1l6"/>
-            <zone points="944,1564 2577,1564 2577,1882 944,1882"
-                  rendition="Line"
-                  xml:id="facs_1_r1l7"/>
-            <zone points="727,1930 1405,1930 1405,2185 727,2185"
-                  rendition="Line"
-                  xml:id="facs_1_r1l8"/>
-            <zone points="1708,2082 2455,2082 2455,2367 1708,2367"
-                  rendition="Line"
-                  xml:id="facs_1_r1l9"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_2">
-         <graphic url="0002_GB-LET-GB-FB-1921-04-01-02.jpg"
-                  width="5788px"
-                  height="4635px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RKJLJPQMRTYPZWXUBKEDZMMT&amp;fileType=view"
-                  width="5788px"
-                  height="4635px"/>
-         <zone points="410,446 2851,446 2851,4200 410,4200"
-               rendition="TextRegion"
-               xml:id="facs_2_r1">
-            <zone points="390,452 2726,452 2726,770 390,770"
-                  rendition="Line"
-                  xml:id="facs_2_l"/>
-            <zone points="447,698 2786,698 2786,978 447,978"
-                  rendition="Line"
-                  xml:id="facs_2_r1l2"/>
-            <zone points="480,952 2759,952 2759,1211 480,1211"
-                  rendition="Line"
-                  xml:id="facs_2_r1l3"/>
-            <zone points="548,1190 2656,1190 2656,1481 548,1481"
-                  rendition="Line"
-                  xml:id="facs_2_l_684"/>
-            <zone points="582,1366 2624,1366 2624,1632 582,1632"
-                  rendition="Line"
-                  xml:id="facs_2_r1l5"/>
-            <zone points="565,1695 1160,1695 1160,1911 565,1911"
-                  rendition="Line"
-                  xml:id="facs_2_r1l6"/>
-            <zone points="564,1896 2792,1896 2792,2181 564,2181"
-                  rendition="Line"
-                  xml:id="facs_2_r1l7"/>
-            <zone points="475,2125 2603,2125 2603,2391 475,2391"
-                  rendition="Line"
-                  xml:id="facs_2_r1l8"/>
-            <zone points="555,2359 2685,2359 2685,2617 555,2617"
-                  rendition="Line"
-                  xml:id="facs_2_l_706"/>
-            <zone points="553,2602 2739,2602 2739,2885 553,2885"
-                  rendition="Line"
-                  xml:id="facs_2_r1l10"/>
-            <zone points="592,2884 2621,2884 2621,3140 592,3140"
-                  rendition="Line"
-                  xml:id="facs_2_r1l11"/>
-            <zone points="665,3304 2877,3304 2877,3437 665,3437"
-                  rendition="Line"
-                  xml:id="facs_2_r1l12"/>
-            <zone points="624,3560 2814,3560 2814,3628 624,3628"
-                  rendition="Line"
-                  xml:id="facs_2_r1l13"/>
-            <zone points="611,3681 2762,3681 2762,3939 611,3939"
-                  rendition="Line"
-                  xml:id="facs_2_r1l14"/>
-            <zone points="573,4080 2814,4080 2814,4179 573,4179"
-                  rendition="Line"
-                  xml:id="facs_2_r1l15"/>
-         </zone>
-         <zone points="3056,326 5556,326 5556,4331 3056,4331"
-               rendition="TextRegion"
-               xml:id="facs_2_r2">
-            <zone points="3057,354 5421,354 5421,619 3057,619"
-                  rendition="Line"
-                  xml:id="facs_2_l_725"/>
-            <zone points="3206,569 5352,569 5352,820 3206,820"
-                  rendition="Line"
-                  xml:id="facs_2_r2l3"/>
-            <zone points="3194,928 5348,928 5348,990 3194,990"
-                  rendition="Line"
-                  xml:id="facs_2_r2l4"/>
-            <zone points="3413,1081 5468,1081 5468,1399 3413,1399"
-                  rendition="Line"
-                  xml:id="facs_2_r2l5"/>
-            <zone points="3203,1329 5328,1329 5328,1680 3203,1680"
-                  rendition="Line"
-                  xml:id="facs_2_r2l6"/>
-            <zone points="3212,1629 5476,1629 5476,1881 3212,1881"
-                  rendition="Line"
-                  xml:id="facs_2_r2l7"/>
-            <zone points="3240,1913 5174,1913 5174,2172 3240,2172"
-                  rendition="Line"
-                  xml:id="facs_2_r2l8"/>
-            <zone points="3308,2136 5220,2136 5220,2422 3308,2422"
-                  rendition="Line"
-                  xml:id="facs_2_l_745"/>
-            <zone points="3331,2369 5360,2369 5360,2710 3331,2710"
-                  rendition="Line"
-                  xml:id="facs_2_r2l10"/>
-            <zone points="3342,2694 5374,2694 5374,2939 3342,2939"
-                  rendition="Line"
-                  xml:id="facs_2_r2l11"/>
-            <zone points="3284,2948 5404,2948 5404,3254 3284,3254"
-                  rendition="Line"
-                  xml:id="facs_2_r2l12"/>
-            <zone points="3238,3360 5323,3360 5323,3486 3238,3486"
-                  rendition="Line"
-                  xml:id="facs_2_r2l13"/>
-            <zone points="3250,3554 5369,3554 5369,3841 3250,3841"
-                  rendition="Line"
-                  xml:id="facs_2_r2l14"/>
-            <zone points="3256,3787 5509,3787 5509,4133 3256,4133"
-                  rendition="Line"
-                  xml:id="facs_2_r2l15"/>
-            <zone points="3314,4186 5556,4186 5556,4293 3314,4293"
-                  rendition="Line"
-                  xml:id="facs_2_r2l16"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_3">
-         <graphic url="0003_GB-LET-GB-FB-1921-04-02-01.jpg"
-                  width="3335px"
-                  height="2633px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KISMCGNQHRJRECGNTXJVONZE&amp;fileType=view"
-                  width="3335px"
-                  height="2633px"/>
-         <zone points="320,216 2918,216 2918,2377 320,2377"
-               rendition="TextRegion"
-               xml:id="facs_3_r1">
-            <zone points="304,210 745,210 745,717 304,717"
-                  rendition="Line"
-                  xml:id="facs_3_l"/>
-            <zone points="505,500 740,500 740,780 505,780"
-                  rendition="Line"
-                  xml:id="facs_3_l_140"/>
-            <zone points="482,600 898,600 898,1125 482,1125"
-                  rendition="Line"
-                  xml:id="facs_3_l_146"/>
-            <zone points="908,236 1570,236 1570,527 908,527"
-                  rendition="Line"
-                  xml:id="facs_3_r1l1"/>
-            <zone points="661,1140 2228,1140 2228,1495 661,1495"
-                  rendition="Line"
-                  xml:id="facs_3_r1l2"/>
-            <zone points="1134,1469 2491,1469 2491,1721 1134,1721"
-                  rendition="Line"
-                  xml:id="facs_3_r1l3"/>
-            <zone points="1850,1769 2860,1769 2860,1993 1850,1993"
-                  rendition="Line"
-                  xml:id="facs_3_r1l4"/>
-            <zone points="2214,2001 2927,2001 2927,2267 2214,2267"
-                  rendition="Line"
-                  xml:id="facs_3_r1l5"/>
-            <zone points="871,2101 1564,2101 1564,2321 871,2321"
-                  rendition="Line"
-                  xml:id="facs_3_r1l6"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_4">
-         <graphic url="0004_GB-LET-GB-FB-1921-04-02-02.jpg"
-                  width="3335px"
-                  height="2633px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BXZQLFOQPLTQRKQFWEZUIEKG&amp;fileType=view"
-                  width="3335px"
-                  height="2633px"/>
-         <zone points="411,1201 720,1201 720,1783 411,1783"
-               rendition="TextRegion"
-               xml:id="facs_4_r">
-            <zone points="447,1261 710,1261 710,1739 447,1739"
-                  rendition="Line"
-                  xml:id="facs_4_l"/>
-         </zone>
-      </surface>
-   </facsimile>
-   <text>
-      <body>
-         <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_r2">
-               <lb facs="#facs_1_r2l1" n="N001"/>
-               <choice>
-                  <abbr>
-                     <date when="1921-09-29">Sep</date>
-                  </abbr>
-                  <expan>September</expan>
-               </choice>
-               <date when="1921-09-29">29</date>
-               <lb facs="#facs_1_r2l2" n="N002"/>
-               <placeName ref="#place-7002482">Baghdad</placeName>
-               <lb facs="#facs_1_r2l3" n="N003"/> Darling <persName ref="#person-EH009">Mother</persName>. 
-               <lb facs="#facs_1_r2l4" n="N004"/>You haven't said anything 
-               <lb facs="#facs_1_r2l5" n="N005"/> about <persName ref="#person-EH163">Hugo</persName>'s engagement. I 
-               <lb facs="#facs_1_r2l6" n="N006"/>hope you like her + that 
-               <lb facs="#facs_1_r2l7" n="N007"/>you are happy about it.
-               <lb facs="#facs_1_r2l8" n="N008"/> His letter to me makes 
-               <lb facs="#facs_1_r2l9" n="N009"/> me feel it's very satisfactory, 
-               <lb facs="#facs_1_r2l10" n="N010"/> but I shall long to hear
-               <lb facs="#facs_1_r2l11" n="N011"/> what you think of her. 
-               <lb facs="#facs_1_r2l12" n="N012"/>Your account of the Trevelyan 
-               <lb facs="#facs_1_r2l13" n="N013"/>+ Richmond children is 
-               <lb facs="#facs_1_r2l14" n="N014"/> delightful - it will be 
-               <lb facs="#facs_1_r2l15" n="N015"/> nice having another family  
-               <lb facs="#facs_1_r2l16" n="N016"/> now, won't it? 
-               <lb facs="#facs_1_r2l17" n="N017"/> What a good place to do the 
-            </ab>
-            <ab facs="#facs_1_r1">
-               <lb facs="#facs_1_r1l1" n="N001"/>The <choice>
-                  <abbr>temp.</abbr>
-                  <expan>temperature</expan>
-               </choice> is now never
-               <lb facs="#facs_1_l" n="N002"/> above the <del rend="strikethrough">90</del> nineties - I
-               <lb facs="#facs_1_r1l4" n="N003"/> can't tell you what a 
-               <lb facs="#facs_1_r1l5" n="N004"/>blessed comfort it is not 
-               <lb facs="#facs_1_r1l6" n="N005"/> to be hot! 
-               <lb facs="#facs_1_r1l7" n="N006"/>Ever your very loving 
-               <lb facs="#facs_1_r1l8" n="N007"/> daughter
-               <lb facs="#facs_1_r1l9" n="N008"/>Gertrude.
-            </ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_r1">
-               <lb facs="#facs_2_l" n="N001"/>
-               <seg type="bibliographicNote-target-text">Heart of Yorkshire<note type="bibliographic">
-                     <bibl>
-                        <author>Lady Florence Bell</author>, <title>The Heart of Yorkshire\u003a A Play in Three Parts and an Epilogue.</title>
-                        <publisher>Arthur L. Humphreys: </publisher>
-                        <date>1923</date>
-                     </bibl>
-                  </note>
-               </seg> in <choice>
-                  <abbr>
-                     <placeName ref="#place-7010051">M'bro</placeName>
-                  </abbr>
-                  <expan>Middlesbrough</expan>
-               </choice>. I 
-               <lb facs="#facs_2_r1l2" n="N002"/>don't see why it shouldn't 
-               <lb facs="#facs_2_r1l3" n="N003"/> make a tour. I wonder if 
-               <lb facs="#facs_2_l_684" n="N004"/> it will still be running 
-               <lb facs="#facs_2_r1l5" n="N005"/> when I come back next 
-               <lb facs="#facs_2_r1l6" n="N006"/> year! 
-               <lb facs="#facs_2_r1l7" n="N007"/>Yes, you're right in saying 
-               <lb facs="#facs_2_r1l8" n="N008"/>that I'm having a very 
-               <lb facs="#facs_2_l_706" n="N009"/> curious existence, but I 
-               <lb facs="#facs_2_r1l10" n="N010"/>don't count for nearly as 
-               <lb facs="#facs_2_r1l11" n="N011"/> much as you think. It  
-               <lb facs="#facs_2_r1l12" n="N012"/> isn't I who settles policy, 
-               <lb facs="#facs_2_r1l13" n="N013"/> nor anyone but <persName ref="#person-EH002">Sir Percy</persName>. 
-               <lb facs="#facs_2_r1l14" n="N014"/> All I do is to gather for 
-               <lb facs="#facs_2_r1l15" n="N015"/> him as far as I can, the 
-            </ab>
-            <ab facs="#facs_2_r2">
-               <lb facs="#facs_2_l_725" n="N001"/> native point of view, <persName ref="#person-EH001">Faisal</persName>'s
-               <lb facs="#facs_2_r2l3" n="N002"/> or anyone's, which I hear 
-               <lb facs="#facs_2_r2l4" n="N003"/>in intimate conversation. 
-               <lb facs="#facs_2_r2l5" n="N004"/> I've just been sowing seeds 
-               <lb facs="#facs_2_r2l6" n="N005"/>in my garden + I find 
-               <lb facs="#facs_2_r2l7" n="N006"/> the wretched Kent + Boydon
-               <lb facs="#facs_2_r2l8" n="N007"/>haven't sent me any 
-               <lb facs="#facs_2_l_745" n="N008"/> dwarf nasturtium. I 
-               <lb facs="#facs_2_r2l10" n="N009"/>specially asked them to 
-               <lb facs="#facs_2_r2l11" n="N010"/> send me several mixed 
-               <lb facs="#facs_2_r2l12" n="N011"/>packets - do please tell 
-               <lb facs="#facs_2_r2l13" n="N012"/>them to do so <hi style="text-decoration: underline;">at once</hi>. 
-               <lb facs="#facs_2_r2l14" n="N013"/>I ought just to see it in  
-               <lb facs="#facs_2_r2l15" n="N014"/> flower before I come on leave 
-               <lb facs="#facs_2_r2l16" n="N015"/> next year + it's lovely here.
-            </ab>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_r1">
-               <lb facs="#facs_3_l" n="N001"/>
-               <add place="above">
-                  <date when="1921-10-10">
-                     <del rend="strikethrough">10 </del>
-                  </date>
-               </add>
-               <choice>
-                  <abbr>
-                     <add place="above">
-                        <date when="1921-10-10">
-                           <del rend="strikethrough">Oct</del>
-                        </date>
-                     </add>
-                  </abbr>
-                  <expan>October</expan>
-               </choice>. 
-               <lb facs="#facs_3_l_140" n="N002"/> 1921
-               <lb facs="#facs_3_l_146" n="N003"/>
-               <choice>
-                  <abbr>
-                     <add place="above">
-                        <date when="1921-09-29">Sep</date>
-                     </add>
-                  </abbr>
-                  <expan>September</expan>
-               </choice>
-               <add place="above">
-                  <date when="1921-09-29">.29 </date>
-               </add>
-               <lb facs="#facs_3_r1l1" n="N004"/>
-               <placeName ref="#place-7002482">Baghdad</placeName>
-               <lb facs="#facs_3_r1l2" n="N005"/>
-               <persName ref="#person-EH009">Lady Bell</persName>
-               <choice>
-                  <abbr>D B E</abbr>
-                  <expan>Dame (Commander of the Order) of the British Empire</expan>
-               </choice>
-               <lb facs="#facs_3_r1l3" n="N006"/> Rounton Grange
-               <lb facs="#facs_3_r1l4" n="N007"/>
-               <placeName ref="#place-1030202">Northallerton</placeName>
-               <lb facs="#facs_3_r1l5" n="N008"/>
-               <placeName ref="#place-7002445">England</placeName>
-               <lb facs="#facs_3_r1l6" n="N009"/> G L Bell
-            </ab>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <ab facs="#facs_4_r">
-               <lb facs="#facs_4_l" n="N001"/>
-               <add place="margin">Copy.</add>
-            </ab>
-         </div>
-      </body>
-   </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">GB-1-1-1-1-30-9</title>
+</titleStmt>
+<publicationStmt>
+<p>File created by Evolving Hands project, Newcastle University</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title type="main">GB-1-1-1-1-30-9</title>
+<idno type="Transkribus">1172126</idno>
+<idno type="external">NA</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc> </profileDesc>
+</teiHeader>
+<standOff>
+<listPerson>
+<person xml:id="person-EH009">
+<persName>Mother</persName>
+<idno type="EH">EH009</idno>
+</person>
+<person xml:id="person-EH163">
+<persName>Hugo</persName>
+<idno type="EH">EH163</idno>
+</person>
+<person xml:id="person-EH002">
+<persName>Sir Percy</persName>
+<idno type="EH">EH002</idno>
+</person>
+<person xml:id="person-EH001">
+<persName>Faisal</persName>
+<idno type="EH">EH001</idno>
+</person>
+</listPerson>
+<listPlace>
+<place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
+<placeName>Baghdād</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
+</place>
+<place xml:id="place-7010051" corresp="http://vocab.getty.edu/page/tgn/7010051">
+<placeName>Middlesbrough</placeName>
+<country>England</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7010051"/>
+</place>
+<place xml:id="place-1030202" corresp="http://vocab.getty.edu/page/tgn/1030202">
+<placeName>Northallerton</placeName>
+<country>England</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1030202"/>
+</place>
+<place xml:id="place-7002445" corresp="http://vocab.getty.edu/page/tgn/7002445">
+<placeName>England</placeName>
+<country>England</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002445"/>
+</place>
+</listPlace>
+</standOff>
+<facsimile>
+<surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_1">
+<graphic url="0001_GB-LET-GB-FB-1921-04-01-01.jpg" width="5788px" height="4635px"/>
+<graphic url="https://files.transkribus.eu/Get?id=FAJXNLSNCLKQWQNGTCZCDXOS&fileType=view" width="5788px" height="4635px"/>
+<zone points="3105,308 5575,308 5575,4178 3105,4178" rendition="TextRegion" xml:id="facs_1_r2">
+<zone points="3118,334 3607,334 3607,539 3118,539" rendition="Line" xml:id="facs_1_r2l1"/>
+<zone points="4520,293 5242,293 5242,519 4520,519" rendition="Line" xml:id="facs_1_r2l2"/>
+<zone points="3222,776 4385,776 4385,812 3222,812" rendition="Line" xml:id="facs_1_r2l3"/>
+<zone points="3468,994 5372,994 5372,1064 3468,1064" rendition="Line" xml:id="facs_1_r2l4"/>
+<zone points="3141,1100 5462,1100 5462,1337 3141,1337" rendition="Line" xml:id="facs_1_r2l5"/>
+<zone points="3189,1284 5367,1284 5367,1540 3189,1540" rendition="Line" xml:id="facs_1_r2l6"/>
+<zone points="3254,1614 5351,1614 5351,1714 3254,1714" rendition="Line" xml:id="facs_1_r2l7"/>
+<zone points="3207,1769 5253,1769 5253,2005 3207,2005" rendition="Line" xml:id="facs_1_r2l8"/>
+<zone points="3225,2119 5543,2119 5543,2257 3225,2257" rendition="Line" xml:id="facs_1_r2l9"/>
+<zone points="3221,2228 5441,2228 5441,2515 3221,2515" rendition="Line" xml:id="facs_1_r2l10"/>
+<zone points="3204,2610 5279,2610 5279,2680 3204,2680" rendition="Line" xml:id="facs_1_r2l11"/>
+<zone points="3379,2756 5460,2756 5460,3057 3379,3057" rendition="Line" xml:id="facs_1_r2l12"/>
+<zone points="3160,3022 5315,3022 5315,3231 3160,3231" rendition="Line" xml:id="facs_1_r2l13"/>
+<zone points="3207,3226 5275,3226 5275,3480 3207,3480" rendition="Line" xml:id="facs_1_r2l14"/>
+<zone points="3207,3448 5364,3448 5364,3743 3207,3743" rendition="Line" xml:id="facs_1_r2l15"/>
+<zone points="3228,3710 4668,3710 4668,3906 3228,3906" rendition="Line" xml:id="facs_1_r2l16"/>
+<zone points="3350,3898 5413,3898 5413,4175 3350,4175" rendition="Line" xml:id="facs_1_r2l17"/>
+</zone>
+<zone points="502,382 2833,382 2833,2342 502,2342" rendition="TextRegion" xml:id="facs_1_r1">
+<zone points="539,394 2608,394 2608,638 539,638" rendition="Line" xml:id="facs_1_r1l1"/>
+<zone points="485,604 2800,604 2800,835 485,835" rendition="Line" xml:id="facs_1_l"/>
+<zone points="596,855 2680,855 2680,1083 596,1083" rendition="Line" xml:id="facs_1_r1l4"/>
+<zone points="623,1067 2762,1067 2762,1391 623,1391" rendition="Line" xml:id="facs_1_r1l5"/>
+<zone points="731,1297 1638,1297 1638,1521 731,1521" rendition="Line" xml:id="facs_1_r1l6"/>
+<zone points="944,1564 2577,1564 2577,1882 944,1882" rendition="Line" xml:id="facs_1_r1l7"/>
+<zone points="727,1930 1405,1930 1405,2185 727,2185" rendition="Line" xml:id="facs_1_r1l8"/>
+<zone points="1708,2082 2455,2082 2455,2367 1708,2367" rendition="Line" xml:id="facs_1_r1l9"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_2">
+<graphic url="0002_GB-LET-GB-FB-1921-04-01-02.jpg" width="5788px" height="4635px"/>
+<graphic url="https://files.transkribus.eu/Get?id=RKJLJPQMRTYPZWXUBKEDZMMT&fileType=view" width="5788px" height="4635px"/>
+<zone points="410,446 2851,446 2851,4200 410,4200" rendition="TextRegion" xml:id="facs_2_r1">
+<zone points="390,452 2726,452 2726,770 390,770" rendition="Line" xml:id="facs_2_l"/>
+<zone points="447,698 2786,698 2786,978 447,978" rendition="Line" xml:id="facs_2_r1l2"/>
+<zone points="480,952 2759,952 2759,1211 480,1211" rendition="Line" xml:id="facs_2_r1l3"/>
+<zone points="548,1190 2656,1190 2656,1481 548,1481" rendition="Line" xml:id="facs_2_l_684"/>
+<zone points="582,1366 2624,1366 2624,1632 582,1632" rendition="Line" xml:id="facs_2_r1l5"/>
+<zone points="565,1695 1160,1695 1160,1911 565,1911" rendition="Line" xml:id="facs_2_r1l6"/>
+<zone points="564,1896 2792,1896 2792,2181 564,2181" rendition="Line" xml:id="facs_2_r1l7"/>
+<zone points="475,2125 2603,2125 2603,2391 475,2391" rendition="Line" xml:id="facs_2_r1l8"/>
+<zone points="555,2359 2685,2359 2685,2617 555,2617" rendition="Line" xml:id="facs_2_l_706"/>
+<zone points="553,2602 2739,2602 2739,2885 553,2885" rendition="Line" xml:id="facs_2_r1l10"/>
+<zone points="592,2884 2621,2884 2621,3140 592,3140" rendition="Line" xml:id="facs_2_r1l11"/>
+<zone points="665,3304 2877,3304 2877,3437 665,3437" rendition="Line" xml:id="facs_2_r1l12"/>
+<zone points="624,3560 2814,3560 2814,3628 624,3628" rendition="Line" xml:id="facs_2_r1l13"/>
+<zone points="611,3681 2762,3681 2762,3939 611,3939" rendition="Line" xml:id="facs_2_r1l14"/>
+<zone points="573,4080 2814,4080 2814,4179 573,4179" rendition="Line" xml:id="facs_2_r1l15"/>
+</zone>
+<zone points="3056,326 5556,326 5556,4331 3056,4331" rendition="TextRegion" xml:id="facs_2_r2">
+<zone points="3057,354 5421,354 5421,619 3057,619" rendition="Line" xml:id="facs_2_l_725"/>
+<zone points="3206,569 5352,569 5352,820 3206,820" rendition="Line" xml:id="facs_2_r2l3"/>
+<zone points="3194,928 5348,928 5348,990 3194,990" rendition="Line" xml:id="facs_2_r2l4"/>
+<zone points="3413,1081 5468,1081 5468,1399 3413,1399" rendition="Line" xml:id="facs_2_r2l5"/>
+<zone points="3203,1329 5328,1329 5328,1680 3203,1680" rendition="Line" xml:id="facs_2_r2l6"/>
+<zone points="3212,1629 5476,1629 5476,1881 3212,1881" rendition="Line" xml:id="facs_2_r2l7"/>
+<zone points="3240,1913 5174,1913 5174,2172 3240,2172" rendition="Line" xml:id="facs_2_r2l8"/>
+<zone points="3308,2136 5220,2136 5220,2422 3308,2422" rendition="Line" xml:id="facs_2_l_745"/>
+<zone points="3331,2369 5360,2369 5360,2710 3331,2710" rendition="Line" xml:id="facs_2_r2l10"/>
+<zone points="3342,2694 5374,2694 5374,2939 3342,2939" rendition="Line" xml:id="facs_2_r2l11"/>
+<zone points="3284,2948 5404,2948 5404,3254 3284,3254" rendition="Line" xml:id="facs_2_r2l12"/>
+<zone points="3238,3360 5323,3360 5323,3486 3238,3486" rendition="Line" xml:id="facs_2_r2l13"/>
+<zone points="3250,3554 5369,3554 5369,3841 3250,3841" rendition="Line" xml:id="facs_2_r2l14"/>
+<zone points="3256,3787 5509,3787 5509,4133 3256,4133" rendition="Line" xml:id="facs_2_r2l15"/>
+<zone points="3314,4186 5556,4186 5556,4293 3314,4293" rendition="Line" xml:id="facs_2_r2l16"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_3">
+<graphic url="0003_GB-LET-GB-FB-1921-04-02-01.jpg" width="3335px" height="2633px"/>
+<graphic url="https://files.transkribus.eu/Get?id=KISMCGNQHRJRECGNTXJVONZE&fileType=view" width="3335px" height="2633px"/>
+<zone points="320,216 2918,216 2918,2377 320,2377" rendition="TextRegion" xml:id="facs_3_r1">
+<zone points="304,210 745,210 745,717 304,717" rendition="Line" xml:id="facs_3_l"/>
+<zone points="505,500 740,500 740,780 505,780" rendition="Line" xml:id="facs_3_l_140"/>
+<zone points="482,600 898,600 898,1125 482,1125" rendition="Line" xml:id="facs_3_l_146"/>
+<zone points="908,236 1570,236 1570,527 908,527" rendition="Line" xml:id="facs_3_r1l1"/>
+<zone points="661,1140 2228,1140 2228,1495 661,1495" rendition="Line" xml:id="facs_3_r1l2"/>
+<zone points="1134,1469 2491,1469 2491,1721 1134,1721" rendition="Line" xml:id="facs_3_r1l3"/>
+<zone points="1850,1769 2860,1769 2860,1993 1850,1993" rendition="Line" xml:id="facs_3_r1l4"/>
+<zone points="2214,2001 2927,2001 2927,2267 2214,2267" rendition="Line" xml:id="facs_3_r1l5"/>
+<zone points="871,2101 1564,2101 1564,2321 871,2321" rendition="Line" xml:id="facs_3_r1l6"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_4">
+<graphic url="0004_GB-LET-GB-FB-1921-04-02-02.jpg" width="3335px" height="2633px"/>
+<graphic url="https://files.transkribus.eu/Get?id=BXZQLFOQPLTQRKQFWEZUIEKG&fileType=view" width="3335px" height="2633px"/>
+<zone points="411,1201 720,1201 720,1783 411,1783" rendition="TextRegion" xml:id="facs_4_r">
+<zone points="447,1261 710,1261 710,1739 447,1739" rendition="Line" xml:id="facs_4_l"/>
+</zone>
+</surface>
+</facsimile>
+<text>
+<body>
+<div>
+<pb facs="#facs_1" n="1" xml:id="img_0001"/>
+<ab facs="#facs_1_r2">
+<lb facs="#facs_1_r2l1" n="N001"/>
+<choice>
+<abbr>
+<date when="1921-09-29">Sep</date>
+</abbr>
+<expan>September</expan>
+</choice>
+<date when="1921-09-29">29</date>
+<lb facs="#facs_1_r2l2" n="N002"/>
+<placeName ref="#place-7002482">Baghdad</placeName>
+<lb facs="#facs_1_r2l3" n="N003"/>
+Darling
+<persName ref="#person-EH009">Mother</persName>
+.
+<lb facs="#facs_1_r2l4" n="N004"/>
+You haven't said anything
+<lb facs="#facs_1_r2l5" n="N005"/>
+about
+<persName ref="#person-EH163">Hugo</persName>
+'s engagement. I
+<lb facs="#facs_1_r2l6" n="N006"/>
+hope you like her + that
+<lb facs="#facs_1_r2l7" n="N007"/>
+you are happy about it.
+<lb facs="#facs_1_r2l8" n="N008"/>
+His letter to me makes
+<lb facs="#facs_1_r2l9" n="N009"/>
+me feel it's very satisfactory,
+<lb facs="#facs_1_r2l10" n="N010"/>
+but I shall long to hear
+<lb facs="#facs_1_r2l11" n="N011"/>
+what you think of her.
+<lb facs="#facs_1_r2l12" n="N012"/>
+Your account of the Trevelyan
+<lb facs="#facs_1_r2l13" n="N013"/>
++ Richmond children is
+<lb facs="#facs_1_r2l14" n="N014"/>
+delightful - it will be
+<lb facs="#facs_1_r2l15" n="N015"/>
+nice having another family
+<lb facs="#facs_1_r2l16" n="N016"/>
+now, won't it?
+<lb facs="#facs_1_r2l17" n="N017"/>
+What a good place to do the
+</ab>
+<ab facs="#facs_1_r1">
+<lb facs="#facs_1_r1l1" n="N001"/>
+The
+<choice>
+<abbr>temp.</abbr>
+<expan>temperature</expan>
+</choice>
+is now never
+<lb facs="#facs_1_l" n="N002"/>
+above the
+<del rend="strikethrough">90</del>
+nineties - I
+<lb facs="#facs_1_r1l4" n="N003"/>
+can't tell you what a
+<lb facs="#facs_1_r1l5" n="N004"/>
+blessed comfort it is not
+<lb facs="#facs_1_r1l6" n="N005"/>
+to be hot!
+<lb facs="#facs_1_r1l7" n="N006"/>
+Ever your very loving
+<lb facs="#facs_1_r1l8" n="N007"/>
+daughter
+<lb facs="#facs_1_r1l9" n="N008"/>
+Gertrude.
+</ab>
+<pb facs="#facs_2" n="2" xml:id="img_0002"/>
+<ab facs="#facs_2_r1">
+<lb facs="#facs_2_l" n="N001"/>
+<seg type="bibliographicNote-target-text">
+Heart of Yorkshire
+<note type="bibliographic">
+<bibl>
+<author>Lady Florence Bell</author>
+,
+<title>The Heart of Yorkshire\u003a A Play in Three Parts and an Epilogue.</title>
+<publisher>Arthur L. Humphreys: </publisher>
+<date>1923</date>
+</bibl>
+</note>
+</seg>
+in
+<choice>
+<abbr>
+<placeName ref="#place-7010051">M'bro</placeName>
+</abbr>
+<expan>Middlesbrough</expan>
+</choice>
+. I
+<lb facs="#facs_2_r1l2" n="N002"/>
+don't see why it shouldn't
+<lb facs="#facs_2_r1l3" n="N003"/>
+make a tour. I wonder if
+<lb facs="#facs_2_l_684" n="N004"/>
+it will still be running
+<lb facs="#facs_2_r1l5" n="N005"/>
+when I come back next
+<lb facs="#facs_2_r1l6" n="N006"/>
+year!
+<lb facs="#facs_2_r1l7" n="N007"/>
+Yes, you're right in saying
+<lb facs="#facs_2_r1l8" n="N008"/>
+that I'm having a very
+<lb facs="#facs_2_l_706" n="N009"/>
+curious existence, but I
+<lb facs="#facs_2_r1l10" n="N010"/>
+don't count for nearly as
+<lb facs="#facs_2_r1l11" n="N011"/>
+much as you think. It
+<lb facs="#facs_2_r1l12" n="N012"/>
+isn't I who settles policy,
+<lb facs="#facs_2_r1l13" n="N013"/>
+nor anyone but
+<persName ref="#person-EH002">Sir Percy</persName>
+.
+<lb facs="#facs_2_r1l14" n="N014"/>
+All I do is to gather for
+<lb facs="#facs_2_r1l15" n="N015"/>
+him as far as I can, the
+</ab>
+<ab facs="#facs_2_r2">
+<lb facs="#facs_2_l_725" n="N001"/>
+native point of view,
+<persName ref="#person-EH001">Faisal</persName>
+'s
+<lb facs="#facs_2_r2l3" n="N002"/>
+or anyone's, which I hear
+<lb facs="#facs_2_r2l4" n="N003"/>
+in intimate conversation.
+<lb facs="#facs_2_r2l5" n="N004"/>
+I've just been sowing seeds
+<lb facs="#facs_2_r2l6" n="N005"/>
+in my garden + I find
+<lb facs="#facs_2_r2l7" n="N006"/>
+the wretched Kent + Boydon
+<lb facs="#facs_2_r2l8" n="N007"/>
+haven't sent me any
+<lb facs="#facs_2_l_745" n="N008"/>
+dwarf nasturtium. I
+<lb facs="#facs_2_r2l10" n="N009"/>
+specially asked them to
+<lb facs="#facs_2_r2l11" n="N010"/>
+send me several mixed
+<lb facs="#facs_2_r2l12" n="N011"/>
+packets - do please tell
+<lb facs="#facs_2_r2l13" n="N012"/>
+them to do so
+<hi style="text-decoration: underline;">at once</hi>
+.
+<lb facs="#facs_2_r2l14" n="N013"/>
+I ought just to see it in
+<lb facs="#facs_2_r2l15" n="N014"/>
+flower before I come on leave
+<lb facs="#facs_2_r2l16" n="N015"/>
+next year + it's lovely here.
+</ab>
+<pb facs="#facs_3" n="3" xml:id="img_0003"/>
+<ab facs="#facs_3_r1">
+<lb facs="#facs_3_l" n="N001"/>
+<add place="above">
+<date when="1921-10-10">
+<del rend="strikethrough">10 </del>
+</date>
+</add>
+<choice>
+<abbr>
+<add place="above">
+<date when="1921-10-10">
+<del rend="strikethrough">Oct</del>
+</date>
+</add>
+</abbr>
+<expan>October</expan>
+</choice>
+.
+<lb facs="#facs_3_l_140" n="N002"/>
+1921
+<lb facs="#facs_3_l_146" n="N003"/>
+<choice>
+<abbr>
+<add place="above">
+<date when="1921-09-29">Sep</date>
+</add>
+</abbr>
+<expan>September</expan>
+</choice>
+<add place="above">
+<date when="1921-09-29">.29 </date>
+</add>
+<lb facs="#facs_3_r1l1" n="N004"/>
+<placeName ref="#place-7002482">Baghdad</placeName>
+<lb facs="#facs_3_r1l2" n="N005"/>
+<persName ref="#person-EH009">Lady Bell</persName>
+<choice>
+<abbr>D B E</abbr>
+<expan>Dame (Commander of the Order) of the British Empire</expan>
+</choice>
+<lb facs="#facs_3_r1l3" n="N006"/>
+Rounton Grange
+<lb facs="#facs_3_r1l4" n="N007"/>
+<placeName ref="#place-1030202">Northallerton</placeName>
+<lb facs="#facs_3_r1l5" n="N008"/>
+<placeName ref="#place-7002445">England</placeName>
+<lb facs="#facs_3_r1l6" n="N009"/>
+G L Bell
+</ab>
+<pb facs="#facs_4" n="4" xml:id="img_0004"/>
+<ab facs="#facs_4_r">
+<lb facs="#facs_4_l" n="N001"/>
+<add place="margin">Copy.</add>
+</ab>
+</div>
+</body>
+</text>
 </TEI>
