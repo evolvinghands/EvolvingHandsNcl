@@ -1,154 +1,123 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">GB-1-1-1-1-30-7</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>File created by Evolving Hands project, Newcastle University</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title type="main">GB-1-1-1-1-30-7</title>
-               <idno type="Transkribus">1172124</idno>
-               <idno type="external">NA</idno>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
-   <standOff>
-      <listPerson>
-         <person xml:id="person-EH009">
-            <persName>Mother</persName>
-            <idno type="EH">EH009</idno>
-         </person>
-         <person xml:id="person-EH121">
-            <persName>Blackwood</persName>
-            <idno type="EH">EH121</idno>
-         </person>
-      </listPerson>
-      <listPlace>
-         <place xml:id="place-7002482"
-                corresp="http://vocab.getty.edu/page/tgn/7002482">
-            <placeName>Baghdād</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
-         </place>
-      </listPlace>
-   </standOff>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="3574" lry="5240" xml:id="facs_1">
-         <graphic url="0001_GB-LET-GB-FB-1921-02-01-01.jpg"
-                  width="3574px"
-                  height="5240px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OPSPGGQLRQZUNGZRBHLYBCEQ&amp;fileType=view"
-                  width="3574px"
-                  height="5240px"/>
-         <zone points="608,434 3180,434 3180,4674 608,4674"
-               rendition="TextRegion"
-               xml:id="facs_1_r1">
-            <zone points="608,498 2428,498 2428,612 608,612"
-                  rendition="Line"
-                  xml:id="facs_1_r1l2"/>
-            <zone points="1008,838 2271,838 2271,1115 1008,1115"
-                  rendition="Line"
-                  xml:id="facs_1_r1l3"/>
-            <zone points="1317,1194 3015,1194 3015,1449 1317,1449"
-                  rendition="Line"
-                  xml:id="facs_1_r1l4"/>
-            <zone points="698,1540 3027,1540 3027,1831 698,1831"
-                  rendition="Line"
-                  xml:id="facs_1_r1l5"/>
-            <zone points="770,1886 3132,1886 3132,2056 770,2056"
-                  rendition="Line"
-                  xml:id="facs_1_r1l6"/>
-            <zone points="754,2192 2884,2192 2884,2530 754,2530"
-                  rendition="Line"
-                  xml:id="facs_1_l"/>
-            <zone points="794,2560 3034,2560 3034,2935 794,2935"
-                  rendition="Line"
-                  xml:id="facs_1_r1l8"/>
-            <zone points="856,2999 3110,2999 3110,3278 856,3278"
-                  rendition="Line"
-                  xml:id="facs_1_r1l9"/>
-            <zone points="922,3361 3188,3361 3188,3667 922,3667"
-                  rendition="Line"
-                  xml:id="facs_1_l_287"/>
-            <zone points="904,3747 3075,3747 3075,4048 904,4048"
-                  rendition="Line"
-                  xml:id="facs_1_l_298"/>
-            <zone points="970,4067 3176,4067 3176,4354 970,4354"
-                  rendition="Line"
-                  xml:id="facs_1_r1l12"/>
-            <zone points="960,4403 3176,4403 3176,4732 960,4732"
-                  rendition="Line"
-                  xml:id="facs_1_r1l13"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="3574" lry="5240" xml:id="facs_2">
-         <graphic url="0002_GB-LET-GB-FB-1921-02-01-02.jpg"
-                  width="3574px"
-                  height="5240px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RITDWNSYISSECOGKMJNMRUUV&amp;fileType=view"
-                  width="3574px"
-                  height="5240px"/>
-         <zone points="564,706 3096,706 3096,2852 564,2852"
-               rendition="TextRegion"
-               xml:id="facs_2_r1">
-            <zone points="549,646 2949,646 2949,1025 549,1025"
-                  rendition="Line"
-                  xml:id="facs_2_l_157"/>
-            <zone points="652,1034 3012,1034 3012,1329 652,1329"
-                  rendition="Line"
-                  xml:id="facs_2_r1l3"/>
-            <zone points="790,1508 2121,1508 2121,1574 790,1574"
-                  rendition="Line"
-                  xml:id="facs_2_r1l4"/>
-            <zone points="1201,1780 3112,1780 3112,2111 1201,2111"
-                  rendition="Line"
-                  xml:id="facs_2_r1l5"/>
-            <zone points="853,2195 1755,2195 1755,2525 853,2525"
-                  rendition="Line"
-                  xml:id="facs_2_r1l6"/>
-            <zone points="1981,2736 2883,2736 2883,2812 1981,2812"
-                  rendition="Line"
-                  xml:id="facs_2_r1l7"/>
-         </zone>
-      </surface>
-   </facsimile>
-   <text>
-      <body>
-         <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_r1">
-               <lb facs="#facs_1_r1l2" n="N001"/>
-               <placeName ref="#place-7002482">Baghdad</placeName>
-               <date when="1921-08-15">Aug 15</date>
-               <lb facs="#facs_1_r1l3" n="N002"/> Dearest <persName ref="#person-EH009">Mother</persName>
-               <lb facs="#facs_1_r1l4" n="N003"/> In case the copy 
-               <lb facs="#facs_1_r1l5" n="N004"/> of this which I sent by 
-               <lb facs="#facs_1_r1l6" n="N005"/> airmail does not reach 
-               <lb facs="#facs_1_l" n="N006"/>you I send one by 
-               <lb facs="#facs_1_r1l8" n="N007"/> post. It's an article 
-               <lb facs="#facs_1_r1l9" n="N008"/>for <persName ref="#person-EH121">Blackwood</persName> + will 
-               <lb facs="#facs_1_l_287" n="N009"/>you be very kind + 
-               <lb facs="#facs_1_l_298" n="N010"/> correct the proofs?
-               <lb facs="#facs_1_r1l12" n="N011"/>I would like him to 
-               <lb facs="#facs_1_r1l13" n="N012"/> print it as soon as 
-            </ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_r1">
-               <lb facs="#facs_2_l_157" n="N001"/> may be. I don't want 
-               <lb facs="#facs_2_r1l3" n="N002"/> to sign it with my
-               <lb facs="#facs_2_r1l4" n="N003"/> own name
-               <lb facs="#facs_2_r1l5" n="N004"/>Your very affectionate 
-               <lb facs="#facs_2_r1l6" n="N005"/> daughter
-               <lb facs="#facs_2_r1l7" n="N006"/>Gertrude.
-            </ab>
-         </div>
-      </body>
-   </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">GB-1-1-1-1-30-7</title>
+</titleStmt>
+<publicationStmt>
+<p>File created by Evolving Hands project, Newcastle University</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title type="main">GB-1-1-1-1-30-7</title>
+<idno type="Transkribus">1172124</idno>
+<idno type="external">NA</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc> </profileDesc>
+</teiHeader>
+<standOff>
+<listPerson>
+<person xml:id="person-EH009">
+<persName>Mother</persName>
+<idno type="EH">EH009</idno>
+</person>
+<person xml:id="person-EH121">
+<persName>Blackwood</persName>
+<idno type="EH">EH121</idno>
+</person>
+</listPerson>
+<listPlace>
+<place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
+<placeName>Baghdād</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
+</place>
+</listPlace>
+</standOff>
+<facsimile>
+<surface ulx="0" uly="0" lrx="3574" lry="5240" xml:id="facs_1">
+<graphic url="0001_GB-LET-GB-FB-1921-02-01-01.jpg" width="3574px" height="5240px"/>
+<graphic url="https://files.transkribus.eu/Get?id=OPSPGGQLRQZUNGZRBHLYBCEQ&fileType=view" width="3574px" height="5240px"/>
+<zone points="608,434 3180,434 3180,4674 608,4674" rendition="TextRegion" xml:id="facs_1_r1">
+<zone points="608,498 2428,498 2428,612 608,612" rendition="Line" xml:id="facs_1_r1l2"/>
+<zone points="1008,838 2271,838 2271,1115 1008,1115" rendition="Line" xml:id="facs_1_r1l3"/>
+<zone points="1317,1194 3015,1194 3015,1449 1317,1449" rendition="Line" xml:id="facs_1_r1l4"/>
+<zone points="698,1540 3027,1540 3027,1831 698,1831" rendition="Line" xml:id="facs_1_r1l5"/>
+<zone points="770,1886 3132,1886 3132,2056 770,2056" rendition="Line" xml:id="facs_1_r1l6"/>
+<zone points="754,2192 2884,2192 2884,2530 754,2530" rendition="Line" xml:id="facs_1_l"/>
+<zone points="794,2560 3034,2560 3034,2935 794,2935" rendition="Line" xml:id="facs_1_r1l8"/>
+<zone points="856,2999 3110,2999 3110,3278 856,3278" rendition="Line" xml:id="facs_1_r1l9"/>
+<zone points="922,3361 3188,3361 3188,3667 922,3667" rendition="Line" xml:id="facs_1_l_287"/>
+<zone points="904,3747 3075,3747 3075,4048 904,4048" rendition="Line" xml:id="facs_1_l_298"/>
+<zone points="970,4067 3176,4067 3176,4354 970,4354" rendition="Line" xml:id="facs_1_r1l12"/>
+<zone points="960,4403 3176,4403 3176,4732 960,4732" rendition="Line" xml:id="facs_1_r1l13"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="3574" lry="5240" xml:id="facs_2">
+<graphic url="0002_GB-LET-GB-FB-1921-02-01-02.jpg" width="3574px" height="5240px"/>
+<graphic url="https://files.transkribus.eu/Get?id=RITDWNSYISSECOGKMJNMRUUV&fileType=view" width="3574px" height="5240px"/>
+<zone points="564,706 3096,706 3096,2852 564,2852" rendition="TextRegion" xml:id="facs_2_r1">
+<zone points="549,646 2949,646 2949,1025 549,1025" rendition="Line" xml:id="facs_2_l_157"/>
+<zone points="652,1034 3012,1034 3012,1329 652,1329" rendition="Line" xml:id="facs_2_r1l3"/>
+<zone points="790,1508 2121,1508 2121,1574 790,1574" rendition="Line" xml:id="facs_2_r1l4"/>
+<zone points="1201,1780 3112,1780 3112,2111 1201,2111" rendition="Line" xml:id="facs_2_r1l5"/>
+<zone points="853,2195 1755,2195 1755,2525 853,2525" rendition="Line" xml:id="facs_2_r1l6"/>
+<zone points="1981,2736 2883,2736 2883,2812 1981,2812" rendition="Line" xml:id="facs_2_r1l7"/>
+</zone>
+</surface>
+</facsimile>
+<text>
+<body>
+<div>
+<pb facs="#facs_1" n="1" xml:id="img_0001"/>
+<ab facs="#facs_1_r1">
+<lb facs="#facs_1_r1l2" n="N001"/>
+<placeName ref="#place-7002482">Baghdad</placeName>
+<date when="1921-08-15">Aug 15</date>
+<lb facs="#facs_1_r1l3" n="N002"/>
+Dearest
+<persName ref="#person-EH009">Mother</persName>
+<lb facs="#facs_1_r1l4" n="N003"/>
+In case the copy
+<lb facs="#facs_1_r1l5" n="N004"/>
+of this which I sent by
+<lb facs="#facs_1_r1l6" n="N005"/>
+airmail does not reach
+<lb facs="#facs_1_l" n="N006"/>
+you I send one by
+<lb facs="#facs_1_r1l8" n="N007"/>
+post. It's an article
+<lb facs="#facs_1_r1l9" n="N008"/>
+for
+<persName ref="#person-EH121">Blackwood</persName>
++ will
+<lb facs="#facs_1_l_287" n="N009"/>
+you be very kind +
+<lb facs="#facs_1_l_298" n="N010"/>
+correct the proofs?
+<lb facs="#facs_1_r1l12" n="N011"/>
+I would like him to
+<lb facs="#facs_1_r1l13" n="N012"/>
+print it as soon as
+</ab>
+<pb facs="#facs_2" n="2" xml:id="img_0002"/>
+<ab facs="#facs_2_r1">
+<lb facs="#facs_2_l_157" n="N001"/>
+may be. I don't want
+<lb facs="#facs_2_r1l3" n="N002"/>
+to sign it with my
+<lb facs="#facs_2_r1l4" n="N003"/>
+own name
+<lb facs="#facs_2_r1l5" n="N004"/>
+Your very affectionate
+<lb facs="#facs_2_r1l6" n="N005"/>
+daughter
+<lb facs="#facs_2_r1l7" n="N006"/>
+Gertrude.
+</ab>
+</div>
+</body>
+</text>
 </TEI>
