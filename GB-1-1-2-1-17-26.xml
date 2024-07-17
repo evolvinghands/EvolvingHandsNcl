@@ -1,1512 +1,1275 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="main">GB-1-1-2-1-17-26</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>File created by Evolving Hands project, Newcastle University</p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title type="main">GB-1-1-2-1-17-26</title>
-               <idno type="Transkribus">1172183</idno>
-            </bibl>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
-   <standOff>
-      <listPerson>
-         <person xml:id="person-EH006">
-            <persName>Father</persName>
-            <idno type="EH">EH006</idno>
-         </person>
-         <person xml:id="person-EH001">
-            <persName>Faisal</persName>
-            <idno type="EH">EH001</idno>
-         </person>
-         <person xml:id="person-EH014">
-            <persName>Mr Cornwallis</persName>
-            <idno type="EH">EH014</idno>
-         </person>
-         <person xml:id="person-EH068">
-            <persName>the Naqib</persName>
-            <idno type="EH">EH068</idno>
-         </person>
-         <person xml:id="person-EH017">
-            <persName>Sasun</persName>
-            <idno type="EH">EH017</idno>
-         </person>
-         <person xml:id="person-EH108">
-            <persName>Hamid Khan</persName>
-            <idno type="EH">EH108</idno>
-         </person>
-         <person xml:id="person-EH034">
-            <persName>the Garbetts</persName>
-            <idno type="EH">EH034</idno>
-         </person>
-         <person xml:id="person-EH049">
-            <persName>Fakhri Jamil</persName>
-            <idno type="EH">EH049</idno>
-         </person>
-         <person xml:id="person-EH111">
-            <persName>Tabari</persName>
-            <idno type="EH">EH111</idno>
-         </person>
-         <person xml:id="person-EH112">
-            <persName>Rustam Haidar</persName>
-            <idno type="EH">EH112</idno>
-         </person>
-         <person xml:id="person-EH002">
-            <persName>Sir Percy Cox</persName>
-            <idno type="EH">EH002</idno>
-         </person>
-         <person xml:id="person-EH113">
-            <persName>Agha Khan</persName>
-            <idno type="EH">EH113</idno>
-         </person>
-         <person xml:id="person-EH058">
-            <persName>'Abdul Wahid</persName>
-            <idno type="EH">EH058</idno>
-         </person>
-         <person xml:id="person-EH073">
-            <persName>Muhammad Sadr</persName>
-            <idno type="EH">EH073</idno>
-         </person>
-         <person xml:id="person-EH005">
-            <persName>Sir Aylmer</persName>
-            <idno type="EH">EH005</idno>
-         </person>
-         <person xml:id="person-EH064">
-            <persName>Ibn Sa'ud</persName>
-            <idno type="EH">EH064</idno>
-         </person>
-         <person xml:id="person-EH042">
-            <persName>Fahad Beg</persName>
-            <idno type="EH">EH042</idno>
-         </person>
-         <person xml:id="person-EH114">
-            <persName>Nuri Pasha</persName>
-            <idno type="EH">EH114</idno>
-         </person>
-         <person xml:id="person-EH011">
-            <persName>Ja'far</persName>
-            <idno type="EH">EH011</idno>
-         </person>
-         <person xml:id="person-EH078">
-            <persName>Mrs Rosita Forbes</persName>
-            <idno type="EH">EH078</idno>
-         </person>
-         <person xml:id="person-EH115">
-            <persName>Ernest</persName>
-            <idno type="EH">EH115</idno>
-         </person>
-         <person xml:id="person-EH009">
-            <persName>Mother</persName>
-            <idno type="EH">EH009</idno>
-         </person>
-      </listPerson>
-      <listPlace>
-         <place xml:id="place-7002482"
-                corresp="http://vocab.getty.edu/page/tgn/7002482">
-            <placeName>Baghdād</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
-         </place>
-         <place xml:id="place-1079402"
-                corresp="http://vocab.getty.edu/page/tgn/1079402">
-            <placeName>Ar-Ramādī</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1079402"/>
-         </place>
-         <place xml:id="place-1001072"
-                corresp="http://vocab.getty.edu/page/tgn/1001072">
-            <placeName>Al Başrah</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001072"/>
-         </place>
-         <place xml:id="place-1123842"
-                corresp="http://vocab.getty.edu/page/tgn/1123842">
-            <placeName>Euphrates</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1123842"/>
-         </place>
-         <place xml:id="place-1079380"
-                corresp="http://vocab.getty.edu/page/tgn/1079380">
-            <placeName>Al-ʻAmārah</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1079380"/>
-         </place>
-         <place xml:id="place-6001610"
-                corresp="http://vocab.getty.edu/page/tgn/6001610">
-            <placeName>Ctesiphon</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/6001610"/>
-         </place>
-         <place xml:id="place-1130850"
-                corresp="http://vocab.getty.edu/page/tgn/1130850">
-            <placeName>Tigris River</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1130850"/>
-         </place>
-         <place xml:id="place-1001343"
-                corresp="http://vocab.getty.edu/page/tgn/1001343">
-            <placeName>Karbalā'</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001343"/>
-         </place>
-         <place xml:id="place-1001099"
-                corresp="http://vocab.getty.edu/page/tgn/1001099">
-            <placeName>An Najaf</placeName>
-            <country>Iraq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001099"/>
-         </place>
-         <place xml:id="place-1000140"
-                corresp="http://vocab.getty.edu/page/tgn/1000140">
-            <placeName>Sūrīyah</placeName>
-            <country>Sūrīyah</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000140"/>
-         </place>
-         <place xml:id="place-1000144"
-                corresp="http://vocab.getty.edu/page/tgn/1000144">
-            <placeName>Türkiye</placeName>
-            <country>Türkiye</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000144"/>
-         </place>
-         <place xml:id="place-7002857"
-                corresp="http://vocab.getty.edu/page/tgn/7002857">
-            <placeName>Bayrūt</placeName>
-            <country>Lebanon</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002857"/>
-         </place>
-         <place xml:id="place-1000126"
-                corresp="http://vocab.getty.edu/page/tgn/1000126">
-            <placeName>Lubnān</placeName>
-            <country>Lubnān</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000126"/>
-         </place>
-         <place xml:id="place-1000118"
-                corresp="http://vocab.getty.edu/page/tgn/1000118">
-            <placeName>Al-ʻIrāq</placeName>
-            <country>Al-ʻIrāq</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000118"/>
-         </place>
-         <place xml:id="place-7018359"
-                corresp="http://vocab.getty.edu/page/tgn/7018359">
-            <placeName>State of Palestine</placeName>
-            <country>State of Palestine</country>
-            <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7018359"/>
-         </place>
-      </listPlace>
-      <listOrg>
-         <org xml:id="org-139443653" corresp="http://viaf.org/viaf/139443653">
-            <orgName>L'Echo de Paris</orgName>
-            <event type="creation" when="1884">
-               <ab>1884</ab>
-            </event>
-            <event type="dissolution" when="1944">
-               <ab>1944</ab>
-            </event>
-            <idno type="VIAF">139443653</idno>
-         </org>
-      </listOrg>
-   </standOff>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_1">
-         <graphic url="0001_GB-LET-GB-HB-333-01-01.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UJRSGAMCUNTUGJDLKPFPTYLL&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="349,196 5096,196 5096,6293 349,6293"
-               rendition="TextRegion"
-               xml:id="facs_1_r1">
-            <zone points="351,236 3311,236 3311,457 351,457"
-                  rendition="Line"
-                  xml:id="facs_1_r1l1"/>
-            <zone points="1508,190 1910,190 1910,464 1508,464"
-                  rendition="Line"
-                  xml:id="facs_1_l"/>
-            <zone points="552,329 4982,329 4982,565 552,565"
-                  rendition="Line"
-                  xml:id="facs_1_r1l2"/>
-            <zone points="478,610 4831,610 4831,716 478,716"
-                  rendition="Line"
-                  xml:id="facs_1_r1l3"/>
-            <zone points="532,609 4860,609 4860,926 532,926"
-                  rendition="Line"
-                  xml:id="facs_1_r1l4"/>
-            <zone points="532,824 4981,824 4981,1153 532,1153"
-                  rendition="Line"
-                  xml:id="facs_1_r1l5"/>
-            <zone points="516,971 5093,971 5093,1249 516,1249"
-                  rendition="Line"
-                  xml:id="facs_1_r1l6"/>
-            <zone points="535,1276 4966,1276 4966,1442 535,1442"
-                  rendition="Line"
-                  xml:id="facs_1_r1l7"/>
-            <zone points="526,1310 4978,1310 4978,1710 526,1710"
-                  rendition="Line"
-                  xml:id="facs_1_r1l8"/>
-            <zone points="513,1526 5065,1526 5065,1885 513,1885"
-                  rendition="Line"
-                  xml:id="facs_1_r1l9"/>
-            <zone points="518,1715 5037,1715 5037,2046 518,2046"
-                  rendition="Line"
-                  xml:id="facs_1_r1l10"/>
-            <zone points="551,1884 5078,1884 5078,2230 551,2230"
-                  rendition="Line"
-                  xml:id="facs_1_r1l11"/>
-            <zone points="543,2076 5006,2076 5006,2357 543,2357"
-                  rendition="Line"
-                  xml:id="facs_1_r1l12"/>
-            <zone points="527,2293 5059,2293 5059,2563 527,2563"
-                  rendition="Line"
-                  xml:id="facs_1_r1l13"/>
-            <zone points="545,2404 4979,2404 4979,2717 545,2717"
-                  rendition="Line"
-                  xml:id="facs_1_r1l14"/>
-            <zone points="525,2742 5001,2742 5001,2856 525,2856"
-                  rendition="Line"
-                  xml:id="facs_1_r1l15"/>
-            <zone points="547,2804 5051,2804 5051,3093 547,3093"
-                  rendition="Line"
-                  xml:id="facs_1_r1l16"/>
-            <zone points="585,3112 5062,3112 5062,3248 585,3248"
-                  rendition="Line"
-                  xml:id="facs_1_r1l17"/>
-            <zone points="572,3181 4822,3181 4822,3452 572,3452"
-                  rendition="Line"
-                  xml:id="facs_1_r1l18"/>
-            <zone points="571,3296 5121,3296 5121,3657 571,3657"
-                  rendition="Line"
-                  xml:id="facs_1_r1l19"/>
-            <zone points="575,3526 5015,3526 5015,3854 575,3854"
-                  rendition="Line"
-                  xml:id="facs_1_r1l20"/>
-            <zone points="613,3777 4972,3777 4972,4050 613,4050"
-                  rendition="Line"
-                  xml:id="facs_1_r1l21"/>
-            <zone points="592,3935 4919,3935 4919,4209 592,4209"
-                  rendition="Line"
-                  xml:id="facs_1_r1l22"/>
-            <zone points="617,4123 5031,4123 5031,4382 617,4382"
-                  rendition="Line"
-                  xml:id="facs_1_l_786"/>
-            <zone points="596,4299 5035,4299 5035,4649 596,4649"
-                  rendition="Line"
-                  xml:id="facs_1_l_817"/>
-            <zone points="629,4584 2911,4584 2911,4652 629,4652"
-                  rendition="Line"
-                  xml:id="facs_1_r1l27"/>
-            <zone points="826,4780 5052,4780 5052,4932 826,4932"
-                  rendition="Line"
-                  xml:id="facs_1_r1l28"/>
-            <zone points="604,4962 4947,4962 4947,5097 604,5097"
-                  rendition="Line"
-                  xml:id="facs_1_r1l29"/>
-            <zone points="636,5106 5090,5106 5090,5451 636,5451"
-                  rendition="Line"
-                  xml:id="facs_1_l_848"/>
-            <zone points="631,5278 5050,5278 5050,5603 631,5603"
-                  rendition="Line"
-                  xml:id="facs_1_r1l32"/>
-            <zone points="646,5428 4965,5428 4965,5768 646,5768"
-                  rendition="Line"
-                  xml:id="facs_1_r1l33"/>
-            <zone points="653,5644 4807,5644 4807,5861 653,5861"
-                  rendition="Line"
-                  xml:id="facs_1_r1l34"/>
-            <zone points="684,5821 5024,5821 5024,6018 684,6018"
-                  rendition="Line"
-                  xml:id="facs_1_r1l35"/>
-            <zone points="677,6073 3251,6073 3251,6171 677,6171"
-                  rendition="Line"
-                  xml:id="facs_1_r1l36"/>
-            <zone points="953,6087 5015,6087 5015,6279 953,6279"
-                  rendition="Line"
-                  xml:id="facs_1_r1l37"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_2">
-         <graphic url="0002_GB-LET-GB-HB-333-01-02.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QZKELBNQOJTGGCJAOJHGCQBA&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="499,232 5159,232 5159,6219 499,6219"
-               rendition="TextRegion"
-               xml:id="facs_2_r1">
-            <zone points="511,229 5172,229 5172,522 511,522"
-                  rendition="Line"
-                  xml:id="facs_2_l"/>
-            <zone points="480,415 5167,415 5167,823 480,823"
-                  rendition="Line"
-                  xml:id="facs_2_l_839"/>
-            <zone points="541,598 5040,598 5040,998 541,998"
-                  rendition="Line"
-                  xml:id="facs_2_l_879"/>
-            <zone points="518,746 4892,746 4892,997 518,997"
-                  rendition="Line"
-                  xml:id="facs_2_r1l8"/>
-            <zone points="545,987 5127,987 5127,1201 545,1201"
-                  rendition="Line"
-                  xml:id="facs_2_r1l9"/>
-            <zone points="540,1110 5134,1110 5134,1374 540,1374"
-                  rendition="Line"
-                  xml:id="facs_2_r1l10"/>
-            <zone points="590,1306 5074,1306 5074,1582 590,1582"
-                  rendition="Line"
-                  xml:id="facs_2_r1l11"/>
-            <zone points="616,1546 5143,1546 5143,1678 616,1678"
-                  rendition="Line"
-                  xml:id="facs_2_r1l12"/>
-            <zone points="563,1601 5052,1601 5052,1877 563,1877"
-                  rendition="Line"
-                  xml:id="facs_2_r1l13"/>
-            <zone points="583,1802 5102,1802 5102,2067 583,2067"
-                  rendition="Line"
-                  xml:id="facs_2_r1l14"/>
-            <zone points="594,2000 5106,2000 5106,2259 594,2259"
-                  rendition="Line"
-                  xml:id="facs_2_l_919"/>
-            <zone points="574,2175 5047,2175 5047,2491 574,2491"
-                  rendition="Line"
-                  xml:id="facs_2_r1l17"/>
-            <zone points="609,2337 5100,2337 5100,2641 609,2641"
-                  rendition="Line"
-                  xml:id="facs_2_r1l18"/>
-            <zone points="637,2562 5151,2562 5151,2876 637,2876"
-                  rendition="Line"
-                  xml:id="facs_2_r1l19"/>
-            <zone points="607,2697 5080,2697 5080,3046 607,3046"
-                  rendition="Line"
-                  xml:id="facs_2_r1l20"/>
-            <zone points="653,2917 5141,2917 5141,3182 653,3182"
-                  rendition="Line"
-                  xml:id="facs_2_r1l21"/>
-            <zone points="638,3148 5143,3148 5143,3498 638,3498"
-                  rendition="Line"
-                  xml:id="facs_2_r1l22"/>
-            <zone points="672,3297 5162,3297 5162,3731 672,3731"
-                  rendition="Line"
-                  xml:id="facs_2_r1l23"/>
-            <zone points="672,3590 5084,3590 5084,3733 672,3733"
-                  rendition="Line"
-                  xml:id="facs_2_r1l24"/>
-            <zone points="675,3673 4933,3673 4933,3950 675,3950"
-                  rendition="Line"
-                  xml:id="facs_2_r1l25"/>
-            <zone points="741,3952 5057,3952 5057,4143 741,4143"
-                  rendition="Line"
-                  xml:id="facs_2_r1l26"/>
-            <zone points="671,3989 4832,3989 4832,4329 671,4329"
-                  rendition="Line"
-                  xml:id="facs_2_r1l27"/>
-            <zone points="698,4175 5141,4175 5141,4596 698,4596"
-                  rendition="Line"
-                  xml:id="facs_2_r1l28"/>
-            <zone points="725,4383 5035,4383 5035,4785 725,4785"
-                  rendition="Line"
-                  xml:id="facs_2_r1l29"/>
-            <zone points="657,4516 4988,4516 4988,4960 657,4960"
-                  rendition="Line"
-                  xml:id="facs_2_r1l30"/>
-            <zone points="665,4747 5047,4747 5047,5151 665,5151"
-                  rendition="Line"
-                  xml:id="facs_2_r1l31"/>
-            <zone points="721,5040 5024,5040 5024,5293 721,5293"
-                  rendition="Line"
-                  xml:id="facs_2_r1l32"/>
-            <zone points="741,5151 5061,5151 5061,5454 741,5454"
-                  rendition="Line"
-                  xml:id="facs_2_r1l33"/>
-            <zone points="702,5280 5130,5280 5130,5663 702,5663"
-                  rendition="Line"
-                  xml:id="facs_2_r1l34"/>
-            <zone points="730,5521 5110,5521 5110,5802 730,5802"
-                  rendition="Line"
-                  xml:id="facs_2_r1l35"/>
-            <zone points="739,5665 2034,5665 2034,5961 739,5961"
-                  rendition="Line"
-                  xml:id="facs_2_r1l36"/>
-            <zone points="980,5749 5130,5749 5130,6133 980,6133"
-                  rendition="Line"
-                  xml:id="facs_2_r1l37"/>
-            <zone points="769,6106 5109,6106 5109,6178 769,6178"
-                  rendition="Line"
-                  xml:id="facs_2_r1l39"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_3">
-         <graphic url="0003_GB-LET-GB-HB-333-02-01.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HFFCUKKQECQHVHIOBYIIWDEB&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="450,240 5174,240 5174,6219 450,6219"
-               rendition="TextRegion"
-               xml:id="facs_3_r2">
-            <zone points="484,292 570,292 570,333 484,333"
-                  rendition="Line"
-                  xml:id="facs_3_l_687"/>
-            <zone points="602,236 5080,236 5080,539 602,539"
-                  rendition="Line"
-                  xml:id="facs_3_l"/>
-            <zone points="536,468 5061,468 5061,705 536,705"
-                  rendition="Line"
-                  xml:id="facs_3_r2l4"/>
-            <zone points="570,629 5083,629 5083,905 570,905"
-                  rendition="Line"
-                  xml:id="facs_3_r2l5"/>
-            <zone points="590,721 5046,721 5046,1036 590,1036"
-                  rendition="Line"
-                  xml:id="facs_3_r2l6"/>
-            <zone points="613,950 5035,950 5035,1203 613,1203"
-                  rendition="Line"
-                  xml:id="facs_3_r2l7"/>
-            <zone points="629,1143 5204,1143 5204,1471 629,1471"
-                  rendition="Line"
-                  xml:id="facs_3_r2l8"/>
-            <zone points="596,1359 5179,1359 5179,1647 596,1647"
-                  rendition="Line"
-                  xml:id="facs_3_r2l9"/>
-            <zone points="652,1586 5110,1586 5110,1822 652,1822"
-                  rendition="Line"
-                  xml:id="facs_3_r2l10"/>
-            <zone points="613,1687 5089,1687 5089,1996 613,1996"
-                  rendition="Line"
-                  xml:id="facs_3_r2l11"/>
-            <zone points="683,1873 5024,1873 5024,2175 683,2175"
-                  rendition="Line"
-                  xml:id="facs_3_r2l12"/>
-            <zone points="599,2151 5168,2151 5168,2398 599,2398"
-                  rendition="Line"
-                  xml:id="facs_3_r2l13"/>
-            <zone points="622,2282 5159,2282 5159,2616 622,2616"
-                  rendition="Line"
-                  xml:id="facs_3_r2l14"/>
-            <zone points="635,2516 4973,2516 4973,2753 635,2753"
-                  rendition="Line"
-                  xml:id="facs_3_r2l15"/>
-            <zone points="674,2693 5062,2693 5062,3072 674,3072"
-                  rendition="Line"
-                  xml:id="facs_3_l_765"/>
-            <zone points="682,2942 5121,2942 5121,3178 682,3178"
-                  rendition="Line"
-                  xml:id="facs_3_r2l19"/>
-            <zone points="649,3152 5126,3152 5126,3441 649,3441"
-                  rendition="Line"
-                  xml:id="facs_3_r2l20"/>
-            <zone points="704,3330 4994,3330 4994,3645 704,3645"
-                  rendition="Line"
-                  xml:id="facs_3_r2l21"/>
-            <zone points="706,3573 5155,3573 5155,3874 706,3874"
-                  rendition="Line"
-                  xml:id="facs_3_r2l22"/>
-            <zone points="657,3747 4902,3747 4902,4031 657,4031"
-                  rendition="Line"
-                  xml:id="facs_3_r2l23"/>
-            <zone points="725,4092 5139,4092 5139,4226 725,4226"
-                  rendition="Line"
-                  xml:id="facs_3_r2l24"/>
-            <zone points="902,4310 5061,4310 5061,4422 902,4422"
-                  rendition="Line"
-                  xml:id="facs_3_r2l25"/>
-            <zone points="680,4514 5102,4514 5102,4671 680,4671"
-                  rendition="Line"
-                  xml:id="facs_3_r2l26"/>
-            <zone points="680,4613 4953,4613 4953,4925 680,4925"
-                  rendition="Line"
-                  xml:id="facs_3_r2l27"/>
-            <zone points="635,4781 4984,4781 4984,5137 635,5137"
-                  rendition="Line"
-                  xml:id="facs_3_r2l28"/>
-            <zone points="637,5058 5065,5058 5065,5388 637,5388"
-                  rendition="Line"
-                  xml:id="facs_3_r2l29"/>
-            <zone points="696,5194 4705,5194 4705,5480 696,5480"
-                  rendition="Line"
-                  xml:id="facs_3_r2l30"/>
-            <zone points="732,5402 4969,5402 4969,5717 732,5717"
-                  rendition="Line"
-                  xml:id="facs_3_l_802"/>
-            <zone points="709,5618 4918,5618 4918,5910 709,5910"
-                  rendition="Line"
-                  xml:id="facs_3_r2l33"/>
-            <zone points="724,5815 2702,5815 2702,6093 724,6093"
-                  rendition="Line"
-                  xml:id="facs_3_r2l34"/>
-            <zone points="868,6052 5063,6052 5063,6306 868,6306"
-                  rendition="Line"
-                  xml:id="facs_3_r2l35"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_4">
-         <graphic url="0004_GB-LET-GB-HB-333-02-02.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HDEDWQEXZIKWDGYGDZSTIBZQ&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="445,259 5120,259 5120,6309 445,6309"
-               rendition="TextRegion"
-               xml:id="facs_4_r1">
-            <zone points="422,288 5008,288 5008,481 422,481"
-                  rendition="Line"
-                  xml:id="facs_4_r1l1"/>
-            <zone points="473,481 5100,481 5100,705 473,705"
-                  rendition="Line"
-                  xml:id="facs_4_r1l2"/>
-            <zone points="456,687 5111,687 5111,965 456,965"
-                  rendition="Line"
-                  xml:id="facs_4_r1l3"/>
-            <zone points="494,846 5051,846 5051,1090 494,1090"
-                  rendition="Line"
-                  xml:id="facs_4_r1l4"/>
-            <zone points="565,1042 5001,1042 5001,1350 565,1350"
-                  rendition="Line"
-                  xml:id="facs_4_l"/>
-            <zone points="492,1259 5055,1259 5055,1489 492,1489"
-                  rendition="Line"
-                  xml:id="facs_4_l_725"/>
-            <zone points="555,1398 5101,1398 5101,1662 555,1662"
-                  rendition="Line"
-                  xml:id="facs_4_l_752"/>
-            <zone points="547,1617 5057,1617 5057,1985 547,1985"
-                  rendition="Line"
-                  xml:id="facs_4_r1l11"/>
-            <zone points="551,1805 5011,1805 5011,2203 551,2203"
-                  rendition="Line"
-                  xml:id="facs_4_l_785"/>
-            <zone points="646,2000 5105,2000 5105,2419 646,2419"
-                  rendition="Line"
-                  xml:id="facs_4_l_816"/>
-            <zone points="590,2226 5142,2226 5142,2555 590,2555"
-                  rendition="Line"
-                  xml:id="facs_4_r1l15"/>
-            <zone points="645,2498 4972,2498 4972,2765 645,2765"
-                  rendition="Line"
-                  xml:id="facs_4_r1l16"/>
-            <zone points="633,2639 5024,2639 5024,3037 633,3037"
-                  rendition="Line"
-                  xml:id="facs_4_r1l17"/>
-            <zone points="659,2884 5021,2884 5021,3288 659,3288"
-                  rendition="Line"
-                  xml:id="facs_4_r1l18"/>
-            <zone points="662,3068 4904,3068 4904,3475 662,3475"
-                  rendition="Line"
-                  xml:id="facs_4_r1l19"/>
-            <zone points="678,3351 5047,3351 5047,3642 678,3642"
-                  rendition="Line"
-                  xml:id="facs_4_r1l20"/>
-            <zone points="731,3571 5024,3571 5024,3889 731,3889"
-                  rendition="Line"
-                  xml:id="facs_4_r1l21"/>
-            <zone points="735,3771 5000,3771 5000,4207 735,4207"
-                  rendition="Line"
-                  xml:id="facs_4_r1l22"/>
-            <zone points="718,3995 5025,3995 5025,4375 718,4375"
-                  rendition="Line"
-                  xml:id="facs_4_r1l23"/>
-            <zone points="724,4211 4916,4211 4916,4597 724,4597"
-                  rendition="Line"
-                  xml:id="facs_4_r1l24"/>
-            <zone points="731,4393 5040,4393 5040,4824 731,4824"
-                  rendition="Line"
-                  xml:id="facs_4_r1l25"/>
-            <zone points="709,4676 4982,4676 4982,5015 709,5015"
-                  rendition="Line"
-                  xml:id="facs_4_r1l26"/>
-            <zone points="740,4882 5058,4882 5058,5274 740,5274"
-                  rendition="Line"
-                  xml:id="facs_4_r1l27"/>
-            <zone points="804,5124 5144,5124 5144,5472 804,5472"
-                  rendition="Line"
-                  xml:id="facs_4_r1l28"/>
-            <zone points="699,5274 4821,5274 4821,5695 699,5695"
-                  rendition="Line"
-                  xml:id="facs_4_r1l29"/>
-            <zone points="750,5583 4924,5583 4924,5824 750,5824"
-                  rendition="Line"
-                  xml:id="facs_4_r1l30"/>
-            <zone points="769,5680 5125,5680 5125,6034 769,6034"
-                  rendition="Line"
-                  xml:id="facs_4_r1l31"/>
-            <zone points="776,5886 4879,5886 4879,6186 776,6186"
-                  rendition="Line"
-                  xml:id="facs_4_r1l32"/>
-            <zone points="759,6136 5109,6136 5109,6303 759,6303"
-                  rendition="Line"
-                  xml:id="facs_4_r1l33"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_5">
-         <graphic url="0005_GB-LET-GB-HB-333-03-01.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QXZNJNXYGAFTJLQPAZICDTDE&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="458,193 5138,193 5138,6279 458,6279"
-               rendition="TextRegion"
-               xml:id="facs_5_r1">
-            <zone points="431,222 5008,222 5008,454 431,454"
-                  rendition="Line"
-                  xml:id="facs_5_r1l1"/>
-            <zone points="475,372 5018,372 5018,624 475,624"
-                  rendition="Line"
-                  xml:id="facs_5_r1l2"/>
-            <zone points="475,625 5111,625 5111,871 475,871"
-                  rendition="Line"
-                  xml:id="facs_5_r1l3"/>
-            <zone points="502,770 5143,770 5143,1026 502,1026"
-                  rendition="Line"
-                  xml:id="facs_5_r1l4"/>
-            <zone points="551,995 5084,995 5084,1236 551,1236"
-                  rendition="Line"
-                  xml:id="facs_5_r1l5"/>
-            <zone points="555,1258 5008,1258 5008,1498 555,1498"
-                  rendition="Line"
-                  xml:id="facs_5_r1l6"/>
-            <zone points="652,1496 5117,1496 5117,1593 652,1593"
-                  rendition="Line"
-                  xml:id="facs_5_r1l7"/>
-            <zone points="591,1519 3136,1519 3136,1827 591,1827"
-                  rendition="Line"
-                  xml:id="facs_5_r1l8"/>
-            <zone points="820,1920 5110,1920 5110,2116 820,2116"
-                  rendition="Line"
-                  xml:id="facs_5_r1l9"/>
-            <zone points="610,2114 5060,2114 5060,2295 610,2295"
-                  rendition="Line"
-                  xml:id="facs_5_r1l10"/>
-            <zone points="612,2286 5091,2286 5091,2514 612,2514"
-                  rendition="Line"
-                  xml:id="facs_5_r1l11"/>
-            <zone points="617,2405 5062,2405 5062,2666 617,2666"
-                  rendition="Line"
-                  xml:id="facs_5_r1l12"/>
-            <zone points="634,2592 5132,2592 5132,2893 634,2893"
-                  rendition="Line"
-                  xml:id="facs_5_r1l13"/>
-            <zone points="598,2769 5085,2769 5085,3113 598,3113"
-                  rendition="Line"
-                  xml:id="facs_5_r1l14"/>
-            <zone points="621,2990 5171,2990 5171,3351 621,3351"
-                  rendition="Line"
-                  xml:id="facs_5_r1l15"/>
-            <zone points="631,3292 5157,3292 5157,3607 631,3607"
-                  rendition="Line"
-                  xml:id="facs_5_r1l16"/>
-            <zone points="585,3384 5147,3384 5147,3783 585,3783"
-                  rendition="Line"
-                  xml:id="facs_5_r1l17"/>
-            <zone points="631,3630 5093,3630 5093,3983 631,3983"
-                  rendition="Line"
-                  xml:id="facs_5_r1l18"/>
-            <zone points="620,3824 5061,3824 5061,4128 620,4128"
-                  rendition="Line"
-                  xml:id="facs_5_r1l19"/>
-            <zone points="629,4118 5025,4118 5025,4362 629,4362"
-                  rendition="Line"
-                  xml:id="facs_5_r1l20"/>
-            <zone points="669,4195 5122,4195 5122,4534 669,4534"
-                  rendition="Line"
-                  xml:id="facs_5_r1l21"/>
-            <zone points="653,4453 4911,4453 4911,4746 653,4746"
-                  rendition="Line"
-                  xml:id="facs_5_r1l22"/>
-            <zone points="696,4645 5071,4645 5071,4876 696,4876"
-                  rendition="Line"
-                  xml:id="facs_5_r1l24"/>
-            <zone points="678,4964 4807,4964 4807,5044 678,5044"
-                  rendition="Line"
-                  xml:id="facs_5_r1l25"/>
-            <zone points="701,5162 5096,5162 5096,5242 701,5242"
-                  rendition="Line"
-                  xml:id="facs_5_r1l26"/>
-            <zone points="690,5370 5096,5370 5096,5444 690,5444"
-                  rendition="Line"
-                  xml:id="facs_5_r1l27"/>
-            <zone points="682,5407 5141,5407 5141,5733 682,5733"
-                  rendition="Line"
-                  xml:id="facs_5_r1l28"/>
-            <zone points="704,5624 4876,5624 4876,5998 704,5998"
-                  rendition="Line"
-                  xml:id="facs_5_r1l29"/>
-            <zone points="778,5801 5018,5801 5018,6125 778,6125"
-                  rendition="Line"
-                  xml:id="facs_5_r1l30"/>
-            <zone points="630,6008 5005,6008 5005,6270 630,6270"
-                  rendition="Line"
-                  xml:id="facs_5_r1l31"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_6">
-         <graphic url="0006_GB-LET-GB-HB-333-03-02.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IDSKTMXSJOQHRHMTVVXRJSVW&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="496,259 5143,259 5143,6325 496,6325"
-               rendition="TextRegion"
-               xml:id="facs_6_r1">
-            <zone points="520,372 4948,372 4948,448 520,448"
-                  rendition="Line"
-                  xml:id="facs_6_r1l2"/>
-            <zone points="554,546 5148,546 5148,654 554,654"
-                  rendition="Line"
-                  xml:id="facs_6_r1l3"/>
-            <zone points="586,774 4862,774 4862,842 586,842"
-                  rendition="Line"
-                  xml:id="facs_6_r1l4"/>
-            <zone points="620,838 4925,838 4925,1113 620,1113"
-                  rendition="Line"
-                  xml:id="facs_6_r1l5"/>
-            <zone points="615,1014 5121,1014 5121,1296 615,1296"
-                  rendition="Line"
-                  xml:id="facs_6_r1l6"/>
-            <zone points="592,1246 4941,1246 4941,1644 592,1644"
-                  rendition="Line"
-                  xml:id="facs_6_l"/>
-            <zone points="645,1479 5034,1479 5034,1757 645,1757"
-                  rendition="Line"
-                  xml:id="facs_6_l_734"/>
-            <zone points="661,1678 5023,1678 5023,2055 661,2055"
-                  rendition="Line"
-                  xml:id="facs_6_r1l11"/>
-            <zone points="687,1897 5096,1897 5096,2306 687,2306"
-                  rendition="Line"
-                  xml:id="facs_6_r1l12"/>
-            <zone points="635,2158 4970,2158 4970,2545 635,2545"
-                  rendition="Line"
-                  xml:id="facs_6_r1l13"/>
-            <zone points="679,2558 4927,2558 4927,2652 679,2652"
-                  rendition="Line"
-                  xml:id="facs_6_r1l14"/>
-            <zone points="639,2673 5079,2673 5079,2941 639,2941"
-                  rendition="Line"
-                  xml:id="facs_6_l_768"/>
-            <zone points="833,2908 5054,2908 5054,3288 833,3288"
-                  rendition="Line"
-                  xml:id="facs_6_r1l18"/>
-            <zone points="732,3125 4966,3125 4966,3437 732,3437"
-                  rendition="Line"
-                  xml:id="facs_6_r1l19"/>
-            <zone points="615,3356 4928,3356 4928,3678 615,3678"
-                  rendition="Line"
-                  xml:id="facs_6_r1l20"/>
-            <zone points="752,3584 4930,3584 4930,3950 752,3950"
-                  rendition="Line"
-                  xml:id="facs_6_r1l21"/>
-            <zone points="746,4030 5119,4030 5119,4126 746,4126"
-                  rendition="Line"
-                  xml:id="facs_6_r1l22"/>
-            <zone points="708,4298 2147,4298 2147,4341 708,4341"
-                  rendition="Line"
-                  xml:id="facs_6_r1l24"/>
-            <zone points="838,4293 4924,4293 4924,4556 838,4556"
-                  rendition="Line"
-                  xml:id="facs_6_r1l25"/>
-            <zone points="642,4664 4885,4664 4885,4730 642,4730"
-                  rendition="Line"
-                  xml:id="facs_6_r1l26"/>
-            <zone points="797,4872 5055,4872 5055,4958 797,4958"
-                  rendition="Line"
-                  xml:id="facs_6_r1l27"/>
-            <zone points="585,4937 4948,4937 4948,5197 585,5197"
-                  rendition="Line"
-                  xml:id="facs_6_l_795"/>
-            <zone points="545,5169 5058,5169 5058,5444 545,5444"
-                  rendition="Line"
-                  xml:id="facs_6_r1l30"/>
-            <zone points="501,5397 4859,5397 4859,5744 501,5744"
-                  rendition="Line"
-                  xml:id="facs_6_r1l31"/>
-            <zone points="511,5595 5019,5595 5019,5987 511,5987"
-                  rendition="Line"
-                  xml:id="facs_6_r1l32"/>
-            <zone points="596,5862 5052,5862 5052,6094 596,6094"
-                  rendition="Line"
-                  xml:id="facs_6_r1l34"/>
-            <zone points="602,6082 5052,6082 5052,6281 602,6281"
-                  rendition="Line"
-                  xml:id="facs_6_r1l35"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_7">
-         <graphic url="0007_GB-LET-GB-HB-333-04-01.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IGIENPKNCFGRNTRTJGPOSULU&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="394,277 5072,277 5072,6321 394,6321"
-               rendition="TextRegion"
-               xml:id="facs_7_r1">
-            <zone points="393,365 498,365 498,420 393,420"
-                  rendition="Line"
-                  xml:id="facs_7_l_623"/>
-            <zone points="430,272 5057,272 5057,506 430,506"
-                  rendition="Line"
-                  xml:id="facs_7_r1l1"/>
-            <zone points="489,600 5069,600 5069,674 489,674"
-                  rendition="Line"
-                  xml:id="facs_7_r1l2"/>
-            <zone points="737,810 5102,810 5102,988 737,988"
-                  rendition="Line"
-                  xml:id="facs_7_r1l3"/>
-            <zone points="548,1026 1834,1026 1834,1076 548,1076"
-                  rendition="Line"
-                  xml:id="facs_7_r1l4"/>
-            <zone points="642,1070 5092,1070 5092,1344 642,1344"
-                  rendition="Line"
-                  xml:id="facs_7_r1l5"/>
-            <zone points="524,1337 4859,1337 4859,1592 524,1592"
-                  rendition="Line"
-                  xml:id="facs_7_r1l6"/>
-            <zone points="542,1491 4923,1491 4923,1847 542,1847"
-                  rendition="Line"
-                  xml:id="facs_7_r1l7"/>
-            <zone points="560,1710 5061,1710 5061,2064 560,2064"
-                  rendition="Line"
-                  xml:id="facs_7_r1l8"/>
-            <zone points="635,2031 4998,2031 4998,2294 635,2294"
-                  rendition="Line"
-                  xml:id="facs_7_r1l9"/>
-            <zone points="585,2203 4880,2203 4880,2586 585,2586"
-                  rendition="Line"
-                  xml:id="facs_7_r1l10"/>
-            <zone points="639,2478 5067,2478 5067,2841 639,2841"
-                  rendition="Line"
-                  xml:id="facs_7_r1l11"/>
-            <zone points="588,2635 4471,2635 4471,3051 588,3051"
-                  rendition="Line"
-                  xml:id="facs_7_r1l12"/>
-            <zone points="793,2848 5074,2848 5074,3296 793,3296"
-                  rendition="Line"
-                  xml:id="facs_7_l"/>
-            <zone points="660,3264 3115,3264 3115,3305 660,3305"
-                  rendition="Line"
-                  xml:id="facs_7_r1l15"/>
-            <zone points="964,3399 4782,3399 4782,3705 964,3705"
-                  rendition="Line"
-                  xml:id="facs_7_r1l16"/>
-            <zone points="614,3678 5030,3678 5030,3983 614,3983"
-                  rendition="Line"
-                  xml:id="facs_7_r1l17"/>
-            <zone points="697,3856 2845,3856 2845,4139 697,4139"
-                  rendition="Line"
-                  xml:id="facs_7_r1l18"/>
-            <zone points="879,4106 5008,4106 5008,4322 879,4322"
-                  rendition="Line"
-                  xml:id="facs_7_r1l19"/>
-            <zone points="630,4420 5045,4420 5045,4500 630,4500"
-                  rendition="Line"
-                  xml:id="facs_7_r1l20"/>
-            <zone points="566,4534 4964,4534 4964,4712 566,4712"
-                  rendition="Line"
-                  xml:id="facs_7_r1l21"/>
-            <zone points="545,4734 5035,4734 5035,4928 545,4928"
-                  rendition="Line"
-                  xml:id="facs_7_r1l22"/>
-            <zone points="565,4883 4945,4883 4945,5117 565,5117"
-                  rendition="Line"
-                  xml:id="facs_7_r1l23"/>
-            <zone points="587,5025 5019,5025 5019,5368 587,5368"
-                  rendition="Line"
-                  xml:id="facs_7_r1l24"/>
-            <zone points="584,5233 5011,5233 5011,5530 584,5530"
-                  rendition="Line"
-                  xml:id="facs_7_r1l25"/>
-            <zone points="648,5502 4946,5502 4946,5627 648,5627"
-                  rendition="Line"
-                  xml:id="facs_7_r1l26"/>
-            <zone points="609,5541 5058,5541 5058,5830 609,5830"
-                  rendition="Line"
-                  xml:id="facs_7_r1l27"/>
-            <zone points="788,5749 4770,5749 4770,5981 788,5981"
-                  rendition="Line"
-                  xml:id="facs_7_r1l28"/>
-            <zone points="540,5918 4906,5918 4906,6189 540,6189"
-                  rendition="Line"
-                  xml:id="facs_7_r1l29"/>
-            <zone points="560,6180 4022,6180 4022,6286 560,6286"
-                  rendition="Line"
-                  xml:id="facs_7_r1l30"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_8">
-         <graphic url="0008_GB-LET-GB-HB-333-04-02.jpg"
-                  width="5418px"
-                  height="6580px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QFXZUVARHFGDVJGIQMLBEZWR&amp;fileType=view"
-                  width="5418px"
-                  height="6580px"/>
-         <zone points="514,251 5100,251 5100,3892 514,3892"
-               rendition="TextRegion"
-               xml:id="facs_8_r1">
-            <zone points="534,243 5129,243 5129,546 534,546"
-                  rendition="Line"
-                  xml:id="facs_8_r1l1"/>
-            <zone points="485,382 5083,382 5083,720 485,720"
-                  rendition="Line"
-                  xml:id="facs_8_r1l2"/>
-            <zone points="520,542 5003,542 5003,875 520,875"
-                  rendition="Line"
-                  xml:id="facs_8_r1l3"/>
-            <zone points="529,714 5099,714 5099,1108 529,1108"
-                  rendition="Line"
-                  xml:id="facs_8_r1l4"/>
-            <zone points="528,909 5068,909 5068,1265 528,1265"
-                  rendition="Line"
-                  xml:id="facs_8_r1l5"/>
-            <zone points="528,1164 4971,1164 4971,1351 528,1351"
-                  rendition="Line"
-                  xml:id="facs_8_r1l6"/>
-            <zone points="571,1373 1476,1373 1476,1628 571,1628"
-                  rendition="Line"
-                  xml:id="facs_8_r1l7"/>
-            <zone points="907,1431 4794,1431 4794,1856 907,1856"
-                  rendition="Line"
-                  xml:id="facs_8_r1l8"/>
-            <zone points="625,1740 4784,1740 4784,2034 625,2034"
-                  rendition="Line"
-                  xml:id="facs_8_r1l9"/>
-            <zone points="655,1928 5013,1928 5013,2259 655,2259"
-                  rendition="Line"
-                  xml:id="facs_8_r1l10"/>
-            <zone points="680,2251 4687,2251 4687,2542 680,2542"
-                  rendition="Line"
-                  xml:id="facs_8_r1l11"/>
-            <zone points="1172,2611 4968,2611 4968,2686 1172,2686"
-                  rendition="Line"
-                  xml:id="facs_8_r1l13"/>
-            <zone points="732,2695 4846,2695 4846,3053 732,3053"
-                  rendition="Line"
-                  xml:id="facs_8_r1l14"/>
-            <zone points="802,3100 3588,3100 3588,3195 802,3195"
-                  rendition="Line"
-                  xml:id="facs_8_r1l15"/>
-            <zone points="1780,3301 4096,3301 4096,3629 1780,3629"
-                  rendition="Line"
-                  xml:id="facs_8_r1l16"/>
-            <zone points="3719,3549 4383,3549 4383,3900 3719,3900"
-                  rendition="Line"
-                  xml:id="facs_8_r1l17"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="7397" lry="3302" xml:id="facs_9">
-         <graphic url="0009_GB-LET-GB-HB-333-05-01.jpg"
-                  width="7397px"
-                  height="3302px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WTSOGQBNVRVABXBMDJYKSTLP&amp;fileType=view"
-                  width="7397px"
-                  height="3302px"/>
-         <zone points="1490,430 5748,430 5748,2190 1490,2190"
-               rendition="TextRegion"
-               xml:id="facs_9_r1">
-            <zone points="1460,410 2462,410 2462,723 1460,723"
-                  rendition="Line"
-                  xml:id="facs_9_r1l1"/>
-            <zone points="2133,843 3702,843 3702,1377 2133,1377"
-                  rendition="Line"
-                  xml:id="facs_9_l"/>
-            <zone points="2745,1285 5654,1285 5654,1752 2745,1752"
-                  rendition="Line"
-                  xml:id="facs_9_l_125"/>
-            <zone points="3295,1802 5453,1802 5453,2296 3295,2296"
-                  rendition="Line"
-                  xml:id="facs_9_l_138"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="7397" lry="3302" xml:id="facs_10">
-         <graphic url="0010_GB-LET-GB-HB-333-05-02.jpg"
-                  width="7397px"
-                  height="3302px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HGPQQDIXAAZTPSPNIXHJQQJG&amp;fileType=view"
-                  width="7397px"
-                  height="3302px"/>
-         <zone points="810,982 1922,982 1922,2924 810,2924"
-               rendition="TextRegion"
-               xml:id="facs_10_r1">
-            <zone points="1622,871 1941,871 1941,1161 1622,1161"
-                  rendition="Line"
-                  xml:id="facs_10_r1l1"/>
-            <zone points="1519,1207 1861,1207 1861,1414 1519,1414"
-                  rendition="Line"
-                  xml:id="facs_10_r1l2"/>
-            <zone points="1679,1441 1932,1441 1932,1626 1679,1626"
-                  rendition="Line"
-                  xml:id="facs_10_r1l3"/>
-            <zone points="1070,1675 1225,1675 1225,2006 1070,2006"
-                  rendition="Line"
-                  xml:id="facs_10_r1l4"/>
-            <zone points="1464,1690 1849,1690 1849,2028 1464,2028"
-                  rendition="Line"
-                  xml:id="facs_10_r1l5"/>
-            <zone points="779,2025 1105,2025 1105,2315 779,2315"
-                  rendition="Line"
-                  xml:id="facs_10_r1l6"/>
-            <zone points="899,2358 1248,2358 1248,2588 899,2588"
-                  rendition="Line"
-                  xml:id="facs_10_r1l7"/>
-            <zone points="1148,2583 1944,2583 1944,2972 1148,2972"
-                  rendition="Line"
-                  xml:id="facs_10_r1l8"/>
-         </zone>
-         <zone points="1964,2122 2406,2122 2406,2688 1964,2688"
-               rendition="TextRegion"
-               xml:id="facs_10_r2">
-            <zone points="1934,2018 2413,2018 2413,2346 1934,2346"
-                  rendition="Line"
-                  xml:id="facs_10_r2l1"/>
-            <zone points="1949,2385 2424,2385 2424,2762 1949,2762"
-                  rendition="Line"
-                  xml:id="facs_10_r2l2"/>
-         </zone>
-         <zone points="2500,449 4336,449 4336,2926 2500,2926"
-               rendition="TextRegion"
-               xml:id="facs_10_r3">
-            <zone points="3605,300 4151,300 4151,620 3605,620"
-                  rendition="Line"
-                  xml:id="facs_10_r3l1"/>
-            <zone points="2759,364 3210,364 3210,730 2759,730"
-                  rendition="Line"
-                  xml:id="facs_10_r3l2"/>
-            <zone points="3908,676 4369,676 4369,992 3908,992"
-                  rendition="Line"
-                  xml:id="facs_10_r3l3"/>
-            <zone points="2509,660 3000,660 3000,1056 2509,1056"
-                  rendition="Line"
-                  xml:id="facs_10_r3l4"/>
-            <zone points="3903,1010 4162,1010 4162,1235 3903,1235"
-                  rendition="Line"
-                  xml:id="facs_10_r3l5"/>
-            <zone points="2480,1088 2709,1088 2709,1339 2480,1339"
-                  rendition="Line"
-                  xml:id="facs_10_r3l6"/>
-            <zone points="3080,1127 3788,1127 3788,1519 3080,1519"
-                  rendition="Line"
-                  xml:id="facs_10_r3l7"/>
-            <zone points="3922,1396 4132,1396 4132,1612 3922,1612"
-                  rendition="Line"
-                  xml:id="facs_10_r3l8"/>
-            <zone points="2996,1600 4277,1600 4277,2025 2996,2025"
-                  rendition="Line"
-                  xml:id="facs_10_r3l9"/>
-            <zone points="2479,1647 2975,1647 2975,1965 2479,1965"
-                  rendition="Line"
-                  xml:id="facs_10_r3l10"/>
-            <zone points="2532,2102 2688,2102 2688,2477 2532,2477"
-                  rendition="Line"
-                  xml:id="facs_10_r3l11"/>
-            <zone points="3209,2494 3806,2494 3806,2855 3209,2855"
-                  rendition="Line"
-                  xml:id="facs_10_r3l12"/>
-            <zone points="3660,2737 4113,2737 4113,3008 3660,3008"
-                  rendition="Line"
-                  xml:id="facs_10_r3l13"/>
-         </zone>
-         <zone points="4368,2288 4404,2288 4404,2438 4368,2438"
-               rendition="TextRegion"
-               xml:id="facs_10_r4">
-            <zone points="4352,2170 4420,2170 4420,2463 4352,2463"
-                  rendition="Line"
-                  xml:id="facs_10_r4l1"/>
-         </zone>
-         <zone points="4624,568 5284,568 5284,1679 4624,1679"
-               rendition="TextRegion"
-               xml:id="facs_10_r5">
-            <zone points="4608,439 4950,439 4950,714 4608,714"
-                  rendition="Line"
-                  xml:id="facs_10_r5l1"/>
-            <zone points="4607,699 5245,699 5245,988 4607,988"
-                  rendition="Line"
-                  xml:id="facs_10_r5l2"/>
-            <zone points="4642,933 4973,933 4973,1152 4642,1152"
-                  rendition="Line"
-                  xml:id="facs_10_r5l3"/>
-            <zone points="4616,1102 5302,1102 5302,1310 4616,1310"
-                  rendition="Line"
-                  xml:id="facs_10_r5l4"/>
-            <zone points="4695,1264 5127,1264 5127,1495 4695,1495"
-                  rendition="Line"
-                  xml:id="facs_10_r5l5"/>
-            <zone points="4697,1446 5262,1446 5262,1696 4697,1696"
-                  rendition="Line"
-                  xml:id="facs_10_r5l6"/>
-         </zone>
-         <zone points="5254,382 5418,382 5418,540 5254,540"
-               rendition="TextRegion"
-               xml:id="facs_10_r6">
-            <zone points="5232,337 5436,337 5436,566 5232,566"
-                  rendition="Line"
-                  xml:id="facs_10_r6l1"/>
-         </zone>
-      </surface>
-   </facsimile>
-   <text>
-      <body>
-         <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_r1">
-               <lb facs="#facs_1_r1l1" n="N001"/>
-               <choice>
-                  <abbr>
-                     <date when="1921-08-06">Aug</date>
-                  </abbr>
-                  <expan>August</expan>
-               </choice>
-               <date when="1921-08-06"> 6</date>
-               <placeName ref="#place-7002482">Baghdad</placeName>
-               <add place="in-line">Received</add>
-               <date when="1921-09-15">Sept 15th 1921</date>
-               <lb facs="#facs_1_l" n="N002"/>
-               <add place="below"> 1921</add>
-               <lb facs="#facs_1_r1l2" n="N003"/> Darling <persName ref="#person-EH006">Father</persName>. We have had a quiet week. The plebiscite is  
-               <lb facs="#facs_1_r1l3" n="N004"/> nearly finished throughout the country. Many districts, <placeName ref="#place-1079402">Ramadi</placeName>,
-               <lb facs="#facs_1_r1l4" n="N005"/>
-               <placeName ref="#place-1001072">Basrah</placeName>, the <placeName ref="#place-1123842">Euphrates</placeName>, <placeName ref="#place-1079380">Amarah</placeName>, have added a <choice>
-                  <corr>rider</corr>
-                  <sic>ryder</sic>
-               </choice> to the 
-               <lb facs="#facs_1_r1l5" n="N006"/>papers swearing allegiance to <persName ref="#person-EH001">Faisal</persName> "on condition that he  
-               <lb facs="#facs_1_r1l6" n="N007"/>accepts British guidance." This has more than counteracted
-               <lb facs="#facs_1_r1l7" n="N008"/>the folly of Baghdad. In not a single case has any anti- 
-               <lb facs="#facs_1_r1l8" n="N009"/> British provision been added + the Baghdad extremists are a  
-               <lb facs="#facs_1_r1l9" n="N010"/>butt for the ridicule of all. I sent you two more of Faisal's
-               <lb facs="#facs_1_r1l10" n="N011"/>admirable speeches. On Monday there was a reception for him 
-               <lb facs="#facs_1_r1l11" n="N012"/>given by the Armenians + Protestants. It was one of the prettiest
-               <lb facs="#facs_1_r1l12" n="N013"/> of all the Baghdad functions. It was given in the courtyard 
-               <lb facs="#facs_1_r1l13" n="N014"/> in front of the Armenian church which was hung with carpets
-               <lb facs="#facs_1_r1l14" n="N015"/>+ covered with awnings. There are a few palm trees in 
-               <lb facs="#facs_1_r1l15" n="N016"/>the court bearing now their heavy branches of dates.
-               <lb facs="#facs_1_r1l16" n="N017"/>The great fronds with their hanging crown of fruit looked 
-               <lb facs="#facs_1_r1l17" n="N018"/> like huge Corinthian capitals carrying the awning roof. 
-               <lb facs="#facs_1_r1l18" n="N019"/>Faisal, who catches at beauty, was delighted. He 
-               <lb facs="#facs_1_r1l19" n="N020"/> called me up onto his dais, to sit on one side of him, with 
-               <lb facs="#facs_1_r1l20" n="N021"/>the Armenian bishop on the other. I felt it was a little 
-               <lb facs="#facs_1_r1l21" n="N022"/>public, but it seemed best not to make a fuss but 
-               <lb facs="#facs_1_r1l22" n="N023"/> just to do as I was told. There were the usual two 
-               <lb facs="#facs_1_l_786" n="N024"/> hours of speeches, poems, sherbets + ices. His own 
-               <lb facs="#facs_1_l_817" n="N025"/> speech was unimportant - mere friendly encouragement 
-               <lb facs="#facs_1_r1l27" n="N026"/> of the Armenian community.
-               <lb facs="#facs_1_r1l28" n="N027"/> I had a terrific day on Tuesday. I got up at 4.45,
-               <lb facs="#facs_1_r1l29" n="N028"/> motored at 5.45 with <persName ref="#person-EH014">Mr Cornwallis</persName> to <placeName ref="#place-6001610">Ctesiphon</placeName> -
-               <lb facs="#facs_1_l_848" n="N029"/> we took Faisal there - office 10.30 to 3.30 with an 
-               <lb facs="#facs_1_r1l32" n="N030"/> interval for lunch, home to wash + change, visit to 
-               <lb facs="#facs_1_r1l33" n="N031"/>
-               <persName ref="#person-EH068">the Naqib</persName> 4.30 to 6, library committee 6 to 7, visit 
-               <lb facs="#facs_1_r1l34" n="N032"/> to <persName ref="#person-EH017">Sasun</persName>'s sister in law 7 to 7.30, <persName ref="#person-EH108">Hamid Khan</persName> to 
-               <lb facs="#facs_1_r1l35" n="N033"/> dinner 8 to 10. It was too much; I felt tired all next 
-               <lb facs="#facs_1_r1l36" n="N034"/> day - however it was worth it.
-               <lb facs="#facs_1_r1l37" n="N035"/>The Ctesiphon expedition was an immense success. I 
-            </ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-            <ab facs="#facs_2_r1">
-               <lb facs="#facs_2_l" n="N001"/> invited <persName ref="#person-EH001">Faisal</persName> + 2 of his <choice>
-                  <abbr>ADC</abbr>
-                  <expan>aide-de-camp</expan>
-               </choice>s, <persName ref="#person-EH034">the Garbetts</persName>, <persName ref="#person-EH049">Fakhri Jamil</persName>
-               <lb facs="#facs_2_l_839" n="N002"/> + <persName ref="#person-EH014">Mr Cornwallis</persName>, + I took <persName>Zaya</persName> with an excellent breakfast 
-               <lb facs="#facs_2_l_879" n="N003"/> of eggs, tongues, sardines + melons. It was wonderfully 
-               <lb facs="#facs_2_r1l8" n="N004"/> interesting showing that splendid place to Faisal. He is an 
-               <lb facs="#facs_2_r1l9" n="N005"/>inspiring tourist. After we had reconstructed the palace + seen 
-               <lb facs="#facs_2_r1l10" n="N006"/>
-               <persName>Chosroes</persName> sitting in it, I took him into the high mounds to the 
-               <lb facs="#facs_2_r1l11" n="N007"/> south, whence we could see the <placeName ref="#place-1130850">Tigris</placeName>, + told him the story 
-               <lb facs="#facs_2_r1l12" n="N008"/> of the Arab conquest as <persName ref="#person-EH111">Tabari</persName> records it, the fording of
-               <lb facs="#facs_2_r1l13" n="N009"/>the river + the rest of that magnificent tale. It was the 
-               <lb facs="#facs_2_r1l14" n="N010"/> tale of his own people - you can imagine what it was  
-               <lb facs="#facs_2_l_919" n="N011"/>like reciting it to him. I don't know which of us was 
-               <lb facs="#facs_2_r1l17" n="N012"/> the more thrilled. I had a good audience too in one of his 
-               <lb facs="#facs_2_r1l18" n="N013"/>
-               <choice>
-                  <abbr>ADC</abbr>
-                  <expan>aide-de-camp</expan>
-               </choice>s, a Syrian called <persName ref="#person-EH112">Rustam Haidar</persName> whom I like 
-               <lb facs="#facs_2_r1l19" n="N014"/>very much indeed - he's an intelligent well educated 
-               <lb facs="#facs_2_r1l20" n="N015"/> man + talks English admirably (though, if you'll forgive
-               <lb facs="#facs_2_r1l21" n="N016"/> me for saying so, not as well as I talk Arabic - 
-               <lb facs="#facs_2_r1l22" n="N017"/> at which I'm a real dab now; so we always talk
-               <lb facs="#facs_2_r1l23" n="N018"/>Arabic.) Fakhri Jamil has a large estate on the bank 
-               <lb facs="#facs_2_r1l24" n="N019"/>of the river opposite <placeName ref="#place-6001610">Ctesiphon</placeName> + he brought over some of 
-               <lb facs="#facs_2_r1l25" n="N020"/> his villagers with 4 lambs which they sacrificed to
-               <lb facs="#facs_2_r1l26" n="N021"/> Faisal just before breakfast - horrid. By this time, 
-               <lb facs="#facs_2_r1l27" n="N022"/> though the visit was incognito, the whole village of 
-               <lb facs="#facs_2_r1l28" n="N023"/> <placeName>Salman Pak</placeName> had become aware of Faisal's presence
-               <lb facs="#facs_2_r1l29" n="N024"/>+ assembled outside the ruins, but we kept them 
-               <lb facs="#facs_2_r1l30" n="N025"/> outside + ourselves sat down under the shadow of 
-               <lb facs="#facs_2_r1l31" n="N026"/>the curtain wall to the excellent breakfast which  
-               <lb facs="#facs_2_r1l32" n="N027"/> Zaya had spread for us. It was very merry,
-               <lb facs="#facs_2_r1l33" n="N028"/>Faisal in great spirits. They had hunted out all 
-               <lb facs="#facs_2_r1l34" n="N029"/> the school children + all the Sharifian flags they could  
-               <lb facs="#facs_2_r1l35" n="N030"/> muster into the single street of Salman Pak as we drove 
-               <lb facs="#facs_2_r1l36" n="N031"/> back through it.
-               <lb facs="#facs_2_r1l37" n="N032"/>Then the usual rushing morning, at the end of which I 
-               <lb facs="#facs_2_r1l39" n="N033"/>feel more dead than alive even when I haven't got up 
-            </ab>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-            <ab facs="#facs_3_r2">
-               <lb facs="#facs_3_l_687" n="N001"/>2
-               <lb facs="#facs_3_l" n="N002"/> before 5. I couldn't rest in the afternoon because of my 
-               <lb facs="#facs_3_r2l4" n="N003"/>appointment with <persName ref="#person-EH068">the Naqib</persName>. I never loved the old man  
-               <lb facs="#facs_3_r2l5" n="N004"/> more than that day, though it took him an hour + 
-               <lb facs="#facs_3_r2l6" n="N005"/> a half to say his say. He also was in the highest 
-               <lb facs="#facs_3_r2l7" n="N006"/> spirits + tremendously pleased with the part he has 
-               <lb facs="#facs_3_r2l8" n="N007"/> played. "<seg type="editorialNote-target-text">Khatun<note type="editorial">Female title of nobility\u003b counterpoint to 'khan'.</note>
-               </seg>" he said "you are my daughter, I will 
-               <lb facs="#facs_3_r2l9" n="N008"/> tell you all that passed through my mind. I have never 
-               <lb facs="#facs_3_r2l10" n="N009"/> since the coming of <persName ref="#person-EH002">Sir Percy Cox</persName> acted contrary to his 
-               <lb facs="#facs_3_r2l11" n="N010"/>advice or to the wish of the British Government. When I 
-               <lb facs="#facs_3_r2l12" n="N011"/> saw that Faisal was fit to be king + knew that 
-               <lb facs="#facs_3_r2l13" n="N012"/> the great <choice>
-                  <abbr>Govt</abbr>
-                  <expan>Government</expan>
-               </choice> favoured him, I determined that I must 
-               <lb facs="#facs_3_r2l14" n="N013"/>avoid all talk + gossip by rising myself in the Council
-               <lb facs="#facs_3_r2l15" n="N014"/>+ pronouncing him King. I thought: Shall I consult 
-               <lb facs="#facs_3_l_765" n="N015"/> Sir Percy Cox? + my own thoughts answered me. I 
-               <lb facs="#facs_3_r2l19" n="N016"/>had made up my mind - if he disagreed with me I 
-               <lb facs="#facs_3_r2l20" n="N017"/> could not change it. I am an old man, responsible 
-               <lb facs="#facs_3_r2l21" n="N018"/> only to God. Therefore I consulted no one." That 
-               <lb facs="#facs_3_r2l22" n="N019"/> was what he said - + he repeated it very often - 
-               <lb facs="#facs_3_r2l23" n="N020"/> but isn't it fine? It's a privilege to deal with 
-               <lb facs="#facs_3_r2l24" n="N021"/> gentlefolk + there's no greater gentleman than the Naqib.
-               <lb facs="#facs_3_r2l25" n="N022"/> So at the end of the day I came to <persName ref="#person-EH108">Hamid Khan</persName>, 
-               <lb facs="#facs_3_r2l26" n="N023"/>Mutasarrif of <placeName ref="#place-1001343">Karbala</placeName>, cousin of the <persName ref="#person-EH113">Agha Khan</persName>, 
-               <lb facs="#facs_3_r2l27" n="N024"/>+ a really staunch adherent - He was immensely 
-               <lb facs="#facs_3_r2l28" n="N025"/> interesting about the politics of Karbala + <placeName ref="#place-1001099">Najaf</placeName>
-               <lb facs="#facs_3_r2l29" n="N026"/> but by that time I was so sleepy, that his voice 
-               <lb facs="#facs_3_r2l30" n="N027"/>seemed to retire fainter + fainter into a dim 
-               <lb facs="#facs_3_l_802" n="N028"/> distance - + then I woke with a jump to 
-               <lb facs="#facs_3_r2l33" n="N029"/> supply the right answer about <persName ref="#person-EH058">'Abdul Wahid</persName>, or 
-               <lb facs="#facs_3_r2l34" n="N030"/> whoever it might be!
-               <lb facs="#facs_3_r2l35" n="N031"/>There was a curious episode in the middle of the 
-            </ab>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-            <ab facs="#facs_4_r1">
-               <lb facs="#facs_4_r1l1" n="N001"/> week about one of the newspapers. The editor in his
-               <lb facs="#facs_4_r1l2" n="N002"/>issue of Wednesday had quoted an article from an  
-               <lb facs="#facs_4_r1l3" n="N003"/> Egyptian paper + one from the <orgName ref="#org-139443653">Echo de Paris</orgName> about 
-               <lb facs="#facs_4_r1l4" n="N004"/>French policy in <placeName ref="#place-1000140">Syria</placeName>. He promised a leader on the
-               <lb facs="#facs_4_l" n="N005"/> subject next day, but when next day came there 
-               <lb facs="#facs_4_l_725" n="N006"/> wasn't a leader + I, thinking that the editor had 
-               <lb facs="#facs_4_l_752" n="N007"/> recalled my warnings, dismissed the matter from 
-               <lb facs="#facs_4_r1l11" n="N008"/> my mind. Not so the French consul - a snake in  
-               <lb facs="#facs_4_l_785" n="N009"/>the grass. He came in to complain to <persName ref="#person-EH002">Sir Percy</persName>
-               <lb facs="#facs_4_l_816" n="N010"/>of the leader that hadn't been written. Thereat 
-               <lb facs="#facs_4_r1l15" n="N011"/> Sir Percy told me to make sure that it wouldn't 
-               <lb facs="#facs_4_r1l16" n="N012"/> be written, + I sent a message to the creator.
-               <lb facs="#facs_4_r1l17" n="N013"/>Next day he came into the office at 7.30 + 
-               <lb facs="#facs_4_r1l18" n="N014"/> said my message had come too late, the leader 
-               <lb facs="#facs_4_r1l19" n="N015"/>had already been written + printed, but the 
-               <lb facs="#facs_4_r1l20" n="N016"/>paper wasn't yet out + might he read it to 
-               <lb facs="#facs_4_r1l21" n="N017"/>me? It was an article entitled Two policies, 
-               <lb facs="#facs_4_r1l22" n="N018"/> pointing out + tracing historically the history 
-               <lb facs="#facs_4_r1l23" n="N019"/> of French + British relations with <placeName ref="#place-1000144">Turkey</placeName> + 
-               <lb facs="#facs_4_r1l24" n="N020"/> with the Arabs + it was quite excellent;
-               <lb facs="#facs_4_r1l25" n="N021"/> it hit the nail on the head every time, but 
-               <lb facs="#facs_4_r1l26" n="N022"/> the more justly it hit the more infuriated the  
-               <lb facs="#facs_4_r1l27" n="N023"/> French consul would be. The editor said if I
-               <lb facs="#facs_4_r1l28" n="N024"/> didn't want it to be published he would suppress
-               <lb facs="#facs_4_r1l29" n="N025"/>the whole issue. I said I was really 
-               <lb facs="#facs_4_r1l30" n="N026"/>reluctant to do that but I would like to 
-               <lb facs="#facs_4_r1l31" n="N027"/> consult the High Commissioner. Sir Percy was at 
-               <lb facs="#facs_4_r1l32" n="N028"/> breakfast. I gave him a brief outline of the 
-               <lb facs="#facs_4_r1l33" n="N029"/>article + he decided that it had better
-            </ab>
-            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
-            <ab facs="#facs_5_r1">
-               <lb facs="#facs_5_r1l1" n="N001"/> 3 be suppressed, so I bought up the whole issue of the 
-               <lb facs="#facs_5_r1l2" n="N002"/> paper + burnt it! And we have now purchased the 
-               <lb facs="#facs_5_r1l3" n="N003"/>best of all weapons to use against the French consul 
-               <lb facs="#facs_5_r1l4" n="N004"/> if he complains again. But I'm going to have his blood. 
-               <lb facs="#facs_5_r1l5" n="N005"/>The Syrian papers, subsidized by the French, are full 
-               <lb facs="#facs_5_r1l6" n="N006"/> of the most violent abuse of us + of <persName ref="#person-EH001">Faisal</persName>
-               <lb facs="#facs_5_r1l7" n="N007"/>+ I've given my editors full permission to quote + 
-               <lb facs="#facs_5_r1l8" n="N008"/> comment on these passages.
-               <lb facs="#facs_5_r1l9" n="N009"/>I gave Faisal an account of the whole transaction,
-               <lb facs="#facs_5_r1l10" n="N010"/>together with the suppressed article, + next day,
-               <lb facs="#facs_5_r1l11" n="N011"/>like the trump he is, he played into our hands.
-               <lb facs="#facs_5_r1l12" n="N012"/>There happened to be a reception at the Persian
-               <lb facs="#facs_5_r1l13" n="N013"/>school to which I went as usual. It was all the 
-               <lb facs="#facs_5_r1l14" n="N014"/> more necessary to go because <persName ref="#person-EH073">Muhammad Sadr</persName>
-               <lb facs="#facs_5_r1l15" n="N015"/> was the organizer of the function + I feared that 
-               <lb facs="#facs_5_r1l16" n="N016"/> unsuitable things might be said, which my presence
-               <lb facs="#facs_5_r1l17" n="N017"/> would have a tendency to restrain. Muhammad
-               <lb facs="#facs_5_r1l18" n="N018"/> Sadr came in just before <seg type="editorialNote-target-text">the Amir<note type="editorial">Title used to refer to Faysal.</note>
-               </seg>. Everybody rose 
-               <lb facs="#facs_5_r1l19" n="N019"/> at his entrance - + I sat tight + gave him the 
-               <lb facs="#facs_5_r1l20" n="N020"/> salute I should give to anybody, after he had 
-               <lb facs="#facs_5_r1l21" n="N021"/> sat down. He was put on the left of the Amir's
-               <lb facs="#facs_5_r1l22" n="N022"/>throne, while I was on the right. I got up with 
-               <lb facs="#facs_5_r1l24" n="N023"/>alacrity for Faisal when he entered. (Next day one of the <seg type="editorialNote-target-text">Shi'ahs<note type="editorial">An Islamic sect who believe that the descendants of the Prophet Muhammad are the rightful leaders of Islam.</note>
-               </seg>
-               <lb facs="#facs_5_r1l25" n="N024"/> came to the office + expostulated with me. I 
-               <lb facs="#facs_5_r1l26" n="N025"/>replied "Why should I rise for Muhammad Sadr?
-               <lb facs="#facs_5_r1l27" n="N026"/> he is not even an <seg type="editorialNote-target-text">'alim<note type="editorial">An educated scholar of Islamic law.</note>
-               </seg>." "By God, that's true" 
-               <lb facs="#facs_5_r1l28" n="N027"/> he answered, + left a wiser man than he had 
-               <lb facs="#facs_5_r1l29" n="N028"/> come.) - Such an immense beetle has just 
-               <lb facs="#facs_5_r1l30" n="N029"/>flown into my room. I've invited it to leave -  
-               <lb facs="#facs_5_r1l31" n="N030"/> Well - all the speeches + poems were perfectly 
-            </ab>
-            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
-            <ab facs="#facs_6_r1">
-               <lb facs="#facs_6_r1l2" n="N001"/>in order till the very last, when a young idiot 
-               <lb facs="#facs_6_r1l3" n="N002"/> whom I've known for years - he's scarcely sane - 
-               <lb facs="#facs_6_r1l4" n="N003"/> got up + recited an ode about the throne of 
-               <lb facs="#facs_6_r1l5" n="N004"/>
-               <placeName ref="#place-7002857">Beyrut</placeName> + the mountains of <placeName ref="#place-1000126">Lebanon</placeName> + the 
-               <lb facs="#facs_6_r1l6" n="N005"/> desire of all Arabs. <persName ref="#person-EH001">Faisal</persName> whispered to me "Do
-               <lb facs="#facs_6_l" n="N006"/>you understand?" I said "Of course." He 
-               <lb facs="#facs_6_l_734" n="N007"/> went on "I think I must say a few words 
-               <lb facs="#facs_6_r1l11" n="N008"/> on that." I cheered him on. And just as he 
-               <lb facs="#facs_6_r1l12" n="N009"/> was going away he said "This is a private 
-               <lb facs="#facs_6_r1l13" n="N010"/> meeting + nothing that is spoken here has 
-               <lb facs="#facs_6_r1l14" n="N011"/>political importance, but I was sorry to 
-               <lb facs="#facs_6_l_768" n="N012"/> hear the ode of - Rashid, is his name?
-               <lb facs="#facs_6_r1l18" n="N013"/> (Rashid sank into the earth) + if I had 
-               <lb facs="#facs_6_r1l19" n="N014"/> known he intended to recite it I would  
-               <lb facs="#facs_6_r1l20" n="N015"/> have stopped him. I beg you to turn all 
-               <lb facs="#facs_6_r1l21" n="N016"/>your thoughts to the work of creating an 
-               <lb facs="#facs_6_r1l22" n="N017"/> Arab state in <placeName ref="#place-1000118">Mesopotamia</placeName>, + to think of 
-               <lb facs="#facs_6_r1l24" n="N018"/> nothing else."
-               <lb facs="#facs_6_r1l25" n="N019"/>His words were electric, the whole town is 
-               <lb facs="#facs_6_r1l26" n="N020"/>talking of them - isn't he a good colleague? 
-               <lb facs="#facs_6_r1l27" n="N021"/> I dined last night with <persName ref="#person-EH005">Sir Aylmer</persName> to meet him. 
-               <lb facs="#facs_6_l_795" n="N022"/>It was a small male dinner - I was the only 
-               <lb facs="#facs_6_r1l30" n="N023"/> woman. I sat by Faisal who was full of talk. 
-               <lb facs="#facs_6_r1l31" n="N024"/>He is tremendously excited about <persName ref="#person-EH064">Ibn Sa'ud</persName>'s 
-               <lb facs="#facs_6_r1l32" n="N025"/> claim to sovereignty over all our nomad tribes 
-               <lb facs="#facs_6_r1l34" n="N026"/>- chiefly <persName ref="#person-EH042">Fahad Beg</persName> of the 'Anizah. "I take witness 
-               <lb facs="#facs_6_r1l35" n="N027"/>in God" he said "if we don't stop Ibn Sa'ud, in 
-            </ab>
-            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-            <ab facs="#facs_7_r1">
-               <lb facs="#facs_7_l_623" n="N001"/>4
-               <lb facs="#facs_7_r1l1" n="N002"/>three months' time there will be another battle at 
-               <lb facs="#facs_7_r1l2" n="N003"/>
-               <placeName ref="#place-6001610">Ctesiphon</placeName> like that which you described to me."
-               <lb facs="#facs_7_r1l3" n="N004"/>But we shall stop him; his claims are absolutely 
-               <lb facs="#facs_7_r1l4" n="N005"/>inadmissible.
-               <lb facs="#facs_7_r1l5" n="N006"/>This evening <persName ref="#person-EH114">Nuri Pasha</persName>, <persName ref="#person-EH011">Ja'far</persName>'s brother in law
-               <lb facs="#facs_7_r1l6" n="N007"/> + <choice>
-                  <abbr>C.G.S.</abbr>
-                  <expan>Chief of the General Staff</expan>
-               </choice>, came to see me + we spent an hour 
-               <lb facs="#facs_7_r1l7" n="N008"/> praising all the gods we knew for what has 
-               <lb facs="#facs_7_r1l8" n="N009"/> been done here in the last 6 weeks. <persName ref="#person-EH001">Faisal</persName> has 
-               <lb facs="#facs_7_r1l9" n="N010"/> promised me a regiment of the Arab Army - the 
-               <lb facs="#facs_7_r1l10" n="N011"/>
-               <seg type="editorialNote-target-text">Khatun<note type="editorial">Female title of nobility\u003b counterpart of 'khan'.</note>
-               </seg>'s own. I shall presently ask you to 
-               <lb facs="#facs_7_r1l11" n="N012"/> have their colours embroidered. Nuri proposes
-               <lb facs="#facs_7_r1l12" n="N013"/>that I should have an army corps!
-               <lb facs="#facs_7_l" n="N014"/> Oh <persName ref="#person-EH006">Father</persName>, isn't it wonderful. I sometimes think 
-               <lb facs="#facs_7_r1l15" n="N015"/>I must be in a dream. 
-               <lb facs="#facs_7_r1l16" n="N016"/> Sorry to say that it's desperately hot
-               <lb facs="#facs_7_r1l17" n="N017"/> again. As regards climate this is being the 
-               <lb facs="#facs_7_r1l18" n="N018"/>Devil's own summer.
-               <lb facs="#facs_7_r1l19" n="N019"/> I must tell you another item of Nuri's conversation  
-               <lb facs="#facs_7_r1l20" n="N020"/>
-               <del rend="strikethrough"> - mind, you are not to repeat any of these things; I don't</del>
-               <lb facs="#facs_7_r1l21" n="N021"/> wish to emulate <persName ref="#person-EH078">Mrs Rosita Forbes</persName>. Nuri said "People 
-               <lb facs="#facs_7_r1l22" n="N022"/>like to see you at the meetings for Faisal. Wherever you are 
-               <lb facs="#facs_7_r1l23" n="N023"/>they know it will be all right. They think you keep <persName ref="#person-EH002">Sir Percy</persName>
-               <lb facs="#facs_7_r1l24" n="N024"/> straight." I said "That's entirely untrue - it was Sir Percy's 
-               <lb facs="#facs_7_r1l25" n="N025"/>policy from the first." "Yes" he said "I know. But it was yours 
-               <lb facs="#facs_7_r1l26" n="N026"/> even before Sir Percy came. People know that you always
-               <lb facs="#facs_7_r1l27" n="N027"/>advocated an Arab state + it gives them confidence to see you."
-               <lb facs="#facs_7_r1l28" n="N028"/>It's an advantage isn't it, + one which doesn't always
-               <lb facs="#facs_7_r1l29" n="N029"/> accrue to us here below, to have been consistently of 
-               <lb facs="#facs_7_r1l30" n="N030"/>the same mind from the very beginning! 
-            </ab>
-            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
-            <ab facs="#facs_8_r1">
-               <lb facs="#facs_8_r1l1" n="N001"/> I've got <persName ref="#person-EH115">Ernest</persName>'s letter + I'm writing to <persName>Herbert</persName>. I entirely agree 
-               <lb facs="#facs_8_r1l2" n="N002"/> with Ernest, it's just what I've always expected, +  
-               <lb facs="#facs_8_r1l3" n="N003"/> our success here is going to make things worse for them 
-               <lb facs="#facs_8_r1l4" n="N004"/>there. Again, if I'm not being very egregious, I lay claim 
-               <lb facs="#facs_8_r1l5" n="N005"/> to consistency from the first. I'm convinced you can't 
-               <lb facs="#facs_8_r1l6" n="N006"/> be pan-Arab in <placeName ref="#place-1000118">Mesopotamia</placeName> + pan-Jew in 
-               <lb facs="#facs_8_r1l7" n="N007"/>
-               <placeName ref="#place-7018359">Palestine</placeName>.
-               <lb facs="#facs_8_r1l8" n="N008"/> Darling I've got your letter of July 6 with the 
-               <lb facs="#facs_8_r1l9" n="N009"/> account of <persName ref="#person-EH009">Mother</persName>'s accident. She really is a 
-               <lb facs="#facs_8_r1l10" n="N010"/> remarkable lady - I do hope she is better. Soon 
-               <lb facs="#facs_8_r1l11" n="N011"/> I ought to hear of the success of the play. 
-               <lb facs="#facs_8_r1l13" n="N012"/>Goodbye - I hope you are not bored 
-               <lb facs="#facs_8_r1l14" n="N013"/> with my histories. It's such a comfort to 
-               <lb facs="#facs_8_r1l15" n="N014"/>have someone to tell them to! 
-               <lb facs="#facs_8_r1l16" n="N015"/>Your very loving daughter 
-               <lb facs="#facs_8_r1l17" n="N016"/>Gertrude
-            </ab>
-            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-            <ab facs="#facs_9_r1">
-               <lb facs="#facs_9_r1l1" n="N001"/>
-               <date when="1921-08-06"> Aug 6 1921</date>
-               <lb facs="#facs_9_l" n="N002"/>
-               <add place="in-line">From Gertrude</add>
-               <lb facs="#facs_9_l_125" n="N003"/>
-               <del rend="strikethrough">Rec</del> dated Aug 6 1921
-               <lb facs="#facs_9_l_138" n="N004"/>Received <date when="1921-09-15">Sep 15 1921</date>
-            </ab>
-            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-            <ab facs="#facs_10_r1">
-               <lb facs="#facs_10_r1l1" n="N001"/> hire 
-               <lb facs="#facs_10_r1l2" n="N002"/>also
-               <lb facs="#facs_10_r1l3" n="N003"/> food
-               <lb facs="#facs_10_r1l4" n="N004"/>of
-               <lb facs="#facs_10_r1l5" n="N005"/>case
-               <lb facs="#facs_10_r1l6" n="N006"/>for 
-               <lb facs="#facs_10_r1l7" n="N007"/> will
-               <lb facs="#facs_10_r1l8" n="N008"/>part of 
-            </ab>
-            <ab facs="#facs_10_r2">
-               <lb facs="#facs_10_r2l1" n="N001"/> See
-               <lb facs="#facs_10_r2l2" n="N002"/> of the 
-            </ab>
-            <ab facs="#facs_10_r3">
-               <lb facs="#facs_10_r3l1" n="N001"/> Skittles
-               <lb facs="#facs_10_r3l2" n="N002"/> the 
-               <lb facs="#facs_10_r3l3" n="N003"/> which 
-               <lb facs="#facs_10_r3l4" n="N004"/> titles
-               <lb facs="#facs_10_r3l5" n="N005"/> the 
-               <lb facs="#facs_10_r3l6" n="N006"/>54 
-               <lb facs="#facs_10_r3l7" n="N007"/>furnish
-               <lb facs="#facs_10_r3l8" n="N008"/> 22
-               <lb facs="#facs_10_r3l9" n="N009"/>Iittneresption
-               <lb facs="#facs_10_r3l10" n="N010"/>Habit
-               <lb facs="#facs_10_r3l11" n="N011"/>4
-               <lb facs="#facs_10_r3l12" n="N012"/>interest
-               <lb facs="#facs_10_r3l13" n="N013"/>first to
-            </ab>
-            <ab facs="#facs_10_r4">
-               <lb facs="#facs_10_r4l1" n="N001"/>I
-            </ab>
-            <ab facs="#facs_10_r5">
-               <lb facs="#facs_10_r5l1" n="N001"/> Bell
-               <lb facs="#facs_10_r5l2" n="N002"/>erected
-               <lb facs="#facs_10_r5l3" n="N003"/>This 
-               <lb facs="#facs_10_r5l4" n="N004"/>translated
-               <lb facs="#facs_10_r5l5" n="N005"/> Mother
-               <lb facs="#facs_10_r5l6" n="N006"/> Peibins
-            </ab>
-            <ab facs="#facs_10_r6">
-               <lb facs="#facs_10_r6l1" n="N001"/>or
-            </ab>
-         </div>
-      </body>
-   </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">GB-1-1-2-1-17-26</title>
+</titleStmt>
+<publicationStmt>
+<p>File created by Evolving Hands project, Newcastle University</p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title type="main">GB-1-1-2-1-17-26</title>
+<idno type="Transkribus">1172183</idno>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc> </profileDesc>
+</teiHeader>
+<standOff>
+<listPerson>
+<person xml:id="person-EH006">
+<persName>Father</persName>
+<idno type="EH">EH006</idno>
+</person>
+<person xml:id="person-EH001">
+<persName>Faisal</persName>
+<idno type="EH">EH001</idno>
+</person>
+<person xml:id="person-EH014">
+<persName>Mr Cornwallis</persName>
+<idno type="EH">EH014</idno>
+</person>
+<person xml:id="person-EH068">
+<persName>the Naqib</persName>
+<idno type="EH">EH068</idno>
+</person>
+<person xml:id="person-EH017">
+<persName>Sasun</persName>
+<idno type="EH">EH017</idno>
+</person>
+<person xml:id="person-EH108">
+<persName>Hamid Khan</persName>
+<idno type="EH">EH108</idno>
+</person>
+<person xml:id="person-EH034">
+<persName>the Garbetts</persName>
+<idno type="EH">EH034</idno>
+</person>
+<person xml:id="person-EH049">
+<persName>Fakhri Jamil</persName>
+<idno type="EH">EH049</idno>
+</person>
+<person xml:id="person-EH111">
+<persName>Tabari</persName>
+<idno type="EH">EH111</idno>
+</person>
+<person xml:id="person-EH112">
+<persName>Rustam Haidar</persName>
+<idno type="EH">EH112</idno>
+</person>
+<person xml:id="person-EH002">
+<persName>Sir Percy Cox</persName>
+<idno type="EH">EH002</idno>
+</person>
+<person xml:id="person-EH113">
+<persName>Agha Khan</persName>
+<idno type="EH">EH113</idno>
+</person>
+<person xml:id="person-EH058">
+<persName>'Abdul Wahid</persName>
+<idno type="EH">EH058</idno>
+</person>
+<person xml:id="person-EH073">
+<persName>Muhammad Sadr</persName>
+<idno type="EH">EH073</idno>
+</person>
+<person xml:id="person-EH005">
+<persName>Sir Aylmer</persName>
+<idno type="EH">EH005</idno>
+</person>
+<person xml:id="person-EH064">
+<persName>Ibn Sa'ud</persName>
+<idno type="EH">EH064</idno>
+</person>
+<person xml:id="person-EH042">
+<persName>Fahad Beg</persName>
+<idno type="EH">EH042</idno>
+</person>
+<person xml:id="person-EH114">
+<persName>Nuri Pasha</persName>
+<idno type="EH">EH114</idno>
+</person>
+<person xml:id="person-EH011">
+<persName>Ja'far</persName>
+<idno type="EH">EH011</idno>
+</person>
+<person xml:id="person-EH078">
+<persName>Mrs Rosita Forbes</persName>
+<idno type="EH">EH078</idno>
+</person>
+<person xml:id="person-EH115">
+<persName>Ernest</persName>
+<idno type="EH">EH115</idno>
+</person>
+<person xml:id="person-EH009">
+<persName>Mother</persName>
+<idno type="EH">EH009</idno>
+</person>
+</listPerson>
+<listPlace>
+<place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
+<placeName>Baghdād</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002482"/>
+</place>
+<place xml:id="place-1079402" corresp="http://vocab.getty.edu/page/tgn/1079402">
+<placeName>Ar-Ramādī</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1079402"/>
+</place>
+<place xml:id="place-1001072" corresp="http://vocab.getty.edu/page/tgn/1001072">
+<placeName>Al Başrah</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001072"/>
+</place>
+<place xml:id="place-1123842" corresp="http://vocab.getty.edu/page/tgn/1123842">
+<placeName>Euphrates</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1123842"/>
+</place>
+<place xml:id="place-1079380" corresp="http://vocab.getty.edu/page/tgn/1079380">
+<placeName>Al-ʻAmārah</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1079380"/>
+</place>
+<place xml:id="place-6001610" corresp="http://vocab.getty.edu/page/tgn/6001610">
+<placeName>Ctesiphon</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/6001610"/>
+</place>
+<place xml:id="place-1130850" corresp="http://vocab.getty.edu/page/tgn/1130850">
+<placeName>Tigris River</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1130850"/>
+</place>
+<place xml:id="place-1001343" corresp="http://vocab.getty.edu/page/tgn/1001343">
+<placeName>Karbalā'</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001343"/>
+</place>
+<place xml:id="place-1001099" corresp="http://vocab.getty.edu/page/tgn/1001099">
+<placeName>An Najaf</placeName>
+<country>Iraq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1001099"/>
+</place>
+<place xml:id="place-1000140" corresp="http://vocab.getty.edu/page/tgn/1000140">
+<placeName>Sūrīyah</placeName>
+<country>Sūrīyah</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000140"/>
+</place>
+<place xml:id="place-1000144" corresp="http://vocab.getty.edu/page/tgn/1000144">
+<placeName>Türkiye</placeName>
+<country>Türkiye</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000144"/>
+</place>
+<place xml:id="place-7002857" corresp="http://vocab.getty.edu/page/tgn/7002857">
+<placeName>Bayrūt</placeName>
+<country>Lebanon</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002857"/>
+</place>
+<place xml:id="place-1000126" corresp="http://vocab.getty.edu/page/tgn/1000126">
+<placeName>Lubnān</placeName>
+<country>Lubnān</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000126"/>
+</place>
+<place xml:id="place-1000118" corresp="http://vocab.getty.edu/page/tgn/1000118">
+<placeName>Al-ʻIrāq</placeName>
+<country>Al-ʻIrāq</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/1000118"/>
+</place>
+<place xml:id="place-7018359" corresp="http://vocab.getty.edu/page/tgn/7018359">
+<placeName>State of Palestine</placeName>
+<country>State of Palestine</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7018359"/>
+</place>
+</listPlace>
+<listOrg>
+<org xml:id="org-139443653" corresp="http://viaf.org/viaf/139443653">
+<orgName>L'Echo de Paris</orgName>
+<event type="creation" when="1884">
+<ab>1884</ab>
+</event>
+<event type="dissolution" when="1944">
+<ab>1944</ab>
+</event>
+<idno type="VIAF">139443653</idno>
+</org>
+</listOrg>
+</standOff>
+<facsimile>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_1">
+<graphic url="0001_GB-LET-GB-HB-333-01-01.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=UJRSGAMCUNTUGJDLKPFPTYLL&fileType=view" width="5418px" height="6580px"/>
+<zone points="349,196 5096,196 5096,6293 349,6293" rendition="TextRegion" xml:id="facs_1_r1">
+<zone points="351,236 3311,236 3311,457 351,457" rendition="Line" xml:id="facs_1_r1l1"/>
+<zone points="1508,190 1910,190 1910,464 1508,464" rendition="Line" xml:id="facs_1_l"/>
+<zone points="552,329 4982,329 4982,565 552,565" rendition="Line" xml:id="facs_1_r1l2"/>
+<zone points="478,610 4831,610 4831,716 478,716" rendition="Line" xml:id="facs_1_r1l3"/>
+<zone points="532,609 4860,609 4860,926 532,926" rendition="Line" xml:id="facs_1_r1l4"/>
+<zone points="532,824 4981,824 4981,1153 532,1153" rendition="Line" xml:id="facs_1_r1l5"/>
+<zone points="516,971 5093,971 5093,1249 516,1249" rendition="Line" xml:id="facs_1_r1l6"/>
+<zone points="535,1276 4966,1276 4966,1442 535,1442" rendition="Line" xml:id="facs_1_r1l7"/>
+<zone points="526,1310 4978,1310 4978,1710 526,1710" rendition="Line" xml:id="facs_1_r1l8"/>
+<zone points="513,1526 5065,1526 5065,1885 513,1885" rendition="Line" xml:id="facs_1_r1l9"/>
+<zone points="518,1715 5037,1715 5037,2046 518,2046" rendition="Line" xml:id="facs_1_r1l10"/>
+<zone points="551,1884 5078,1884 5078,2230 551,2230" rendition="Line" xml:id="facs_1_r1l11"/>
+<zone points="543,2076 5006,2076 5006,2357 543,2357" rendition="Line" xml:id="facs_1_r1l12"/>
+<zone points="527,2293 5059,2293 5059,2563 527,2563" rendition="Line" xml:id="facs_1_r1l13"/>
+<zone points="545,2404 4979,2404 4979,2717 545,2717" rendition="Line" xml:id="facs_1_r1l14"/>
+<zone points="525,2742 5001,2742 5001,2856 525,2856" rendition="Line" xml:id="facs_1_r1l15"/>
+<zone points="547,2804 5051,2804 5051,3093 547,3093" rendition="Line" xml:id="facs_1_r1l16"/>
+<zone points="585,3112 5062,3112 5062,3248 585,3248" rendition="Line" xml:id="facs_1_r1l17"/>
+<zone points="572,3181 4822,3181 4822,3452 572,3452" rendition="Line" xml:id="facs_1_r1l18"/>
+<zone points="571,3296 5121,3296 5121,3657 571,3657" rendition="Line" xml:id="facs_1_r1l19"/>
+<zone points="575,3526 5015,3526 5015,3854 575,3854" rendition="Line" xml:id="facs_1_r1l20"/>
+<zone points="613,3777 4972,3777 4972,4050 613,4050" rendition="Line" xml:id="facs_1_r1l21"/>
+<zone points="592,3935 4919,3935 4919,4209 592,4209" rendition="Line" xml:id="facs_1_r1l22"/>
+<zone points="617,4123 5031,4123 5031,4382 617,4382" rendition="Line" xml:id="facs_1_l_786"/>
+<zone points="596,4299 5035,4299 5035,4649 596,4649" rendition="Line" xml:id="facs_1_l_817"/>
+<zone points="629,4584 2911,4584 2911,4652 629,4652" rendition="Line" xml:id="facs_1_r1l27"/>
+<zone points="826,4780 5052,4780 5052,4932 826,4932" rendition="Line" xml:id="facs_1_r1l28"/>
+<zone points="604,4962 4947,4962 4947,5097 604,5097" rendition="Line" xml:id="facs_1_r1l29"/>
+<zone points="636,5106 5090,5106 5090,5451 636,5451" rendition="Line" xml:id="facs_1_l_848"/>
+<zone points="631,5278 5050,5278 5050,5603 631,5603" rendition="Line" xml:id="facs_1_r1l32"/>
+<zone points="646,5428 4965,5428 4965,5768 646,5768" rendition="Line" xml:id="facs_1_r1l33"/>
+<zone points="653,5644 4807,5644 4807,5861 653,5861" rendition="Line" xml:id="facs_1_r1l34"/>
+<zone points="684,5821 5024,5821 5024,6018 684,6018" rendition="Line" xml:id="facs_1_r1l35"/>
+<zone points="677,6073 3251,6073 3251,6171 677,6171" rendition="Line" xml:id="facs_1_r1l36"/>
+<zone points="953,6087 5015,6087 5015,6279 953,6279" rendition="Line" xml:id="facs_1_r1l37"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_2">
+<graphic url="0002_GB-LET-GB-HB-333-01-02.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=QZKELBNQOJTGGCJAOJHGCQBA&fileType=view" width="5418px" height="6580px"/>
+<zone points="499,232 5159,232 5159,6219 499,6219" rendition="TextRegion" xml:id="facs_2_r1">
+<zone points="511,229 5172,229 5172,522 511,522" rendition="Line" xml:id="facs_2_l"/>
+<zone points="480,415 5167,415 5167,823 480,823" rendition="Line" xml:id="facs_2_l_839"/>
+<zone points="541,598 5040,598 5040,998 541,998" rendition="Line" xml:id="facs_2_l_879"/>
+<zone points="518,746 4892,746 4892,997 518,997" rendition="Line" xml:id="facs_2_r1l8"/>
+<zone points="545,987 5127,987 5127,1201 545,1201" rendition="Line" xml:id="facs_2_r1l9"/>
+<zone points="540,1110 5134,1110 5134,1374 540,1374" rendition="Line" xml:id="facs_2_r1l10"/>
+<zone points="590,1306 5074,1306 5074,1582 590,1582" rendition="Line" xml:id="facs_2_r1l11"/>
+<zone points="616,1546 5143,1546 5143,1678 616,1678" rendition="Line" xml:id="facs_2_r1l12"/>
+<zone points="563,1601 5052,1601 5052,1877 563,1877" rendition="Line" xml:id="facs_2_r1l13"/>
+<zone points="583,1802 5102,1802 5102,2067 583,2067" rendition="Line" xml:id="facs_2_r1l14"/>
+<zone points="594,2000 5106,2000 5106,2259 594,2259" rendition="Line" xml:id="facs_2_l_919"/>
+<zone points="574,2175 5047,2175 5047,2491 574,2491" rendition="Line" xml:id="facs_2_r1l17"/>
+<zone points="609,2337 5100,2337 5100,2641 609,2641" rendition="Line" xml:id="facs_2_r1l18"/>
+<zone points="637,2562 5151,2562 5151,2876 637,2876" rendition="Line" xml:id="facs_2_r1l19"/>
+<zone points="607,2697 5080,2697 5080,3046 607,3046" rendition="Line" xml:id="facs_2_r1l20"/>
+<zone points="653,2917 5141,2917 5141,3182 653,3182" rendition="Line" xml:id="facs_2_r1l21"/>
+<zone points="638,3148 5143,3148 5143,3498 638,3498" rendition="Line" xml:id="facs_2_r1l22"/>
+<zone points="672,3297 5162,3297 5162,3731 672,3731" rendition="Line" xml:id="facs_2_r1l23"/>
+<zone points="672,3590 5084,3590 5084,3733 672,3733" rendition="Line" xml:id="facs_2_r1l24"/>
+<zone points="675,3673 4933,3673 4933,3950 675,3950" rendition="Line" xml:id="facs_2_r1l25"/>
+<zone points="741,3952 5057,3952 5057,4143 741,4143" rendition="Line" xml:id="facs_2_r1l26"/>
+<zone points="671,3989 4832,3989 4832,4329 671,4329" rendition="Line" xml:id="facs_2_r1l27"/>
+<zone points="698,4175 5141,4175 5141,4596 698,4596" rendition="Line" xml:id="facs_2_r1l28"/>
+<zone points="725,4383 5035,4383 5035,4785 725,4785" rendition="Line" xml:id="facs_2_r1l29"/>
+<zone points="657,4516 4988,4516 4988,4960 657,4960" rendition="Line" xml:id="facs_2_r1l30"/>
+<zone points="665,4747 5047,4747 5047,5151 665,5151" rendition="Line" xml:id="facs_2_r1l31"/>
+<zone points="721,5040 5024,5040 5024,5293 721,5293" rendition="Line" xml:id="facs_2_r1l32"/>
+<zone points="741,5151 5061,5151 5061,5454 741,5454" rendition="Line" xml:id="facs_2_r1l33"/>
+<zone points="702,5280 5130,5280 5130,5663 702,5663" rendition="Line" xml:id="facs_2_r1l34"/>
+<zone points="730,5521 5110,5521 5110,5802 730,5802" rendition="Line" xml:id="facs_2_r1l35"/>
+<zone points="739,5665 2034,5665 2034,5961 739,5961" rendition="Line" xml:id="facs_2_r1l36"/>
+<zone points="980,5749 5130,5749 5130,6133 980,6133" rendition="Line" xml:id="facs_2_r1l37"/>
+<zone points="769,6106 5109,6106 5109,6178 769,6178" rendition="Line" xml:id="facs_2_r1l39"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_3">
+<graphic url="0003_GB-LET-GB-HB-333-02-01.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=HFFCUKKQECQHVHIOBYIIWDEB&fileType=view" width="5418px" height="6580px"/>
+<zone points="450,240 5174,240 5174,6219 450,6219" rendition="TextRegion" xml:id="facs_3_r2">
+<zone points="484,292 570,292 570,333 484,333" rendition="Line" xml:id="facs_3_l_687"/>
+<zone points="602,236 5080,236 5080,539 602,539" rendition="Line" xml:id="facs_3_l"/>
+<zone points="536,468 5061,468 5061,705 536,705" rendition="Line" xml:id="facs_3_r2l4"/>
+<zone points="570,629 5083,629 5083,905 570,905" rendition="Line" xml:id="facs_3_r2l5"/>
+<zone points="590,721 5046,721 5046,1036 590,1036" rendition="Line" xml:id="facs_3_r2l6"/>
+<zone points="613,950 5035,950 5035,1203 613,1203" rendition="Line" xml:id="facs_3_r2l7"/>
+<zone points="629,1143 5204,1143 5204,1471 629,1471" rendition="Line" xml:id="facs_3_r2l8"/>
+<zone points="596,1359 5179,1359 5179,1647 596,1647" rendition="Line" xml:id="facs_3_r2l9"/>
+<zone points="652,1586 5110,1586 5110,1822 652,1822" rendition="Line" xml:id="facs_3_r2l10"/>
+<zone points="613,1687 5089,1687 5089,1996 613,1996" rendition="Line" xml:id="facs_3_r2l11"/>
+<zone points="683,1873 5024,1873 5024,2175 683,2175" rendition="Line" xml:id="facs_3_r2l12"/>
+<zone points="599,2151 5168,2151 5168,2398 599,2398" rendition="Line" xml:id="facs_3_r2l13"/>
+<zone points="622,2282 5159,2282 5159,2616 622,2616" rendition="Line" xml:id="facs_3_r2l14"/>
+<zone points="635,2516 4973,2516 4973,2753 635,2753" rendition="Line" xml:id="facs_3_r2l15"/>
+<zone points="674,2693 5062,2693 5062,3072 674,3072" rendition="Line" xml:id="facs_3_l_765"/>
+<zone points="682,2942 5121,2942 5121,3178 682,3178" rendition="Line" xml:id="facs_3_r2l19"/>
+<zone points="649,3152 5126,3152 5126,3441 649,3441" rendition="Line" xml:id="facs_3_r2l20"/>
+<zone points="704,3330 4994,3330 4994,3645 704,3645" rendition="Line" xml:id="facs_3_r2l21"/>
+<zone points="706,3573 5155,3573 5155,3874 706,3874" rendition="Line" xml:id="facs_3_r2l22"/>
+<zone points="657,3747 4902,3747 4902,4031 657,4031" rendition="Line" xml:id="facs_3_r2l23"/>
+<zone points="725,4092 5139,4092 5139,4226 725,4226" rendition="Line" xml:id="facs_3_r2l24"/>
+<zone points="902,4310 5061,4310 5061,4422 902,4422" rendition="Line" xml:id="facs_3_r2l25"/>
+<zone points="680,4514 5102,4514 5102,4671 680,4671" rendition="Line" xml:id="facs_3_r2l26"/>
+<zone points="680,4613 4953,4613 4953,4925 680,4925" rendition="Line" xml:id="facs_3_r2l27"/>
+<zone points="635,4781 4984,4781 4984,5137 635,5137" rendition="Line" xml:id="facs_3_r2l28"/>
+<zone points="637,5058 5065,5058 5065,5388 637,5388" rendition="Line" xml:id="facs_3_r2l29"/>
+<zone points="696,5194 4705,5194 4705,5480 696,5480" rendition="Line" xml:id="facs_3_r2l30"/>
+<zone points="732,5402 4969,5402 4969,5717 732,5717" rendition="Line" xml:id="facs_3_l_802"/>
+<zone points="709,5618 4918,5618 4918,5910 709,5910" rendition="Line" xml:id="facs_3_r2l33"/>
+<zone points="724,5815 2702,5815 2702,6093 724,6093" rendition="Line" xml:id="facs_3_r2l34"/>
+<zone points="868,6052 5063,6052 5063,6306 868,6306" rendition="Line" xml:id="facs_3_r2l35"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_4">
+<graphic url="0004_GB-LET-GB-HB-333-02-02.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=HDEDWQEXZIKWDGYGDZSTIBZQ&fileType=view" width="5418px" height="6580px"/>
+<zone points="445,259 5120,259 5120,6309 445,6309" rendition="TextRegion" xml:id="facs_4_r1">
+<zone points="422,288 5008,288 5008,481 422,481" rendition="Line" xml:id="facs_4_r1l1"/>
+<zone points="473,481 5100,481 5100,705 473,705" rendition="Line" xml:id="facs_4_r1l2"/>
+<zone points="456,687 5111,687 5111,965 456,965" rendition="Line" xml:id="facs_4_r1l3"/>
+<zone points="494,846 5051,846 5051,1090 494,1090" rendition="Line" xml:id="facs_4_r1l4"/>
+<zone points="565,1042 5001,1042 5001,1350 565,1350" rendition="Line" xml:id="facs_4_l"/>
+<zone points="492,1259 5055,1259 5055,1489 492,1489" rendition="Line" xml:id="facs_4_l_725"/>
+<zone points="555,1398 5101,1398 5101,1662 555,1662" rendition="Line" xml:id="facs_4_l_752"/>
+<zone points="547,1617 5057,1617 5057,1985 547,1985" rendition="Line" xml:id="facs_4_r1l11"/>
+<zone points="551,1805 5011,1805 5011,2203 551,2203" rendition="Line" xml:id="facs_4_l_785"/>
+<zone points="646,2000 5105,2000 5105,2419 646,2419" rendition="Line" xml:id="facs_4_l_816"/>
+<zone points="590,2226 5142,2226 5142,2555 590,2555" rendition="Line" xml:id="facs_4_r1l15"/>
+<zone points="645,2498 4972,2498 4972,2765 645,2765" rendition="Line" xml:id="facs_4_r1l16"/>
+<zone points="633,2639 5024,2639 5024,3037 633,3037" rendition="Line" xml:id="facs_4_r1l17"/>
+<zone points="659,2884 5021,2884 5021,3288 659,3288" rendition="Line" xml:id="facs_4_r1l18"/>
+<zone points="662,3068 4904,3068 4904,3475 662,3475" rendition="Line" xml:id="facs_4_r1l19"/>
+<zone points="678,3351 5047,3351 5047,3642 678,3642" rendition="Line" xml:id="facs_4_r1l20"/>
+<zone points="731,3571 5024,3571 5024,3889 731,3889" rendition="Line" xml:id="facs_4_r1l21"/>
+<zone points="735,3771 5000,3771 5000,4207 735,4207" rendition="Line" xml:id="facs_4_r1l22"/>
+<zone points="718,3995 5025,3995 5025,4375 718,4375" rendition="Line" xml:id="facs_4_r1l23"/>
+<zone points="724,4211 4916,4211 4916,4597 724,4597" rendition="Line" xml:id="facs_4_r1l24"/>
+<zone points="731,4393 5040,4393 5040,4824 731,4824" rendition="Line" xml:id="facs_4_r1l25"/>
+<zone points="709,4676 4982,4676 4982,5015 709,5015" rendition="Line" xml:id="facs_4_r1l26"/>
+<zone points="740,4882 5058,4882 5058,5274 740,5274" rendition="Line" xml:id="facs_4_r1l27"/>
+<zone points="804,5124 5144,5124 5144,5472 804,5472" rendition="Line" xml:id="facs_4_r1l28"/>
+<zone points="699,5274 4821,5274 4821,5695 699,5695" rendition="Line" xml:id="facs_4_r1l29"/>
+<zone points="750,5583 4924,5583 4924,5824 750,5824" rendition="Line" xml:id="facs_4_r1l30"/>
+<zone points="769,5680 5125,5680 5125,6034 769,6034" rendition="Line" xml:id="facs_4_r1l31"/>
+<zone points="776,5886 4879,5886 4879,6186 776,6186" rendition="Line" xml:id="facs_4_r1l32"/>
+<zone points="759,6136 5109,6136 5109,6303 759,6303" rendition="Line" xml:id="facs_4_r1l33"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_5">
+<graphic url="0005_GB-LET-GB-HB-333-03-01.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=QXZNJNXYGAFTJLQPAZICDTDE&fileType=view" width="5418px" height="6580px"/>
+<zone points="458,193 5138,193 5138,6279 458,6279" rendition="TextRegion" xml:id="facs_5_r1">
+<zone points="431,222 5008,222 5008,454 431,454" rendition="Line" xml:id="facs_5_r1l1"/>
+<zone points="475,372 5018,372 5018,624 475,624" rendition="Line" xml:id="facs_5_r1l2"/>
+<zone points="475,625 5111,625 5111,871 475,871" rendition="Line" xml:id="facs_5_r1l3"/>
+<zone points="502,770 5143,770 5143,1026 502,1026" rendition="Line" xml:id="facs_5_r1l4"/>
+<zone points="551,995 5084,995 5084,1236 551,1236" rendition="Line" xml:id="facs_5_r1l5"/>
+<zone points="555,1258 5008,1258 5008,1498 555,1498" rendition="Line" xml:id="facs_5_r1l6"/>
+<zone points="652,1496 5117,1496 5117,1593 652,1593" rendition="Line" xml:id="facs_5_r1l7"/>
+<zone points="591,1519 3136,1519 3136,1827 591,1827" rendition="Line" xml:id="facs_5_r1l8"/>
+<zone points="820,1920 5110,1920 5110,2116 820,2116" rendition="Line" xml:id="facs_5_r1l9"/>
+<zone points="610,2114 5060,2114 5060,2295 610,2295" rendition="Line" xml:id="facs_5_r1l10"/>
+<zone points="612,2286 5091,2286 5091,2514 612,2514" rendition="Line" xml:id="facs_5_r1l11"/>
+<zone points="617,2405 5062,2405 5062,2666 617,2666" rendition="Line" xml:id="facs_5_r1l12"/>
+<zone points="634,2592 5132,2592 5132,2893 634,2893" rendition="Line" xml:id="facs_5_r1l13"/>
+<zone points="598,2769 5085,2769 5085,3113 598,3113" rendition="Line" xml:id="facs_5_r1l14"/>
+<zone points="621,2990 5171,2990 5171,3351 621,3351" rendition="Line" xml:id="facs_5_r1l15"/>
+<zone points="631,3292 5157,3292 5157,3607 631,3607" rendition="Line" xml:id="facs_5_r1l16"/>
+<zone points="585,3384 5147,3384 5147,3783 585,3783" rendition="Line" xml:id="facs_5_r1l17"/>
+<zone points="631,3630 5093,3630 5093,3983 631,3983" rendition="Line" xml:id="facs_5_r1l18"/>
+<zone points="620,3824 5061,3824 5061,4128 620,4128" rendition="Line" xml:id="facs_5_r1l19"/>
+<zone points="629,4118 5025,4118 5025,4362 629,4362" rendition="Line" xml:id="facs_5_r1l20"/>
+<zone points="669,4195 5122,4195 5122,4534 669,4534" rendition="Line" xml:id="facs_5_r1l21"/>
+<zone points="653,4453 4911,4453 4911,4746 653,4746" rendition="Line" xml:id="facs_5_r1l22"/>
+<zone points="696,4645 5071,4645 5071,4876 696,4876" rendition="Line" xml:id="facs_5_r1l24"/>
+<zone points="678,4964 4807,4964 4807,5044 678,5044" rendition="Line" xml:id="facs_5_r1l25"/>
+<zone points="701,5162 5096,5162 5096,5242 701,5242" rendition="Line" xml:id="facs_5_r1l26"/>
+<zone points="690,5370 5096,5370 5096,5444 690,5444" rendition="Line" xml:id="facs_5_r1l27"/>
+<zone points="682,5407 5141,5407 5141,5733 682,5733" rendition="Line" xml:id="facs_5_r1l28"/>
+<zone points="704,5624 4876,5624 4876,5998 704,5998" rendition="Line" xml:id="facs_5_r1l29"/>
+<zone points="778,5801 5018,5801 5018,6125 778,6125" rendition="Line" xml:id="facs_5_r1l30"/>
+<zone points="630,6008 5005,6008 5005,6270 630,6270" rendition="Line" xml:id="facs_5_r1l31"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_6">
+<graphic url="0006_GB-LET-GB-HB-333-03-02.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=IDSKTMXSJOQHRHMTVVXRJSVW&fileType=view" width="5418px" height="6580px"/>
+<zone points="496,259 5143,259 5143,6325 496,6325" rendition="TextRegion" xml:id="facs_6_r1">
+<zone points="520,372 4948,372 4948,448 520,448" rendition="Line" xml:id="facs_6_r1l2"/>
+<zone points="554,546 5148,546 5148,654 554,654" rendition="Line" xml:id="facs_6_r1l3"/>
+<zone points="586,774 4862,774 4862,842 586,842" rendition="Line" xml:id="facs_6_r1l4"/>
+<zone points="620,838 4925,838 4925,1113 620,1113" rendition="Line" xml:id="facs_6_r1l5"/>
+<zone points="615,1014 5121,1014 5121,1296 615,1296" rendition="Line" xml:id="facs_6_r1l6"/>
+<zone points="592,1246 4941,1246 4941,1644 592,1644" rendition="Line" xml:id="facs_6_l"/>
+<zone points="645,1479 5034,1479 5034,1757 645,1757" rendition="Line" xml:id="facs_6_l_734"/>
+<zone points="661,1678 5023,1678 5023,2055 661,2055" rendition="Line" xml:id="facs_6_r1l11"/>
+<zone points="687,1897 5096,1897 5096,2306 687,2306" rendition="Line" xml:id="facs_6_r1l12"/>
+<zone points="635,2158 4970,2158 4970,2545 635,2545" rendition="Line" xml:id="facs_6_r1l13"/>
+<zone points="679,2558 4927,2558 4927,2652 679,2652" rendition="Line" xml:id="facs_6_r1l14"/>
+<zone points="639,2673 5079,2673 5079,2941 639,2941" rendition="Line" xml:id="facs_6_l_768"/>
+<zone points="833,2908 5054,2908 5054,3288 833,3288" rendition="Line" xml:id="facs_6_r1l18"/>
+<zone points="732,3125 4966,3125 4966,3437 732,3437" rendition="Line" xml:id="facs_6_r1l19"/>
+<zone points="615,3356 4928,3356 4928,3678 615,3678" rendition="Line" xml:id="facs_6_r1l20"/>
+<zone points="752,3584 4930,3584 4930,3950 752,3950" rendition="Line" xml:id="facs_6_r1l21"/>
+<zone points="746,4030 5119,4030 5119,4126 746,4126" rendition="Line" xml:id="facs_6_r1l22"/>
+<zone points="708,4298 2147,4298 2147,4341 708,4341" rendition="Line" xml:id="facs_6_r1l24"/>
+<zone points="838,4293 4924,4293 4924,4556 838,4556" rendition="Line" xml:id="facs_6_r1l25"/>
+<zone points="642,4664 4885,4664 4885,4730 642,4730" rendition="Line" xml:id="facs_6_r1l26"/>
+<zone points="797,4872 5055,4872 5055,4958 797,4958" rendition="Line" xml:id="facs_6_r1l27"/>
+<zone points="585,4937 4948,4937 4948,5197 585,5197" rendition="Line" xml:id="facs_6_l_795"/>
+<zone points="545,5169 5058,5169 5058,5444 545,5444" rendition="Line" xml:id="facs_6_r1l30"/>
+<zone points="501,5397 4859,5397 4859,5744 501,5744" rendition="Line" xml:id="facs_6_r1l31"/>
+<zone points="511,5595 5019,5595 5019,5987 511,5987" rendition="Line" xml:id="facs_6_r1l32"/>
+<zone points="596,5862 5052,5862 5052,6094 596,6094" rendition="Line" xml:id="facs_6_r1l34"/>
+<zone points="602,6082 5052,6082 5052,6281 602,6281" rendition="Line" xml:id="facs_6_r1l35"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_7">
+<graphic url="0007_GB-LET-GB-HB-333-04-01.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=IGIENPKNCFGRNTRTJGPOSULU&fileType=view" width="5418px" height="6580px"/>
+<zone points="394,277 5072,277 5072,6321 394,6321" rendition="TextRegion" xml:id="facs_7_r1">
+<zone points="393,365 498,365 498,420 393,420" rendition="Line" xml:id="facs_7_l_623"/>
+<zone points="430,272 5057,272 5057,506 430,506" rendition="Line" xml:id="facs_7_r1l1"/>
+<zone points="489,600 5069,600 5069,674 489,674" rendition="Line" xml:id="facs_7_r1l2"/>
+<zone points="737,810 5102,810 5102,988 737,988" rendition="Line" xml:id="facs_7_r1l3"/>
+<zone points="548,1026 1834,1026 1834,1076 548,1076" rendition="Line" xml:id="facs_7_r1l4"/>
+<zone points="642,1070 5092,1070 5092,1344 642,1344" rendition="Line" xml:id="facs_7_r1l5"/>
+<zone points="524,1337 4859,1337 4859,1592 524,1592" rendition="Line" xml:id="facs_7_r1l6"/>
+<zone points="542,1491 4923,1491 4923,1847 542,1847" rendition="Line" xml:id="facs_7_r1l7"/>
+<zone points="560,1710 5061,1710 5061,2064 560,2064" rendition="Line" xml:id="facs_7_r1l8"/>
+<zone points="635,2031 4998,2031 4998,2294 635,2294" rendition="Line" xml:id="facs_7_r1l9"/>
+<zone points="585,2203 4880,2203 4880,2586 585,2586" rendition="Line" xml:id="facs_7_r1l10"/>
+<zone points="639,2478 5067,2478 5067,2841 639,2841" rendition="Line" xml:id="facs_7_r1l11"/>
+<zone points="588,2635 4471,2635 4471,3051 588,3051" rendition="Line" xml:id="facs_7_r1l12"/>
+<zone points="793,2848 5074,2848 5074,3296 793,3296" rendition="Line" xml:id="facs_7_l"/>
+<zone points="660,3264 3115,3264 3115,3305 660,3305" rendition="Line" xml:id="facs_7_r1l15"/>
+<zone points="964,3399 4782,3399 4782,3705 964,3705" rendition="Line" xml:id="facs_7_r1l16"/>
+<zone points="614,3678 5030,3678 5030,3983 614,3983" rendition="Line" xml:id="facs_7_r1l17"/>
+<zone points="697,3856 2845,3856 2845,4139 697,4139" rendition="Line" xml:id="facs_7_r1l18"/>
+<zone points="879,4106 5008,4106 5008,4322 879,4322" rendition="Line" xml:id="facs_7_r1l19"/>
+<zone points="630,4420 5045,4420 5045,4500 630,4500" rendition="Line" xml:id="facs_7_r1l20"/>
+<zone points="566,4534 4964,4534 4964,4712 566,4712" rendition="Line" xml:id="facs_7_r1l21"/>
+<zone points="545,4734 5035,4734 5035,4928 545,4928" rendition="Line" xml:id="facs_7_r1l22"/>
+<zone points="565,4883 4945,4883 4945,5117 565,5117" rendition="Line" xml:id="facs_7_r1l23"/>
+<zone points="587,5025 5019,5025 5019,5368 587,5368" rendition="Line" xml:id="facs_7_r1l24"/>
+<zone points="584,5233 5011,5233 5011,5530 584,5530" rendition="Line" xml:id="facs_7_r1l25"/>
+<zone points="648,5502 4946,5502 4946,5627 648,5627" rendition="Line" xml:id="facs_7_r1l26"/>
+<zone points="609,5541 5058,5541 5058,5830 609,5830" rendition="Line" xml:id="facs_7_r1l27"/>
+<zone points="788,5749 4770,5749 4770,5981 788,5981" rendition="Line" xml:id="facs_7_r1l28"/>
+<zone points="540,5918 4906,5918 4906,6189 540,6189" rendition="Line" xml:id="facs_7_r1l29"/>
+<zone points="560,6180 4022,6180 4022,6286 560,6286" rendition="Line" xml:id="facs_7_r1l30"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_8">
+<graphic url="0008_GB-LET-GB-HB-333-04-02.jpg" width="5418px" height="6580px"/>
+<graphic url="https://files.transkribus.eu/Get?id=QFXZUVARHFGDVJGIQMLBEZWR&fileType=view" width="5418px" height="6580px"/>
+<zone points="514,251 5100,251 5100,3892 514,3892" rendition="TextRegion" xml:id="facs_8_r1">
+<zone points="534,243 5129,243 5129,546 534,546" rendition="Line" xml:id="facs_8_r1l1"/>
+<zone points="485,382 5083,382 5083,720 485,720" rendition="Line" xml:id="facs_8_r1l2"/>
+<zone points="520,542 5003,542 5003,875 520,875" rendition="Line" xml:id="facs_8_r1l3"/>
+<zone points="529,714 5099,714 5099,1108 529,1108" rendition="Line" xml:id="facs_8_r1l4"/>
+<zone points="528,909 5068,909 5068,1265 528,1265" rendition="Line" xml:id="facs_8_r1l5"/>
+<zone points="528,1164 4971,1164 4971,1351 528,1351" rendition="Line" xml:id="facs_8_r1l6"/>
+<zone points="571,1373 1476,1373 1476,1628 571,1628" rendition="Line" xml:id="facs_8_r1l7"/>
+<zone points="907,1431 4794,1431 4794,1856 907,1856" rendition="Line" xml:id="facs_8_r1l8"/>
+<zone points="625,1740 4784,1740 4784,2034 625,2034" rendition="Line" xml:id="facs_8_r1l9"/>
+<zone points="655,1928 5013,1928 5013,2259 655,2259" rendition="Line" xml:id="facs_8_r1l10"/>
+<zone points="680,2251 4687,2251 4687,2542 680,2542" rendition="Line" xml:id="facs_8_r1l11"/>
+<zone points="1172,2611 4968,2611 4968,2686 1172,2686" rendition="Line" xml:id="facs_8_r1l13"/>
+<zone points="732,2695 4846,2695 4846,3053 732,3053" rendition="Line" xml:id="facs_8_r1l14"/>
+<zone points="802,3100 3588,3100 3588,3195 802,3195" rendition="Line" xml:id="facs_8_r1l15"/>
+<zone points="1780,3301 4096,3301 4096,3629 1780,3629" rendition="Line" xml:id="facs_8_r1l16"/>
+<zone points="3719,3549 4383,3549 4383,3900 3719,3900" rendition="Line" xml:id="facs_8_r1l17"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="7397" lry="3302" xml:id="facs_9">
+<graphic url="0009_GB-LET-GB-HB-333-05-01.jpg" width="7397px" height="3302px"/>
+<graphic url="https://files.transkribus.eu/Get?id=WTSOGQBNVRVABXBMDJYKSTLP&fileType=view" width="7397px" height="3302px"/>
+<zone points="1490,430 5748,430 5748,2190 1490,2190" rendition="TextRegion" xml:id="facs_9_r1">
+<zone points="1460,410 2462,410 2462,723 1460,723" rendition="Line" xml:id="facs_9_r1l1"/>
+<zone points="2133,843 3702,843 3702,1377 2133,1377" rendition="Line" xml:id="facs_9_l"/>
+<zone points="2745,1285 5654,1285 5654,1752 2745,1752" rendition="Line" xml:id="facs_9_l_125"/>
+<zone points="3295,1802 5453,1802 5453,2296 3295,2296" rendition="Line" xml:id="facs_9_l_138"/>
+</zone>
+</surface>
+<surface ulx="0" uly="0" lrx="7397" lry="3302" xml:id="facs_10">
+<graphic url="0010_GB-LET-GB-HB-333-05-02.jpg" width="7397px" height="3302px"/>
+<graphic url="https://files.transkribus.eu/Get?id=HGPQQDIXAAZTPSPNIXHJQQJG&fileType=view" width="7397px" height="3302px"/>
+<zone points="810,982 1922,982 1922,2924 810,2924" rendition="TextRegion" xml:id="facs_10_r1">
+<zone points="1622,871 1941,871 1941,1161 1622,1161" rendition="Line" xml:id="facs_10_r1l1"/>
+<zone points="1519,1207 1861,1207 1861,1414 1519,1414" rendition="Line" xml:id="facs_10_r1l2"/>
+<zone points="1679,1441 1932,1441 1932,1626 1679,1626" rendition="Line" xml:id="facs_10_r1l3"/>
+<zone points="1070,1675 1225,1675 1225,2006 1070,2006" rendition="Line" xml:id="facs_10_r1l4"/>
+<zone points="1464,1690 1849,1690 1849,2028 1464,2028" rendition="Line" xml:id="facs_10_r1l5"/>
+<zone points="779,2025 1105,2025 1105,2315 779,2315" rendition="Line" xml:id="facs_10_r1l6"/>
+<zone points="899,2358 1248,2358 1248,2588 899,2588" rendition="Line" xml:id="facs_10_r1l7"/>
+<zone points="1148,2583 1944,2583 1944,2972 1148,2972" rendition="Line" xml:id="facs_10_r1l8"/>
+</zone>
+<zone points="1964,2122 2406,2122 2406,2688 1964,2688" rendition="TextRegion" xml:id="facs_10_r2">
+<zone points="1934,2018 2413,2018 2413,2346 1934,2346" rendition="Line" xml:id="facs_10_r2l1"/>
+<zone points="1949,2385 2424,2385 2424,2762 1949,2762" rendition="Line" xml:id="facs_10_r2l2"/>
+</zone>
+<zone points="2500,449 4336,449 4336,2926 2500,2926" rendition="TextRegion" xml:id="facs_10_r3">
+<zone points="3605,300 4151,300 4151,620 3605,620" rendition="Line" xml:id="facs_10_r3l1"/>
+<zone points="2759,364 3210,364 3210,730 2759,730" rendition="Line" xml:id="facs_10_r3l2"/>
+<zone points="3908,676 4369,676 4369,992 3908,992" rendition="Line" xml:id="facs_10_r3l3"/>
+<zone points="2509,660 3000,660 3000,1056 2509,1056" rendition="Line" xml:id="facs_10_r3l4"/>
+<zone points="3903,1010 4162,1010 4162,1235 3903,1235" rendition="Line" xml:id="facs_10_r3l5"/>
+<zone points="2480,1088 2709,1088 2709,1339 2480,1339" rendition="Line" xml:id="facs_10_r3l6"/>
+<zone points="3080,1127 3788,1127 3788,1519 3080,1519" rendition="Line" xml:id="facs_10_r3l7"/>
+<zone points="3922,1396 4132,1396 4132,1612 3922,1612" rendition="Line" xml:id="facs_10_r3l8"/>
+<zone points="2996,1600 4277,1600 4277,2025 2996,2025" rendition="Line" xml:id="facs_10_r3l9"/>
+<zone points="2479,1647 2975,1647 2975,1965 2479,1965" rendition="Line" xml:id="facs_10_r3l10"/>
+<zone points="2532,2102 2688,2102 2688,2477 2532,2477" rendition="Line" xml:id="facs_10_r3l11"/>
+<zone points="3209,2494 3806,2494 3806,2855 3209,2855" rendition="Line" xml:id="facs_10_r3l12"/>
+<zone points="3660,2737 4113,2737 4113,3008 3660,3008" rendition="Line" xml:id="facs_10_r3l13"/>
+</zone>
+<zone points="4368,2288 4404,2288 4404,2438 4368,2438" rendition="TextRegion" xml:id="facs_10_r4">
+<zone points="4352,2170 4420,2170 4420,2463 4352,2463" rendition="Line" xml:id="facs_10_r4l1"/>
+</zone>
+<zone points="4624,568 5284,568 5284,1679 4624,1679" rendition="TextRegion" xml:id="facs_10_r5">
+<zone points="4608,439 4950,439 4950,714 4608,714" rendition="Line" xml:id="facs_10_r5l1"/>
+<zone points="4607,699 5245,699 5245,988 4607,988" rendition="Line" xml:id="facs_10_r5l2"/>
+<zone points="4642,933 4973,933 4973,1152 4642,1152" rendition="Line" xml:id="facs_10_r5l3"/>
+<zone points="4616,1102 5302,1102 5302,1310 4616,1310" rendition="Line" xml:id="facs_10_r5l4"/>
+<zone points="4695,1264 5127,1264 5127,1495 4695,1495" rendition="Line" xml:id="facs_10_r5l5"/>
+<zone points="4697,1446 5262,1446 5262,1696 4697,1696" rendition="Line" xml:id="facs_10_r5l6"/>
+</zone>
+<zone points="5254,382 5418,382 5418,540 5254,540" rendition="TextRegion" xml:id="facs_10_r6">
+<zone points="5232,337 5436,337 5436,566 5232,566" rendition="Line" xml:id="facs_10_r6l1"/>
+</zone>
+</surface>
+</facsimile>
+<text>
+<body>
+<div>
+<pb facs="#facs_1" n="1" xml:id="img_0001"/>
+<ab facs="#facs_1_r1">
+<lb facs="#facs_1_r1l1" n="N001"/>
+<choice>
+<abbr>
+<date when="1921-08-06">Aug</date>
+</abbr>
+<expan>August</expan>
+</choice>
+<date when="1921-08-06"> 6</date>
+<placeName ref="#place-7002482">Baghdad</placeName>
+<add place="in-line">Received</add>
+<date when="1921-09-15">Sept 15th 1921</date>
+<lb facs="#facs_1_l" n="N002"/>
+<add place="below"> 1921</add>
+<lb facs="#facs_1_r1l2" n="N003"/>
+Darling
+<persName ref="#person-EH006">Father</persName>
+. We have had a quiet week. The plebiscite is
+<lb facs="#facs_1_r1l3" n="N004"/>
+nearly finished throughout the country. Many districts,
+<placeName ref="#place-1079402">Ramadi</placeName>
+,
+<lb facs="#facs_1_r1l4" n="N005"/>
+<placeName ref="#place-1001072">Basrah</placeName>
+, the
+<placeName ref="#place-1123842">Euphrates</placeName>
+,
+<placeName ref="#place-1079380">Amarah</placeName>
+, have added a
+<choice>
+<corr>rider</corr>
+<sic>ryder</sic>
+</choice>
+to the
+<lb facs="#facs_1_r1l5" n="N006"/>
+papers swearing allegiance to
+<persName ref="#person-EH001">Faisal</persName>
+"on condition that he
+<lb facs="#facs_1_r1l6" n="N007"/>
+accepts British guidance." This has more than counteracted
+<lb facs="#facs_1_r1l7" n="N008"/>
+the folly of Baghdad. In not a single case has any anti-
+<lb facs="#facs_1_r1l8" n="N009"/>
+British provision been added + the Baghdad extremists are a
+<lb facs="#facs_1_r1l9" n="N010"/>
+butt for the ridicule of all. I sent you two more of Faisal's
+<lb facs="#facs_1_r1l10" n="N011"/>
+admirable speeches. On Monday there was a reception for him
+<lb facs="#facs_1_r1l11" n="N012"/>
+given by the Armenians + Protestants. It was one of the prettiest
+<lb facs="#facs_1_r1l12" n="N013"/>
+of all the Baghdad functions. It was given in the courtyard
+<lb facs="#facs_1_r1l13" n="N014"/>
+in front of the Armenian church which was hung with carpets
+<lb facs="#facs_1_r1l14" n="N015"/>
++ covered with awnings. There are a few palm trees in
+<lb facs="#facs_1_r1l15" n="N016"/>
+the court bearing now their heavy branches of dates.
+<lb facs="#facs_1_r1l16" n="N017"/>
+The great fronds with their hanging crown of fruit looked
+<lb facs="#facs_1_r1l17" n="N018"/>
+like huge Corinthian capitals carrying the awning roof.
+<lb facs="#facs_1_r1l18" n="N019"/>
+Faisal, who catches at beauty, was delighted. He
+<lb facs="#facs_1_r1l19" n="N020"/>
+called me up onto his dais, to sit on one side of him, with
+<lb facs="#facs_1_r1l20" n="N021"/>
+the Armenian bishop on the other. I felt it was a little
+<lb facs="#facs_1_r1l21" n="N022"/>
+public, but it seemed best not to make a fuss but
+<lb facs="#facs_1_r1l22" n="N023"/>
+just to do as I was told. There were the usual two
+<lb facs="#facs_1_l_786" n="N024"/>
+hours of speeches, poems, sherbets + ices. His own
+<lb facs="#facs_1_l_817" n="N025"/>
+speech was unimportant - mere friendly encouragement
+<lb facs="#facs_1_r1l27" n="N026"/>
+of the Armenian community.
+<lb facs="#facs_1_r1l28" n="N027"/>
+I had a terrific day on Tuesday. I got up at 4.45,
+<lb facs="#facs_1_r1l29" n="N028"/>
+motored at 5.45 with
+<persName ref="#person-EH014">Mr Cornwallis</persName>
+to
+<placeName ref="#place-6001610">Ctesiphon</placeName>
+-
+<lb facs="#facs_1_l_848" n="N029"/>
+we took Faisal there - office 10.30 to 3.30 with an
+<lb facs="#facs_1_r1l32" n="N030"/>
+interval for lunch, home to wash + change, visit to
+<lb facs="#facs_1_r1l33" n="N031"/>
+<persName ref="#person-EH068">the Naqib</persName>
+4.30 to 6, library committee 6 to 7, visit
+<lb facs="#facs_1_r1l34" n="N032"/>
+to
+<persName ref="#person-EH017">Sasun</persName>
+'s
+<persName ref="#person-EH198" cert="low">sister in law</persName>
+<seg type="editorialNote-target-text">
+sister in law
+<note type="editorial">This could also be Simha Moshi-Haim, b.1869 d.unknown</note>
+</seg>
+7 to 7.30,
+<persName ref="#person-EH108">Hamid Khan</persName>
+to
+<lb facs="#facs_1_r1l35" n="N033"/>
+dinner 8 to 10. It was too much; I felt tired all next
+<lb facs="#facs_1_r1l36" n="N034"/>
+day - however it was worth it.
+<lb facs="#facs_1_r1l37" n="N035"/>
+The Ctesiphon expedition was an immense success. I
+</ab>
+<pb facs="#facs_2" n="2" xml:id="img_0002"/>
+<ab facs="#facs_2_r1">
+<lb facs="#facs_2_l" n="N001"/>
+invited
+<persName ref="#person-EH001">Faisal</persName>
++ 2 of his
+<choice>
+<abbr>ADC</abbr>
+<expan>aide-de-camp</expan>
+</choice>
+s,
+<persName ref="#person-EH034">the Garbetts</persName>
+,
+<persName ref="#person-EH049">Fakhri Jamil</persName>
+<lb facs="#facs_2_l_839" n="N002"/>
++
+<persName ref="#person-EH014">Mr Cornwallis</persName>
+, + I took
+<persName>Zaya</persName>
+with an excellent breakfast
+<lb facs="#facs_2_l_879" n="N003"/>
+of eggs, tongues, sardines + melons. It was wonderfully
+<lb facs="#facs_2_r1l8" n="N004"/>
+interesting showing that splendid place to Faisal. He is an
+<lb facs="#facs_2_r1l9" n="N005"/>
+inspiring tourist. After we had reconstructed the palace + seen
+<lb facs="#facs_2_r1l10" n="N006"/>
+<persName>Chosroes</persName>
+sitting in it, I took him into the high mounds to the
+<lb facs="#facs_2_r1l11" n="N007"/>
+south, whence we could see the
+<placeName ref="#place-1130850">Tigris</placeName>
+, + told him the story
+<lb facs="#facs_2_r1l12" n="N008"/>
+of the Arab conquest as
+<persName ref="#person-EH111">Tabari</persName>
+records it, the fording of
+<lb facs="#facs_2_r1l13" n="N009"/>
+the river + the rest of that magnificent tale. It was the
+<lb facs="#facs_2_r1l14" n="N010"/>
+tale of his own people - you can imagine what it was
+<lb facs="#facs_2_l_919" n="N011"/>
+like reciting it to him. I don't know which of us was
+<lb facs="#facs_2_r1l17" n="N012"/>
+the more thrilled. I had a good audience too in one of his
+<lb facs="#facs_2_r1l18" n="N013"/>
+<choice>
+<abbr>ADC</abbr>
+<expan>aide-de-camp</expan>
+</choice>
+s, a Syrian called
+<persName ref="#person-EH112">Rustam Haidar</persName>
+whom I like
+<lb facs="#facs_2_r1l19" n="N014"/>
+very much indeed - he's an intelligent well educated
+<lb facs="#facs_2_r1l20" n="N015"/>
+man + talks English admirably (though, if you'll forgive
+<lb facs="#facs_2_r1l21" n="N016"/>
+me for saying so, not as well as I talk Arabic -
+<lb facs="#facs_2_r1l22" n="N017"/>
+at which I'm a real dab now; so we always talk
+<lb facs="#facs_2_r1l23" n="N018"/>
+Arabic.) Fakhri Jamil has a large estate on the bank
+<lb facs="#facs_2_r1l24" n="N019"/>
+of the river opposite
+<placeName ref="#place-6001610">Ctesiphon</placeName>
++ he brought over some of
+<lb facs="#facs_2_r1l25" n="N020"/>
+his villagers with 4 lambs which they sacrificed to
+<lb facs="#facs_2_r1l26" n="N021"/>
+Faisal just before breakfast - horrid. By this time,
+<lb facs="#facs_2_r1l27" n="N022"/>
+though the visit was incognito, the whole village of
+<lb facs="#facs_2_r1l28" n="N023"/>
+<placeName>Salman Pak</placeName>
+had become aware of Faisal's presence
+<lb facs="#facs_2_r1l29" n="N024"/>
++ assembled outside the ruins, but we kept them
+<lb facs="#facs_2_r1l30" n="N025"/>
+outside + ourselves sat down under the shadow of
+<lb facs="#facs_2_r1l31" n="N026"/>
+the curtain wall to the excellent breakfast which
+<lb facs="#facs_2_r1l32" n="N027"/>
+Zaya had spread for us. It was very merry,
+<lb facs="#facs_2_r1l33" n="N028"/>
+Faisal in great spirits. They had hunted out all
+<lb facs="#facs_2_r1l34" n="N029"/>
+the school children + all the Sharifian flags they could
+<lb facs="#facs_2_r1l35" n="N030"/>
+muster into the single street of Salman Pak as we drove
+<lb facs="#facs_2_r1l36" n="N031"/>
+back through it.
+<lb facs="#facs_2_r1l37" n="N032"/>
+Then the usual rushing morning, at the end of which I
+<lb facs="#facs_2_r1l39" n="N033"/>
+feel more dead than alive even when I haven't got up
+</ab>
+<pb facs="#facs_3" n="3" xml:id="img_0003"/>
+<ab facs="#facs_3_r2">
+<lb facs="#facs_3_l_687" n="N001"/>
+2
+<lb facs="#facs_3_l" n="N002"/>
+before 5. I couldn't rest in the afternoon because of my
+<lb facs="#facs_3_r2l4" n="N003"/>
+appointment with
+<persName ref="#person-EH068">the Naqib</persName>
+. I never loved the old man
+<lb facs="#facs_3_r2l5" n="N004"/>
+more than that day, though it took him an hour +
+<lb facs="#facs_3_r2l6" n="N005"/>
+a half to say his say. He also was in the highest
+<lb facs="#facs_3_r2l7" n="N006"/>
+spirits + tremendously pleased with the part he has
+<lb facs="#facs_3_r2l8" n="N007"/>
+played. "
+<seg type="editorialNote-target-text">
+Khatun
+<note type="editorial">Female title of nobility\u003b counterpoint to 'khan'.</note>
+</seg>
+" he said "you are my daughter, I will
+<lb facs="#facs_3_r2l9" n="N008"/>
+tell you all that passed through my mind. I have never
+<lb facs="#facs_3_r2l10" n="N009"/>
+since the coming of
+<persName ref="#person-EH002">Sir Percy Cox</persName>
+acted contrary to his
+<lb facs="#facs_3_r2l11" n="N010"/>
+advice or to the wish of the British Government. When I
+<lb facs="#facs_3_r2l12" n="N011"/>
+saw that Faisal was fit to be king + knew that
+<lb facs="#facs_3_r2l13" n="N012"/>
+the great
+<choice>
+<abbr>Govt</abbr>
+<expan>Government</expan>
+</choice>
+favoured him, I determined that I must
+<lb facs="#facs_3_r2l14" n="N013"/>
+avoid all talk + gossip by rising myself in the Council
+<lb facs="#facs_3_r2l15" n="N014"/>
++ pronouncing him King. I thought: Shall I consult
+<lb facs="#facs_3_l_765" n="N015"/>
+Sir Percy Cox? + my own thoughts answered me. I
+<lb facs="#facs_3_r2l19" n="N016"/>
+had made up my mind - if he disagreed with me I
+<lb facs="#facs_3_r2l20" n="N017"/>
+could not change it. I am an old man, responsible
+<lb facs="#facs_3_r2l21" n="N018"/>
+only to God. Therefore I consulted no one." That
+<lb facs="#facs_3_r2l22" n="N019"/>
+was what he said - + he repeated it very often -
+<lb facs="#facs_3_r2l23" n="N020"/>
+but isn't it fine? It's a privilege to deal with
+<lb facs="#facs_3_r2l24" n="N021"/>
+gentlefolk + there's no greater gentleman than the Naqib.
+<lb facs="#facs_3_r2l25" n="N022"/>
+So at the end of the day I came to
+<persName ref="#person-EH108">Hamid Khan</persName>
+,
+<lb facs="#facs_3_r2l26" n="N023"/>
+Mutasarrif of
+<placeName ref="#place-1001343">Karbala</placeName>
+, cousin of the
+<persName ref="#person-EH113">Agha Khan</persName>
+,
+<lb facs="#facs_3_r2l27" n="N024"/>
++ a really staunch adherent - He was immensely
+<lb facs="#facs_3_r2l28" n="N025"/>
+interesting about the politics of Karbala +
+<placeName ref="#place-1001099">Najaf</placeName>
+<lb facs="#facs_3_r2l29" n="N026"/>
+but by that time I was so sleepy, that his voice
+<lb facs="#facs_3_r2l30" n="N027"/>
+seemed to retire fainter + fainter into a dim
+<lb facs="#facs_3_l_802" n="N028"/>
+distance - + then I woke with a jump to
+<lb facs="#facs_3_r2l33" n="N029"/>
+supply the right answer about
+<persName ref="#person-EH058">'Abdul Wahid</persName>
+, or
+<lb facs="#facs_3_r2l34" n="N030"/>
+whoever it might be!
+<lb facs="#facs_3_r2l35" n="N031"/>
+There was a curious episode in the middle of the
+</ab>
+<pb facs="#facs_4" n="4" xml:id="img_0004"/>
+<ab facs="#facs_4_r1">
+<lb facs="#facs_4_r1l1" n="N001"/>
+week about one of the newspapers. The editor in his
+<lb facs="#facs_4_r1l2" n="N002"/>
+issue of Wednesday had quoted an article from an
+<lb facs="#facs_4_r1l3" n="N003"/>
+Egyptian paper + one from the
+<orgName ref="#org-139443653">Echo de Paris</orgName>
+about
+<lb facs="#facs_4_r1l4" n="N004"/>
+French policy in
+<placeName ref="#place-1000140">Syria</placeName>
+. He promised a leader on the
+<lb facs="#facs_4_l" n="N005"/>
+subject next day, but when next day came there
+<lb facs="#facs_4_l_725" n="N006"/>
+wasn't a leader + I, thinking that the editor had
+<lb facs="#facs_4_l_752" n="N007"/>
+recalled my warnings, dismissed the matter from
+<lb facs="#facs_4_r1l11" n="N008"/>
+my mind. Not so the French consul - a snake in
+<lb facs="#facs_4_l_785" n="N009"/>
+the grass. He came in to complain to
+<persName ref="#person-EH002">Sir Percy</persName>
+<lb facs="#facs_4_l_816" n="N010"/>
+of the leader that hadn't been written. Thereat
+<lb facs="#facs_4_r1l15" n="N011"/>
+Sir Percy told me to make sure that it wouldn't
+<lb facs="#facs_4_r1l16" n="N012"/>
+be written, + I sent a message to the creator.
+<lb facs="#facs_4_r1l17" n="N013"/>
+Next day he came into the office at 7.30 +
+<lb facs="#facs_4_r1l18" n="N014"/>
+said my message had come too late, the leader
+<lb facs="#facs_4_r1l19" n="N015"/>
+had already been written + printed, but the
+<lb facs="#facs_4_r1l20" n="N016"/>
+paper wasn't yet out + might he read it to
+<lb facs="#facs_4_r1l21" n="N017"/>
+me? It was an article entitled Two policies,
+<lb facs="#facs_4_r1l22" n="N018"/>
+pointing out + tracing historically the history
+<lb facs="#facs_4_r1l23" n="N019"/>
+of French + British relations with
+<placeName ref="#place-1000144">Turkey</placeName>
++
+<lb facs="#facs_4_r1l24" n="N020"/>
+with the Arabs + it was quite excellent;
+<lb facs="#facs_4_r1l25" n="N021"/>
+it hit the nail on the head every time, but
+<lb facs="#facs_4_r1l26" n="N022"/>
+the more justly it hit the more infuriated the
+<lb facs="#facs_4_r1l27" n="N023"/>
+French consul would be. The editor said if I
+<lb facs="#facs_4_r1l28" n="N024"/>
+didn't want it to be published he would suppress
+<lb facs="#facs_4_r1l29" n="N025"/>
+the whole issue. I said I was really
+<lb facs="#facs_4_r1l30" n="N026"/>
+reluctant to do that but I would like to
+<lb facs="#facs_4_r1l31" n="N027"/>
+consult the High Commissioner. Sir Percy was at
+<lb facs="#facs_4_r1l32" n="N028"/>
+breakfast. I gave him a brief outline of the
+<lb facs="#facs_4_r1l33" n="N029"/>
+article + he decided that it had better
+</ab>
+<pb facs="#facs_5" n="5" xml:id="img_0005"/>
+<ab facs="#facs_5_r1">
+<lb facs="#facs_5_r1l1" n="N001"/>
+3 be suppressed, so I bought up the whole issue of the
+<lb facs="#facs_5_r1l2" n="N002"/>
+paper + burnt it! And we have now purchased the
+<lb facs="#facs_5_r1l3" n="N003"/>
+best of all weapons to use against the French consul
+<lb facs="#facs_5_r1l4" n="N004"/>
+if he complains again. But I'm going to have his blood.
+<lb facs="#facs_5_r1l5" n="N005"/>
+The Syrian papers, subsidized by the French, are full
+<lb facs="#facs_5_r1l6" n="N006"/>
+of the most violent abuse of us + of
+<persName ref="#person-EH001">Faisal</persName>
+<lb facs="#facs_5_r1l7" n="N007"/>
++ I've given my editors full permission to quote +
+<lb facs="#facs_5_r1l8" n="N008"/>
+comment on these passages.
+<lb facs="#facs_5_r1l9" n="N009"/>
+I gave Faisal an account of the whole transaction,
+<lb facs="#facs_5_r1l10" n="N010"/>
+together with the suppressed article, + next day,
+<lb facs="#facs_5_r1l11" n="N011"/>
+like the trump he is, he played into our hands.
+<lb facs="#facs_5_r1l12" n="N012"/>
+There happened to be a reception at the Persian
+<lb facs="#facs_5_r1l13" n="N013"/>
+school to which I went as usual. It was all the
+<lb facs="#facs_5_r1l14" n="N014"/>
+more necessary to go because
+<persName ref="#person-EH073">Muhammad Sadr</persName>
+<lb facs="#facs_5_r1l15" n="N015"/>
+was the organizer of the function + I feared that
+<lb facs="#facs_5_r1l16" n="N016"/>
+unsuitable things might be said, which my presence
+<lb facs="#facs_5_r1l17" n="N017"/>
+would have a tendency to restrain. Muhammad
+<lb facs="#facs_5_r1l18" n="N018"/>
+Sadr came in just before
+<seg type="editorialNote-target-text">
+the Amir
+<note type="editorial">Title used to refer to Faysal.</note>
+</seg>
+. Everybody rose
+<lb facs="#facs_5_r1l19" n="N019"/>
+at his entrance - + I sat tight + gave him the
+<lb facs="#facs_5_r1l20" n="N020"/>
+salute I should give to anybody, after he had
+<lb facs="#facs_5_r1l21" n="N021"/>
+sat down. He was put on the left of the Amir's
+<lb facs="#facs_5_r1l22" n="N022"/>
+throne, while I was on the right. I got up with
+<lb facs="#facs_5_r1l24" n="N023"/>
+alacrity for Faisal when he entered. (Next day one of the
+<seg type="editorialNote-target-text">
+Shi'ahs
+<note type="editorial">An Islamic sect who believe that the descendants of the Prophet Muhammad are the rightful leaders of Islam.</note>
+</seg>
+<lb facs="#facs_5_r1l25" n="N024"/>
+came to the office + expostulated with me. I
+<lb facs="#facs_5_r1l26" n="N025"/>
+replied "Why should I rise for Muhammad Sadr?
+<lb facs="#facs_5_r1l27" n="N026"/>
+he is not even an
+<seg type="editorialNote-target-text">
+'alim
+<note type="editorial">An educated scholar of Islamic law.</note>
+</seg>
+." "By God, that's true"
+<lb facs="#facs_5_r1l28" n="N027"/>
+he answered, + left a wiser man than he had
+<lb facs="#facs_5_r1l29" n="N028"/>
+come.) - Such an immense beetle has just
+<lb facs="#facs_5_r1l30" n="N029"/>
+flown into my room. I've invited it to leave -
+<lb facs="#facs_5_r1l31" n="N030"/>
+Well - all the speeches + poems were perfectly
+</ab>
+<pb facs="#facs_6" n="6" xml:id="img_0006"/>
+<ab facs="#facs_6_r1">
+<lb facs="#facs_6_r1l2" n="N001"/>
+in order till the very last, when a young idiot
+<lb facs="#facs_6_r1l3" n="N002"/>
+whom I've known for years - he's scarcely sane -
+<lb facs="#facs_6_r1l4" n="N003"/>
+got up + recited an ode about the throne of
+<lb facs="#facs_6_r1l5" n="N004"/>
+<placeName ref="#place-7002857">Beyrut</placeName>
++ the mountains of
+<placeName ref="#place-1000126">Lebanon</placeName>
++ the
+<lb facs="#facs_6_r1l6" n="N005"/>
+desire of all Arabs.
+<persName ref="#person-EH001">Faisal</persName>
+whispered to me "Do
+<lb facs="#facs_6_l" n="N006"/>
+you understand?" I said "Of course." He
+<lb facs="#facs_6_l_734" n="N007"/>
+went on "I think I must say a few words
+<lb facs="#facs_6_r1l11" n="N008"/>
+on that." I cheered him on. And just as he
+<lb facs="#facs_6_r1l12" n="N009"/>
+was going away he said "This is a private
+<lb facs="#facs_6_r1l13" n="N010"/>
+meeting + nothing that is spoken here has
+<lb facs="#facs_6_r1l14" n="N011"/>
+political importance, but I was sorry to
+<lb facs="#facs_6_l_768" n="N012"/>
+hear the ode of - Rashid, is his name?
+<lb facs="#facs_6_r1l18" n="N013"/>
+(Rashid sank into the earth) + if I had
+<lb facs="#facs_6_r1l19" n="N014"/>
+known he intended to recite it I would
+<lb facs="#facs_6_r1l20" n="N015"/>
+have stopped him. I beg you to turn all
+<lb facs="#facs_6_r1l21" n="N016"/>
+your thoughts to the work of creating an
+<lb facs="#facs_6_r1l22" n="N017"/>
+Arab state in
+<placeName ref="#place-1000118">Mesopotamia</placeName>
+, + to think of
+<lb facs="#facs_6_r1l24" n="N018"/>
+nothing else."
+<lb facs="#facs_6_r1l25" n="N019"/>
+His words were electric, the whole town is
+<lb facs="#facs_6_r1l26" n="N020"/>
+talking of them - isn't he a good colleague?
+<lb facs="#facs_6_r1l27" n="N021"/>
+I dined last night with
+<persName ref="#person-EH005">Sir Aylmer</persName>
+to meet him.
+<lb facs="#facs_6_l_795" n="N022"/>
+It was a small male dinner - I was the only
+<lb facs="#facs_6_r1l30" n="N023"/>
+woman. I sat by Faisal who was full of talk.
+<lb facs="#facs_6_r1l31" n="N024"/>
+He is tremendously excited about
+<persName ref="#person-EH064">Ibn Sa'ud</persName>
+'s
+<lb facs="#facs_6_r1l32" n="N025"/>
+claim to sovereignty over all our nomad tribes
+<lb facs="#facs_6_r1l34" n="N026"/>
+- chiefly
+<persName ref="#person-EH042">Fahad Beg</persName>
+of the 'Anizah. "I take witness
+<lb facs="#facs_6_r1l35" n="N027"/>
+in God" he said "if we don't stop Ibn Sa'ud, in
+</ab>
+<pb facs="#facs_7" n="7" xml:id="img_0007"/>
+<ab facs="#facs_7_r1">
+<lb facs="#facs_7_l_623" n="N001"/>
+4
+<lb facs="#facs_7_r1l1" n="N002"/>
+three months' time there will be another battle at
+<lb facs="#facs_7_r1l2" n="N003"/>
+<placeName ref="#place-6001610">Ctesiphon</placeName>
+like that which you described to me."
+<lb facs="#facs_7_r1l3" n="N004"/>
+But we shall stop him; his claims are absolutely
+<lb facs="#facs_7_r1l4" n="N005"/>
+inadmissible.
+<lb facs="#facs_7_r1l5" n="N006"/>
+This evening
+<persName ref="#person-EH114">Nuri Pasha</persName>
+,
+<persName ref="#person-EH011">Ja'far</persName>
+'s brother in law
+<lb facs="#facs_7_r1l6" n="N007"/>
++
+<choice>
+<abbr>C.G.S.</abbr>
+<expan>Chief of the General Staff</expan>
+</choice>
+, came to see me + we spent an hour
+<lb facs="#facs_7_r1l7" n="N008"/>
+praising all the gods we knew for what has
+<lb facs="#facs_7_r1l8" n="N009"/>
+been done here in the last 6 weeks.
+<persName ref="#person-EH001">Faisal</persName>
+has
+<lb facs="#facs_7_r1l9" n="N010"/>
+promised me a regiment of the Arab Army - the
+<lb facs="#facs_7_r1l10" n="N011"/>
+<seg type="editorialNote-target-text">
+Khatun
+<note type="editorial">Female title of nobility\u003b counterpart of 'khan'.</note>
+</seg>
+'s own. I shall presently ask you to
+<lb facs="#facs_7_r1l11" n="N012"/>
+have their colours embroidered. Nuri proposes
+<lb facs="#facs_7_r1l12" n="N013"/>
+that I should have an army corps!
+<lb facs="#facs_7_l" n="N014"/>
+Oh
+<persName ref="#person-EH006">Father</persName>
+, isn't it wonderful. I sometimes think
+<lb facs="#facs_7_r1l15" n="N015"/>
+I must be in a dream.
+<lb facs="#facs_7_r1l16" n="N016"/>
+Sorry to say that it's desperately hot
+<lb facs="#facs_7_r1l17" n="N017"/>
+again. As regards climate this is being the
+<lb facs="#facs_7_r1l18" n="N018"/>
+Devil's own summer.
+<lb facs="#facs_7_r1l19" n="N019"/>
+I must tell you another item of Nuri's conversation
+<lb facs="#facs_7_r1l20" n="N020"/>
+<del rend="strikethrough"> - mind, you are not to repeat any of these things; I don't</del>
+<lb facs="#facs_7_r1l21" n="N021"/>
+wish to emulate
+<persName ref="#person-EH078">Mrs Rosita Forbes</persName>
+. Nuri said "People
+<lb facs="#facs_7_r1l22" n="N022"/>
+like to see you at the meetings for Faisal. Wherever you are
+<lb facs="#facs_7_r1l23" n="N023"/>
+they know it will be all right. They think you keep
+<persName ref="#person-EH002">Sir Percy</persName>
+<lb facs="#facs_7_r1l24" n="N024"/>
+straight." I said "That's entirely untrue - it was Sir Percy's
+<lb facs="#facs_7_r1l25" n="N025"/>
+policy from the first." "Yes" he said "I know. But it was yours
+<lb facs="#facs_7_r1l26" n="N026"/>
+even before Sir Percy came. People know that you always
+<lb facs="#facs_7_r1l27" n="N027"/>
+advocated an Arab state + it gives them confidence to see you."
+<lb facs="#facs_7_r1l28" n="N028"/>
+It's an advantage isn't it, + one which doesn't always
+<lb facs="#facs_7_r1l29" n="N029"/>
+accrue to us here below, to have been consistently of
+<lb facs="#facs_7_r1l30" n="N030"/>
+the same mind from the very beginning!
+</ab>
+<pb facs="#facs_8" n="8" xml:id="img_0008"/>
+<ab facs="#facs_8_r1">
+<lb facs="#facs_8_r1l1" n="N001"/>
+I've got
+<persName ref="#person-EH115">Ernest</persName>
+'s letter + I'm writing to
+<persName>Herbert</persName>
+. I entirely agree
+<lb facs="#facs_8_r1l2" n="N002"/>
+with Ernest, it's just what I've always expected, +
+<lb facs="#facs_8_r1l3" n="N003"/>
+our success here is going to make things worse for them
+<lb facs="#facs_8_r1l4" n="N004"/>
+there. Again, if I'm not being very egregious, I lay claim
+<lb facs="#facs_8_r1l5" n="N005"/>
+to consistency from the first. I'm convinced you can't
+<lb facs="#facs_8_r1l6" n="N006"/>
+be pan-Arab in
+<placeName ref="#place-1000118">Mesopotamia</placeName>
++ pan-Jew in
+<lb facs="#facs_8_r1l7" n="N007"/>
+<placeName ref="#place-7018359">Palestine</placeName>
+.
+<lb facs="#facs_8_r1l8" n="N008"/>
+Darling I've got your letter of July 6 with the
+<lb facs="#facs_8_r1l9" n="N009"/>
+account of
+<persName ref="#person-EH009">Mother</persName>
+'s accident. She really is a
+<lb facs="#facs_8_r1l10" n="N010"/>
+remarkable lady - I do hope she is better. Soon
+<lb facs="#facs_8_r1l11" n="N011"/>
+I ought to hear of the success of the play.
+<lb facs="#facs_8_r1l13" n="N012"/>
+Goodbye - I hope you are not bored
+<lb facs="#facs_8_r1l14" n="N013"/>
+with my histories. It's such a comfort to
+<lb facs="#facs_8_r1l15" n="N014"/>
+have someone to tell them to!
+<lb facs="#facs_8_r1l16" n="N015"/>
+Your very loving daughter
+<lb facs="#facs_8_r1l17" n="N016"/>
+Gertrude
+</ab>
+<pb facs="#facs_9" n="9" xml:id="img_0009"/>
+<ab facs="#facs_9_r1">
+<lb facs="#facs_9_r1l1" n="N001"/>
+<date when="1921-08-06"> Aug 6 1921</date>
+<lb facs="#facs_9_l" n="N002"/>
+<add place="in-line">From Gertrude</add>
+<lb facs="#facs_9_l_125" n="N003"/>
+<del rend="strikethrough">Rec</del>
+dated Aug 6 1921
+<lb facs="#facs_9_l_138" n="N004"/>
+Received
+<date when="1921-09-15">Sep 15 1921</date>
+</ab>
+<pb facs="#facs_10" n="10" xml:id="img_0010"/>
+<ab facs="#facs_10_r1">
+<lb facs="#facs_10_r1l1" n="N001"/>
+hire
+<lb facs="#facs_10_r1l2" n="N002"/>
+also
+<lb facs="#facs_10_r1l3" n="N003"/>
+food
+<lb facs="#facs_10_r1l4" n="N004"/>
+of
+<lb facs="#facs_10_r1l5" n="N005"/>
+case
+<lb facs="#facs_10_r1l6" n="N006"/>
+for
+<lb facs="#facs_10_r1l7" n="N007"/>
+will
+<lb facs="#facs_10_r1l8" n="N008"/>
+part of
+</ab>
+<ab facs="#facs_10_r2">
+<lb facs="#facs_10_r2l1" n="N001"/>
+See
+<lb facs="#facs_10_r2l2" n="N002"/>
+of the
+</ab>
+<ab facs="#facs_10_r3">
+<lb facs="#facs_10_r3l1" n="N001"/>
+Skittles
+<lb facs="#facs_10_r3l2" n="N002"/>
+the
+<lb facs="#facs_10_r3l3" n="N003"/>
+which
+<lb facs="#facs_10_r3l4" n="N004"/>
+titles
+<lb facs="#facs_10_r3l5" n="N005"/>
+the
+<lb facs="#facs_10_r3l6" n="N006"/>
+54
+<lb facs="#facs_10_r3l7" n="N007"/>
+furnish
+<lb facs="#facs_10_r3l8" n="N008"/>
+22
+<lb facs="#facs_10_r3l9" n="N009"/>
+Iittneresption
+<lb facs="#facs_10_r3l10" n="N010"/>
+Habit
+<lb facs="#facs_10_r3l11" n="N011"/>
+4
+<lb facs="#facs_10_r3l12" n="N012"/>
+interest
+<lb facs="#facs_10_r3l13" n="N013"/>
+first to
+</ab>
+<ab facs="#facs_10_r4">
+<lb facs="#facs_10_r4l1" n="N001"/>
+I
+</ab>
+<ab facs="#facs_10_r5">
+<lb facs="#facs_10_r5l1" n="N001"/>
+Bell
+<lb facs="#facs_10_r5l2" n="N002"/>
+erected
+<lb facs="#facs_10_r5l3" n="N003"/>
+This
+<lb facs="#facs_10_r5l4" n="N004"/>
+translated
+<lb facs="#facs_10_r5l5" n="N005"/>
+Mother
+<lb facs="#facs_10_r5l6" n="N006"/>
+Peibins
+</ab>
+<ab facs="#facs_10_r6">
+<lb facs="#facs_10_r6l1" n="N001"/>
+or
+</ab>
+</div>
+</body>
+</text>
 </TEI>
