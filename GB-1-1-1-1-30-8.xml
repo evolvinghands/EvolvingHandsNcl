@@ -65,7 +65,7 @@
 <facsimile>
 <surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_1">
 <graphic url="0001_GB-LET-GB-FB-1921-03-01-01.jpg" width="5788px" height="4635px"/>
-<graphic url="https://files.transkribus.eu/Get?id=TOGYYXYJCQCBPTDQQBJXCRAG&fileType=view" width="5788px" height="4635px"/>
+<graphic url="https://files.transkribus.eu/Get?id=TOGYYXYJCQCBPTDQQBJXCRAG&amp;fileType=view" width="5788px" height="4635px"/>
 <zone points="2992,409 5536,409 5536,4354 2992,4354" rendition="TextRegion" xml:id="facs_1_r5">
 <zone points="3154,393 4180,393 4180,655 3154,655" rendition="Line" xml:id="facs_1_r5l1"/>
 <zone points="3300,667 5551,667 5551,846 3300,846" rendition="Line" xml:id="facs_1_r5l2"/>
@@ -114,7 +114,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="5788" lry="4635" xml:id="facs_2">
 <graphic url="0002_GB-LET-GB-FB-1921-03-01-02.jpg" width="5788px" height="4635px"/>
-<graphic url="https://files.transkribus.eu/Get?id=BKLMRXAJTMOKICTKYQSIBZZX&fileType=view" width="5788px" height="4635px"/>
+<graphic url="https://files.transkribus.eu/Get?id=BKLMRXAJTMOKICTKYQSIBZZX&amp;fileType=view" width="5788px" height="4635px"/>
 <zone points="486,562 2898,562 2898,4384 486,4384" rendition="TextRegion" xml:id="facs_2_r1">
 <zone points="555,564 2720,564 2720,923 555,923" rendition="Line" xml:id="facs_2_r1l1"/>
 <zone points="469,845 2716,845 2716,1186 469,1186" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -151,7 +151,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_3">
 <graphic url="0003_GB-LET-GB-FB-1921-03-02-01.jpg" width="3335px" height="2633px"/>
-<graphic url="https://files.transkribus.eu/Get?id=DFKYJSQODFPSBHHQMJGHANRO&fileType=view" width="3335px" height="2633px"/>
+<graphic url="https://files.transkribus.eu/Get?id=DFKYJSQODFPSBHHQMJGHANRO&amp;fileType=view" width="3335px" height="2633px"/>
 <zone points="363,243 1403,243 1403,608 363,608" rendition="TextRegion" xml:id="facs_3_r">
 <zone points="466,238 1355,238 1355,605 466,605" rendition="Line" xml:id="facs_3_l_216"/>
 </zone>
@@ -170,7 +170,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="3335" lry="2633" xml:id="facs_4">
 <graphic url="0004_GB-LET-GB-FB-1921-03-02-02.jpg" width="3335px" height="2633px"/>
-<graphic url="https://files.transkribus.eu/Get?id=XMCWPSMPHTHDZWMQZBZXTFJF&fileType=view" width="3335px" height="2633px"/>
+<graphic url="https://files.transkribus.eu/Get?id=XMCWPSMPHTHDZWMQZBZXTFJF&amp;fileType=view" width="3335px" height="2633px"/>
 </surface>
 </facsimile>
 <text>
