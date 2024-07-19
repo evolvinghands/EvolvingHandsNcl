@@ -194,7 +194,7 @@
 <facsimile>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_1">
 <graphic url="0001_GB-LET-GB-HB-325-01-01.jpg" width="7430px" height="4699px"/>
-<graphic url="https://files.transkribus.eu/Get?id=TDSMXUWCOUINTXNYLWYZLYIE&fileType=view" width="7430px" height="4699px"/>
+<graphic url="https://files.transkribus.eu/Get?id=TDSMXUWCOUINTXNYLWYZLYIE&amp;fileType=view" width="7430px" height="4699px"/>
 <zone points="3909,241 7198,241 7198,4511 3909,4511" rendition="TextRegion" xml:id="facs_1_r2">
 <zone points="5416,226 6428,226 6428,449 5416,449" rendition="Line" xml:id="facs_1_l_1346"/>
 <zone points="4420,229 5317,229 5317,453 4420,453" rendition="Line" xml:id="facs_1_l"/>
@@ -266,7 +266,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_2">
 <graphic url="0002_GB-LET-GB-HB-325-01-02.jpg" width="7430px" height="4699px"/>
-<graphic url="https://files.transkribus.eu/Get?id=FJWYETZSZUVMILCCJCELELMW&fileType=view" width="7430px" height="4699px"/>
+<graphic url="https://files.transkribus.eu/Get?id=FJWYETZSZUVMILCCJCELELMW&amp;fileType=view" width="7430px" height="4699px"/>
 <zone points="281,169 3682,169 3682,4491 281,4491" rendition="TextRegion" xml:id="facs_2_r1">
 <zone points="279,198 3280,198 3280,354 279,354" rendition="Line" xml:id="facs_2_r1l1"/>
 <zone points="294,339 3330,339 3330,530 294,530" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -336,7 +336,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_3">
 <graphic url="0003_GB-LET-GB-HB-325-02-01.jpg" width="7430px" height="4699px"/>
-<graphic url="https://files.transkribus.eu/Get?id=RBQGTLIGONOMLXEIXWGLIWYC&fileType=view" width="7430px" height="4699px"/>
+<graphic url="https://files.transkribus.eu/Get?id=RBQGTLIGONOMLXEIXWGLIWYC&amp;fileType=view" width="7430px" height="4699px"/>
 <zone points="3877,176 7176,176 7176,4464 3877,4464" rendition="TextRegion" xml:id="facs_3_r2">
 <zone points="4309,207 7086,207 7086,443 4309,443" rendition="Line" xml:id="facs_3_r2l1"/>
 <zone points="4320,332 7159,332 7159,586 4320,586" rendition="Line" xml:id="facs_3_r2l2"/>
@@ -380,7 +380,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_4">
 <graphic url="0004_GB-LET-GB-HB-325-02-02.jpg" width="7430px" height="4699px"/>
-<graphic url="https://files.transkribus.eu/Get?id=MSTFIRGDTKNSPAJUTAATYNRQ&fileType=view" width="7430px" height="4699px"/>
+<graphic url="https://files.transkribus.eu/Get?id=MSTFIRGDTKNSPAJUTAATYNRQ&amp;fileType=view" width="7430px" height="4699px"/>
 <zone points="278,194 3656,194 3656,4411 278,4411" rendition="TextRegion" xml:id="facs_4_r1">
 <zone points="284,286 3568,286 3568,340 284,340" rendition="Line" xml:id="facs_4_r1l1"/>
 <zone points="338,309 3013,309 3013,577 338,577" rendition="Line" xml:id="facs_4_r1l2"/>
@@ -440,7 +440,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="3803" lry="2586" xml:id="facs_5">
 <graphic url="0005_GB-LET-GB-HB-325-03-01.jpg" width="3803px" height="2586px"/>
-<graphic url="https://files.transkribus.eu/Get?id=MXHTAFRDIZMCWDIPSVMSFXMY&fileType=view" width="3803px" height="2586px"/>
+<graphic url="https://files.transkribus.eu/Get?id=MXHTAFRDIZMCWDIPSVMSFXMY&amp;fileType=view" width="3803px" height="2586px"/>
 <zone points="877,385 1614,385 1614,1134 877,1134" rendition="TextRegion" xml:id="facs_5_r_148">
 <zone points="927,538 1251,538 1251,1090 927,1090" rendition="Line" xml:id="facs_5_l"/>
 <zone points="1065,474 1582,474 1582,1126 1065,1126" rendition="Line" xml:id="facs_5_l_159"/>
@@ -459,7 +459,7 @@
 </surface>
 <surface ulx="0" uly="0" lrx="3803" lry="2586" xml:id="facs_6">
 <graphic url="0006_GB-LET-GB-HB-325-03-02.jpg" width="3803px" height="2586px"/>
-<graphic url="https://files.transkribus.eu/Get?id=BNGQPDBMVRANZMBNAQVTUTEO&fileType=view" width="3803px" height="2586px"/>
+<graphic url="https://files.transkribus.eu/Get?id=BNGQPDBMVRANZMBNAQVTUTEO&amp;fileType=view" width="3803px" height="2586px"/>
 </surface>
 </facsimile>
 <text>
