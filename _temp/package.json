@@ -1,0 +1,10 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "glob": "^10.4.5",
+    "node-xlsx": "^0.24.0",
+    "xml-formatter": "^3.6.3"
+  }
+}
