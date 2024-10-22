@@ -17,24 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH009">
-<persName>Mother</persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -135,7 +117,7 @@
 <date when="1921-07-10"> July 10</date>
 <lb facs="#facs_1_r1l2" n="N002"/>
 Darling
-<persName ref="#person-EH009">Mother</persName>
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>
 . I've got your letter of
 <date when="1921-06-08">June 8</date>
 <lb facs="#facs_1_r1l3" n="N003"/>
@@ -179,18 +161,18 @@ I shan't see it.
 We're having an interesting time too, as you'll
 <lb facs="#facs_1_r1l17" n="N015"/>
 see in my letter to
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 . I'm sure we've
 <lb facs="#facs_1_r1l18" n="N016"/>
 done the right thing, but there have been
 <lb facs="#facs_1_r1l19" n="N017"/>
 moments of great anxiety + but for Sir
 <lb facs="#facs_1_r1l20" n="N018"/>
-<persName ref="#person-EH002">Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Percy</persName>
 we should never have succeeded.
 <lb facs="#facs_1_r1l21" n="N019"/>
 Once we've got
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 onto his throne which
 <lb facs="#facs_1_r1l22" n="N020"/>
 might almost be in the next fortnight, he'll
@@ -203,7 +185,7 @@ But upon my soul he has got a difficult
 <ab facs="#facs_2_r1">
 <lb facs="#facs_2_r1l1" n="N001"/>
 task before
-<persName ref="#person-EH001">him</persName>
+<persName ref="metadata/people.xml#person-EH001">him</persName>
 + what amazes me is
 <lb facs="#facs_2_r1l2" n="N002"/>
 that he should want to be King of Iraq.
@@ -239,7 +221,7 @@ Gertrude
 <lb facs="#facs_3_l_160" n="N001"/>
 <add place="above">Not Copy</add>
 <lb facs="#facs_3_l_164" n="N002"/>
-<persName ref="#person-EH009">Lady Bell</persName>
+<persName ref="metadata/people.xml#person-EH009">Lady Bell</persName>
 <lb facs="#facs_3_l_169" n="N003"/>
 Rounton Grange
 <lb facs="#facs_3_l_174" n="N004"/>

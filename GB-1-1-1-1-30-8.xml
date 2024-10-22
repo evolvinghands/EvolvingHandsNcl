@@ -18,32 +18,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH009">
-<persName>Mother</persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH078">
-<persName>Mrs Rosita Forbes</persName>
-<idno type="EH">EH078</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH068">
-<persName>Naqib</persName>
-<idno type="EH">EH068</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7011781" corresp="http://vocab.getty.edu/page/tgn/7011781">
 <placeName>London</placeName>
@@ -183,7 +157,7 @@
 <add place="in-line">1921</add>
 <lb facs="#facs_1_r5l2" n="N002"/>
 Dearest
-<persName ref="#person-EH009">Mother</persName>
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>
 . I must send you
 <lb facs="#facs_1_r5l3" n="N003"/>
 a particular word to tell you
@@ -226,7 +200,7 @@ I am most delighted you
 <lb facs="#facs_1_r5l17" n="N016"/>
 brought it off so brilliantly
 <lb facs="#facs_1_r5l18" n="N017"/>
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 says it was lovely.
 </ab>
 <ab facs="#facs_1_r3">
@@ -270,9 +244,9 @@ daughter Gertrude.
 </ab>
 <ab facs="#facs_1_r">
 <lb facs="#facs_1_l" n="N001"/>
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 and I are delighted that
-<persName ref="#person-EH078">Mrs Rosita Forbes</persName>
+<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>
 is going to marry.
 <lb facs="#facs_1_l_793" n="N002"/>
 Now
@@ -290,7 +264,7 @@ I am now longing to get
 <lb facs="#facs_2_r1l2" n="N002"/>
 your first answers to my
 <lb facs="#facs_2_r1l3" n="N003"/>
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 letters. I feel quite
 <lb facs="#facs_2_r1l4" n="N004"/>
 certain you'll be thrilled
@@ -324,7 +298,7 @@ reports which are not
 without interest.
 <lb facs="#facs_2_r2l4" n="N004"/>
 You know the
-<persName ref="#person-EH068">Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">Naqib</persName>
 has
 <lb facs="#facs_2_r2l5" n="N005"/>
 got the
@@ -337,7 +311,7 @@ got the
 immensely pleased. I
 <lb facs="#facs_2_r2l7" n="N007"/>
 think
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 might
 <lb facs="#facs_2_r2l8" n="N008"/>
 some time write to Faisal
@@ -390,7 +364,7 @@ S. W.
 </ab>
 <ab facs="#facs_3_r_204">
 <lb facs="#facs_3_l_248" n="N001"/>
-<persName ref="#person-EH009">Lady Bell </persName>
+<persName ref="metadata/people.xml#person-EH009">Lady Bell </persName>
 <lb facs="#facs_3_l_257" n="N002"/>
 <del rend="strikethrough">Rounton Grange</del>
 <lb facs="#facs_3_l_269" n="N003"/>

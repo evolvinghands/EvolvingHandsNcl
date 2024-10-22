@@ -17,72 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH049">
-<persName>Fakhri Jamil Zadah</persName>
-<idno type="EH">EH049</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH105">
-<persName>Mahrut</persName>
-<idno type="EH">EH105</idno>
-</person>
-<person xml:id="person-EH042">
-<persName>Fahad Beg</persName>
-<idno type="EH">EH042</idno>
-</person>
-<person xml:id="person-EH064">
-<persName>Ibn Sa'ud</persName>
-<idno type="EH">EH064</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH043">
-<persName> 'Ali Sulaiman</persName>
-<idno type="EH">EH043</idno>
-</person>
-<person xml:id="person-EH081">
-<persName>Major Yetts</persName>
-<idno type="EH">EH081</idno>
-</person>
-<person xml:id="person-EH102">
-<persName>Rashid Beg al 'Umari</persName>
-<idno type="EH">EH102</idno>
-</person>
-<person xml:id="person-EH073">
-<persName>Sadr</persName>
-<idno type="EH">EH073</idno>
-</person>
-<person xml:id="person-EH014">
-<persName>Cornwallis</persName>
-<idno type="EH">EH014</idno>
-</person>
-<person xml:id="person-EH005">
-<persName>Sir Aylmer</persName>
-<idno type="EH">EH005</idno>
-</person>
-<person xml:id="person-EH106">
-<persName>Milly</persName>
-<idno type="EH">EH106</idno>
-</person>
-<person xml:id="person-EH028">
-<persName>Sec.</persName>
-<idno type="EH">EH028</idno>
-</person>
-<person xml:id="person-EH107">
-<persName>Domnul</persName>
-<idno type="EH">EH107</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -521,7 +455,7 @@
 <date when="1921-07-31">July 31</date>
 <lb facs="#facs_1_r1l3" n="N003"/>
 Dearest
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 . I sent you a word this week by air in
 <lb facs="#facs_1_r1l4" n="N004"/>
 answer to you letter of June 28; I must now give you an account
@@ -530,9 +464,9 @@ of our doings. Overshadowing all else was the display at
 <lb facs="#facs_1_r1l6" n="N006"/>
 <placeName ref="#place-1079402">Ramadi</placeName>
 .
-<persName ref="#person-EH049">Fakhri Jamil Zadah</persName>
+<persName ref="metadata/people.xml#person-EH049">Fakhri Jamil Zadah</persName>
 + I left at 4 am but
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 <lb facs="#facs_1_r1l7" n="N007"/>
 was a little in front of us. We caught him up at
 <placeName>Naqtab,</placeName>
@@ -578,10 +512,10 @@ after + beside the cars (I was immediately behind
 Faisal) amid incredible clouds of dust. At the
 <lb facs="#facs_1_r1l23" n="N021"/>
 ferry we found a big Dulaim tent +
-<persName ref="#person-EH105">Mahrut</persName>
+<persName ref="metadata/people.xml#person-EH105">Mahrut</persName>
 of the 'Anizah,
 <lb facs="#facs_1_r1l24" n="N022"/>
-<persName ref="#person-EH042">Fahad Beg</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad Beg</persName>
 's son. Here Faisal held a majlis after
 <lb facs="#facs_1_r1l25" n="N023"/>
 which we had a small meal, sitting round dishes
@@ -614,7 +548,7 @@ had received a day or two before a
 <ab facs="#facs_2_r1">
 <lb facs="#facs_2_r1l1" n="N001"/>
 threatening letter from
-<persName ref="#person-EH064">Ibn Sa'ud</persName>
+<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>
 telling him that his 'Anizah
 <lb facs="#facs_2_l" n="N002"/>
 were Ibn Sa'ud 's subjects + that (which they are not) +
@@ -624,18 +558,18 @@ bidding him beware of consequences if he served any
 "miserable little fool of an Arab" who happened to be set up
 <lb facs="#facs_2_r1l6" n="N005"/>
 in Mesopotamia.
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 might serve us because we were
 <lb facs="#facs_2_r1l7" n="N006"/>
 Ibn Sa'ud's friends, but no one else. This letter Fahad
 <lb facs="#facs_2_r1l8" n="N007"/>
 hastened to confide to
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 in whom he found a
 <lb facs="#facs_2_r1l9" n="N008"/>
 sympathetic audience! (This is not to be repeated - Sir
 <lb facs="#facs_2_r1l10" n="N009"/>
-<persName ref="#person-EH002">Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Percy</persName>
 will square Ibn Sa'ud who has got a bit above
 <lb facs="#facs_2_r1l12" n="N010"/>
 himself.)
@@ -647,7 +581,7 @@ of the 'Anizah, horsemen + camel riders, bearing the huge
 <lb facs="#facs_2_r1l15" n="N013"/>
 standard of the tribe. We stopped to salute it as we passed.
 <lb facs="#facs_2_r1l16" n="N014"/>
-<persName ref="#person-EH043"> 'Ali Sulaiman</persName>
+<persName ref="metadata/people.xml#person-EH043"> 'Ali Sulaiman</persName>
 the chief of the
 <seg type="editorialNote-target-text">
 Dulaim
@@ -669,13 +603,13 @@ recommendation only. The town was gaily decorated
 + we walked through applauding people to our
 <lb facs="#facs_2_l_789" n="N020"/>
 lodgings, Faisal to
-<persName ref="#person-EH081">Major Yetts</persName>
+<persName ref="metadata/people.xml#person-EH081">Major Yetts</persName>
 's house,
-<persName ref="#person-EH049">Fakhri</persName>
+<persName ref="metadata/people.xml#person-EH049">Fakhri</persName>
 +
 <lb facs="#facs_2_r1l25" n="N021"/>
 I to the Mutasarrif, old
-<persName ref="#person-EH102">Rashid Beg al 'Umari</persName>
+<persName ref="metadata/people.xml#person-EH102">Rashid Beg al 'Umari</persName>
 -
 <lb facs="#facs_2_r1l26" n="N022"/>
 he was among the crowd you saw at
@@ -710,12 +644,12 @@ negro mounted on a gigantic white camel; inside the
 tribesmen lined the tent 5 or 6 deep from the dais to
 <lb facs="#facs_3_r2l4" n="N004"/>
 the very end.
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 sat on the high diwan with
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 <lb facs="#facs_3_r2l5" n="N005"/>
 on his right while
-<persName ref="#person-EH081">Major Yetts</persName>
+<persName ref="metadata/people.xml#person-EH081">Major Yetts</persName>
 + I brought up people to sit
 <lb facs="#facs_3_r2l6" n="N006"/>
 on his left - those we thought he ought to speak to. He
@@ -842,9 +776,9 @@ end of each phrase: "The truth, by God
 the truth!"
 <lb facs="#facs_4_r1l34" n="N024"/>
 When it was over
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 +
-<persName ref="#person-EH043">Ali Sulaiman</persName>
+<persName ref="metadata/people.xml#person-EH043">Ali Sulaiman</persName>
 stood
 <lb facs="#facs_4_r1l35" n="N025"/>
 up on either side of him, + said "We swear
@@ -875,13 +809,13 @@ It was a tremendous moment, those two really big
 men who have played their part in the history of
 <lb facs="#facs_5_r1l10" n="N008"/>
 their time, +
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 between them, the finest living
 <lb facs="#facs_5_r1l11" n="N009"/>
 representative of his race - + the link ourselves.
 <lb facs="#facs_5_r1l12" n="N010"/>
 One after another
-<persName ref="#person-EH043">'Ali Sulaiman</persName>
+<persName ref="metadata/people.xml#person-EH043">'Ali Sulaiman</persName>
 brought up his
 <lb facs="#facs_5_r1l13" n="N011"/>
 shaikhs, some 40 or 50 of them. They laid their hands
@@ -902,7 +836,7 @@ each rice dish, each of which was crowned
 by a sheep roasted whole. We eat first, Faisal
 <lb facs="#facs_5_l_779" n="N019"/>
 + his suite + we British officers,
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 + a
 <lb facs="#facs_5_r1l23" n="N020"/>
 few more. Then we sat on the dais watching
@@ -953,7 +887,7 @@ simple + suitable, saying that he called on God to help him
 + them in their task of regeneration. "And I have great
 <lb facs="#facs_6_r1l6" n="N006"/>
 hope of success" - he turned to
-<persName ref="#person-EH081">Major Yetts</persName>
+<persName ref="metadata/people.xml#person-EH081">Major Yetts</persName>
 + me - "because
 <lb facs="#facs_6_r1l7" n="N007"/>
 of the benevolent race which gives us its support." The
@@ -965,7 +899,7 @@ the grave faces of the village elders, white turbaned
 or draped in the red Arab kerchief + the fine
 <lb facs="#facs_6_r1l14" n="N011"/>
 dignity with which
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 accepted the homage offered to
 <lb facs="#facs_6_l_729" n="N012"/>
 him made the scene almost as striking as that of
@@ -995,7 +929,7 @@ diwans + chairs. We all chatted very informally
 till dinner, Faisal very eager to know about
 <lb facs="#facs_6_r1l31" n="N024"/>
 ancient monuments -
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 + I told him
 <lb facs="#facs_6_l_821" n="N025"/>
 about
@@ -1020,7 +954,7 @@ dinner party. All the viands are before you, you eat
 what you want + when you're done you get up
 <lb facs="#facs_7_l_945" n="N004"/>
 + go back to your coffee + cigarettes.
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 ,
 <lb facs="#facs_7_l_978" n="N005"/>
 accustomed to this, is very impatient at
@@ -1032,7 +966,7 @@ leave the table the moment he has finished.
 After a little more talk I took my leave + went
 <lb facs="#facs_7_l_1038" n="N009"/>
 to bed on
-<persName ref="#person-EH102">the Mutasarrif</persName>
+<persName ref="metadata/people.xml#person-EH102">the Mutasarrif</persName>
 's roof. It was all hung
 <lb facs="#facs_7_l_1074" n="N010"/>
 with
@@ -1101,7 +1035,7 @@ notables who had kept as
 <lb facs="#facs_7_l_1465" n="N027"/>
 informed of the whole business. Faisal sent for Muhammad
 <lb facs="#facs_7_r4l50" n="N028"/>
-<persName ref="#person-EH073">Sadr</persName>
+<persName ref="metadata/people.xml#person-EH073">Sadr</persName>
 , who was at the bottom of it, + gave him
 <lb facs="#facs_7_l_1494" n="N029"/>
 fair warning that now that he was practically king
@@ -1151,7 +1085,7 @@ man to a free people, as a friend to a friend."
 <lb facs="#facs_8_r1l18" n="N017"/>
 I went to tea with him in the evening; Mr
 <lb facs="#facs_8_r1l19" n="N018"/>
-<persName ref="#person-EH014">Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Cornwallis</persName>
 dropped in presently + we had a
 <lb facs="#facs_8_r1l20" n="N019"/>
 long + very amusing talk. I took him the
@@ -1167,7 +1101,7 @@ cursed all the people we didn't like + discussed.
 what he should do to them. On the way back
 <lb facs="#facs_8_r1l25" n="N024"/>
 I met
-<persName ref="#person-EH005">Sir Aylmer</persName>
+<persName ref="metadata/people.xml#person-EH005">Sir Aylmer</persName>
 who had been trying to call
 <lb facs="#facs_8_r1l26" n="N025"/>
 on me, so I carried him back with me. He
@@ -1184,7 +1118,7 @@ events of the past few days, to his deep interest.
 He is playing up like a man, immensely eager
 <lb facs="#facs_9_r1l3" n="N003"/>
 to make the thing go, loves
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 + does all
 <lb facs="#facs_9_r1l4" n="N004"/>
 he can to help on the Arab army.
@@ -1195,13 +1129,13 @@ Would you very kindly send a copy of the
 <placeName ref="#place-1079402">Ramadi</placeName>
 <lb facs="#facs_9_r1l9" n="N007"/>
 part to
-<persName ref="#person-EH106">Milly</persName>
+<persName ref="metadata/people.xml#person-EH106">Milly</persName>
 - exclusive of what I said
 <lb facs="#facs_9_r1l10" n="N008"/>
 about
-<persName ref="#person-EH064">Ibn Saud</persName>
+<persName ref="metadata/people.xml#person-EH064">Ibn Saud</persName>
 +
-<persName ref="#person-EH042">Fahad</persName>
+<persName ref="metadata/people.xml#person-EH042">Fahad</persName>
 . I owe her answers
 <lb facs="#facs_9_r1l11" n="N009"/>
 to many delightfully interesting letters from
@@ -1214,15 +1148,15 @@ Sunday morning on my Fortnightly report for
 the
 <choice>
 <abbr>
-<persName ref="#person-EH028">Sec.</persName>
+<persName ref="metadata/people.xml#person-EH028">Sec.</persName>
 </abbr>
 <expan>Secretary</expan>
 </choice>
-<persName ref="#person-EH028"> of State</persName>
+<persName ref="metadata/people.xml#person-EH028"> of State</persName>
 .
 <lb facs="#facs_9_r1l14" n="N013"/>
 (
-<persName ref="#person-EH107">Domnul</persName>
+<persName ref="metadata/people.xml#person-EH107">Domnul</persName>
 may see the whole letter +
 <lb facs="#facs_9_l_521" n="N014"/>
 all my letters.)
@@ -1277,7 +1211,7 @@ copying
 <lb facs="#facs_10_r1l3" n="N001"/>
 <del rend="strikethrough">On His Majesty's Service.</del>
 <lb facs="#facs_10_r1l7" n="N002"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart C B</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart C B</persName>
 <lb facs="#facs_10_r1l8" n="N003"/>
 Rounton Grange
 <lb facs="#facs_10_r1l9" n="N004"/>

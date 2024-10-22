@@ -1,0 +1,2256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> People Metadata </title>
+            </titleStmt>
+            <publicationStmt>
+                <p> File created by Evolving Hands project, Newcastle University </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p> Metadata file containing information about people referenced in the project </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="person-EH001">
+                <idno type="VIAF"> 77115476 </idno>
+                <persName>
+                    <forename> Faisal </forename> I <surname> bin Al-Hussein bin Ali Al-Hashemi
+                    </surname>
+                </persName>
+                <birth when="1885-05-20"/>
+                <death when="1933-09-08"/>
+                <note>
+                    <p> First King of Iraq </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/77115476"/>
+                <ptr target="https://en.wikipedia.org/wiki/Faisal_I_of_Iraq"/>
+            </person>
+            <person xml:id="person-EH002">
+                <idno type="VIAF"> 123918075 </idno>
+                <persName> Major-General Sir <forename> Percy Zachariah </forename>
+                    <surname> Cox </surname> GCMG, GCIE, KCSI, KBE, DL </persName>
+                <birth when="1864-11-20"/>
+                <death when="1937-02-20"/>
+                <note>
+                    <p> British High Commissioner of Iraq </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/123918075"/>
+                <ptr target="https://en.wikipedia.org/wiki/Percy_Cox"/>
+            </person>
+            <person xml:id="person-EH003">
+                <idno type="VIAF"> 73968933 </idno>
+                <persName>
+                    <forename> Harry St John Bridger </forename>
+                    <surname> Philby </surname> , CIE </persName>
+                <birth when="1885-04-03"/>
+                <death when="1960-09-30"/>
+                <note>
+                    <p> Minister of Internal Security in Mandatory Iraq </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/73968933"/>
+                <ptr target="https://en.wikipedia.org/wiki/St_John_Philby"/>
+            </person>
+            <person xml:id="person-EH005">
+                <idno type="VIAF"> 88530312 </idno>
+                <persName> General Sir James Aylmer Lowthrope <surname> Haldane </surname> , GCMG,
+                    KCB, DSO </persName>
+                <birth when="1862-11-17"/>
+                <death when="1950-04-19"/>
+                <note>
+                    <p> General Officer Commanding Mesopotamia </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/88530312"/>
+                <ptr target="https://en.wikipedia.org/wiki/Aylmer_Haldane"/>
+            </person>
+            <person xml:id="person-EH006">
+                <idno type="VIAF"> 315637969 </idno>
+                <persName> Sir <forename> Thomas Hugh </forename>
+                    <surname> Bell </surname> , 2nd Baronet, CB, JP, DL, FSA </persName>
+                <birth when="1844-02-10"/>
+                <death when="1931-06-29"/>
+                <note>
+                    <p> Father of Gertrude Bell </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/315637969"/>
+                <ptr target="https://en.wikipedia.org/wiki/Sir_Hugh_Bell,_2nd_Baronet"/>
+            </person>
+            <person xml:id="person-EH007">
+                <idno type="VIAF"> 231370947 </idno>
+                <persName> Sir <forename> Colin Campbell </forename>
+                    <surname> Garbett </surname> , KCIE, CMG, CSI </persName>
+                <birth when="1881-05-22"/>
+                <death when="1972-08-10"/>
+                <note>
+                    <p> Political Secretary to Sir Percy Cox; Commander-in-Chief for Iraq </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/231370947"/>
+                <ptr target="https://en.wikipedia.org/wiki/Colin_Campbell_Garbett"/>
+            </person>
+            <person xml:id="person-EH008">
+                <persName> Marjorie Joesphine Maynard, Lady <surname> Garbett </surname>
+                </persName>
+                <birth when="1891-01-23"/>
+                <death when="1975-10-23"/>
+                <note>
+                    <p> Artist and farmer, married to Mr Garbett </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Marjorie_Maynard"/>
+            </person>
+            <person xml:id="person-EH009">
+                <idno type="VIAF"> 46824542 </idno>
+                <persName> Dame <forename> Florence Eveleen Eleanore </forename> , Lady <surname>
+                        Bell </surname> , DBE, JP </persName>
+                <birth when="1851-09-09"/>
+                <death when="1930-05-16"/>
+                <note>
+                    <p> Step-mother of Gertrude Bell </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/46824542"/>
+                <ptr target="https://en.wikipedia.org/wiki/Florence_Bell_(writer)"/>
+            </person>
+            <person xml:id="person-EH010">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH011">
+                <idno type="VIAF"> 25409775 </idno>
+                <persName> Ja'far <surname> Pasha al-Askari </surname>
+                </persName>
+                <birth when="1885-09-15"/>
+                <death when="1936-10-29"/>
+                <note>
+                    <p> Iraqi Minister of Defence </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/25409775"/>
+                <ptr target="https://en.wikipedia.org/wiki/Jaafar_Al-Askari"/>
+            </person>
+            <person xml:id="person-EH012">
+                <idno type="VIAF"> 44026425 </idno>
+                <persName> Talib Pasha bin Rajab Al- <surname> Naqib </surname> Al-Refa'i </persName>
+                <birth when="1862-02-28"/>
+                <death when="1929-06-16"/>
+                <note>
+                    <p> Iraqi Minister of Defence </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/44026425"/>
+                <ptr target="https://en.wikipedia.org/wiki/Talib_al-Naqib"/>
+            </person>
+            <person xml:id="person-EH013">
+                <idno type="VIAF"> 61517780 </idno>
+                <persName> Jamil Sidqi al-Zahawi </persName>
+                <birth when="1863-06-17"/>
+                <death when="1936-01" notBefore="1936-01-01" notAfter="1936-01-31"/>
+                <note>
+                    <p> Iraqi poet and philosopher </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/61517780"/>
+                <ptr target="https://en.wikipedia.org/wiki/Jamil_Sidqi_al-Zahawi"/>
+            </person>
+            <person xml:id="person-EH014">
+                <idno type="VIAF"> 22392452 </idno>
+                <persName> Sir <forename> Kinahan </forename>
+                    <surname> Cornwallis </surname> , GCMG, CBE, DSO, </persName>
+                <birth when="1883-02-19"/>
+                <death when="1959-06-03"/>
+                <note>
+                    <p> British advisor to the Iraqi Ministry of the Interior </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/22392452"/>
+                <ptr target="https://en.wikipedia.org/wiki/Kinahan_Cornwallis"/>
+            </person>
+            <person xml:id="person-EH015">
+                <persName>
+                    <forename> Abd </forename> al-Majid Bey bin Hassan bin Masoud Ibn al-Shawi </persName>
+                <birth when="1852" notBefore="1852-01-01" notAfter="1852-12-31"/>
+                <death when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+                <note>
+                    <p> Mayor of Baghdad </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q64004412"/>
+                <ptr
+                    target="https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF_%D8%A7%D9%84%D8%B4%D8%A7%D9%88%D9%8A"
+                />
+            </person>
+            <person xml:id="person-EH016">
+                <persName> Lady <forename> Louisa Belle </forename>
+                    <surname> Cox </surname> , DBE </persName>
+                <birth when="1866-08-05"/>
+                <death when="1956-08-30"/>
+                <note>
+                    <p> Wife of Sir Percy Cox </p>
+                </note>
+                <ptr target="https://www.wikitree.com/wiki/Hamilton-23085"/>
+            </person>
+            <person xml:id="person-EH017">
+                <idno type="VIAF"> 9370152502869010800005 </idno>
+                <persName> Sir Sassoon Eskell, KBE </persName>
+                <birth when="1860-03-17"/>
+                <death when="1932-08-31"/>
+                <note>
+                    <p> Iraqi Minister of Finance </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/9370152502869010800005"/>
+                <ptr target="https://en.wikipedia.org/wiki/Sassoon_Eskell"/>
+            </person>
+            <person xml:id="person-EH018">
+                <idno type="VIAF"> 69171439 </idno>
+                <persName> Nuri Pasha al-Said, CH </persName>
+                <birth when="1888-12" notBefore="1888-12-01" notAfter="1888-12-31"/>
+                <death when="1958-07-15"/>
+                <note>
+                    <p> Iraqi politician who served as Prime Minister multiple times </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/69171439"/>
+                <ptr target="https://en.wikipedia.org/wiki/Nuri_al-Said"/>
+            </person>
+            <person xml:id="person-EH019">
+                <persName>
+                    <forename> Naji </forename> al-Suwaydi </persName>
+                <birth when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+                <death when="1942-08-17"/>
+                <note>
+                    <p> Iraqi politician who served as Prime Minister </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Naji_Al-Suwaidi"/>
+            </person>
+            <person xml:id="person-EH020">
+                <idno type="VIAF"> 93546719 </idno>
+                <persName> Sir <forename> Ross </forename>
+                    <surname> Macpherson Smith </surname> , KBE, MC &amp; Bar, DFC &amp; Two Bars,
+                    AFC </persName>
+                <birth when="1892-12-04"/>
+                <death when="1922-04-13"/>
+                <note>
+                    <p> Aviator </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/93546719"/>
+            </person>
+            <person xml:id="person-EH021">
+                <idno type="VIAF"> 46101736 </idno>
+                <persName> Seyyed Zia'eddin Tabataba'i </persName>
+                <birth when="1889-06" notBefore="1889-06-01" notAfter="1889-06-30"/>
+                <death when="1969-08-29"/>
+                <note>
+                    <p> Iranian journalist and politician who spearheaded the 1921 Persian coup
+                        d'etat </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/46101736"/>
+                <ptr target="https://en.wikipedia.org/wiki/Zia_ol_Din_Tabatabaee"/>
+            </person>
+            <person xml:id="person-EH022">
+                <idno type="VIAF"> 7828160667645903560009 </idno>
+                <persName>
+                    <forename> Ahmad </forename>
+                    <surname> Qavam </surname>
+                </persName>
+                <birth when="1873-01-02"/>
+                <death when="1955-07-23"/>
+                <note>
+                    <p> Prime Minister of Iran during the 1921 Persian coup d'etat </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/7828160667645903560009"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ahmad_Qavam"/>
+            </person>
+            <person xml:id="person-EH023">
+                <idno type="VIAF"> 39748221 </idno>
+                <persName> Sir <forename> Sydney </forename> Armitage <surname> Armitage-Smith
+                    </surname> , KBE, CB </persName>
+                <birth when="1876-09-03"/>
+                <death when="1932-10-31"/>
+                <note>
+                    <p> Financial Advisor to the Persian Government </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/39748221"/>
+                <ptr
+                    target="https://www.npg.org.uk/collections/search/person/mp80830/sir-sydney-armitage-armitage-smith"
+                />
+            </person>
+            <person xml:id="person-EH024">
+                <idno type="VIAF"> 209059379 </idno>
+                <persName> Major-General Sir <forename> Hubert </forename> Jervoise <surname>
+                        Huddleston </surname> , GCMG, GBE, CB, DSO &amp; Bar, MC </persName>
+                <birth when="1880-01-20"/>
+                <death when="1950-10-02"/>
+                <note>
+                    <p> British Army Major-General </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/209059379"/>
+                <ptr target="https://en.wikipedia.org/wiki/Hubert_Huddleston"/>
+            </person>
+            <person xml:id="person-EH025">
+                <idno type="VIAF"> 2464206 </idno>
+                <persName> Field Marshal <forename> William Edmund </forename>
+                    <surname> Ironside </surname> , 1st Baron Ironside, GCB, CMG, DSO </persName>
+                <birth when="1880-05-06"/>
+                <death when="1959-09-22"/>
+                <note>
+                    <p> Senior officer in the British Army who was assigned to British forces in
+                        Persia </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/2464206"/>
+                <ptr target="https://en.wikipedia.org/wiki/Edmund_Ironside,_1st_Baron_Ironside"/>
+            </person>
+            <person xml:id="person-EH026">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH027">
+                <idno type="VIAF"> 77949090 </idno>
+                <persName> Ahmad Shah Qajar </persName>
+                <birth when="1898-01-21"/>
+                <death when="1930-02-21"/>
+                <note>
+                    <p> Shah of Iran </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/77949090"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ahmad_Shah_Qajar"/>
+            </person>
+            <person xml:id="person-EH028">
+                <idno type="VIAF"> 94507588 </idno>
+                <persName> Sir <forename> Winston Leonard Spencer </forename>
+                    <surname> Churchill </surname>
+                </persName>
+                <birth when="1874-11-30"/>
+                <death when="1965-01-24"/>
+                <note>
+                    <p> British Secretary of State for the Colonies </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/94507588"/>
+                <ptr target="https://en.wikipedia.org/wiki/Winston_Churchill"/>
+            </person>
+            <person xml:id="person-EH029">
+                <persName>
+                    <forename> Haji </forename>
+                    <surname> Naji </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Iraqi farmer and friend of Bell's </p>
+                </note>
+            </person>
+            <person xml:id="person-EH030">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH031">
+                <idno type="VIAF"> 280388590 </idno>
+                <persName> Captain <forename> Arthur Lionel Forster </forename>
+                    <surname> Smith </surname> , CBE, MVO, LLD </persName>
+                <birth when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+                <death when="1972-06-03"/>
+                <note>
+                    <p> Director of the Department of Education in the British Civil Administration
+                        in Iraq </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/280388590"/>
+            </person>
+            <person xml:id="person-EH032">
+                <idno type="VIAF"> 52605304 </idno>
+                <persName>
+                    <forename> Arthur Lionel </forename>
+                    <surname> Smith </surname>
+                </persName>
+                <birth when="1850-12-04"/>
+                <death when="1924-04-12"/>
+                <note>
+                    <p> Father of Captain Smith </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/52605304"/>
+                <ptr target="https://en.wikipedia.org/wiki/Arthur_Smith_(historian)"/>
+            </person>
+            <person xml:id="person-EH033">
+                <idno type="VIAF"> 14924300 </idno>
+                <persName> Ma'ruf bin Abdul Ghani al Rusafi </persName>
+                <birth when="1875" notBefore="1875-01-01" notAfter="1875-12-31"/>
+                <death when="1945-03-16"/>
+                <note>
+                    <p> Iraqi Poet, Educationist and Literary Scholar </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/14924300"/>
+                <ptr target="https://en.wikipedia.org/wiki/Maruf_al_Rusafi"/>
+            </person>
+            <person xml:id="person-EH034">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH035">
+                <idno type="VIAF"> 43974184 </idno>
+                <persName> Lieutenant Colonel <forename> Pierce Charles </forename>
+                    <surname> Joyce </surname> , CBE, DSO </persName>
+                <birth when="1878-06-25"/>
+                <death when="1964-02-01"/>
+                <note>
+                    <p> Military Advisor to Faisal </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/43974184"/>
+                <ptr
+                    target="https://archiveshub.jisc.ac.uk/search/archives/d5d4df8d-5e83-392e-a9a5-2635918e87af"
+                />
+            </person>
+            <person xml:id="person-EH036">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Son of the Naqib of Baghdad </p>
+                </note>
+            </person>
+            <person xml:id="person-EH037">
+                <idno type="VIAF"> 71359982 </idno>
+                <persName> ʿ <forename> Abdul </forename> Qādir Gīlānī </persName>
+                <birth when="1078-03-23"/>
+                <death when="1166-02-14"/>
+                <note>
+                    <p> Islamic scholar and preacher, founder of Sufism </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/71359982"/>
+                <ptr target="https://en.wikipedia.org/wiki/Abdul_Qadir_Gilani"/>
+            </person>
+            <person xml:id="person-EH038">
+                <idno type="VIAF"> 8708361 </idno>
+                <persName> Abdullah I bin al-Husayn </persName>
+                <birth when="1882-02-02"/>
+                <death when="1951-07-20"/>
+                <note>
+                    <p> Ruler of Jordan; brother of King Faisal I </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/8708361"/>
+                <ptr target="https://en.wikipedia.org/wiki/Abdullah_I_of_Jordan"/>
+            </person>
+            <person xml:id="person-EH039">
+                <idno type="VIAF"> 25459409 </idno>
+                <persName> Hussein bin Ali al-Hashimi </persName>
+                <birth when="1854-05-01"/>
+                <death when="1931-06-04"/>
+                <note>
+                    <p> Sharif and Emir of Mecca, King of the Hejaz, Father of King Faisal I </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/25459409"/>
+                <ptr target="https://en.wikipedia.org/wiki/Hussein_bin_Ali,_King_of_Hejaz"/>
+            </person>
+            <person xml:id="person-EH040">
+                <idno type="VIAF"> 8146095183700371076 </idno>
+                <persName> Khazʽal bin Jabir bin Merdaw al-Kaʽbi, GCIE, KCSI </persName>
+                <birth when="1863-08-18"/>
+                <death when="1936-05-24"/>
+                <note>
+                    <p> Shaikh of Mohammerah </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/8146095183700371076"/>
+                <ptr target="https://en.wikipedia.org/wiki/Khaz%CA%BDal_Ibn_Jabir"/>
+            </person>
+            <person xml:id="person-EH041">
+                <persName>
+                    <forename> Marie </forename>
+                    <surname> Delaers </surname>
+                </persName>
+                <birth notAfter="1905-01-01"/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Maid to Gertrude Bell </p>
+                </note>
+            </person>
+            <person xml:id="person-EH042">
+                <persName>
+                    <forename> Fahad </forename>
+                    <surname> Beg Ibn Hadhdhal </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Shaikh of the 'Anizah tribe </p>
+                </note>
+            </person>
+            <person xml:id="person-EH043">
+                <persName> Shaikh ' <forename> Ali </forename>
+                    <surname> Sulaiman ibn Bakr </surname>
+                </persName>
+                <birth notAfter="1900-01-01"/>
+                <death notBefore="1921-09-25" notAfter="1925-01-01"/>
+                <note>
+                    <p> Shaikh of the Dulaim tribe </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100000000239.0x000163"/>
+            </person>
+            <person xml:id="person-EH044">
+                <idno type="VIAF"> 299148933629854301921 </idno>
+                <persName>
+                    <forename> Albert Henry </forename>
+                    <surname> Stanley </surname> , 1st Baron Ashfield, TD, PC </persName>
+                <birth when="1874-08-08"/>
+                <death when="1948-11-04"/>
+                <note>
+                    <p> Businessman; managing director and chairman of the Underground Electric
+                        Railways Company of London </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/299148933629854301921"/>
+                <ptr target="https://en.wikipedia.org/wiki/Albert_Stanley,_1st_Baron_Ashfield"/>
+            </person>
+            <person xml:id="person-EH045">
+                <persName>
+                    <forename> Rashid </forename> Beg al- <surname> Khojah </surname>
+                </persName>
+                <death notBefore="1935-01-01"/>
+                <note>
+                    <p> Mutasarrif of Baghdad </p>
+                </note>
+                <ptr
+                    target="https://www.yumpu.com/en/document/read/12390277/the-whos-who-of-iraq-imara-wa-tijara-"
+                />
+            </person>
+            <person xml:id="person-EH046">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Governess to the Bell family </p>
+                </note>
+            </person>
+            <person xml:id="person-EH047">
+                <persName>
+                    <forename> Saiyid Husain </forename>
+                    <surname> Effendi al Afnan </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Iraqi Secretary to the Council of Ministers </p>
+                </note>
+                <ptr
+                    target="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiLhq3EveX8AhWsh_0HHYZRASkQFnoECBgQAQ&amp;url=https%3A%2F%2Fwww.qdl.qa%2Fdownload%2Fpdf%2F81055_vdc_100000000833.0x000365_ar.pdf&amp;usg=AOvVaw08d0RAPh79fM0sco6N5LXQ"/>
+                <ptr target="http://gertrudebell.ncl.ac.uk/l/gb-1-1-3-2-8"/>
+            </person>
+            <person xml:id="person-EH048">
+                <persName>
+                    <forename> Arthur </forename>
+                    <surname> Tod </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Agent for Lynch Bros who ran ferries across Tigirs river in Iraq </p>
+                </note>
+            </person>
+            <person xml:id="person-EH049">
+                <persName>
+                    <forename> Fakhri </forename> al- <surname> Jamil </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Head of notable Baghdad family; Iraqi Minister of Auqaf </p>
+                </note>
+                <ptr
+                    target="https://ar.wikipedia.org/wiki/%D9%81%D8%AE%D8%B1_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A2%D9%84_%D8%AC%D9%85%D9%8A%D9%84"
+                />
+            </person>
+            <person xml:id="person-EH050">
+                <persName>
+                    <forename> Dora </forename>
+                    <surname> Philby </surname>
+                </persName>
+                <birth when="1888-09-21"/>
+                <death when="1957-05-27"/>
+                <note>
+                    <p> Wife of St John Philby </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q96086091"/>
+            </person>
+            <person xml:id="person-EH051">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH052">
+                <idno type="VIAF"> 39074138 </idno>
+                <persName>
+                    <forename> Tâdj </forename>
+                    <surname> ol-Molouk </surname>
+                </persName>
+                <birth when="1896-03-17"/>
+                <death when="1982-03-10"/>
+                <note>
+                    <p> Wife of Reza Shah; later Queen of Iran </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/39074138"/>
+            </person>
+            <person xml:id="person-EH053">
+                <idno type="VIAF"> 107639858 </idno>
+                <persName>
+                    <forename> Reza </forename>
+                    <surname> Shah Pahlavi </surname>
+                </persName>
+                <birth when="1878-03-15"/>
+                <death when="1944-07-26"/>
+                <note>
+                    <p> Iranian military officer; later Shah of Iran </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/107639858"/>
+                <ptr target="https://en.wikipedia.org/wiki/Reza_Shah"/>
+            </person>
+            <person xml:id="person-EH054">
+                <persName>
+                    <forename> Abdul Latif </forename> Al-Mandil al-Dossari </persName>
+                <birth when="1868" notBefore="1868-01-01" notAfter="1868-12-31"/>
+                <death when="1940-12-02"/>
+                <note>
+                    <p> Iraqi politician and merchant; Minister of Commerce in the first Iraqi
+                        Government </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q51647278"/>
+                <ptr
+                    target="https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D8%B7%D9%8A%D9%81_%D8%A7%D9%84%D9%85%D9%86%D8%AF%D9%8A%D9%84#"
+                />
+            </person>
+            <person xml:id="person-EH055">
+                <persName> Khazʽal <surname> bin Jabir bin Merdaw al-Kaʽbi </surname>
+                </persName>
+                <birth when="1863-08-18"/>
+                <death when="1936-05-24"/>
+                <ptr target="https://en.wikipedia.org/wiki/Khaz%CA%BDal_Ibn_Jabir"/>
+            </person>
+            <person xml:id="person-EH056">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Wife of Talib Pasha bin Rajab Al-Naqib Al-Refa'I </p>
+                </note>
+            </person>
+            <person xml:id="person-EH057">
+                <persName>
+                    <forename> Salim </forename>
+                    <surname> al Khaiyun </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Shaikh of Chabaish </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100044119469.0x000003"/>
+            </person>
+            <person xml:id="person-EH058">
+                <persName> Shaikh <forename> Abdul </forename>
+                    <surname> al Wahid Haji Sikar </surname>
+                </persName>
+                <note>
+                    <p> Head of the al Fetlah tribe </p>
+                </note>
+                <ptr
+                    target="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiot63sxuX8AhVNasAKHRrhAFMQFnoECBQQAQ&amp;url=http%3A%2F%2Fetheses.dur.ac.uk%2F1875%2F1%2F1875.pdf&amp;usg=AOvVaw2ht3UbUaSAQZWs1KfvnjWX"
+                />
+            </person>
+            <person xml:id="person-EH059">
+                <idno type="VIAF"> 22317456 </idno>
+                <persName>
+                    <forename> Leonard </forename> Fielding <surname> Nalder </surname> , CMG, CIE,
+                    CBE </persName>
+                <birth when="1888" notBefore="1888-01-01" notAfter="1888-12-31"/>
+                <death when="1958" notBefore="1958-01-01" notAfter="1958-12-31"/>
+                <note>
+                    <p> British colonial administrator </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/22317456"/>
+                <ptr target="https://en.wikipedia.org/wiki/Leonard_Fielding_Nalder"/>
+            </person>
+            <person xml:id="person-EH060">
+                <persName> Sir <forename> Maurice Hugh Lowthian </forename>
+                    <surname> Bell </surname> , 3rd Baronet, CMG, TD, DL, JP </persName>
+                <birth when="1871-03-29"/>
+                <death when="1944-11-17"/>
+                <note>
+                    <p> Brother of Gertrude Bell </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Sir_Maurice_Bell,_3rd_Baronet"/>
+            </person>
+            <person xml:id="person-EH061">
+                <persName>
+                    <forename> Ahmad </forename> al-Shaikh Da'ud </persName>
+                <note>
+                    <p> Leader in the Iraqi Revolt of 1920; later exiled </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Sabiha_al-Shaykh_Da%27ud"/>
+                <ptr target="http://etheses.dur.ac.uk/5105/1/5105_2558.PDF"/>
+            </person>
+            <person xml:id="person-EH062">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Wife of Mr Slater; later divorced </p>
+                </note>
+                <ptr target="https://gertrudebell.ncl.ac.uk/l/gb-1-1-2-1-18-23"/>
+            </person>
+            <person xml:id="person-EH063">
+                <persName> J.S. <surname> Thomson </surname>
+                </persName>
+                <death notAfter="1936-01-01"/>
+                <note>
+                    <p> British Advisor to the Iraqi Ministry of the Interior </p>
+                </note>
+                <ptr
+                    target="https://books.google.co.uk/books?id=oYOCYhrOv6cC&amp;lpg=RA4-PA69&amp;dq=sabih%20beg%20finance%20iraq%201926&amp;pg=PA6#v=onepage&amp;q=thomson&amp;f=false"
+                />
+            </person>
+            <person xml:id="person-EH064">
+                <idno type="VIAF"> 77110564 </idno>
+                <persName>
+                    <forename> Abdulaziz </forename>
+                    <surname> bin Abdul Rahman Al Saud </surname>
+                </persName>
+                <birth when="1875-01-15"/>
+                <death when="1953-11-09"/>
+                <note>
+                    <p> First King of Saudi Arabia </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/77110564"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ibn_Saud"/>
+            </person>
+            <person xml:id="person-EH065">
+                <idno type="VIAF"> 110827970 </idno>
+                <persName> Lieutenant Colonel <forename> Harold Richard Patrick </forename>
+                    <surname> Dickson </surname>
+                </persName>
+                <birth when="1881-02-04"/>
+                <death when="1959-06-14"/>
+                <note>
+                    <p> British Adviser to Mutasarrif Hilla Liwa </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/110827970"/>
+                <ptr
+                    target="https://archiveshub.jisc.ac.uk/search/archives/fbf9ea44-cd2d-3322-b700-da41651dd982"
+                />
+            </person>
+            <person xml:id="person-EH066">
+                <persName>
+                    <forename> Yusef </forename>
+                    <surname> Effendi al-Suwaidi </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Father of Naji Suwaidi (EH019) and one of the leaders of the 1920 Arab
+                        Revolt </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Naji_Al-Suwaidi"/>
+            </person>
+            <person xml:id="person-EH067">
+                <persName>
+                    <forename> Abdul </forename>
+                    <surname> Jabbar Al Khayat </surname>
+                </persName>
+                <birth when="1856" notBefore="1856-01-01" notAfter="1856-12-31"/>
+                <death when="1924-04-23"/>
+                <note>
+                    <p> Iraqi Minister without Portfolio </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q64003620"/>
+                <ptr
+                    target="https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D8%B7"
+                />
+            </person>
+            <person xml:id="person-EH068">
+                <persName> Qutb-ul Aqtaab Naqib Al Ashraaf Syed Abd ar-Rahman al-Qadri al Gillani </persName>
+                <birth when="1841-01-11"/>
+                <death when="1927-06-13"/>
+                <note>
+                    <p> Naqib al-ashraf of Baghdad, and first Prime Minister of Iraq, leader of the
+                        Council of Ministers </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Abd_Al-Rahman_Al-Gillani"/>
+            </person>
+            <person xml:id="person-EH069">
+                <persName>
+                    <forename> Izzat </forename>
+                    <surname> Pasha al-Kirkouki </surname>
+                </persName>
+                <birth when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+                <death when="1932" notBefore="1932-01-01" notAfter="1932-12-31"/>
+                <note>
+                    <p> Iraqi Minister of Communications and Works </p>
+                </note>
+            </person>
+            <person xml:id="person-EH070">
+                <persName>
+                    <forename> Rashid </forename> Beg <surname> al-Khojah </surname>
+                </persName>
+                <birth when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+                <note>
+                    <p> Mutasarrif of Baghdad </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100061134244.0x000042"/>
+            </person>
+            <person xml:id="person-EH071">
+                <persName> Captain <forename> A H </forename>
+                    <surname> Ditchburn </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Political officer for the Muntafiq Division </p>
+                </note>
+                <ptr
+                    target="https://vtechworks.lib.vt.edu/bitstream/handle/10919/90669/Furrow_HA_T_2019.pdf?sequence=1"
+                />
+            </person>
+            <person xml:id="person-EH072">
+                <idno type="VIAF"> 22912823 </idno>
+                <persName>
+                    <forename> Edward Stuart </forename>
+                    <surname> Talbot </surname>
+                </persName>
+                <birth when="1844-02-19"/>
+                <death when="1934-01-30"/>
+                <note>
+                    <p> Bishop of Winchester </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/22912823"/>
+                <ptr target="https://en.wikipedia.org/wiki/Edward_Talbot_(bishop)"/>
+            </person>
+            <person xml:id="person-EH073">
+                <idno type="VIAF"> 28363059 </idno>
+                <persName>
+                    <forename> Sayyid Muhammad </forename> - <surname> Hasan al-Sadr </surname>
+                </persName>
+                <birth when="1882-01-07"/>
+                <death when="1956-04-03"/>
+                <note>
+                    <p> Son of Saiyid Hasan Sadr </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/28363059"/>
+                <ptr target="https://en.wikipedia.org/wiki/Mohammad_Hassan_al-Sadr"/>
+            </person>
+            <person xml:id="person-EH074">
+                <persName>
+                    <forename> Mohammed </forename>
+                    <surname> al-Habib al-Amir </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Head of the Rabi'ah tribe </p>
+                </note>
+                <ptr
+                    target="https://www.jstor.org/stable/pdf/41721149.pdf?refreqid=excelsior%3A473f34c9bbf73f35ef0f78980059b5dd&amp;ab_segments=&amp;origin="
+                />
+            </person>
+            <person xml:id="person-EH075">
+                <persName>
+                    <surname/>
+                    <forename/> Umran al Haji Sa'dun </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Head of the Bani Hasan tribe </p>
+                </note>
+            </person>
+            <person xml:id="person-EH076">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Mayor of Mu'adhdhdam </p>
+                </note>
+            </person>
+            <person xml:id="person-EH077">
+                <idno type="VIAF"> 264238289 </idno>
+                <persName>
+                    <forename> Muhammad Idris </forename> bin Muhammad al-Mahdi as-Senussi </persName>
+                <birth when="1890-03-13"/>
+                <death when="1983-05-25"/>
+                <note>
+                    <p> Head of the Senussi order; later King of Libya </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/264238289"/>
+                <ptr target="https://en.wikipedia.org/wiki/Idris_of_Libya"/>
+            </person>
+            <person xml:id="person-EH078">
+                <idno type="VIAF"> 29898812 </idno>
+                <persName>
+                    <forename> Rosita </forename>
+                    <surname> Forbes </surname>
+                </persName>
+                <birth when="1890-01-16"/>
+                <death when="1967-06-30"/>
+                <note>
+                    <p> Travel writer, novelist and explorer </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/29898812"/>
+                <ptr target="https://en.wikipedia.org/wiki/Rosita_Forbes"/>
+            </person>
+            <person xml:id="person-EH079">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Naqib of Samarra </p>
+                </note>
+            </person>
+            <person xml:id="person-EH080">
+                <idno type="VIAF"> 46272958 </idno>
+                <persName> Air Chief Marshal Sir <forename> William Geoffrey Hanson </forename>
+                    <surname> Salmond </surname> , KCB, KCMG, DSO </persName>
+                <birth when="1878-08-19"/>
+                <death when="1933-04-27"/>
+                <note>
+                    <p> Air Vice Marshal in RAF </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/46272958"/>
+                <ptr target="https://en.wikipedia.org/wiki/Geoffrey_Salmond"/>
+            </person>
+            <person xml:id="person-EH081">
+                <persName> Major/Captain L. M. <surname> Yetts </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> British Political Officer, Ramadi </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100023493269.0x00000c"/>
+            </person>
+            <person xml:id="person-EH082">
+                <persName>
+                    <forename> Abu'l-Qasem </forename>
+                    <surname> Lahuti </surname>
+                </persName>
+                <birth when="1887-10-12"/>
+                <death when="1957-03-16"/>
+                <note>
+                    <p> Iranian poet and political activist </p>
+                </note>
+                <ptr target="https://www.iranicaonline.org/articles/lahuti-abul-qasem"/>
+            </person>
+            <person xml:id="person-EH083">
+                <persName> Dr <forename> W </forename> . <surname> Campbell Mackie </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Surgeon specialist at New General Hospital, Baghdad </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/mirador/81055/vdc_100150355724.0x000002"/>
+            </person>
+            <person xml:id="person-EH084">
+                <persName> Dr <forename> Mary </forename> Campbell-Mackie, MBE, MB, ChB, DRCOG </persName>
+                <birth when="1892" notBefore="1888-01-01" notAfter="1893-12-31"/>
+                <death notBefore="1970-01-01" notAfter="2010-12-31"/>
+                <note>
+                    <p> Doctor and Wife of Dr W. Campbell Mackie </p>
+                </note>
+                <ptr target="https://journals.co.za/doi/pdf/10.10520/AJA20785135_32918"/>
+            </person>
+            <person xml:id="person-EH085">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH086">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Wife of Qasim Khan </p>
+                </note>
+            </person>
+            <person xml:id="person-EH087">
+                <persName> Lady <forename> Alice </forename> Constance <surname> Egerton </surname>
+                </persName>
+                <birth when="1870-11-12"/>
+                <death when="1932-11-06"/>
+                <note>
+                    <p> Friend of Bell's </p>
+                </note>
+                <ptr
+                    target="https://archives.trin.cam.ac.uk/index.php/egerton-lady-alice-constance-1870-1932-daughter-of-francis-egerton-3rd-earl-of-ellesmere"
+                />
+            </person>
+            <person xml:id="person-EH088">
+                <idno type="VIAF"> 35255264 </idno>
+                <persName>
+                    <forename> Rosalind </forename>
+                    <surname> Howard </surname> , Countess of Carlisle </persName>
+                <birth when="1845-02-20"/>
+                <death when="1921-08-12"/>
+                <note>
+                    <p> Dowager Countess of Carlisle </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/35255264"/>
+                <ptr target="https://en.wikipedia.org/wiki/Rosalind_Howard,_Countess_of_Carlisle"/>
+            </person>
+            <person xml:id="person-EH089">
+                <idno type="VIAF"> 70099845 </idno>
+                <persName> Hakham <forename> Ezra Reuben </forename>
+                    <surname> Dangoor </surname>
+                </persName>
+                <birth when="1848" notBefore="1848-01-01" notAfter="1848-12-31"/>
+                <death when="1930" notBefore="1930-01-01" notAfter="1930-12-31"/>
+                <note>
+                    <p> Grand Rabbi </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/70099845"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ezra_Dangoor"/>
+            </person>
+            <person xml:id="person-EH090">
+                <persName>
+                    <forename> Al-Sayyid Hasan </forename>
+                    <surname> al-Sadr </surname>
+                </persName>
+                <birth when="1856-06-03"/>
+                <death when="1935-06-13"/>
+                <note>
+                    <p> Father of Saiyid Muhammad Sadr </p>
+                </note>
+                <ptr target="https://en.wikishia.net/view/Al-Sayyid_Hasan_al-Sadr"/>
+            </person>
+            <person xml:id="person-EH091">
+                <persName>
+                    <forename> Zetton </forename>
+                    <surname> Buchanan </surname>
+                </persName>
+                <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Wife of airman killed during Iraqi Revolt </p>
+                </note>
+                <ptr
+                    target="https://www.amazon.co.uk/Hands-Arabs-Airmans-Mesopotamia-First/dp/0857067346"
+                />
+            </person>
+            <person xml:id="person-EH092">
+                <persName>
+                    <forename> Ahmad </forename>
+                    <surname> Haqqi Beg </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Director of the Iraq Military College </p>
+                </note>
+            </person>
+            <person xml:id="person-EH093">
+                <persName>
+                    <forename> Saiyid </forename>
+                    <surname> Nur </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Tribal leader on the Middle Euphrates </p>
+                </note>
+            </person>
+            <person xml:id="person-EH094">
+                <idno type="VIAF"> 47005120 </idno>
+                <persName>
+                    <forename> Mahmoud </forename>
+                    <surname> Shokry al-Al Alusi </surname>
+                </persName>
+                <birth when="1856" notBefore="1856-01-01" notAfter="1856-12-31"/>
+                <death when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
+                <note>
+                    <p> Sunni 'Alim of Baghdad </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/47005120"/>
+                <ptr target="https://www.wikidata.org/wiki/Q12241253"/>
+            </person>
+            <person xml:id="person-EH095">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH096">
+                <persName>
+                    <forename> Huzaima </forename>
+                    <surname> bint Nasser </surname>
+                </persName>
+                <birth when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+                <death when="1935-03-27"/>
+                <note>
+                    <p> Wife of King Faisal </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Huzaima_bint_Nasser"/>
+            </person>
+            <person xml:id="person-EH097">
+                <idno type="VIAF"> 8688148705727937080008 </idno>
+                <persName>
+                    <forename> Auda </forename>
+                    <surname> Abu Tayi </surname>
+                </persName>
+                <birth when="1874-01-11"/>
+                <death when="1924-12-27"/>
+                <note>
+                    <p> Leader of the Howeitat tribe </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/8688148705727937080008"/>
+                <ptr target="https://en.wikipedia.org/wiki/Auda_Abu_Tayi"/>
+            </person>
+            <person xml:id="person-EH098">
+                <persName> Shaikh <forename> Murdhi </forename>
+                    <surname> al Rafidi </surname> of the 'Amarat tribe </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Shaikh of the 'Amarat tribe of the 'Anizah </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000082"/>
+            </person>
+            <person xml:id="person-EH099">
+                <persName>
+                    <forename> Frederick </forename> Temple <surname> Barrington Ward </surname> ,
+                    KC </persName>
+                <birth when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+                <death when="1938" notBefore="1938-01-01" notAfter="1938-12-31"/>
+                <note>
+                    <p> Barrister; brother-in-law of Lionel Smith </p>
+                </note>
+                <ptr target="http://www.clement-jones.com/ps19/ps19_413.html"/>
+            </person>
+            <person xml:id="person-EH100">
+                <persName/>
+            </person>
+            <person xml:id="person-EH101">
+                <persName>
+                    <forename> Shumail </forename>
+                    <surname> Sha'shu </surname>
+                </persName>
+                <note>
+                    <p> Merchant accused of the murder of Antoine Kasparkhan </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x00002b"/>
+            </person>
+            <person xml:id="person-EH102">
+                <persName>
+                    <forename> Rashid </forename>
+                    <surname> al Umari </surname>
+                </persName>
+                <death notBefore="1924-01-01"/>
+                <note>
+                    <p> Mutasarrif of Ramadi </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038406030.0x000074"/>
+            </person>
+            <person xml:id="person-EH103">
+                <idno type="VIAF"> 316737386 </idno>
+                <persName>
+                    <forename/> Air Chief Marshal Sir Henry Robert Moore Brooke-Popham, GCVO, KCB,
+                    CMG, DSO, AFC </persName>
+                <birth when="1878-09-18"/>
+                <death when="1953-10-20"/>
+                <note>
+                    <p> Director of Research, British Air Ministry </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/316737386"/>
+                <ptr target="https://en.wikipedia.org/wiki/Robert_Brooke-Popham"/>
+            </person>
+            <person xml:id="person-EH104">
+                <idno type="VIAF"> 39267923 </idno>
+                <persName>
+                    <forename> Sandford Arthur </forename>
+                    <surname> Strong </surname>
+                </persName>
+                <birth when="1863-04-10"/>
+                <death when="1904-01-18"/>
+                <note>
+                    <p> Taught Bell Persian language c.1895 </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/39267923"/>
+                <ptr target="https://en.wikipedia.org/wiki/Sandford_Arthur_Strong"/>
+            </person>
+            <person xml:id="person-EH105">
+                <persName>
+                    <forename> Mahrut </forename>
+                    <surname> Beg </surname>
+                </persName>
+                <birth notBefore="1900-01-01" notAfter="1904-12-31"/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Fahad Beg ibn Hadhdhal's son </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038406030.0x00006e"/>
+            </person>
+            <person xml:id="person-EH106">
+                <persName>
+                    <forename> Mildred </forename>
+                    <surname> Lowther </surname>
+                </persName>
+                <birth when="1890-10-07"/>
+                <death when="1973-07-02"/>
+                <note>
+                    <p> Daughter of Lord Ullswater, previous work colleague of Bell's during 1915
+                    </p>
+                </note>
+                <ptr target="https://www.geni.com/people/Mildred-Lowther/6000000053129389934"/>
+            </person>
+            <person xml:id="person-EH107">
+                <idno type="VIAF"> 27296968 </idno>
+                <persName> Sir <forename> Ignatius Valentine </forename>
+                    <surname> Chirol </surname>
+                </persName>
+                <birth when="1852-05-25"/>
+                <death when="1929-10-22"/>
+                <note>
+                    <p> British journalist and diplomat </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/27296968"/>
+                <ptr target="https://en.wikipedia.org/wiki/Valentine_Chirol"/>
+            </person>
+            <person xml:id="person-EH108">
+                <persName>
+                    <forename> Hamid </forename>
+                    <surname> Khan </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Mutasarrif of Karbala; cousin of the Aga Khan </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000081"/>
+            </person>
+            <person xml:id="person-EH109">
+                <persName>
+                    <surname/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Member of Bell's staff </p>
+                </note>
+            </person>
+            <person xml:id="person-EH110">
+                <idno type="VIAF"> 38311118 </idno>
+                <persName>
+                    <surname/>
+                    <forename> Khosrow </forename> II/Chosroes II </persName>
+                <birth notBefore="0569-01-01" notAfter="0571-12-31"/>
+                <death when="0628-02-28"/>
+                <note>
+                    <p> Sasanian King of Iran </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/38311118"/>
+                <ptr target="https://en.wikipedia.org/wiki/Khosrow_II"/>
+            </person>
+            <person xml:id="person-EH111">
+                <idno type="VIAF"> 9854001 </idno>
+                <persName>
+                    <forename> Abū Jaʿfar Muḥammad </forename>
+                    <surname> ibn Jarīr ibn Yazīd al-Ṭabarī </surname>
+                </persName>
+                <birth when="0839" notBefore="0839-01-01" notAfter="0839-12-31"/>
+                <death when="0923" notBefore="0923-01-01" notAfter="0923-12-31"/>
+                <note>
+                    <p> Muslim historian and scholar </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/9854001"/>
+                <ptr target="https://en.wikipedia.org/wiki/Al-Tabari"/>
+            </person>
+            <person xml:id="person-EH112">
+                <idno type="VIAF"> 45867278 </idno>
+                <persName>
+                    <forename> Rustam </forename>
+                    <surname> Haidar </surname>
+                </persName>
+                <birth when="1889" notBefore="1889-01-01" notAfter="1889-12-31"/>
+                <death when="1940-01-22"/>
+                <note>
+                    <p> Aide-de-Camp to King Faisal </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/45867278"/>
+                <ptr target="https://en.wikipedia.org/wiki/Rustam_Haidar"/>
+            </person>
+            <person xml:id="person-EH113">
+                <idno type="VIAF"> 47196638 </idno>
+                <persName> Sir Sultan <forename> Mahomed </forename>
+                    <surname> Shah </surname> , Aga Khan III </persName>
+                <birth when="1877-11-02"/>
+                <death when="1957-07-11"/>
+                <note>
+                    <p> the Aga Khan </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/47196638"/>
+                <ptr target="https://en.wikipedia.org/wiki/Aga_Khan_III"/>
+            </person>
+            <person xml:id="person-EH114">
+                <persName>
+                    <forename> Nuri </forename>
+                    <surname> Pasha </surname>
+                </persName>
+                <note>
+                    <p> Ja'far Pasha's brother-in-law </p>
+                </note>
+            </person>
+            <person xml:id="person-EH115">
+                <idno type="VIAF"> 56470132 </idno>
+                <persName>
+                    <forename> Ernest Tatham </forename>
+                    <surname> Richmond </surname>
+                </persName>
+                <birth when="1875-08-15"/>
+                <death when="1955-03-05"/>
+                <note>
+                    <p> Assistant Civil Secretary to the Government of Palestine; younger brother of
+                        Bell's brother-in-law, Herbert Richmond </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/56470132"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ernest_Richmond"/>
+            </person>
+            <person xml:id="person-EH116">
+                <idno type="VIAF"> 7626071 </idno>
+                <persName> Admiral Sir <forename> Herbert William </forename>
+                    <surname> Richmond </surname> , KCB, FBA </persName>
+                <birth when="1871-09-15"/>
+                <death when="1946-12-15"/>
+                <note>
+                    <p> Bell's brother-in-law, married to her half-sister Florence </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/7626071"/>
+                <ptr target="https://en.wikipedia.org/wiki/Herbert_Richmond"/>
+            </person>
+            <person xml:id="person-EH117">
+                <idno type="VIAF"> 12275353 </idno>
+                <persName>
+                    <forename> Gentile </forename>
+                    <surname> Bellini </surname>
+                </persName>
+                <birth when="1429" notBefore="1429-01-01" notAfter="1429-12-31"/>
+                <death when="1507-02-23"/>
+                <note>
+                    <p> Painter </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/12275353"/>
+                <ptr target="https://en.wikipedia.org/wiki/Gentile_Bellini"/>
+            </person>
+            <person xml:id="person-EH118">
+                <idno type="VIAF"> 2534316 </idno>
+                <persName>
+                    <forename> Frederic </forename>
+                    <surname> Harrison </surname>
+                </persName>
+                <birth when="1831-10-18"/>
+                <death when="1923-01-14"/>
+                <note>
+                    <p> Jurist and historian </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/2534316"/>
+                <ptr target="https://en.wikipedia.org/wiki/Frederic_Harrison"/>
+            </person>
+            <person xml:id="person-EH119">
+                <idno type="VIAF"> 187824362 </idno>
+                <persName>
+                    <forename> Ahmed </forename>
+                    <surname> Hassanein Pasha </surname>
+                </persName>
+                <birth when="1889-10-31"/>
+                <death when="1946-02-19"/>
+                <note>
+                    <p> Geographic explorer; accompanied Rosita Forbes </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/187824362"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ahmed_Hassanein"/>
+            </person>
+            <person xml:id="person-EH120">
+                <idno type="VIAF"> 100164858 </idno>
+                <persName>
+                    <forename> Thomas Edward </forename>
+                    <surname> Lawrence </surname>
+                </persName>
+                <birth when="1888-08-16"/>
+                <death when="1935-05-19"/>
+                <note>
+                    <p> British diplomat, archaeologist, army officer and writer </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/100164858"/>
+                <ptr target="https://en.wikipedia.org/wiki/T._E._Lawrence"/>
+            </person>
+            <person xml:id="person-EH121">
+                <persName>
+                    <forename> George William </forename>
+                    <surname> Blackwood </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Publisher </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Blackwood_(publishing_house)"/>
+            </person>
+            <person xml:id="person-EH122">
+                <persName>
+                    <forename> Saiyid Ja'far </forename> ' <surname> Ataifah </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Mayor of Kadhimain </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000059"/>
+            </person>
+            <person xml:id="person-EH123">
+                <idno type="VIAF"> 61499085 </idno>
+                <persName>
+                    <forename> Muzahim </forename>
+                    <surname> al-Pachachi </surname>
+                </persName>
+                <birth when="1891-09-22"/>
+                <death when="1982-09-23"/>
+                <note>
+                    <p> Iraqi politician </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/61499085"/>
+                <ptr target="https://en.wikipedia.org/wiki/Muzahim_al-Pachachi"/>
+            </person>
+            <person xml:id="person-EH124">
+                <idno type="VIAF"> 257401232 </idno>
+                <persName> Rauf Beg <surname> Chadirji </surname>
+                </persName>
+                <birth when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+                <death when="1959" notBefore="1959-01-01" notAfter="1959-12-31"/>
+                <note>
+                    <p> Iraqi barrister </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/257401232"/>
+                <ptr
+                    target="https://uomustansiriyah.edu.iq/web_article.php?lang=en&amp;post_id=4279:9"
+                />
+            </person>
+            <person xml:id="person-EH125">
+                <persName>
+                    <forename> Abdullah </forename> Beg ibn Falih Pasha al-Sa'dun </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Head of one of the branches of the Sa'dun family of Nasiriyah </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100038132680.0x000027"/>
+            </person>
+            <person xml:id="person-EH126">
+                <persName>
+                    <forename> Ajil </forename> Al Yawar ibn 'Abdul 'Aziz </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Of the Shammar tribe </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH127">
+                <idno type="VIAF"> 11213269 </idno>
+                <persName> Lieutenant Colonel <forename> Gerard Evelyn </forename>
+                    <surname> Leachman </surname>
+                </persName>
+                <birth when="1880-07-27"/>
+                <death when="1920-08-12"/>
+                <note>
+                    <p> Political Officer in Mosul </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/11213269"/>
+                <ptr target="https://en.wikipedia.org/wiki/Gerard_Leachman"/>
+            </person>
+            <person xml:id="person-EH128">
+                <persName>
+                    <forename> Hassan </forename>
+                    <surname> Al-Suhail </surname> Shaikh </persName>
+                <birth when="1890" notBefore="1890-01-01" notAfter="1890-12-31"/>
+                <death when="1957" notBefore="1957-01-01" notAfter="1957-12-31"/>
+                <note>
+                    <p> Shaikh of the Bani Tamim </p>
+                </note>
+                <ptr target="https://edbs.uomustansiriyah.edu.iq/index.php/cbej/article/view/8286"/>
+            </person>
+            <person xml:id="person-EH129">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Husband of Mrs Slater; later divorced </p>
+                </note>
+            </person>
+            <person xml:id="person-EH130">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH131">
+                <persName>
+                    <forename> Tahsin </forename> al-Askari </persName>
+                <death when="1948" notBefore="1948-01-01" notAfter="1948-12-31"/>
+                <note>
+                    <p> Ja'far Pasha al-Askari's brother </p>
+                </note>
+                <ptr
+                    target="https://tropicsofmeta.com/2018/02/19/the-al-askari-story-how-an-iraqi-migrant-brought-soccer-to-visalia/"
+                />
+            </person>
+            <person xml:id="person-EH132">
+                <persName>
+                    <forename> Ibrahim </forename> Beg <surname> Sa'dun </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Mutasarrif of the Nasiriyah region </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165835.0x00005f"/>
+            </person>
+            <person xml:id="person-EH133">
+                <persName>
+                    <forename> Mustafa </forename>
+                    <surname> Chalabi Sabunji </surname>
+                </persName>
+                <birth notBefore="1890-01-01" notAfter="1900-12-31"/>
+                <death notBefore="1945-01-01" notAfter="2000-01-01"/>
+                <note>
+                    <p> Magnate from Mosul </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH134">
+                <persName>
+                    <forename> Ahmed </forename>
+                    <surname> Pasha al Sana </surname>
+                </persName>
+                <birth when="1860" notBefore="1860-01-01" notAfter="1860-12-31"/>
+                <death when="1930" notBefore="1930-01-01" notAfter="1930-12-31"/>
+                <note>
+                    <p> Iraqi politician </p>
+                </note>
+                <ptr
+                    target="https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D8%A7%D8%B4%D8%A7_%D8%A7%D9%84%D8%B5%D8%A7%D9%86%D8%B9"
+                />
+            </person>
+            <person xml:id="person-EH135">
+                <persName>
+                    <forename> Haji Mahmud </forename>
+                    <surname> Na'mah </surname>
+                </persName>
+                <note>
+                    <p> Mayor of Abu al-Khaseeb district in Basra </p>
+                </note>
+            </person>
+            <person xml:id="person-EH136">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Adviser to Auqaf (Public Works) </p>
+                </note>
+            </person>
+            <person xml:id="person-EH137">
+                <persName>
+                    <forename> Muhammad 'Ali Fadhil </forename>
+                    <surname> Effendi </surname>
+                </persName>
+                <birth when="1850" notBefore="1845-01-01" notAfter="1855-12-31"/>
+                <death notBefore="1921-09-25" notAfter="1955-12-31"/>
+                <note>
+                    <p> Minster of Auqaf (Public Works) and acting Mayor of Mosul </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH139">
+                <persName>
+                    <forename> Abdul Karim </forename>
+                    <surname> Effendi </surname>
+                </persName>
+                <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
+                <death notBefore="1921-09-25" notAfter="2000-01-01"/>
+                <note>
+                    <p> Naqib of Mosul </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH140">
+                <persName>
+                    <forename> Ahmad Effendi </forename>
+                    <surname> Ibn Mahmud Effendi </surname> , Saiyid. </persName>
+                <birth when="1865" notBefore="1860-01-01" notAfter="1870-12-31"/>
+                <death notBefore="1921-09-25" notAfter="1970-01-01"/>
+                <note>
+                    <p> Qadhi of Mosul </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH141">
+                <idno type="VIAF"> 63984707 </idno>
+                <persName>
+                    <surname/>
+                    <forename> Timur </forename> , Amir of the Timurid Empire </persName>
+                <birth when="1370-04-09"/>
+                <death when="1405-02-14"/>
+                <note>
+                    <p> Amir of the Timrud Empire </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/63984707"/>
+                <ptr target="https://en.wikipedia.org/wiki/Timur"/>
+            </person>
+            <person xml:id="person-EH142">
+                <persName/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Mutasarrif of 'Amara </p>
+                </note>
+            </person>
+            <person xml:id="person-EH143">
+                <persName/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Nephew of Salih Basha'yan </p>
+                </note>
+            </person>
+            <person xml:id="person-EH144">
+                <idno type="VIAF"> 198144782720023761199 </idno>
+                <persName>
+                    <forename> Mar Eshai </forename>
+                    <surname> Shimun </surname> XXIII </persName>
+                <birth when="1908-02-26"/>
+                <death when="1975-11-06"/>
+                <note>
+                    <p> Catholicos-Patriarch of the Assyrian Church of the East </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/198144782720023761199"/>
+                <ptr target="https://en.wikipedia.org/wiki/Shimun_XXIII_Eshai"/>
+            </person>
+            <person xml:id="person-EH145">
+                <persName> Mir <forename> Sa'id </forename>
+                    <surname> Beg </surname>
+                </persName>
+                <birth when="1901" notBefore="1900-01-01" notAfter="1903-12-31"/>
+                <death when="1944" notBefore="1944-01-01" notAfter="1944-12-31"/>
+                <note>
+                    <p> Later hereditary leader (Mir) of the Yazidis </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Tahseen_Said"/>
+            </person>
+            <person xml:id="person-EH146">
+                <persName>
+                    <forename> Nuri </forename>
+                    <surname> ibn Shaikh Abdul Jabbar </surname> of Brifka, Shaikh </persName>
+                <birth when="1870" notBefore="1865-01-01" notAfter="1875-12-31"/>
+                <death notBefore="1921-09-25" notAfter="1975-12-31"/>
+                <note>
+                    <p> Shaikh of Brifka </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH147">
+                <persName>
+                    <forename> Qadir Agha </forename>
+                    <surname> ibn 'Usman Agha </surname>
+                </persName>
+                <birth when="1895" notBefore="1890-01-01" notAfter="1900-12-31"/>
+                <death notBefore="1921-09-25" notAfter="2000-01-01"/>
+                <note>
+                    <p> Zibari Agha of Shush </p>
+                </note>
+                <ptr target="https://historicismnet.files.wordpress.com/2017/08/notes-on-mosul.pdf"
+                />
+            </person>
+            <person xml:id="person-EH148">
+                <persName>
+                    <forename> Muhammad </forename>
+                    <surname> Agha </surname>
+                </persName>
+                <birth when="1874" notBefore="1874-01-01" notAfter="1874-12-31"/>
+                <death when="1924-07-22"/>
+                <note>
+                    <p> Mayor of Zakho </p>
+                </note>
+                <ptr
+                    target="https://www.kurdipedia.org/default.aspx?q=20230528182445494331&amp;lng=7"
+                />
+            </person>
+            <person xml:id="person-EH149">
+                <persName>
+                    <forename> Mawlud </forename>
+                    <surname> Mukhlis </surname>
+                </persName>
+                <birth when="1886" notBefore="1886-01-01" notAfter="1886-12-31"/>
+                <death when="1951" notBefore="1951-01-01" notAfter="1951-12-31"/>
+                <note>
+                    <p> Participant in the 1920 Arab revolt </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Mawlud_Mukhlis"/>
+            </person>
+            <person xml:id="person-EH150">
+                <persName>
+                    <surname/>
+                    <forename/> Hamdi Pachahji </persName>
+                <death notBefore="1921-09-25"/>
+            </person>
+            <person xml:id="person-EH151">
+                <idno type="VIAF"> 66628235 </idno>
+                <persName> Clementine <surname> Churchill </surname>
+                </persName>
+                <birth when="1885-04-01"/>
+                <death when="1977-12-12"/>
+                <note>
+                    <p> Wife of Sir Winston Churchill </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/66628235"/>
+                <ptr target="https://en.wikipedia.org/wiki/Clementine_Churchill"/>
+            </person>
+            <person xml:id="person-EH152">
+                <idno type="VIAF"> 51820976 </idno>
+                <persName>
+                    <forename> David George </forename>
+                    <surname> Hogarth </surname>
+                </persName>
+                <birth when="1862-05-23"/>
+                <death when="1927-11-06"/>
+                <note>
+                    <p> British archaeologist and scholar, associated with T. E. Lawrence </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/51820976"/>
+                <ptr target="https://en.wikipedia.org/wiki/David_George_Hogarth"/>
+            </person>
+            <person xml:id="person-EH153">
+                <persName>
+                    <forename> Taufiq </forename>
+                    <surname> al Khalid </surname>
+                </persName>
+                <birth notBefore="1830-01-01" notAfter="1902-12-31"/>
+                <death when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
+                <note>
+                    <p> Iraqi politician </p>
+                </note>
+                <ptr
+                    target="https://archive.globalpolicy.org/component/content/article/169-history/48076-the-queen-of-quagmire.html"
+                />
+            </person>
+            <person xml:id="person-EH154">
+                <persName/>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Treasurer to King Faisal's household </p>
+                </note>
+            </person>
+            <person xml:id="person-EH155">
+                <persName> Major General Nihat <surname> Pasha </surname> Anılmış </persName>
+                <birth when="1878" notBefore="1876-01-01" notAfter="1878-12-31"/>
+                <death when="1954-05-31"/>
+                <note>
+                    <p> Ottoman Commander of the Second Army (Turkey) </p>
+                </note>
+                <ptr target="http://turkeyswar.com/whoswho/nihat-pasha-anilmis/"/>
+            </person>
+            <person xml:id="person-EH156">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> French Consul in Iraq </p>
+                </note>
+            </person>
+            <person xml:id="person-EH157">
+                <persName>
+                    <forename> Abdullah </forename>
+                    <surname> Dulaimi </surname>
+                </persName>
+                <note>
+                    <p> Supporter of King Faisal </p>
+                </note>
+            </person>
+            <person xml:id="person-EH158">
+                <idno type="VIAF"> 4977152932553609830000 </idno>
+                <persName>
+                    <forename> Ali </forename>
+                    <surname> Jawdat Al-Ayyubi </surname>
+                </persName>
+                <birth when="1886-11-11"/>
+                <death when="1969-03-03"/>
+                <note>
+                    <p> Iraqi Politician </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/4977152932553609830000"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ali_Jawdat_Al-Ayyubi"/>
+            </person>
+            <person xml:id="person-EH159">
+                <idno type="VIAF"> 43991371 </idno>
+                <persName>
+                    <forename> Frederick Philip Lewis </forename>
+                    <surname> Cunliffe Owen </surname>
+                </persName>
+                <birth when="1855-01-30"/>
+                <death when="1926-06-30"/>
+                <note>
+                    <p> British diplomat and writer </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/43991371"/>
+                <ptr target="https://en.wikipedia.org/wiki/Frederick_Cunliffe-Owen"/>
+            </person>
+            <person xml:id="person-EH160">
+                <idno type="VIAF"> 18584203 </idno>
+                <persName> Marguerite <surname> Cunliffe Owen </surname>
+                </persName>
+                <birth when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+                <death when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+                <note>
+                    <p> Second wife of Frederick Cunliffe Owen </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/18584203"/>
+                <ptr target="https://en.wikipedia.org/wiki/Marguerite_Cunliffe-Owen"/>
+            </person>
+            <person xml:id="person-EH161">
+                <persName>
+                    <surname/>
+                    <forename/>
+                </persName>
+            </person>
+            <person xml:id="person-EH162">
+                <idno type="VIAF"> 89661385 </idno>
+                <persName>
+                    <forename> Husayn </forename>
+                    <surname> ibn Ali </surname>
+                </persName>
+                <birth when="0626-01-10"/>
+                <death when="0680-10-10"/>
+                <note>
+                    <p> Grandson of the Islamic prophet Muhammad; death commemorated during Islamic
+                        month of Muharram </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/89661385"/>
+                <ptr target="https://en.wikipedia.org/wiki/Husayn_ibn_Ali"/>
+            </person>
+            <person xml:id="person-EH163">
+                <persName>
+                    <forename> Hugh </forename> Lowthian <surname> Bell </surname>
+                </persName>
+                <birth when="1926" notBefore="1926-01-01" notAfter="1926-12-31"/>
+                <death when="1878" notBefore="1878-01-01" notAfter="1878-12-31"/>
+                <note>
+                    <p> Half-brother of Gertrude Bell </p>
+                </note>
+            </person>
+            <person xml:id="person-EH164">
+                <idno type="VIAF"> 85152898 </idno>
+                <persName>
+                    <forename> Henri </forename> Joseph Eugene <surname> Gouraud </surname>
+                </persName>
+                <birth when="1867-11-17"/>
+                <death when="1946-09-16"/>
+                <note>
+                    <p> French High Commissioner of the Levant </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/85152898"/>
+                <ptr target="https://en.wikipedia.org/wiki/Henri_Gouraud_(general)"/>
+            </person>
+            <person xml:id="person-EH165">
+                <idno type="VIAF"> 47561124 </idno>
+                <persName> Sir <forename> Eric </forename> Campbell <surname> Geddes </surname>
+                </persName>
+                <birth when="1875-09-26"/>
+                <death when="1937-06-22"/>
+                <note>
+                    <p> British Conservative politician; Minister of Transport </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/47561124"/>
+                <ptr target="https://en.wikipedia.org/wiki/Eric_Geddes"/>
+            </person>
+            <person xml:id="person-EH166">
+                <persName>
+                    <forename> James </forename>
+                    <surname> Hanagan </surname>
+                </persName>
+                <birth notAfter="1880-01-01"/>
+                <death notBefore="1921-09-04"/>
+                <note>
+                    <p> Head Gardener at Rounton Grange </p>
+                </note>
+                <ptr
+                    target="https://yorkshiregardenstrust.org.uk/research/sites/east-rounton-grange"
+                />
+            </person>
+            <person xml:id="person-EH167">
+                <persName>
+                    <forename> Haji </forename> Ahmad <surname> Ramzi </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Iraqi Minister of the Interior </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165834.0x000072"/>
+            </person>
+            <person xml:id="person-EH168">
+                <persName>
+                    <forename> Fahmi </forename>
+                    <surname> al-Mudarris </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Poet, intellectual </p>
+                </note>
+                <ptr
+                    target="https://my-mesa.org/program/sessions/view/eyJpdiI6Im1qM3FOS05GcmJuY3MxRFB4WXBNelE9PSIsInZhbHVlIjoibU1LNkEvbHJ4KzlKOTM0dlNjOEIzZz09IiwibWFjIjoiZTAyZmQ4N2FlYWU5M2EyNTQxZmMyZTgxNDk1OWM5N2MzZmJlOGY5MzNlNjNlOWViMGFjMzYyYTg3NmRjMmFmZSIsInRhZyI6IiJ9"
+                />
+            </person>
+            <person xml:id="person-EH169">
+                <idno type="VIAF"> 59961209 </idno>
+                <persName> Sir <forename> John Anthony Cecil </forename>
+                    <surname> Tilley </surname>
+                </persName>
+                <birth when="1869-01" notBefore="1869-01-01" notAfter="1869-01-31"/>
+                <death when="1952-04-05"/>
+                <note>
+                    <p> British Assistant Secretary to the Foreign Office/diplomat </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/59961209"/>
+                <ptr target="https://en.wikipedia.org/wiki/John_Tilley_(diplomat)"/>
+            </person>
+            <person xml:id="person-EH170">
+                <idno type="VIAF"> 268389473 </idno>
+                <persName> George V, King of the United Kingdom and British Dominions, Emperor of
+                    India </persName>
+                <birth when="1865-06-03"/>
+                <death when="1936-01-20"/>
+                <note>
+                    <p> King of the United Kingdom </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/268389473"/>
+                <ptr target="https://en.wikipedia.org/wiki/George_V"/>
+            </person>
+            <person xml:id="person-EH171">
+                <idno type="VIAF"> 2652152381764001950003 </idno>
+                <persName>
+                    <forename> Ali </forename>
+                    <surname> bin Hussein </surname> , King of Hejaz and Grand Sharif of Mecca </persName>
+                <birth when="1879" notBefore="1879-01-01" notAfter="1879-12-31"/>
+                <death when="1935-02-13"/>
+                <note>
+                    <p> King of Hejaz, Grand Sharif of Mecca; King Faisal's brother </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/2652152381764001950003"/>
+                <ptr target="https://en.wikipedia.org/wiki/Ali_bin_Hussein,_King_of_Hejaz"/>
+            </person>
+            <person xml:id="person-EH172">
+                <persName>
+                    <forename> Zaid </forename>
+                    <surname> bin Hussein </surname>
+                </persName>
+                <birth when="1898-02-28"/>
+                <death when="1970-10-18"/>
+                <note>
+                    <p> Prince of Iraq; King Faisal's half-brother </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Zeid_bin_Hussein"/>
+            </person>
+            <person xml:id="person-EH173">
+                <idno type="VIAF"> 39541902 </idno>
+                <persName>
+                    <surname/>
+                    <forename> Mu'awiya </forename> I </persName>
+                <birth notBefore="0597-01-01" notAfter="0605-12-31"/>
+                <death when="0680-04" notBefore="0680-04-01" notAfter="0680-04-30"/>
+                <note>
+                    <p> Rival to Husain, grandson of the Islamic prophet Muhammad </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/39541902"/>
+                <ptr target="https://en.wikipedia.org/wiki/Mu%27awiya_I"/>
+            </person>
+            <person xml:id="person-EH174">
+                <persName/>
+                <note>
+                    <p> Acquaintance </p>
+                </note>
+            </person>
+            <person xml:id="person-EH175">
+                <persName>
+                    <forename> Kadhim </forename>
+                    <surname> al-Dujaili </surname>
+                </persName>
+                <birth when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+                <death when="1970" notBefore="1970-01-01" notAfter="1970-12-31"/>
+                <note>
+                    <p> Poet, writer </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q12234292"/>
+            </person>
+            <person xml:id="person-EH176">
+                <idno type="VIAF"> 79014314 </idno>
+                <persName>
+                    <forename> Sati' </forename>
+                    <surname> al Husri </surname>
+                </persName>
+                <birth when="1880-08" notBefore="1880-08-01" notAfter="1880-08-31"/>
+                <death when="1968" notBefore="1968-01-01" notAfter="1968-12-31"/>
+                <note>
+                    <p> Minister of Education to Faisal in Syria </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/79014314"/>
+                <ptr target="https://en.wikipedia.org/wiki/Sati%27_al-Husri"/>
+            </person>
+            <person xml:id="person-EH177">
+                <persName> Sir <forename> Paul Humphrey Armytage </forename>
+                    <surname> Bowman </surname> , 5th Bart. </persName>
+                <birth when="1921-08-10"/>
+                <death when="2003-01-06"/>
+                <note>
+                    <p> Godson of Gertrude Bell, son of Bell's colleague, Humphrey Ernest Bowman
+                    </p>
+                </note>
+                <ptr target="https://www.wikidata.org/wiki/Q75242178"/>
+            </person>
+            <person xml:id="person-EH178">
+                <persName>
+                    <forename> John </forename>
+                    <surname> McHugh Stewart </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Writer of an article in the New York Herald about Bell, published on 24th
+                        July 1921 entitled "Mesopotamia's Uncrowned Queen Guides Britain" </p>
+                </note>
+            </person>
+            <person xml:id="person-EH179">
+                <persName> Yousef Ghanima </persName>
+                <birth when="1885-08-09"/>
+                <death when="1950-08-10"/>
+                <note>
+                    <p> Iraqi politician, journalist and historian, Christian representative for
+                        Baghdad in the Council of Representatives of Iraq </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Yousef_Ghanima"/>
+            </person>
+            <person xml:id="person-EH180">
+                <persName>
+                    <forename> Abdul Latif </forename>
+                    <surname> Fallahi </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Editor of Baghdad newspaper, 'Al Fallah' </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165835.0x000011"/>
+            </person>
+            <person xml:id="person-EH181">
+                <persName>
+                    <surname/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Arab Army doctor </p>
+                </note>
+            </person>
+            <person xml:id="person-EH182">
+                <persName>
+                    <forename> Hasan </forename>
+                    <surname> Wifki </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Acquaintance of Bell's </p>
+                </note>
+            </person>
+            <person xml:id="person-EH183">
+                <idno type="VIAF"> 76410492 </idno>
+                <persName> Major <forename> Robert Ernest </forename>
+                    <surname> Cheesman </surname> , CBE </persName>
+                <birth when="1878" notBefore="1878-01-01" notAfter="1878-12-31"/>
+                <death when="1962-02-13"/>
+                <note>
+                    <p> Sir Percy Cox's private secretary </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/76410492"/>
+                <ptr target="https://en.wikipedia.org/wiki/Robert_Ernest_Cheesman"/>
+            </person>
+            <person xml:id="person-EH184">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> British Army Major </p>
+                </note>
+            </person>
+            <person xml:id="person-EH185">
+                <persName>
+                    <forename> Susan </forename>
+                    <surname> Lushington </surname>
+                </persName>
+                <birth when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+                <death when="1953" notBefore="1953-01-01" notAfter="1953-12-31"/>
+                <note>
+                    <p> Acquaintance of Bell's </p>
+                </note>
+                <ptr
+                    target="https://archiveshub.jisc.ac.uk/search/archives/7f76efbc-f3a9-3063-a1aa-fe5a4a4546f6?component=10d357ce-cd37-35d6-bd07-013e4696a1f0"
+                />
+            </person>
+            <person xml:id="person-EH186">
+                <idno type="VIAF"> 46817163 </idno>
+                <persName> Sir <forename> Reader William </forename>
+                    <surname> Bullard </surname> , KCB, KCMG, CIE </persName>
+                <birth when="1885-12-05"/>
+                <death when="1976-05-24"/>
+                <note>
+                    <p> British diplomat and author, member of the Middle Eastern Dept of the
+                        British Government Colonial Office </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/46817163"/>
+                <ptr target="https://en.wikipedia.org/wiki/Reader_Bullard"/>
+            </person>
+            <person xml:id="person-EH187">
+                <persName>
+                    <forename> Faiq </forename>
+                    <surname> Beg </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Landowner and friend of Bell's </p>
+                </note>
+                <ptr
+                    target="https://www.jstor.org/stable/40262594?saml_data=eyJzYW1sVG9rZW4iOiI5NWUzMzViZi00YzIzLTQ4OWMtYTYyZi1hZWFhYzQ1MmRhZjAiLCJpbnN0aXR1dGlvbklkcyI6WyIxNWE0NDMwMC1hZDMxLTQ4M2YtOTQ2YS03OTU4NzQ4MmFjM2EiXX0"
+                />
+            </person>
+            <person xml:id="person-EH188">
+                <persName>
+                    <forename/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Acquaintance of Bell's </p>
+                </note>
+            </person>
+            <person xml:id="person-EH189">
+                <persName>
+                    <surname/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Member of family who have historically been in service to King Faisal's
+                        family </p>
+                </note>
+            </person>
+            <person xml:id="person-EH190">
+                <persName>
+                    <forename> Razzuq </forename> Eff. <surname> Daud </surname>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Editor of Baghdad newspaper, 'Iraq' </p>
+                </note>
+                <ptr target="https://www.qdl.qa/en/archive/81055/vdc_100111165835.0x00000f"/>
+            </person>
+            <person xml:id="person-EH191">
+                <persName> Sir <forename> Edwin Mortimer </forename>
+                    <surname> Drower </surname> , KBE </persName>
+                <birth when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+                <death notBefore="1921-09-25" notAfter="1980-12-31"/>
+                <note>
+                    <p> Acting Adviser to Iraq Ministry of Justice </p>
+                </note>
+                <ptr
+                    target="https://www.tandfonline.com/doi/abs/10.1080/03068374708731243?journalCode=raaf19"/>
+                <ptr target="https://www.sinnottnz.com/getperson.php?personID=I16452&amp;tree=tree5"
+                />
+            </person>
+            <person xml:id="person-EH192">
+                <idno type="VIAF"> 94070935 </idno>
+                <persName> Hon. <forename> James Moncrieff </forename>
+                    <surname> Balfour </surname>
+                </persName>
+                <birth when="1878" notBefore="1878-01-01" notAfter="1878-12-31"/>
+                <death when="1960" notBefore="1960-01-01" notAfter="1960-12-31"/>
+                <note>
+                    <p> Chief Assistant to the Financial Adviser to the Persian Government (Sydney
+                        Armitage-Smith) </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/94070935"/>
+                <ptr target="https://en.wikipedia.org/wiki/John_Balfour,_1st_Baron_Kinross"/>
+                <ptr
+                    target="https://www.amazon.co.uk/Recent-Happenings-Persia-Moncreiff-Balfour/dp/1354341899?asin=1397749458&amp;revisionId=&amp;format=4&amp;depth=1"
+                />
+            </person>
+            <person xml:id="person-EH193">
+                <idno type="VIAF"> 42736585 </idno>
+                <persName>
+                    <forename> Theodore </forename>
+                    <surname> Rothstein </surname>
+                </persName>
+                <birth when="1871-02-14"/>
+                <death when="1953-08-30"/>
+                <note>
+                    <p> Soviet Ambassador in Tehran, Persia </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/42736585"/>
+            </person>
+            <person xml:id="person-EH194">
+                <idno type="VIAF"> 11826773 </idno>
+                <persName>
+                    <forename> Elsie </forename>
+                    <surname> Sinderson </surname>
+                </persName>
+                <birth notAfter="1902-01-01"/>
+                <death when="1967" notBefore="1967-01-01" notAfter="1967-12-31"/>
+                <note>
+                    <p> Wife of Sir Harry Chapman Sinderson who was later doctor to Iraqi royal
+                        family </p>
+                </note>
+                <ptr target="http://viaf.org/viaf/11826773"/>
+                <ptr
+                    target="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiqj5uwloj9AhXMMMAKHR_4AmkQFnoECA0QAQ&amp;url=https%3A%2F%2Fwww.rcpe.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fjawad.pdf&amp;usg=AOvVaw3TMoMn-Bvypip_wDI7JIer"
+                />
+            </person>
+            <person xml:id="person-EH195">
+                <persName>
+                    <surname/>
+                </persName>
+                <death notBefore="1921-09-25"/>
+                <note>
+                    <p> Assistant to Bell in Sir Percy's office </p>
+                </note>
+            </person>
+            <person xml:id="person-EH196">
+                <persName>
+                    <forename> Mohammad Hassan Mirza </forename>
+                    <surname> Qajar </surname>
+                </persName>
+                <birth when="1899-11-20"/>
+                <death when="1943-01-07"/>
+                <note>
+                    <p> Younger brother of the last Qajar Shah of Iran, Ahmad Shah Qajar, and former
+                        Crown Prince of the Qajar dynasty </p>
+                </note>
+                <ptr target="https://en.wikipedia.org/wiki/Mohammad_Hassan_Mirza"/>
+            </person>
+            <person xml:id="person-EH197">
+                <persName>
+                    <forename> William Herbert Lowthian </forename>
+                    <surname> Richmond </surname>
+                </persName>
+                <birth when="1918-12-16"/>
+                <death when="1951-03-10"/>
+                <note>
+                    <p> Half-nephew, son of Bell's half-sister, Lady Elsa Richmond </p>
+                </note>
+                <ptr
+                    target="https://www.saxonlodge.net/getperson.php?personID=I2490&amp;tree=Tatham"
+                />
+            </person>
+            <person xml:id="person-EH198">
+                <persName>
+                    <forename> Amelia Frances </forename>
+                    <surname> Eskell </surname>
+                </persName>
+                <birth notBefore="1883-01-01" notAfter="1898-01-01"/>
+                <death notBefore="1904-01-01"/>
+                <note>
+                    <p> Sister-in-law of Sassoon Eskell </p>
+                </note>
+                <ptr
+                    target="https://www.farhi.org/genealogy/getperson.php?personID=I53724&amp;tree=Farhi"
+                />
+            </person>
+        </listPerson>
+    </standOff>
+</TEI>

@@ -17,36 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH006">
-<persName>Father.</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH080">
-<persName>Sir Geoffrey</persName>
-<idno type="EH">EH080</idno>
-</person>
-<person xml:id="person-EH103">
-<persName>Col. Brook Popham</persName>
-<idno type="EH">EH103</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH009">
-<persName>Mother</persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH104">
-<persName>Mr Strong</persName>
-<idno type="EH">EH104</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -211,7 +181,7 @@
 <add place="below">1921</add>
 <lb facs="#facs_1_r2l3" n="N003"/>
 Darling
-<persName ref="#person-EH006">Father.</persName>
+<persName ref="metadata/people.xml#person-EH006">Father.</persName>
 I'm sending you a
 <lb facs="#facs_1_r2l4" n="N004"/>
 letter by aeroplane in the hope that
@@ -221,10 +191,10 @@ it will reach you in 7 or 8 days -
 just to feel as if we were so near
 <lb facs="#facs_1_r2l7" n="N007"/>
 instead of so far.
-<persName ref="#person-EH080">Sir Geoffrey</persName>
+<persName ref="metadata/people.xml#person-EH080">Sir Geoffrey</persName>
 <lb facs="#facs_1_r2l8" n="N008"/>
 Salmond +
-<persName ref="#person-EH103">Col. Brook Popham</persName>
+<persName ref="metadata/people.xml#person-EH103">Col. Brook Popham</persName>
 <lb facs="#facs_1_r2l9" n="N009"/>
 carry it in a day to
 <placeName ref="#place-7001215">Cairo</placeName>
@@ -239,7 +209,7 @@ with the letters which are on the
 way, but I may just mention
 <lb facs="#facs_1_r2l14" n="N014"/>
 that by next week
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 will
 <lb facs="#facs_1_r2l15" n="N015"/>
 be King of
@@ -253,7 +223,7 @@ well. He has played the game
 splendidly + it is the greatest
 <lb facs="#facs_1_r2l19" n="N019"/>
 triumph for
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 . 3 days
 <lb facs="#facs_1_r2l20" n="N020"/>
 ago I went up to
@@ -309,7 +279,7 @@ Gertrude
 <ab facs="#facs_2_r1">
 <lb facs="#facs_2_l" n="N001"/>
 to
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 - one of the finest
 <lb facs="#facs_2_r1l3" n="N002"/>
 things I've ever witnessed. I
@@ -322,7 +292,7 @@ weekly letter.
 Yesterday I got your letter of
 <lb facs="#facs_2_r1l7" n="N006"/>
 June 28 + one from
-<persName ref="#person-EH009">Mother</persName>
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>
 <lb facs="#facs_2_r1l8" n="N007"/>
 both telling me that she has
 <lb facs="#facs_2_r1l9" n="N008"/>
@@ -337,7 +307,7 @@ neither of you say how it
 happened. I hope it's
 <lb facs="#facs_2_r1l14" n="N013"/>
 mending. Beloved
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 your
 <lb facs="#facs_2_r1l15" n="N014"/>
 letter was rather despondent
@@ -370,7 +340,7 @@ task here work out in success
 - the luck of the Bells, do
 <lb facs="#facs_2_r2l4" n="N004"/>
 you remember
-<persName ref="#person-EH104">Mr Strong</persName>
+<persName ref="metadata/people.xml#person-EH104">Mr Strong</persName>
 used
 <lb facs="#facs_2_r2l5" n="N005"/>
 to say? Anyhow dearest don't
@@ -422,7 +392,7 @@ all the solid people are
 </ab>
 <ab facs="#facs_3_r1">
 <lb facs="#facs_3_l_153" n="N001"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart C B</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart C B</persName>
 <lb facs="#facs_3_r1l5" n="N002"/>
 Rounton Grange
 <lb facs="#facs_3_r1l6" n="N003"/>
