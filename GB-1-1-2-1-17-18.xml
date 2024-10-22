@@ -17,96 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH009">
-<persName>Mother</persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH044">
-<persName>Lord Ashfield</persName>
-<idno type="EH">EH044</idno>
-</person>
-<person xml:id="person-EH015">
-<persName>Abdul Majid Shawi</persName>
-<idno type="EH">EH015</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH039">
-<persName>a King</persName>
-<idno type="EH">EH039</idno>
-</person>
-<person xml:id="person-EH019">
-<persName>Naji Suwaidi</persName>
-<idno type="EH">EH019</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH011">
-<persName>Ja'far </persName>
-<idno type="EH">EH011</idno>
-</person>
-<person xml:id="person-EH045">
-<persName>Rashid</persName>
-<idno type="EH">EH045</idno>
-</person>
-<person xml:id="person-EH068">
-<persName>the Naqib</persName>
-<idno type="EH">EH068</idno>
-</person>
-<person xml:id="person-EH046">
-<persName>Miss Thomson</persName>
-<idno type="EH">EH046</idno>
-</person>
-<person xml:id="person-EH047">
-<persName>Saiyid Husain 'Afnan</persName>
-<idno type="EH">EH047</idno>
-</person>
-<person xml:id="person-EH048">
-<persName>Mr Tod</persName>
-<idno type="EH">EH048</idno>
-</person>
-<person xml:id="person-EH029">
-<persName>Haji Naji</persName>
-<idno type="EH">EH029</idno>
-</person>
-<person xml:id="person-EH014">
-<persName>Mr Cornwallis</persName>
-<idno type="EH">EH014</idno>
-</person>
-<person xml:id="person-EH049">
-<persName>Fakhri Jamil</persName>
-<idno type="EH">EH049</idno>
-</person>
-<person xml:id="person-EH051">
-<persName>the Philbys</persName>
-<idno type="EH">EH051</idno>
-</person>
-<person xml:id="person-EH003">
-<persName>Mr Philby</persName>
-<idno type="EH">EH003</idno>
-</person>
-<person xml:id="person-EH016">
-<persName>Lady Cox</persName>
-<idno type="EH">EH016</idno>
-</person>
-<person xml:id="person-EH052">
-<persName>the wife </persName>
-<idno type="EH">EH052</idno>
-</person>
-<person xml:id="person-EH053">
-<persName>the Persian heir-apparent</persName>
-<idno type="EH">EH053</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -479,13 +389,13 @@
 1921
 <lb facs="#facs_1_r2l3" n="N004"/>
 Dearest
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 . There have been 2 mails this week
 <lb facs="#facs_1_l_1361" n="N005"/>
 bringing your letters of May 11 + 18 but oddly enough
 <lb facs="#facs_1_r2l5" n="N006"/>
 nothing from
-<persName ref="#person-EH009">Mother</persName>
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>
 .
 <del rend="strikethrough">However</del>
 It's just an accident or
@@ -514,7 +424,7 @@ on the charge of the
 of the Colonial
 <lb facs="#facs_1_r2l12" n="N012"/>
 office. The letter of
-<persName ref="#person-EH044">Lord Ashfield</persName>
+<persName ref="metadata/people.xml#person-EH044">Lord Ashfield</persName>
 in
 <seg type="bibliographicNote-target-text">
 the Times 
@@ -562,13 +472,13 @@ class bitterness
 We here are now launched on our perilous way. On Monday
 <lb facs="#facs_1_r2l23" n="N023"/>
 my old friend the Mayor,
-<persName ref="#person-EH015">Abdul Majid Shawi</persName>
+<persName ref="metadata/people.xml#person-EH015">Abdul Majid Shawi</persName>
 - we had tea with him
 <lb facs="#facs_1_r2l24" n="N024"/>
 just before you left, you remember - came to my office + said that
 <lb facs="#facs_1_r2l25" n="N025"/>
 since
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 was coming it was up to the Notables of Baghdad
 <lb facs="#facs_1_r2l26" n="N026"/>
 to make a proper reception for him + not to leave it all to the
@@ -576,7 +486,7 @@ to make a proper reception for him + not to leave it all to the
 young extremists - of whom the notables are very jealous. Faisal
 <lb facs="#facs_1_r2l28" n="N028"/>
 was a famous Arab - the son of
-<persName ref="#person-EH039">a King</persName>
+<persName ref="metadata/people.xml#person-EH039">a King</persName>
 + must be treated
 <lb facs="#facs_1_r2l29" n="N029"/>
 as such. I said I thought that view perfectly proper; he as the
@@ -584,7 +494,7 @@ as such. I said I thought that view perfectly proper; he as the
 Mayor of the town, should make the arrangements. There followed
 <lb facs="#facs_1_r2l31" n="N031"/>
 him
-<persName ref="#person-EH019">Naji Suwaidi</persName>
+<persName ref="metadata/people.xml#person-EH019">Naji Suwaidi</persName>
 , who is the leading man of the younger group.
 <lb facs="#facs_1_r2l32" n="N032"/>
 + I begged him to take advantage of Abdul Majid' s attitude +
@@ -602,12 +512,12 @@ to the
 I rode on much cheered + when I got home found a letter
 <lb facs="#facs_1_r1l3" n="N003"/>
 from
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 enclosing the long-expected
 <foreign xml:lang="fr">communiqué</foreign>
 <lb facs="#facs_1_r1l4" n="N004"/>
 which he told me to get through to
-<persName ref="#person-EH011">Ja'far </persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far </persName>
 or Naji
 <lb facs="#facs_1_r1l5" n="N005"/>
 Suwaidi before the meeting which was to take place
@@ -623,7 +533,7 @@ were all delighted with it + indeed it was
 just what we wanted.
 <lb facs="#facs_1_r1l11" n="N011"/>
 Next day Naji Suwaidi, + the Mutasarrif,
-<persName ref="#person-EH045" cert="high">Rashid</persName>
+<persName ref="metadata/people.xml#person-EH045" cert="high">Rashid</persName>
 <lb facs="#facs_1_r1l12" n="N012"/>
 Beg, came to my office after the meeting to report.
 <lb facs="#facs_1_r1l13" n="N013"/>
@@ -658,7 +568,7 @@ for covering bare walls with hangings + finally the
 thing was arranged
 <lb facs="#facs_1_r1l27" n="N027"/>
 In the evening I went to
-<persName ref="#person-EH068">the Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">the Naqib</persName>
 , whom I found
 <lb facs="#facs_1_r1l28" n="N028"/>
 receiving the report of the Reception Committee. Directly
@@ -683,7 +593,7 @@ suppose the
 will have the final word there -
 <lb facs="#facs_2_r1l6" n="N006"/>
 + then there was the difficult question as to where
-<persName ref="#person-EH001">Faisal </persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal </persName>
 <lb facs="#facs_2_r1l7" n="N007"/>
 should be lodged. If only we had got the official
 <foreign xml:lang="fr">communiqué</foreign>
@@ -695,7 +605,7 @@ We should have been able to give a more decided lead to
 the people + a more decided warning to our own officers.
 <lb facs="#facs_2_r1l11" n="N011"/>
 As it was our friends here of the
-<persName ref="#person-EH015">Abdul Majid</persName>
+<persName ref="metadata/people.xml#person-EH015">Abdul Majid</persName>
 type were
 <lb facs="#facs_2_r1l12" n="N012"/>
 always trying to find out what the British
@@ -735,7 +645,7 @@ pushing the country into a Nationalist path which
 at this moment it doesn't view with much favour.
 <lb facs="#facs_2_r1l28" n="N028"/>
 The point of view of the
-<persName ref="#person-EH068">Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">Naqib</persName>
 + his group must be
 <lb facs="#facs_2_r1l29" n="N029"/>
 sympathetically considered. Their argument is that they
@@ -777,7 +687,7 @@ time not chilling overmuch the enthusiasm of his more ardent
 supporters.
 <lb facs="#facs_2_r2l10" n="N010"/>
 Well, to continue my tale. Time was, as
-<persName ref="#person-EH046">Miss Thomson</persName>
+<persName ref="metadata/people.xml#person-EH046">Miss Thomson</persName>
 used to
 <lb facs="#facs_2_r2l11" n="N011"/>
 say, fierce. Here was Faisal arriving at
@@ -793,7 +703,7 @@ never said officially that he was arriving. But his
 partisans were growing naturally impatient + anxious to get.
 <lb facs="#facs_2_r2l15" n="N015"/>
 busy.
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 realized this + unofficially approved the
 <lb facs="#facs_2_r2l16" n="N016"/>
 project presented through me - in my capacity as the
@@ -807,7 +717,7 @@ Nabi
 to a big meeting on Friday, 6 days before Faisal's arrival.
 <lb facs="#facs_2_r2l19" n="N019"/>
 As soon as the invitations were out, in the name of
-<persName ref="#person-EH019">Naji</persName>
+<persName ref="metadata/people.xml#person-EH019">Naji</persName>
 <lb facs="#facs_2_r2l20" n="N020"/>
 Suwaidi, bishops + others dropped in to my office to sound
 <lb facs="#facs_2_r2l21" n="N021"/>
@@ -816,7 +726,7 @@ me as to whether they ought to go. "Oh yes" said I
 "why not? the meeting has the approval of
 <choice>
 <abbr>
-<persName ref="#person-EH002">H. E.</persName>
+<persName ref="metadata/people.xml#person-EH002">H. E.</persName>
 </abbr>
 <expan>His Excellency</expan>
 </choice>
@@ -836,11 +746,11 @@ was suitably lodged. Thereupon they appointed a reception
 <lb facs="#facs_2_r2l28" n="N028"/>
 committee of 5 Ministers, including Abdul Majid +
 <lb facs="#facs_2_r2l29" n="N029"/>
-<persName ref="#person-EH011">Ja'far Pasha</persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far Pasha</persName>
 . I had been out riding after tea + on
 <lb facs="#facs_2_l_1371" n="N030"/>
 the way home I met
-<persName ref="#person-EH047" cert="medium">Saiyid Husain 'Afnan</persName>
+<persName ref="metadata/people.xml#person-EH047" cert="medium">Saiyid Husain 'Afnan</persName>
 , the secretary
 </ab>
 <pb facs="#facs_3" n="3" xml:id="img_0003"/>
@@ -849,7 +759,7 @@ the way home I met
 terms + announcing that he was sending
 <lb facs="#facs_3_r2l2" n="N002"/>
 his son
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 to him. I wasn't as much
 <lb facs="#facs_3_r2l3" n="N003"/>
 surprised as I might have been for we
@@ -857,11 +767,11 @@ surprised as I might have been for we
 had urgently telegraphed in the beginning
 <lb facs="#facs_3_r2l6" n="N005"/>
 of the week to say that
-<persName ref="#person-EH039">Husain</persName>
+<persName ref="metadata/people.xml#person-EH039">Husain</persName>
 must send some
 <lb facs="#facs_3_r2l7" n="N006"/>
 message of this kind to
-<persName ref="#person-EH068">the Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">the Naqib</persName>
 . The Naqib
 <lb facs="#facs_3_r2l8" n="N007"/>
 then read me his reply drafted by
@@ -879,11 +789,11 @@ name. However he left quite enough + we all
 expressed our approval.
 <lb facs="#facs_3_r2l14" n="N013"/>
 This morning, being Sunday,
-<persName ref="#person-EH048">Mr Tod</persName>
+<persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>
 + I rode before
 <lb facs="#facs_3_r2l15" n="N014"/>
 breakfast to
-<persName ref="#person-EH029">Haji Naji</persName>
+<persName ref="metadata/people.xml#person-EH029">Haji Naji</persName>
 whom we found sitting
 <lb facs="#facs_3_r2l16" n="N015"/>
 with an old Saiyid of
@@ -900,7 +810,7 @@ only he was rather afraid of being lost in the ruck.
 I said I would give him a letter of introduction
 <lb facs="#facs_3_r2l21" n="N020"/>
 to
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 who is coming with Faisal so
 <lb facs="#facs_3_r2l22" n="N021"/>
 that he might be treated with consideration. This
@@ -912,9 +822,9 @@ summer house to eat the excellent apricots +
 apples which he set before us. Finally I sent
 <lb facs="#facs_3_r2l26" n="N025"/>
 for
-<persName ref="#person-EH015">'Abdul Majid Shawi</persName>
+<persName ref="metadata/people.xml#person-EH015">'Abdul Majid Shawi</persName>
 +
-<persName ref="#person-EH049">Fakhri Jamil</persName>
+<persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
 + had
 <lb facs="#facs_3_r2l27" n="N026"/>
 a long heart to heart talk with them - they are
@@ -944,7 +854,7 @@ Gertrude
 <pb facs="#facs_4" n="4" xml:id="img_0004"/>
 <ab facs="#facs_4_r1">
 <lb facs="#facs_4_r1l1" n="N001"/>
-<persName ref="#person-EH029">Haji Naji</persName>
+<persName ref="metadata/people.xml#person-EH029">Haji Naji</persName>
 also came to my office after the meeting +
 <lb facs="#facs_4_r1l2" n="N002"/>
 as good luck would have it your clippers
@@ -954,7 +864,7 @@ arrived just at that moment. So we opened
 + admired them + Haji Naji observed conversationally
 <lb facs="#facs_4_r1l5" n="N005"/>
 to the others there "Whenever her
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 goes to
 <lb facs="#facs_4_r1l6" n="N006"/>
 <placeName ref="#place-7011781">London</placeName>
@@ -964,7 +874,7 @@ much delighted + the fact that the gift was
 <lb facs="#facs_4_r1l8" n="N008"/>
 made before others was all to the good.
 <lb facs="#facs_4_r1l9" n="N009"/>
-<persName ref="#person-EH049">Fakhri Jamil</persName>
+<persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
  begs me to say to you that he
 <lb facs="#facs_4_r1l10" n="N010"/>
 sent you his photograph, but you haven't sent
@@ -975,7 +885,7 @@ him yours in return!
 In the middle of all these absorbing events, I went
 <lb facs="#facs_4_r1l13" n="N013"/>
 to a ball given by
-<persName ref="#person-EH051">the Philbys</persName>
+<persName ref="metadata/people.xml#person-EH051">the Philbys</persName>
  at
 <seg type="editorialNote-target-text">
 the Club
@@ -1028,7 +938,7 @@ has come to grief in India
  where
 <lb facs="#facs_4_l_1274" n="N003"/>
 our women do just the same thing.
-<persName ref="#person-EH003">Mr Philby</persName>
+<persName ref="metadata/people.xml#person-EH003">Mr Philby</persName>
 <lb facs="#facs_4_r2l7" n="N004"/>
 told me that he was worn out. He is also
 <lb facs="#facs_4_r2l8" n="N005"/>
@@ -1056,7 +966,7 @@ good for a Govt  servant to be in opposition
 to official policy + he has done some harm
 <lb facs="#facs_4_r2l16" n="N012"/>
 by openly advocating a republic.
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 has
 <lb facs="#facs_4_r2l17" n="N013"/>
 now stopped him but he can't be expected to
@@ -1068,7 +978,7 @@ look on him as an adversary. It's a great pity.
 His wife is one of the worst of the ball goers
 <lb facs="#facs_4_r2l21" n="N017"/>
 + you'll scarcely believe it but
-<persName ref="#person-EH016">Lady Cox</persName>
+<persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
  goes to
 <lb facs="#facs_4_l_1311" n="N018"/>
 every one + dances all night - with yon figure!
@@ -1079,10 +989,10 @@ have to go.
 <anchor facs="#facs_4_r2l25"/>
 <lb facs="#facs_4_r2l26" n="N021"/>
 This afternoon I've got to call on
-<persName ref="#person-EH052">the wife </persName>
+<persName ref="metadata/people.xml#person-EH052">the wife </persName>
 of
 <lb facs="#facs_4_r2l27" n="N022"/>
-<persName ref="#person-EH196" cert="medium">the Persian heir-apparent</persName>
+<persName ref="metadata/people.xml#person-EH196" cert="medium">the Persian heir-apparent</persName>
 - they are on their
 <lb facs="#facs_4_r2l28" n="N023"/>
 way through to
@@ -1116,7 +1026,7 @@ ARAB BUREAU,
 </ab>
 <ab facs="#facs_5_r2">
 <lb facs="#facs_5_r2l1" n="N001"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart. C B</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart. C B</persName>
 <lb facs="#facs_5_r2l2" n="N002"/>
 Rounton Grange
 <lb facs="#facs_5_r2l3" n="N003"/>

@@ -17,124 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy Cox</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH026">
-<persName>the Coxes</persName>
-<idno type="EH">EH026</idno>
-</person>
-<person xml:id="person-EH016">
-<persName>Lady</persName>
-<idno type="EH">EH016</idno>
-</person>
-<person xml:id="person-EH068">
-<persName>Naqib</persName>
-<idno type="EH">EH068</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH014">
-<persName>Mr Cornwallis</persName>
-<idno type="EH">EH014</idno>
-</person>
-<person xml:id="person-EH015">
-<persName>'Abdul Majid Shawi</persName>
-<idno type="EH">EH015</idno>
-</person>
-<person xml:id="person-EH066">
-<persName>Yusuf Sawaidi</persName>
-<idno type="EH">EH066</idno>
-</person>
-<person xml:id="person-EH008">
-<persName>Mrs Garbett</persName>
-<idno type="EH">EH008</idno>
-</person>
-<person xml:id="person-EH122">
-<persName>'Ataifah</persName>
-<idno type="EH">EH122</idno>
-</person>
-<person xml:id="person-EH005">
-<persName>G.O.C in C.</persName>
-<idno type="EH">EH005</idno>
-</person>
-<person xml:id="person-EH112">
-<persName>Rustam Haidar</persName>
-<idno type="EH">EH112</idno>
-</person>
-<person xml:id="person-EH047">
-<persName>Saiyid Husain Afnan</persName>
-<idno type="EH">EH047</idno>
-</person>
-<person xml:id="person-EH123">
-<persName>Muzahim Pachahji</persName>
-<idno type="EH">EH123</idno>
-</person>
-<person xml:id="person-124">
-<persName>Rauf Beg Chadirji</persName>
-<idno type="EH">124</idno>
-</person>
-<person xml:id="person-EH063">
-<persName>Mr Thomson</persName>
-<idno type="EH">EH063</idno>
-</person>
-<person xml:id="person-EH048">
-<persName>Saiyid Husain</persName>
-<idno type="EH">EH048</idno>
-</person>
-<person xml:id="person-EH126">
-<persName>'Ajil al Yawar</persName>
-<idno type="EH">EH126</idno>
-</person>
-<person xml:id="person-EH059">
-<persName>Mr Nalder</persName>
-<idno type="EH">EH059</idno>
-</person>
-<person xml:id="person-EH127">
-<persName>Leachman</persName>
-<idno type="EH">EH127</idno>
-</person>
-<person xml:id="person-EH128">
-<persName>Hasan Sukhail</persName>
-<idno type="EH">EH128</idno>
-</person>
-<person xml:id="person-EH099">
-<persName>Mr Barrington Ward K. C.</persName>
-<idno type="EH">EH099</idno>
-</person>
-<person xml:id="person-EH130">
-<persName>the Slaters</persName>
-<idno type="EH">EH130</idno>
-</person>
-<person xml:id="person-EH011">
-<persName>Ja'far</persName>
-<idno type="EH">EH011</idno>
-</person>
-<person xml:id="person-EH035">
-<persName> Joyce</persName>
-<idno type="EH">EH035</idno>
-</person>
-<person xml:id="person-EH018">
-<persName>Nuri Sa'id</persName>
-<idno type="EH">EH018</idno>
-</person>
-<person xml:id="person-EH129">
-<persName>Mr Slater</persName>
-<idno type="EH">EH129</idno>
-</person>
-<person xml:id="person-EH109">
-<persName>Zaya</persName>
-<idno type="EH">EH109</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -650,7 +532,7 @@
 <add place="below">1921</add>
 <lb facs="#facs_1_r1l4" n="N004"/>
 Darling
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 . I've no letter of yours to answer because there's
 <lb facs="#facs_1_r1l5" n="N005"/>
 no post in this week. I'm not only without letters but also without
@@ -664,12 +546,12 @@ saying about him the other day quoted from the lips of one of the leading
 notables of
 <placeName ref="#place-7016465">Basrah</placeName>
 . "Wallahi!" he observed "
-<persName ref="#person-EH002">Sir Percy Cox</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy Cox</persName>
 <lb facs="#facs_1_r1l11" n="N010"/>
 has forty ears + only one tongue." I must tell you another
 <lb facs="#facs_1_r1l12" n="N011"/>
 nice talk about
-<persName ref="#person-EH026">the Coxes</persName>
+<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
 . You know he is a great naturalist. He is making
 <lb facs="#facs_1_r1l13" n="N012"/>
 a collection of all Mesopotamian birds - sometimes they arrive dead +
@@ -685,7 +567,7 @@ mainly. These bats are netted for it in the dusk when they obligingly
 fly across the river + over Sir Percy's garden wall. But the
 <lb facs="#facs_1_r1l19" n="N018"/>
 eagle likes to eat them in the morning, so the long-suffering
-<persName ref="#person-EH016">Lady</persName>
+<persName ref="metadata/people.xml#person-EH016">Lady</persName>
 <lb facs="#facs_1_r1l20" n="N019"/>
 Cox keeps them in a tin in the ice chest, + if ever you've
 <lb facs="#facs_1_r1l21" n="N020"/>
@@ -695,7 +577,7 @@ inform me.
 <lb facs="#facs_1_r1l23" n="N022"/>
 And since I'm telling you stories I must tell you one about the
 <lb facs="#facs_1_r1l24" n="N023"/>
-<persName ref="#person-EH068">Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">Naqib</persName>
 . It hangs on to what I was relating to you last week on
 <lb facs="#facs_1_r1l25" n="N024"/>
 the subject of
@@ -707,7 +589,7 @@ delight - he's by every instinct an aristocrat + an autocrat if
 ever there was one - who gave currency to the word by announcing in
 <orgName ref="#org-129437055">the Council</orgName>
 that
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 <lb facs="#facs_1_r1l30" n="N027"/>
 should be king of a constitutional democratic state. He did
 <lb facs="#facs_1_r1l31" n="N028"/>
@@ -746,7 +628,7 @@ then I must be one of them, for I'm altogether in your
 <lb facs="#facs_2_l_808" n="N002"/>
 service But what is it?" "Damakratiyah" says the
 <lb facs="#facs_2_r1l5" n="N003"/>
-<persName ref="#person-EH068">Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">Naqib</persName>
 "is equality. There's no big man + no little - all
 <lb facs="#facs_2_r1l6" n="N004"/>
 are alike + equal." With that the bewildered
@@ -770,7 +652,7 @@ Last Monday was the first day of the 'Id al Fitr, the Feast
 of Sacrifice, which is the great occasion of the Moslem year.
 <lb facs="#facs_2_r1l15" n="N011"/>
 It lasts four mortal days. At 7 a.m. on Monday,
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 <lb facs="#facs_2_r1l16" n="N012"/>
 + I set out on a round of calls. We went first to the Naqib
 <lb facs="#facs_2_r1l17" n="N013"/>
@@ -784,17 +666,17 @@ very hilarious quarter of an hour with him. Then we called on
 <lb facs="#facs_2_r1l20" n="N016"/>
 five ministers, two of whom were providentially out; then on
 <lb facs="#facs_2_r1l21" n="N017"/>
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 , but we stayed only two minutes since there were thousands
 <lb facs="#facs_2_r1l22" n="N018"/>
 of people waiting to come in who were being kept out while
 <lb facs="#facs_2_r1l23" n="N019"/>
 we sat with him. Then on
-<persName ref="#person-EH015">'Abdul Majid Shawi</persName>
+<persName ref="metadata/people.xml#person-EH015">'Abdul Majid Shawi</persName>
 who was out,
 <lb facs="#facs_2_r1l24" n="N020"/>
 + then on old
-<persName ref="#person-EH066">Yusuf Sawaidi</persName>
+<persName ref="metadata/people.xml#person-EH066">Yusuf Sawaidi</persName>
 whom I had never called on
 <lb facs="#facs_2_r1l25" n="N021"/>
 before. It's nice, isn't it, to make a sensation when you come
@@ -833,7 +715,7 @@ fun. But it wasn't over, for I had to go to tea that evening
 morning visit + wanted me to come + 'Id with her
 <lb facs="#facs_3_r1l3" n="N003"/>
 too.
-<persName ref="#person-EH008">Mrs Garbett</persName>
+<persName ref="metadata/people.xml#person-EH008">Mrs Garbett</persName>
 + I went together, + I'm sorry to say
 <lb facs="#facs_3_r1l4" n="N004"/>
 I was rather short with an Austrian woman who was
@@ -847,9 +729,9 @@ especially when they're married to one of of our medical
 officers. Perhaps it was partly because I had paid so many calls.
 <lb facs="#facs_3_r1l9" n="N009"/>
 That afternoon
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 called on
-<persName ref="#person-EH068">the Naqib</persName>
+<persName ref="metadata/people.xml#person-EH068">the Naqib</persName>
 + asked him
 <lb facs="#facs_3_r1l10" n="N010"/>
 to form his first cabinet - a very, very wise move. Who
@@ -860,7 +742,7 @@ political career at the age of 77. Good, isn't it.
 <lb facs="#facs_3_r1l13" n="N013"/>
 On Tuesday we had a terrific tea in the house of Saiyid Ja'far
 <lb facs="#facs_3_r1l14" n="N014"/>
-<persName ref="#person-EH122">'Ataifah</persName>
+<persName ref="metadata/people.xml#person-EH122">'Ataifah</persName>
 , Mayor of
 <placeName ref="#place-1079422">Kadhimain</placeName>
 - you remember we went to tea
@@ -889,20 +771,20 @@ Saiyid Ja'far 's house. He came to me + said that his honour
 was broken. I said "Tosh - you trot round to Sidi Faisal +
 <lb facs="#facs_3_r1l22" n="N022"/>
 ask him to tea + I'll ask the
-<persName ref="#person-EH002">High Commissioner</persName>
+<persName ref="metadata/people.xml#person-EH002">High Commissioner</persName>
 + the
 <lb facs="#facs_3_l" n="N023"/>
 <choice>
 <abbr>
-<persName ref="#person-EH005">G.O.C in C.</persName>
+<persName ref="metadata/people.xml#person-EH005">G.O.C in C.</persName>
 </abbr>
 <expan>General Officer Commanding in Chief</expan>
 </choice>
 " Faisal played up;
-<persName ref="#person-EH005">Sir Aylmer</persName>
+<persName ref="metadata/people.xml#person-EH005">Sir Aylmer</persName>
 took me;
 <lb facs="#facs_3_r1l25" n="N024"/>
-<persName ref="#person-EH026">the Coxes</persName>
+<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
 brought one another + Faisal brought his
 <choice>
 <abbr>ADC</abbr>
@@ -926,14 +808,14 @@ On
 <expan>Wednesday</expan>
 </choice>
 I gave a dinner party:
-<persName ref="#person-EH112">Rustam Haidar</persName>
+<persName ref="metadata/people.xml#person-EH112">Rustam Haidar</persName>
 whom
 <lb facs="#facs_3_r1l32" n="N031"/>
 I love - he is Faisal's secretary -
-<persName ref="#person-EH047">Saiyid Husain Afnan</persName>
+<persName ref="metadata/people.xml#person-EH047">Saiyid Husain Afnan</persName>
 <lb facs="#facs_3_r1l33" n="N032"/>
 a young barrister,
-<persName ref="#person-EH123">Muzahim Pachahji</persName>
+<persName ref="metadata/people.xml#person-EH123">Muzahim Pachahji</persName>
 by name (the one
 </ab>
 <pb facs="#facs_4" n="4" xml:id="img_0004"/>
@@ -945,9 +827,9 @@ at
 <placeName ref="#place-7016465">Basrah</placeName>
 ) + another barrister whom you don't know
 <lb facs="#facs_4_r1l4" n="N003"/>
-<persName ref="#person-124">Rauf Beg Chadirji</persName>
+<persName ref="metadata/people.xml#person-124">Rauf Beg Chadirji</persName>
 , a pal of mine.
-<persName ref="#person-EH063">Mr Thomson</persName>
+<persName ref="metadata/people.xml#person-EH063">Mr Thomson</persName>
 , the
 <lb facs="#facs_4_r1l5" n="N004"/>
 most darling of all my colleagues, came to help. Of
@@ -973,7 +855,7 @@ do? There was an amusing episode when we talked
 about
 <placeName ref="#place-7002478">Kirkuk</placeName>
 - I told you Kirkuk has rejected
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 <lb facs="#facs_4_r1l16" n="N015"/>
 + Arab Government. The Arabs are very angry. I hold
 <lb facs="#facs_4_r1l17" n="N016"/>
@@ -984,14 +866,14 @@ who has so little sympathy for the Nationalism of the man
 next below him as the ardent Nationalist. "Have they
 <lb facs="#facs_4_r1l20" n="N019"/>
 the right?" said
-<persName ref="#person-EH123">Muzahim</persName>
+<persName ref="metadata/people.xml#person-EH123">Muzahim</persName>
 . "Oh yes" said I "
 <foreign xml:lang="ar">Istiqlal </foreign>
 <lb facs="#facs_4_r1l21" n="N020"/>
 al tamm, complete independence" - it's the catch word
 <lb facs="#facs_4_r1l22" n="N021"/>
 of the extremists here. And
-<persName ref="#person-EH048">Saiyid Husain</persName>
+<persName ref="metadata/people.xml#person-EH048">Saiyid Husain</persName>
 , fully realizing
 <lb facs="#facs_4_r1l23" n="N022"/>
 the humour of the situation, backed me by quoting the idiot
@@ -1005,7 +887,7 @@ added to the Referendum papers: Cut off from the control
 of any one. On that we agreed to leave the handling of
 <lb facs="#facs_4_r1l27" n="N026"/>
 Kirkuk to
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 whom the party unanimously
 <lb facs="#facs_4_r1l28" n="N027"/>
 declared to be the father of wiles. It was then they told
@@ -1024,7 +906,7 @@ always heard of + never seen before - they all come
 3
 <lb facs="#facs_5_l_864" n="N002"/>
 to me for an appointment with
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 . One of these was
 <lb facs="#facs_5_r2l5" n="N003"/>
 <persName>'Abdullah Beg ibn Falih Pasha Sa'dun</persName>
@@ -1063,7 +945,7 @@ Shammar
 <note type="editorial">Tribe descended from the ancient Yemeni tribe of Tayy.</note>
 </seg>
 ,
-<persName ref="#person-EH126">'Ajil al Yawar</persName>
+<persName ref="metadata/people.xml#person-EH126">'Ajil al Yawar</persName>
 .
 <lb facs="#facs_5_r2l16" n="N014"/>
 I had seen him in 1917 when he came in to us. Then he
@@ -1077,14 +959,14 @@ came in again when we took
 , + drifted off
 <lb facs="#facs_5_r2l20" n="N018"/>
 again, we never quite knew why, but
-<persName ref="#person-EH059">Mr Nalder</persName>
+<persName ref="metadata/people.xml#person-EH059">Mr Nalder</persName>
 <lb facs="#facs_5_l_895" n="N019"/>
 had always regretted it + so have I, for from the
 <lb facs="#facs_5_r2l24" n="N020"/>
 first moment I saw him I reckoned him foremost of the Shammar
 <lb facs="#facs_5_r2l25" n="N021"/>
 shaikhs in character + influence.
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 , with our
 <lb facs="#facs_5_r2l26" n="N022"/>
 concurrence, sent for him, + he came at once. He is 6
@@ -1142,7 +1024,7 @@ chair, his huge figure relaxed + eyelids a little drooped. He
 sat up then + turned the flash of his eyes on me. He
 <lb facs="#facs_6_r1l4" n="N004"/>
 said "I'll tell you. It was
-<persName ref="#person-EH127">Leachman</persName>
+<persName ref="metadata/people.xml#person-EH127">Leachman</persName>
 . When I came
 <lb facs="#facs_6_r1l5" n="N005"/>
 in at his bidding to
@@ -1169,7 +1051,7 @@ so exactly like Col. Leachman.) I said "I don't
 think you're very like a woman" + the other man who was
 <lb facs="#facs_6_r1l13" n="N013"/>
 there, Shaikh
-<persName ref="#person-EH128">Hasan Sukhail</persName>
+<persName ref="metadata/people.xml#person-EH128">Hasan Sukhail</persName>
 of the
 <seg type="editorialNote-target-text">
 Bani Tamim
@@ -1181,13 +1063,13 @@ Bani Tamim
 ) laughed + added "Not so very like."
 <lb facs="#facs_6_r1l16" n="N015"/>
 Then I said "
-<persName ref="#person-EH126">'Ajil</persName>
+<persName ref="metadata/people.xml#person-EH126">'Ajil</persName>
 , I can't force you to do anything
 <lb facs="#facs_6_l" n="N016"/>
 but I can give you advice - may I?" "Yes, wallah!"
 <lb facs="#facs_6_r1l19" n="N017"/>
 he said. "When you go north, go + see
-<persName ref="#person-EH059">Mr Nalder</persName>
+<persName ref="metadata/people.xml#person-EH059">Mr Nalder</persName>
 <lb facs="#facs_6_r1l20" n="N018"/>
 + make friends with him; + especially settle that
 <lb facs="#facs_6_r1l21" n="N019"/>
@@ -1206,7 +1088,7 @@ you the whole tale, + I've told it to Mr Nalder, briefly.
 He will understand.
 <lb facs="#facs_6_r1l31" n="N026"/>
 'Ajil came in to
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 himself, but most of the down-
 <lb facs="#facs_6_r1l32" n="N027"/>
 river shaikhs come in to us. They come to me, rather
@@ -1221,7 +1103,7 @@ the Amir
 I say" Not only you ought, but you must - hurry
 <lb facs="#facs_6_r1l35" n="N030"/>
 off at once; + take this letter to
-<persName ref="#person-EH112">Rustam Beg Haidar</persName>
+<persName ref="metadata/people.xml#person-EH112">Rustam Beg Haidar</persName>
 <lb facs="#facs_6_r1l36" n="N031"/>
 in which I've told him what fine fellows you are +
 </ab>
@@ -1235,9 +1117,9 @@ what good service you've done." They go.
 That won't last + I don't want it to last. I shall
 <lb facs="#facs_7_r2l5" n="N004"/>
 be glad when they go straight to
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 +
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 + I
 <lb facs="#facs_7_r2l6" n="N005"/>
 drop out - that's the thing we're aiming at. Meantime,
@@ -1290,7 +1172,7 @@ Mesopotamian, a Beduin."
 I dressed like lightning for an enormous dinner party
 <lb facs="#facs_7_r2l27" n="N024"/>
 given by
-<persName ref="#person-EH099">Mr Barrington Ward K. C.</persName>
+<persName ref="metadata/people.xml#person-EH099">Mr Barrington Ward K. C.</persName>
 at
 <seg type="editorialNote-target-text">
 the Club
@@ -1301,7 +1183,7 @@ the Club
 us + a burning wind in addition. I was happy
 <lb facs="#facs_7_r2l29" n="N026"/>
 because I sat by
-<persName ref="#person-EH063">Mr Thomson</persName>
+<persName ref="metadata/people.xml#person-EH063">Mr Thomson</persName>
 , + there were plenty of
 <lb facs="#facs_7_r2l30" n="N027"/>
 people to talk to who didn't dance. I went away
@@ -1313,9 +1195,9 @@ but the hour of their fun is so closely connected with
 the time I go into office that I don't often share in it.
 <lb facs="#facs_7_r2l34" n="N031"/>
 Next evening
-<persName ref="#person-EH016">Lady Cox</persName>
+<persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
 ,
-<persName ref="#person-EH130">the Slaters</persName>
+<persName ref="metadata/people.xml#person-EH130">the Slaters</persName>
 + I + one or two more
 </ab>
 <pb facs="#facs_8" n="8" xml:id="img_0008"/>
@@ -1323,7 +1205,7 @@ Next evening
 <lb facs="#facs_8_r1l1" n="N001"/>
 went out to swim + dine - the place we swim is exactly opposite
 <lb facs="#facs_8_r1l2" n="N002"/>
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 's new house + as we landed, there was Faisal, trailing
 <lb facs="#facs_8_r1l3" n="N003"/>
 over the sand in his long robes with his
@@ -1332,7 +1214,7 @@ over the sand in his long robes with his
 <expan>aide-de-camp</expan>
 </choice>
 s +
-<persName ref="#person-EH011">Ja'far</persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
 <lb facs="#facs_8_r1l4" n="N004"/>
 looking incredibly huge in Arab dress. There wasn't room
 <lb facs="#facs_8_r1l5" n="N005"/>
@@ -1354,7 +1236,7 @@ I wasn't out
 of place with bare feet + wet hair. We sat + talked
 <lb facs="#facs_8_r1l11" n="N011"/>
 of
-<persName ref="#person-EH126">'Ajil</persName>
+<persName ref="metadata/people.xml#person-EH126">'Ajil</persName>
 , the
 <seg type="editorialNote-target-text">
 Shammar
@@ -1380,15 +1262,15 @@ My party of guests were Faisal + his
 s, the
 <choice>
 <abbr>
-<persName ref="#person-EH005">GOC in C</persName>
+<persName ref="metadata/people.xml#person-EH005">GOC in C</persName>
 </abbr>
 <expan>General Officer Commanding in Chief</expan>
 </choice>
 , Colonel
 <lb facs="#facs_8_r1l19" n="N018"/>
-<persName ref="#person-EH035"> Joyce</persName>
+<persName ref="metadata/people.xml#person-EH035"> Joyce</persName>
 , Ja'far +
-<persName ref="#person-EH018">Nuri Sa'id</persName>
+<persName ref="metadata/people.xml#person-EH018">Nuri Sa'id</persName>
 the
 <choice>
 <abbr>C. G. S.</abbr>
@@ -1396,9 +1278,9 @@ the
 </choice>
 of the Arab army.
 <lb facs="#facs_8_r1l20" n="N019"/>
-<persName ref="#person-EH129">Mr Slater</persName>
+<persName ref="metadata/people.xml#person-EH129">Mr Slater</persName>
 started with us, with
-<persName ref="#person-EH099">Mr Barrington Ward</persName>
+<persName ref="metadata/people.xml#person-EH099">Mr Barrington Ward</persName>
 , but
 <lb facs="#facs_8_r1l21" n="N020"/>
 they broke down en route owing to my having missed the
@@ -1428,7 +1310,7 @@ much to see! you can't be wearied by it. And the desert was
 <lb facs="#facs_8_r1l30" n="N029"/>
 heavenly in the early morning. By the time we were ready,
 <lb facs="#facs_8_r1l31" n="N030"/>
-<persName ref="#person-EH109">Zaya</persName>
+<persName ref="metadata/people.xml#person-EH109">Zaya</persName>
 had cleverly spread breakfast in the shadow of the
 <lb facs="#facs_8_r1l32" n="N031"/>
 brick tower + we had a very cheerful meal, much enlivened
@@ -1447,7 +1329,7 @@ himself on the ground I ever saw. All the Arabs, including
 <lb facs="#facs_9_l" n="N001"/>
 5
 <lb facs="#facs_9_l_743" n="N002"/>
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 , who sit cross-legged by nature, were exhilarated
 <lb facs="#facs_9_r1l2" n="N003"/>
 to see how entirely his legs refused to double up, + he laughed
@@ -1483,7 +1365,7 @@ that from the first we must recognize that he is an
 independent sovereign in treaty with us, otherwise he can't
 <lb facs="#facs_9_r1l14" n="N015"/>
 hold his extremists.
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 , bless him, wobbled a
 <lb facs="#facs_9_r1l15" n="N016"/>
 little, but my view was that as it came to the same either
@@ -1546,7 +1428,7 @@ tomorrow, + the whole universe has assembled or is
 <ab facs="#facs_10_r6">
 <lb facs="#facs_10_r6l1" n="N001"/>
 assembling here for it.
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 telegraphed firmly that
 <lb facs="#facs_10_r6l2" n="N002"/>
 in his opinion it could not be delayed + it is going
@@ -1557,7 +1439,7 @@ on. We have got
 <expan>His Majesty's Government</expan>
 </choice>
 in a cleft stick. If
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 <lb facs="#facs_10_r6l4" n="N004"/>
 were to resign, after our pressing him upon the country,
 <lb facs="#facs_10_r6l5" n="N005"/>
@@ -1611,7 +1493,7 @@ Gertrude
 I'm now going for our usual Sunday swim +
 <lb facs="#facs_10_l_796" n="N027"/>
 subsequent dinner on
-<persName ref="#person-EH048">Mr Tod</persName>
+<persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>
 's steamer. About
 <lb facs="#facs_10_l_773" n="N028"/>
 14 of us go every Sunday evening. Could you send
@@ -1648,7 +1530,7 @@ stylographic pen.
 <lb facs="#facs_11_r1l5" n="N004"/>
 <add place="above"> 1921</add>
 <lb facs="#facs_11_r1l6" n="N005"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart C B</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart C B</persName>
 <lb facs="#facs_11_r1l7" n="N006"/>
 Rounton Grange
 <lb facs="#facs_11_r1l8" n="N007"/>
