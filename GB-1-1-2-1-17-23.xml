@@ -17,136 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH034">
-<persName>Garbetts</persName>
-<idno type="EH">EH034</idno>
-</person>
-<person xml:id="person-EH014">
-<persName>Mr Cornwallis</persName>
-<idno type="EH">EH014</idno>
-</person>
-<person xml:id="person-EH074">
-<persName>Amir</persName>
-<idno type="EH">EH074</idno>
-</person>
-<person xml:id="person-EH089">
-<persName>The Rabbi</persName>
-<idno type="EH">EH089</idno>
-</person>
-<person xml:id="person-EH117">
-<persName>Gentile Bellini</persName>
-<idno type="EH">EH117</idno>
-</person>
-<person xml:id="person-EH073">
-<persName>Saiyid Muhammad Sadr</persName>
-<idno type="EH">EH073</idno>
-</person>
-<person xml:id="person-EH090">
-<persName>Saiyid Hasan Sadr</persName>
-<idno type="EH">EH090</idno>
-</person>
-<person xml:id="person-EH091">
-<persName>Mrs Buchanan</persName>
-<idno type="EH">EH091</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH092">
-<persName>Ahmad Haqqi</persName>
-<idno type="EH">EH092</idno>
-</person>
-<person xml:id="person-EH011">
-<persName>Ja'far</persName>
-<idno type="EH">EH011</idno>
-</person>
-<person xml:id="person-EH005">
-<persName>Sir Aylmer</persName>
-<idno type="EH">EH005</idno>
-</person>
-<person xml:id="person-EH093">
-<persName>Saiyid Nur</persName>
-<idno type="EH">EH093</idno>
-</person>
-<person xml:id="person-EH094">
-<persName>Shukri Alusi</persName>
-<idno type="EH">EH094</idno>
-</person>
-<person xml:id="person-EH064">
-<persName>Ibn Sa'ud</persName>
-<idno type="EH">EH064</idno>
-</person>
-<person xml:id="person-EH095">
-<persName>Shukri Effendi</persName>
-<idno type="EH">EH095</idno>
-</person>
-<person xml:id="person-EH007">
-<persName>Mr Garbett</persName>
-<idno type="EH">EH007</idno>
-</person>
-<person xml:id="person-EH070">
-<persName>the Mutasarrif</persName>
-<idno type="EH">EH070</idno>
-</person>
-<person xml:id="person-EH096">
-<persName>his wife</persName>
-<idno type="EH">EH096</idno>
-</person>
-<person xml:id="person-EH097">
-<persName>Audah Abu Tai</persName>
-<idno type="EH">EH097</idno>
-</person>
-<person xml:id="person-EH098">
-<persName>Murdhi</persName>
-<idno type="EH">EH098</idno>
-</person>
-<person xml:id="person-EH099">
-<persName>Mr Barrington</persName>
-<idno type="EH">EH099</idno>
-</person>
-<person xml:id="person-EH031">
-<persName>Lionel Smith</persName>
-<idno type="EH">EH031</idno>
-</person>
-<person xml:id="person-EH101">
-<persName>Sha'shu'</persName>
-<idno type="EH">EH101</idno>
-</person>
-<person xml:id="person-EH100">
-<persName>Saiyid Talib</persName>
-<idno type="EH">EH100</idno>
-</person>
-<person xml:id="person-EH048">
-<persName>Mr Tod</persName>
-<idno type="EH">EH048</idno>
-</person>
-<person xml:id="person-EH029">
-<persName>Haji Naji</persName>
-<idno type="EH">EH029</idno>
-</person>
-<person xml:id="person-EH049">
-<persName>Fakhri Jamil</persName>
-<idno type="EH">EH049</idno>
-</person>
-<person xml:id="person-EH102">
-<persName>the Mutasarrif</persName>
-<idno type="EH">EH102</idno>
-</person>
-<person xml:id="person-EH078">
-<persName>Mrs Rosita Forbes</persName>
-<idno type="EH">EH078</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -665,7 +535,7 @@ Wed.
 <add place="below"> 1921</add>
 <lb facs="#facs_1_l_834" n="N004"/>
 Dearest
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 .
 <foreign xml:lang="de">Ich fange an</foreign>
 - really these days are so packed with
@@ -683,20 +553,20 @@ for the first time in my life I've got prickly heat - not very bad
 however. Well - on Monday the Jewish community gave a great
 <lb facs="#facs_1_r1l12" n="N011"/>
 reception to
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 in the grand Rabbi's official house. The
 <lb facs="#facs_1_r1l13" n="N012"/>
-<persName ref="#person-EH034">Garbetts</persName>
+<persName ref="metadata/people.xml#person-EH034">Garbetts</persName>
 + I represented
 <seg type="editorialNote-target-text">
 the Residency
 <note type="editorial">Refers to the British Residency in Baghdad, the home of British Administration within the region.</note>
 </seg>
 +
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 came with the
 <lb facs="#facs_1_r1l14" n="N013"/>
-<persName ref="#person-EH001">Amir</persName>
+<persName ref="metadata/people.xml#person-EH001">Amir</persName>
 . The function took place at 7.30 a.m. in the big courtyard
 <lb facs="#facs_1_r1l15" n="N014"/>
 of the house - you know the kind of place, a square court round which
@@ -732,13 +602,13 @@ It took 2 hours by the clock, in sweltering heat - one gets
 accustomed to it, but still it is so. The most interesting speeches
 <lb facs="#facs_1_r1l31" n="N030"/>
 were those of the Jews (Moslems spoke too).
-<persName ref="#person-EH089">The Rabbi</persName>
+<persName ref="metadata/people.xml#person-EH089">The Rabbi</persName>
 is too
 <lb facs="#facs_1_r1l32" n="N031"/>
 old, luckily, to say anything, but he is a wonderful figure, stepped
 <lb facs="#facs_1_r1l33" n="N032"/>
 straight out of a picture by
-<persName ref="#person-EH117">Gentile Bellini</persName>
+<persName ref="metadata/people.xml#person-EH117">Gentile Bellini</persName>
 . The speeches on
 <lb facs="#facs_1_r1l34" n="N033"/>
 these occasions are all set speeches - the orators read them
@@ -764,7 +634,7 @@ which underlay them, the anxiety of the Jews lest an Arab
 <lb facs="#facs_2_r1l2" n="N002"/>
 should mean chaos + their gradual reassurance, by reason of
 <lb facs="#facs_2_r1l3" n="N003"/>
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 's obviously enlightened attitude + our obvious support of
 <lb facs="#facs_2_r1l4" n="N004"/>
 him. Presently they brought the
@@ -775,7 +645,7 @@ Rolls of the Law
 in three gold
 <lb facs="#facs_2_r1l5" n="N005"/>
 cylinders which were kissed by the
-<persName ref="#person-EH089">Grand Rabbi</persName>
+<persName ref="metadata/people.xml#person-EH089">Grand Rabbi</persName>
 + then by
 <lb facs="#facs_2_r1l6" n="N006"/>
 Faisal, + they presented him with a small gold facsimile
@@ -823,11 +693,11 @@ The
 <sic>vilain</sic>
 </choice>
 of the piece is
-<persName ref="#person-EH073">Saiyid Muhammad Sadr</persName>
+<persName ref="metadata/people.xml#person-EH073">Saiyid Muhammad Sadr</persName>
 , the son
 <lb facs="#facs_2_r1l25" n="N024"/>
 of old
-<persName ref="#person-EH090">Saiyid Hasan Sadr</persName>
+<persName ref="metadata/people.xml#person-EH090">Saiyid Hasan Sadr</persName>
 whom I took you to see in
 <lb facs="#facs_2_r1l27" n="N025"/>
 Kadhimain. Saiyid Muhammad was the man who first
@@ -872,7 +742,7 @@ tribes. It was he who called up the
 tribesmen +
 <lb facs="#facs_3_r2l3" n="N003"/>
 caused all those tragedies of which
-<persName ref="#person-EH091">Mrs Buchanan</persName>
+<persName ref="metadata/people.xml#person-EH091">Mrs Buchanan</persName>
 's story is
 <lb facs="#facs_3_r2l4" n="N004"/>
 one. His next achievement was on the upper
@@ -905,7 +775,7 @@ across the desert to
 + came
 <lb facs="#facs_3_r2l10" n="N010"/>
 back, under the amnesty, with
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 . He is tended to be
 <lb facs="#facs_3_r2l11" n="N011"/>
 second to Faisal, if indeed Faisal were not second to him,
@@ -973,7 +843,7 @@ editor bowed to my arguments, + the projected book
 <lb facs="#facs_4_r1l5" n="N002"/>
 is still-born.
 <lb facs="#facs_4_r1l6" n="N003"/>
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 , isn't it wonderfully interesting to be watching
 <lb facs="#facs_4_r1l7" n="N004"/>
 over the fortunes of this
@@ -983,7 +853,7 @@ over the fortunes of this
 one all one's time. There are so many quicksands.
 <lb facs="#facs_4_r1l9" n="N006"/>
 Since his return, I hadn't seen
-<persName ref="#person-EH073">Muhammad Sadr</persName>
+<persName ref="metadata/people.xml#person-EH073">Muhammad Sadr</persName>
 <lb facs="#facs_4_r1l10" n="N007"/>
 till today. This evening there was a great function to celebrate
 <lb facs="#facs_4_r1l11" n="N008"/>
@@ -994,7 +864,7 @@ Sandhurst for the
 Arab Army. I arrived rather late + the first person I saw
 <lb facs="#facs_4_r1l13" n="N010"/>
 was Saiyid Muhammad sitting by
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 in the seats
 <lb facs="#facs_4_r1l14" n="N011"/>
 reserved for great personages. He looked like Lucifer +
@@ -1011,7 +881,7 @@ my neighbour, a rather colourless
 , I asked
 <lb facs="#facs_4_r1l19" n="N015"/>
 tenderly after the health of his father,
-<persName ref="#person-EH090">Saiyid Hasan</persName>
+<persName ref="metadata/people.xml#person-EH090">Saiyid Hasan</persName>
 ,
 <lb facs="#facs_4_r1l20" n="N016"/>
 + said you frequently enquired about him! I expect
@@ -1028,27 +898,27 @@ salams
 <note type="editorial">Arabic word meaning 'peace'\u003b also used as a form of greeting.</note>
 </seg>
 !
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 then
 <lb facs="#facs_4_l_787" n="N021"/>
 arrived + was installed between Sir Percy +
 <lb facs="#facs_4_r1l28" n="N022"/>
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 . There was an opening speech by the
 <lb facs="#facs_4_r1l29" n="N023"/>
 dear little Arab officer who is at the head of
 <lb facs="#facs_4_r1l30" n="N024"/>
 the school,
-<persName ref="#person-EH092">Ahmad Haqqi</persName>
+<persName ref="metadata/people.xml#person-EH092">Ahmad Haqqi</persName>
 , + then a couple of
 <lb facs="#facs_4_r1l31" n="N025"/>
 poems about the splendour of military service,
 <lb facs="#facs_4_r1l32" n="N026"/>
 followed by an excellent speech by
-<persName ref="#person-EH011">Ja'far</persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
 <lb facs="#facs_4_r1l33" n="N027"/>
 ending in enthusiastic gratitude to
-<persName ref="#person-EH005">Sir Aylmer</persName>
+<persName ref="metadata/people.xml#person-EH005">Sir Aylmer</persName>
 for
 <lb facs="#facs_4_r1l34" n="N028"/>
 the help he had given the Arab army. After
@@ -1065,20 +935,20 @@ Ja'far translated it into Arabic. No one paid the
 3
 <lb facs="#facs_5_l_705" n="N002"/>
 slightest attention to
-<persName ref="#person-EH073">Muhammad Sadr</persName>
+<persName ref="metadata/people.xml#person-EH073">Muhammad Sadr</persName>
 who sat
 <lb facs="#facs_5_r1l3" n="N003"/>
 there scowling. He was left behind, bathed in scowls, + I
 <lb facs="#facs_5_r1l4" n="N004"/>
 saw him no more, when
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 accompanied, by the
 <lb facs="#facs_5_r1l5" n="N005"/>
 officers of the school, British + Arab,
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 , Sir
 <lb facs="#facs_5_r1l6" n="N006"/>
-<persName ref="#person-EH005">Aylmer</persName>
+<persName ref="metadata/people.xml#person-EH005">Aylmer</persName>
 + the rest of us, walked round + inspected
 <lb facs="#facs_5_r1l7" n="N007"/>
 the premises, Faisal with his great charm + his
@@ -1123,7 +993,7 @@ revolt
 gave them, I've no doubt, excellent advice, for they
 <lb facs="#facs_5_r1l22" n="N022"/>
 all came back + fell on my neck.
-<persName ref="#person-EH093">Saiyid Nur</persName>
+<persName ref="metadata/people.xml#person-EH093">Saiyid Nur</persName>
 <lb facs="#facs_5_r1l23" n="N023"/>
 who is the most influential tribal saiyid on the
 <lb facs="#facs_5_r1l24" n="N024"/>
@@ -1158,10 +1028,10 @@ the end of a long hot morning + I think I must have
 been getting rather light headed. Still, he is.
 <lb facs="#facs_6_r1l2" n="N002"/>
 This morning, before going into office. I took
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 <lb facs="#facs_6_r1l3" n="N003"/>
 to see
-<persName ref="#person-EH094">Shukri Alusi</persName>
+<persName ref="metadata/people.xml#person-EH094">Shukri Alusi</persName>
 , the famous
 <seg type="editorialNote-target-text">
 Sunni
@@ -1182,11 +1052,11 @@ Wahhabi
 </seg>
 <lb facs="#facs_6_r1l5" n="N005"/>
 + has a romantic attachment to
-<persName ref="#person-EH064">Ibn Sa'ud</persName>
+<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>
 . He
 <lb facs="#facs_6_r1l6" n="N006"/>
 hadn't been to see
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 + he is not naturally
 <lb facs="#facs_6_r1l7" n="N007"/>
 inclined towards him, but he stands so deservedly
@@ -1200,7 +1070,7 @@ hour of conversation conducted by Mr C. + me -
 during which Mr. C. fell a complete victim to
 <lb facs="#facs_6_r1l12" n="N012"/>
 my dear
-<persName ref="#person-EH095">Shukri Effendi</persName>
+<persName ref="metadata/people.xml#person-EH095">Shukri Effendi</persName>
 - the latter accepted with
 <lb facs="#facs_6_r1l14" n="N013"/>
 enthusiasm an invitation to to go + have a talk with
@@ -1214,7 +1084,7 @@ Sunday
 . On Thursday morning we had rather a scare. News
 <lb facs="#facs_6_r1l18" n="N017"/>
 had been coming in that
-<persName ref="#person-EH073">Saiyid Mhd Sadr</persName>
+<persName ref="metadata/people.xml#person-EH073">Saiyid Mhd Sadr</persName>
 had sworn over
 <lb facs="#facs_6_r1l19" n="N018"/>
 all the tribal
@@ -1223,7 +1093,7 @@ Saiyids
 <note type="editorial">Muslim honorary title.</note>
 </seg>
 ,
-<persName ref="#person-EH093">Saiyid Nur</persName>
+<persName ref="metadata/people.xml#person-EH093">Saiyid Nur</persName>
 + the rest, not to sign the
 <lb facs="#facs_6_r1l20" n="N019"/>
 official formula of allegiance. Most of the shaikhs, it was said,
@@ -1240,9 +1110,9 @@ Shi'ah
 divines of
 <placeName ref="#place-1001099">Najaf</placeName>
 .
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 ,
-<persName ref="#person-EH007">Mr Garbett</persName>
+<persName ref="metadata/people.xml#person-EH007">Mr Garbett</persName>
 + I
 <lb facs="#facs_6_r1l24" n="N023"/>
 went into consultation over this + Mr G. went round to see
@@ -1276,15 +1146,15 @@ had consulted Sir Percy who replied
 <ab facs="#facs_7_r1">
 <lb facs="#facs_7_r1l1" n="N001"/>
 4 that that was between them +
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 - it didn't concern him.
 <lb facs="#facs_7_r1l2" n="N002"/>
 This answer
-<persName ref="#person-EH070">the Mutasarrif</persName>
+<persName ref="metadata/people.xml#person-EH070">the Mutasarrif</persName>
 , who is not very bright, had taken
 <lb facs="#facs_7_r1l3" n="N003"/>
 to mean that
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 didn't wish it, so he told the shaikhs
 <lb facs="#facs_7_r1l4" n="N004"/>
 that they must only sign the official declaration of allegiance
@@ -1322,7 +1192,7 @@ the
 shaikhs up again to swear to him. I asked
 <lb facs="#facs_7_r1l21" n="N020"/>
 him about
-<persName ref="#person-EH096">his wife</persName>
+<persName ref="metadata/people.xml#person-EH096">his wife</persName>
 , who is his cousin, + his children -
 <lb facs="#facs_7_r1l22" n="N021"/>
 he has 3 - + said I thought she too ought to be encouraged
@@ -1347,7 +1217,7 @@ It will be interesting to see what can be done. Faisal looked
 very hot + tired; he had been talking to shaikhs
 <lb facs="#facs_7_r1l31" n="N030"/>
 + people all day;
-<persName ref="#person-EH014">Mr Cornwallis</persName>
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 is away in
 <placeName ref="#place-7002471">Mosul</placeName>
 <lb facs="#facs_7_r1l32" n="N031"/>
@@ -1371,12 +1241,12 @@ middle of the Syrian desert when suddenly his encampment
 was attacked by a famous old raider from the Syrian
 <lb facs="#facs_8_r1l5" n="N005"/>
 frontier,
-<persName ref="#person-EH097">Audah Abu Tai</persName>
+<persName ref="metadata/people.xml#person-EH097">Audah Abu Tai</persName>
 . After a stiff fight they beat
 <lb facs="#facs_8_r1l6" n="N006"/>
 Audah off though he looted a great many camels. Shaikh
 <lb facs="#facs_8_r1l7" n="N007"/>
-<persName ref="#person-EH098">Murdhi</persName>
+<persName ref="metadata/people.xml#person-EH098">Murdhi</persName>
 was carried back wounded to his tents. Thereupon
 <lb facs="#facs_8_r1l8" n="N008"/>
 appeared the British convoy of motors who were
@@ -1416,15 +1286,15 @@ isn't it! but it will take them all their time if they
 intend to play the Good Samaritan to the whole desert.
 <lb facs="#facs_8_r1l23" n="N023"/>
 There is a very nice + interesting man here,
-<persName ref="#person-EH099">Mr Barrington</persName>
+<persName ref="metadata/people.xml#person-EH099">Mr Barrington</persName>
 <lb facs="#facs_8_r1l24" n="N024"/>
 Ward, a barrister +
-<persName ref="#person-EH031">Lionel Smith</persName>
+<persName ref="metadata/people.xml#person-EH031">Lionel Smith</persName>
 's brother in law. He
 <lb facs="#facs_8_r1l25" n="N025"/>
 has come out to defend a wealthy Jew called
 <lb facs="#facs_8_r1l26" n="N026"/>
-<persName ref="#person-EH101">Sha'shu'</persName>
+<persName ref="metadata/people.xml#person-EH101">Sha'shu'</persName>
 who is being tried for murder. Mr B. W. can't
 <lb facs="#facs_8_r1l27" n="N027"/>
 defend him in the courts because he doesn't belong to
@@ -1441,11 +1311,11 @@ Christian, husband of an extremely notorious woman who
 5
 <lb facs="#facs_9_l_714" n="N002"/>
 was living with
-<persName ref="#person-EH101">Sha'shu'</persName>
+<persName ref="metadata/people.xml#person-EH101">Sha'shu'</persName>
 + had lived with a good
 <lb facs="#facs_9_r1l4" n="N003"/>
 many people before, including
-<persName ref="#person-EH100">Saiyid Talib</persName>
+<persName ref="metadata/people.xml#person-EH100">Saiyid Talib</persName>
 . There isn't
 <lb facs="#facs_9_r1l5" n="N004"/>
 a scrap of evidence to show, that Sha'shu' had instigated
@@ -1457,7 +1327,7 @@ the superfluous husband, + even that isn't correct for
 it was the lady he was trying to get rid of. The really
 <lb facs="#facs_9_r1l9" n="N008"/>
 interesting part is that
-<persName ref="#person-EH099">Mr B. W.</persName>
+<persName ref="metadata/people.xml#person-EH099">Mr B. W.</persName>
 is convinced that the
 <lb facs="#facs_9_r1l10" n="N009"/>
 instigator was Saiyid Talib, but fears it can't be proved.
@@ -1505,7 +1375,7 @@ most heavenly; we get in refreshed + hungry towards 8
 o'clock. And every Sunday a big party of us go down
 <lb facs="#facs_9_r1l29" n="N027"/>
 river in a steamer of
-<persName ref="#person-EH048">Mr Tod</persName>
+<persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>
 's, bathe + dine on the
 <lb facs="#facs_9_r1l30" n="N028"/>
 steamer as we come back. Today the
@@ -1518,13 +1388,13 @@ has
 mercifully dropped, I should think 10 degrees. Mr
 <lb facs="#facs_9_r1l32" n="N030"/>
 Tod + I rode to
-<persName ref="#person-EH029">Haji Naji</persName>
+<persName ref="metadata/people.xml#person-EH029">Haji Naji</persName>
 before breakfast. I
 <lb facs="#facs_9_r1l33" n="N031"/>
 hope this adorable north wind will hold for
 <lb facs="#facs_9_r1l34" n="N032"/>
 tomorrow
-<persName ref="#person-EH049">Fakhri Jamil</persName>
+<persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
 + I are motoring to
 <placeName ref="#place-1079402">Ramadi</placeName>
 ,
@@ -1533,7 +1403,7 @@ tomorrow
 <ab facs="#facs_10_r1">
 <lb facs="#facs_10_r1l1" n="N001"/>
 guests of
-<persName ref="#person-EH102">the Mutasarrif</persName>
+<persName ref="metadata/people.xml#person-EH102">the Mutasarrif</persName>
 , to see a great gathering
 <lb facs="#facs_10_l" n="N002"/>
 of tribal standards + shaikhs, all the
@@ -1548,7 +1418,7 @@ Dulaim
 <note type="editorial">Largest Sunni tribe in Iraq\u003b dates to pre-Islamic era.</note>
 </seg>
 , in honour of
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 . He's going too.
 <lb facs="#facs_10_r1l4" n="N004"/>
 It ought to be wonderful.
@@ -1556,9 +1426,9 @@ It ought to be wonderful.
 I've got your letter of June 23. Oh I do sympathise
 <lb facs="#facs_10_r1l6" n="N006"/>
 about
-<persName ref="#person-EH078">Mrs Rosita Forbes</persName>
+<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>
 !
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 + I are wondering
 <lb facs="#facs_10_r1l7" n="N007"/>
 what we shall do when she proposes to come out here.
@@ -1611,7 +1481,7 @@ Gertrude.
 </ab>
 <ab facs="#facs_11_r1">
 <lb facs="#facs_11_r1l5" n="N001"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart C B</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart C B</persName>
 <lb facs="#facs_11_r1l6" n="N002"/>
 Rounton Grange
 <lb facs="#facs_11_r1l7" n="N003"/>

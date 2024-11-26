@@ -18,24 +18,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH009">
-<persName>Mother</persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH163">
-<persName>Hugo</persName>
-<idno type="EH">EH163</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal</persName>
-<idno type="EH">EH001</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -171,13 +153,13 @@
 <placeName ref="#place-7002482">Baghdad</placeName>
 <lb facs="#facs_1_r2l3" n="N003"/>
 Darling
-<persName ref="#person-EH009">Mother</persName>
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>
 .
 <lb facs="#facs_1_r2l4" n="N004"/>
 You haven't said anything
 <lb facs="#facs_1_r2l5" n="N005"/>
 about
-<persName ref="#person-EH163">Hugo</persName>
+<persName ref="metadata/people.xml#person-EH163">Hugo</persName>
 's engagement. I
 <lb facs="#facs_1_r2l6" n="N006"/>
 hope you like her + that
@@ -276,7 +258,7 @@ much as you think. It
 isn't I who settles policy,
 <lb facs="#facs_2_r1l13" n="N013"/>
 nor anyone but
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 .
 <lb facs="#facs_2_r1l14" n="N014"/>
 All I do is to gather for
@@ -286,7 +268,7 @@ him as far as I can, the
 <ab facs="#facs_2_r2">
 <lb facs="#facs_2_l_725" n="N001"/>
 native point of view,
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 's
 <lb facs="#facs_2_r2l3" n="N002"/>
 or anyone's, which I hear
@@ -355,7 +337,7 @@ next year + it's lovely here.
 <lb facs="#facs_3_r1l1" n="N004"/>
 <placeName ref="#place-7002482">Baghdad</placeName>
 <lb facs="#facs_3_r1l2" n="N005"/>
-<persName ref="#person-EH009">Lady Bell</persName>
+<persName ref="metadata/people.xml#person-EH009">Lady Bell</persName>
 <choice>
 <abbr>D B E</abbr>
 <expan>Dame (Commander of the Order) of the British Empire</expan>

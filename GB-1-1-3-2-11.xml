@@ -17,112 +17,6 @@
 <profileDesc> </profileDesc>
 </teiHeader>
 <standOff>
-<listPerson>
-<person xml:id="person-EH030">
-<persName>Darling Parents</persName>
-<idno type="EH">EH030</idno>
-</person>
-<person xml:id="person-EH009">
-<persName>Mother's </persName>
-<idno type="EH">EH009</idno>
-</person>
-<person xml:id="person-EH006">
-<persName>Father</persName>
-<idno type="EH">EH006</idno>
-</person>
-<person xml:id="person-EH021">
-<persName> Zia</persName>
-<idno type="EH">EH021</idno>
-</person>
-<person xml:id="person-EH022">
-<persName>Quwam al Saltanah</persName>
-<idno type="EH">EH022</idno>
-</person>
-<person xml:id="person-EH002">
-<persName>Sir Percy</persName>
-<idno type="EH">EH002</idno>
-</person>
-<person xml:id="person-EH023">
-<persName>Armitage Smith</persName>
-<idno type="EH">EH023</idno>
-</person>
-<person xml:id="person-EH024">
-<persName>Col. Huddlestone</persName>
-<idno type="EH">EH024</idno>
-</person>
-<person xml:id="person-EH025">
-<persName>Ironside</persName>
-<idno type="EH">EH025</idno>
-</person>
-<person xml:id="person-EH001">
-<persName>Faisal </persName>
-<idno type="EH">EH001</idno>
-</person>
-<person xml:id="person-EH026">
-<persName>Coxes</persName>
-<idno type="EH">EH026</idno>
-</person>
-<person xml:id="person-EH027">
-<persName>the Shah </persName>
-<idno type="EH">EH027</idno>
-</person>
-<person xml:id="person-EH028">
-<persName>Mr Churchill</persName>
-<idno type="EH">EH028</idno>
-</person>
-<person xml:id="person-EH019">
-<persName>Naji</persName>
-<idno type="EH">EH019</idno>
-</person>
-<person xml:id="person-EH018">
-<persName>Nuri </persName>
-<idno type="EH">EH018</idno>
-</person>
-<person xml:id="person-EH029">
-<persName>Haji Naji</persName>
-<idno type="EH">EH029</idno>
-</person>
-<person xml:id="person-EH003">
-<persName>Mr Philby</persName>
-<idno type="EH">EH003</idno>
-</person>
-<person xml:id="person-EH031">
-<persName>Captain Smith</persName>
-<idno type="EH">EH031</idno>
-</person>
-<person xml:id="person-EH032">
-<persName>the Master</persName>
-<idno type="EH">EH032</idno>
-</person>
-<person xml:id="person-EH013">
-<persName>Jamil Zahawi</persName>
-<idno type="EH">EH013</idno>
-</person>
-<person xml:id="person-EH011">
-<persName> Ja'far,</persName>
-<idno type="EH">EH011</idno>
-</person>
-<person xml:id="person-EH033">
-<persName>Ma'ruf </persName>
-<idno type="EH">EH033</idno>
-</person>
-<person xml:id="person-EH005">
-<persName>C. in C.</persName>
-<idno type="EH">EH005</idno>
-</person>
-<person xml:id="person-EH017">
-<persName>Sasun Eff</persName>
-<idno type="EH">EH017</idno>
-</person>
-<person xml:id="person-EH034">
-<persName>the Garbetts </persName>
-<idno type="EH">EH034</idno>
-</person>
-<person xml:id="person-EH035">
-<persName>Col. Joyce</persName>
-<idno type="EH">EH035</idno>
-</person>
-</listPerson>
 <listPlace>
 <place xml:id="place-7002482" corresp="http://vocab.getty.edu/page/tgn/7002482">
 <placeName>Baghdād</placeName>
@@ -520,7 +414,7 @@
 <date when="1921-06-05">? June</date>
 </add>
 <lb facs="#facs_1_r1l3" n="N005"/>
-<persName ref="#person-EH030">Darling Parents</persName>
+<persName ref="metadata/people.xml#person-EH030">Darling Parents</persName>
 . I'm answering your letters of
 <date when="1921-05-04">May 4</date>
 - I may say
@@ -528,10 +422,10 @@
 incidentally that your weekly letters are the greatest joy. I don't know
 <lb facs="#facs_1_r1l5" n="N007"/>
 what I should do without them.
-<persName ref="#person-EH009">Mother's </persName>
+<persName ref="metadata/people.xml#person-EH009">Mother's </persName>
 was full of the
 <seg type="editorialNote-target-text">
-<persName ref="#person-EH020">
+<persName ref="metadata/people.xml#person-EH020">
 Ross
 <lb facs="#facs_1_r1l6" n="N008"/>
 Smith
@@ -542,7 +436,7 @@ flight
 , which indeed sounds wonderful - I wish I had been
 <lb facs="#facs_1_r1l7" n="N009"/>
 there. And yours,
-<persName ref="#person-EH006">Father</persName>
+<persName ref="metadata/people.xml#person-EH006">Father</persName>
 , told of the very interesting
 <choice>
 <abbr>Rly</abbr>
@@ -567,24 +461,24 @@ is a doubtful quantity
 <lb facs="#facs_1_r1l12" n="N014"/>
 but so far remains quiescent. The man who has been put in in Saiyid
 <lb facs="#facs_1_r1l13" n="N015"/>
-<persName ref="#person-EH021"> Zia</persName>
+<persName ref="metadata/people.xml#person-EH021"> Zia</persName>
 's place -
-<persName ref="#person-EH022">Quwam al Saltanah</persName>
+<persName ref="metadata/people.xml#person-EH022">Quwam al Saltanah</persName>
 - is a capable person,
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 <lb facs="#facs_1_r1l14" n="N016"/>
 says. He represents the Liberal aristocracy, but whether any
 <lb facs="#facs_1_r1l15" n="N017"/>
 aristocracy will be Liberal enough to put up a case against
 <lb facs="#facs_1_r1l16" n="N018"/>
 Bolshevism is what I doubt.
-<persName ref="#person-EH023">Armitage Smith</persName>
+<persName ref="metadata/people.xml#person-EH023">Armitage Smith</persName>
 is holding on for the
 <lb facs="#facs_1_r1l17" n="N019"/>
 moment but it's to my mind ominous that the excellent military
 <lb facs="#facs_1_r1l18" n="N020"/>
 adviser,
-<persName ref="#person-EH024">Col. Huddlestone</persName>
+<persName ref="metadata/people.xml#person-EH024">Col. Huddlestone</persName>
 , talks of coming away as he can now
 <lb facs="#facs_1_r1l20" n="N021"/>
 do nothing. If he decides to go I hope we may get him here
@@ -592,7 +486,7 @@ do nothing. If he decides to go I hope we may get him here
 to run
 <orgName>the Levies</orgName>
 in the place of
-<persName ref="#person-EH025">Ironside</persName>
+<persName ref="metadata/people.xml#person-EH025">Ironside</persName>
 . (By the way Gen.
 <lb facs="#facs_1_r1l22" n="N023"/>
 Ironside left
@@ -615,7 +509,7 @@ Saiyid Zia is here on his way to
 . England
 <lb facs="#facs_1_r1l26" n="N027"/>
 seems to be the refuge of discharged Nationalists - first
-<persName ref="#person-EH001">Faisal </persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal </persName>
 <lb facs="#facs_1_r1l27" n="N028"/>
 + then Saiyid Zia! It's rather comic, when you come to think of it,
 <lb facs="#facs_1_r1l28" n="N029"/>
@@ -626,13 +520,13 @@ over Asia should gather under the shadow of its wings every patriot
 who is out of a job. Saiyid Zia is a very interesting man. He
 <lb facs="#facs_1_r1l31" n="N032"/>
 lunched one day with the
-<persName ref="#person-EH026">Coxes</persName>
+<persName ref="metadata/people.xml#person-EH026">Coxes</persName>
 (I had met him in
 <placeName ref="#place-7002004">Tehran</placeName>
 )
 <lb facs="#facs_1_r1l32" n="N033"/>
 + dined next day with me to meet
-<persName ref="#person-EH011">Ja'far</persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
 whose acquaintance
 <lb facs="#facs_1_r1l33" n="N034"/>
 he wanted to make. We talked Persian + French. He attributes his
@@ -642,7 +536,7 @@ fall
 <note type="editorial">Tabataba’i was an Iranian journalist and pro-Constitution politician who spearheaded the 1921 Persian coup d'état and aimed to reform Qajar rule. He was appointed Prime Minister in February 1921 but was asked to resign and leave the country on 23rd May 1921.</note>
 </seg>
 entirely to the machinations of
-<persName ref="#person-EH027">the Shah </persName>
+<persName ref="metadata/people.xml#person-EH027">the Shah </persName>
 who feared his
 <lb facs="#facs_1_r1l35" n="N036"/>
 projects of social reform + was determined to displace him.
@@ -715,7 +609,7 @@ held exclusively by Sharifians, they are the people for us to
 back, as we decided at Cairo. Unfortunately there have been
 <lb facs="#facs_2_r1l22" n="N022"/>
 many (mostly unavoidable) delays +
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 who should have
 <lb facs="#facs_2_r1l23" n="N023"/>
 been here in the middle of May has not yet left
@@ -726,7 +620,7 @@ been here in the middle of May has not yet left
 is holding up the Mandate in deference to
 <lb facs="#facs_2_r1l25" n="N025"/>
 American prejudices (this is deeply secret) +
-<persName ref="#person-EH028">Mr Churchill</persName>
+<persName ref="metadata/people.xml#person-EH028">Mr Churchill</persName>
 ' s
 <lb facs="#facs_2_r1l26" n="N026"/>
 <seg type="editorialNote-target-text">
@@ -738,7 +632,7 @@ which ought to have taken place
 on
 <date when="1921-06-02">June 2</date>
 is again postponed.
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 has urged that
 <lb facs="#facs_2_r1l28" n="N028"/>
 we should drop the mandate altogether + go for a treaty
@@ -761,7 +655,7 @@ infinitely better liked, besides giving us a much freer hand.
 2
 <lb facs="#facs_3_r2l1" n="N002"/>
 We have always known that
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 would ultimately insist on a
 <lb facs="#facs_3_r2l2" n="N003"/>
 treaty in place of a mandate - now we have the opportunity
@@ -790,7 +684,7 @@ with a definite programme - the latter was submitted
 to me. Their difficulties are set forth in the enclosed very
 <lb facs="#facs_3_r2l9" n="N010"/>
 confidential note, but
-<persName ref="#person-EH002">Sir Percy</persName>
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 has told them (through me)
 <lb facs="#facs_3_r2l10" n="N011"/>
 to go ahead + rely on his support. By the way you'll
@@ -798,10 +692,10 @@ to go ahead + rely on his support. By the way you'll
 notice that I'm not at
 <placeName ref="#place-1001109">Sulaimani</placeName>
 . When I told
-<persName ref="#person-EH019">Naji</persName>
+<persName ref="metadata/people.xml#person-EH019">Naji</persName>
 +
 <lb facs="#facs_3_r2l12" n="N013"/>
-<persName ref="#person-EH018">Nuri </persName>
+<persName ref="metadata/people.xml#person-EH018">Nuri </persName>
 that I thought of going away for a week their faces
 <lb facs="#facs_3_r2l13" n="N014"/>
 fell so definitely that I said I would reconsider it. I consulted
@@ -811,7 +705,7 @@ with Sir Percy + we decided I had better not be away at
 this juncture. I was sorry, but I don 't really mind much
 <lb facs="#facs_3_r2l16" n="N017"/>
 because I like to be able to help them. I had told
-<persName ref="#person-EH029">Haji Naji</persName>
+<persName ref="metadata/people.xml#person-EH029">Haji Naji</persName>
 <lb facs="#facs_3_r2l17" n="N018"/>
 - who is an ardent Sharifian - that I was going + he sent
 <lb facs="#facs_3_r2l18" n="N019"/>
@@ -835,7 +729,7 @@ the Nabi Isa (the Prophet Jesus). How is he to know what
 is going on the world if you' re not there?"
 <lb facs="#facs_3_r2l27" n="N026"/>
 One of the difficulties is
-<persName ref="#person-EH003">Mr Philby</persName>
+<persName ref="metadata/people.xml#person-EH003">Mr Philby</persName>
 . He has a strong prejudice
 <lb facs="#facs_3_r2l28" n="N027"/>
 against Faisal + as he is running the
@@ -861,7 +755,7 @@ similar delays will occur. However Sir Percy is now
 warned + he will take steps to facilitate matters. It is
 <lb facs="#facs_4_r1l2" n="N002"/>
 very provoking about
-<persName ref="#person-EH003">Mr Philby</persName>
+<persName ref="metadata/people.xml#person-EH003">Mr Philby</persName>
 ; it seems most unnecessary
 <lb facs="#facs_4_r1l3" n="N003"/>
 that your official policy should be in any way hindered by
@@ -875,7 +769,7 @@ And I can't give him a friendly word of warning. But he is
 spinning a bad cotton for he is earning a name as an
 <lb facs="#facs_4_r1l8" n="N008"/>
 opponent + I should not be at all surprised if
-<persName ref="#person-EH001">Faisal</persName>
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 ,
 <lb facs="#facs_4_r1l9" n="N009"/>
 when he gets into the saddle, asks for his removal.
@@ -884,9 +778,9 @@ I'm very sorry, but I've done my best to make a bridge + if he
 <lb facs="#facs_4_r1l11" n="N011"/>
 won't walk over it I can't help him.
 <lb facs="#facs_4_r1l12" n="N012"/>
-<persName ref="#person-EH031">Captain Smith</persName>
+<persName ref="metadata/people.xml#person-EH031">Captain Smith</persName>
 + I (you know he's the son of
-<persName ref="#person-EH032">the Master</persName>
+<persName ref="metadata/people.xml#person-EH032">the Master</persName>
 of
 <lb facs="#facs_4_r1l13" n="N013"/>
 <orgName ref="#org-134825322">Baliol</orgName>
@@ -916,7 +810,7 @@ sole ray that illumines the world; but I must confess
 that there were also interesting moments. One was an ode
 <lb facs="#facs_4_r1l25" n="N024"/>
 by our half paralyzed old poet,
-<persName ref="#person-EH013">Jamil Zahawi</persName>
+<persName ref="metadata/people.xml#person-EH013">Jamil Zahawi</persName>
 - there were
 <lb facs="#facs_4_r1l26" n="N025"/>
 35 moments of it, which was is long for an ode, but
@@ -949,7 +843,7 @@ The whole audience took fire, they bent forward, with their
 faces illuminated + time after time the falling couplet
 <lb facs="#facs_5_r2l4" n="N005"/>
 was revived with a "Repeat! repeat!"
-<persName ref="#person-EH011"> Ja'far,</persName>
+<persName ref="metadata/people.xml#person-EH011"> Ja'far,</persName>
 who cares
 <lb facs="#facs_5_r2l5" n="N006"/>
 very much for poetry, was sitting behind me. I looked round
@@ -969,11 +863,11 @@ which we were told in verse of the distance between
 <lb facs="#facs_5_r2l10" n="N011"/>
 the sun + the earth + other matters not suited to odes.
 <lb facs="#facs_5_r2l11" n="N012"/>
-<persName ref="#person-EH013"> Jamil Zahawi</persName>
+<persName ref="metadata/people.xml#person-EH013"> Jamil Zahawi</persName>
 was followed by another + rival poet,
 <lb facs="#facs_5_r2l12" n="N013"/>
 a man called
-<persName ref="#person-EH033">Ma'ruf </persName>
+<persName ref="metadata/people.xml#person-EH033">Ma'ruf </persName>
 who has just returned from
 <lb facs="#facs_5_r2l13" n="N014"/>
 <placeName ref="#7004540">Palestine</placeName>
@@ -1053,18 +947,18 @@ or
 . It ended with a flight of 30
 <lb facs="#facs_6_r1l9" n="N009"/>
 aeroplanes which really was splendid.
-<persName ref="#person-EH026">The Coxes</persName>
+<persName ref="metadata/people.xml#person-EH026">The Coxes</persName>
 <lb facs="#facs_6_r1l11" n="N010"/>
 gave a dinner that night -
-<persName ref="#person-EH005">C. in C.</persName>
+<persName ref="metadata/people.xml#person-EH005">C. in C.</persName>
 + staff, French, American
 <lb facs="#facs_6_r1l12" n="N011"/>
 + Persian consuls
-<persName ref="#person-EH011">Ja'far</persName>
+<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
 +
-<persName ref="#person-EH017">Sasun Eff</persName>
+<persName ref="metadata/people.xml#person-EH017">Sasun Eff</persName>
 ,
-<persName ref="#person-EH034">the Garbetts </persName>
+<persName ref="metadata/people.xml#person-EH034">the Garbetts </persName>
 <lb facs="#facs_6_r1l13" n="N012"/>
 + me. It was very well done. After dinner we sat
 <lb facs="#facs_6_r1l14" n="N013"/>
@@ -1081,7 +975,7 @@ I rode for 2 hours this morning before breakfast
 - it's not even now a bit hot; we've once
 <lb facs="#facs_6_r1l20" n="N019"/>
 had it up to 109 but only once.
-<persName ref="#person-EH035">Col. Joyce</persName>
+<persName ref="metadata/people.xml#person-EH035">Col. Joyce</persName>
 <lb facs="#facs_6_r1l21" n="N020"/>
 is coming to dine + have a good talk
 <lb facs="#facs_6_r1l22" n="N021"/>
@@ -1118,7 +1012,7 @@ Gertrude.
 <lb facs="#facs_7_l_173" n="N008"/>
 1921
 <lb facs="#facs_7_r1l1" n="N009"/>
-<persName ref="#person-EH006">Sir Hugh Bell Bart CB</persName>
+<persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart CB</persName>
 <lb facs="#facs_7_l_177" n="N010"/>
 <add place="in-line">Rounton Grange</add>
 <lb facs="#facs_7_r1l3" n="N011"/>
