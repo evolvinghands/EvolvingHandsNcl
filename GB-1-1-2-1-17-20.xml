@@ -1272,7 +1272,7 @@ at the top table we sat like this:
     <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
     <lb facs="#facs_4_r2l21" n="N023" />
     <persName ref="metadata/people.xml#person-EH005">Sir Aylmer</persName>
-    <lb facs="#facs_4_l_1316" n="N024" />
+    <lb facs="#facs_4_l_1316" n="N024" /> <lb />
     <persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
     <lb facs="#facs_4_l_1336" n="N025" />
     GLB
@@ -1286,7 +1286,7 @@ at the top table we sat like this:
     <persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
     <lb facs="#facs_4_r2l24" n="N030" />
     <persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
-    <lb facs="#facs_4_r2l27" n="N031" />
+    <lb facs="#facs_4_r2l27" n="N031" /> <lb />
   </ab>
 </figure>
 <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
