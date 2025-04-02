@@ -95,13 +95,15 @@
 </place>
 </listPlace>
 <listObject>
-    <object xml:id="object-EH003">
-      <objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge">Hardinge</objectName>
+   <object xml:id="object-EH003">
+      <objectIdentifier>
+         <objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge">Hardinge</objectName>
+      </objectIdentifier>
       <note>
-        <p>Royal Indian Marine Troopship that travelled between the UK and the Persian Gulf, and was active in the Suez campaign of 1915.</p>
+         <p>Royal Indian Marine Troopship that travelled between the UK and the Persian Gulf, and was active in the Suez campaign of 1915.</p>
       </note>
-    </object>
-
+   </object>
+</listObject>
 <listOrg>
 <org xml:id="org-245646536" corresp="http://viaf.org/viaf/245646536">
 <orgName>League of Nations</orgName>
