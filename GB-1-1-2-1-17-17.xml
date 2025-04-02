@@ -50,6 +50,15 @@
 <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002445"/>
 </place>
 </listPlace>
+<object xml:id="object-EH001">
+<objectName type="Mausoleum" n="MausoleumofAbdul-QadirGilani" ref="#object-EH002">Qadiriyah shrine</objectName>
+    <note>
+      <p>Islamic religious complex dedicated to Abdul Qadir Gilani.</p>
+      </note>
+    </object>
+  </listObject>
+</standOff>
+
 </standOff>
 <facsimile>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_1">
@@ -313,7 +322,7 @@ diwan
 inside the sacred precincts of
 <lb facs="#facs_1_r2l31" n="N031"/>
 the
-<objectName type="Mausoleum" n="MausoleumofAbdul-QadirGilani">Qadiriyah shrine</objectName>
+<objectName type="Mausoleum" n="MausoleumofAbdul-QadirGilani" ref="#object-EH001">Qadiriyah shrine</objectName>
 , the burial place of his ancestor
 <lb facs="#facs_1_r2l32" n="N032"/>
 <persName ref="metadata/people.xml#person-EH037">'Abdul Qadir</persName>
