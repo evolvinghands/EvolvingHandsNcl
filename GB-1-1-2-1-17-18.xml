@@ -881,7 +881,7 @@ sent you his photograph, but you haven't sent
 <lb facs="#facs_4_r1l11" n="N011"/>
 him yours in return!
 <lb facs="#facs_4_r1l12" n="N012"/>
-<delSpan rend="strikethrough" spanTo="#facs_4_r1l24"/>
+<delSpan rend="strikethrough" spanTo="#facs_4_r1l24-delspan"/>
 In the middle of all these absorbing events, I went
 <lb facs="#facs_4_r1l13" n="N013"/>
 to a ball given by
@@ -923,7 +923,7 @@ second rate) English society, quite cut off from the
 <ab facs="#facs_4_r2">
 <lb facs="#facs_4_r2l2" n="N001"/>
 life of the town.
-<delSpan rend="strikethrough" spanTo="#facs_4_r2l25"/>
+<delSpan rend="strikethrough" spanTo="#facs_4_r2l25-delspan"/>
 I now begin to understand why
 <lb facs="#facs_4_l_1246" n="N002"/>
 <seg type="editorialNote-target-text">
