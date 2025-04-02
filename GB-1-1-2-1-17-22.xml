@@ -1111,7 +1111,7 @@ possible form of
 in this weather.
 <lb facs="#facs_8_r1l2" n="N002"/>
 The Philby business is clearing up.
-<delSpan rend="strikethrough" spanTo="#facs_8_r1l7"/>
+<delSpan rend="strikethrough" spanTo="#facs_8_r1l7-delspan"/>
 It has been very
 <lb facs="#facs_8_r1l3" n="N003"/>
 horrid for me, for in their angry amazement at
@@ -1127,7 +1127,7 @@ they have accused me of being the cause of his dismissal
 has. But I think she has thought
 <lb facs="#facs_8_r1l7" n="N007"/>
 better of it.
-<anchor facs="#facs_8_r1l7"/>
+<anchor xml:id="#facs_8_r1l7-delspan"/>
 She came to lunch with
 <persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
 and
@@ -1152,7 +1152,7 @@ some work of that kind here. He is very capable
 <lb facs="#facs_8_r1l16" n="N016"/>
 can afford to lose.
 <lb facs="#facs_8_r1l17" n="N017"/>
-<delSpan rend="strikethrough" spanTo="#facs_8_r1l20"/>
+<delSpan rend="strikethrough" spanTo="#facs_8_r1l20-delspan"/>
 I've got
 <persName ref="metadata/people.xml#person-EH009">Mother</persName>
 's letter of June 19 with an enclosure
@@ -1171,7 +1171,7 @@ coal strike
 <note type="editorialNote">Likely refers to the 1921 coal strike, which was ended on the 28th June when the Government agreed to subsidise the coal industry.</note>
 </seg>
 settlement.
-<anchor facs="#facs_8_r1l20"/>
+<anchor xml:id="#facs_8_r1l20-delspan"/>
 <lb facs="#facs_8_r1l21" n="N021"/>
 Your very affectionate daughter
 <lb facs="#facs_8_r1l22" n="N022"/>
