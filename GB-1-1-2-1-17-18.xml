@@ -914,7 +914,7 @@ offices at 7 or 8. It's the wives that do it,
 confound them. They take no sort of interest in
 <lb facs="#facs_4_r1l24" n="N024"/>
 what's going on, know no Arabic + see no Arabs
-<anchor facs="#facs_4_r1l24"/>
+<anchor xml:id="#facs_4_r1l24-delspan"/>
 <lb facs="#facs_4_r1l25" n="N025"/>
 They create an exclusive (though it's also a very
 <lb facs="#facs_4_r1l26" n="N026"/>
@@ -986,7 +986,7 @@ every one + dances all night - with yon figure!
 She is giving a ball this week to which I shall
 <lb facs="#facs_4_r2l25" n="N020"/>
 have to go.
-<anchor facs="#facs_4_r2l25"/>
+<anchor xml:id="#facs_4_r2l25-delspan"/>
 <lb facs="#facs_4_r2l26" n="N021"/>
 This afternoon I've got to call on
 <persName ref="metadata/people.xml#person-EH052">the wife </persName>
