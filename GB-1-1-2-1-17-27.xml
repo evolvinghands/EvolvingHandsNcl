@@ -744,7 +744,7 @@ not he? for that matter, though not so old,
 <lb facs="#facs_5_r1l19" n="N019"/>
 so are you, bless you.
 <lb facs="#facs_5_r1l20" n="N020"/>
-<delSpan rend="strikethrough" spanTo="#facs_5_r1l26"/>
+<delSpan rend="strikethrough" spanTo="#facs_5_r1l26-delspan"/>
 Oh Father I am so sick of
 <persName ref="metadata/people.xml#person-EH078">Rosita Forbes</persName>
 !
@@ -763,11 +763,11 @@ She doesn't know a word of Arabic. Well, as I
 say,
 <seg type="editorialNote-target-text">
 Dunya!
-<anchor facs="#facs_5_r1l26"/>
+<anchor xml:id="#facs_5_r1l26-delspan"/>
 <note type="editorial">An Islamic term referring to the earthly world and its possessions, as opposed to the spiritual world and the hereafter.</note>
 </seg>
 <lb facs="#facs_5_r1l28" n="N027"/>
-<delSpan rend="strikethrough" spanTo="#facs_6_r1l6"/>
+<delSpan rend="strikethrough" spanTo="#facs_6_r1l6-delspan"/>
 The little artist man,
 <persName ref="metadata/people.xml#person-EH120" cert="medium">Mr Lawrence</persName>
 's friend in
@@ -789,7 +789,7 @@ I have very despondent letters from
 - have you
 <lb facs="#facs_6_r1l6" n="N005"/>
 seen anything of her lately?
-<anchor facs="#facs_6_r1l6"/>
+<anchor xml:id="#facs_6_r1l6-delspan"/>
 <lb facs="#facs_6_r1l7" n="N006"/>
 Your very devoted daughter
 <lb facs="#facs_6_r1l8" n="N007"/>
