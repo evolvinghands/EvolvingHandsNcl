@@ -556,7 +556,10 @@ reception to
 <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 in the grand Rabbi's official house. The
 <lb facs="#facs_1_r1l13" n="N012"/>
-<persName ref="metadata/people.xml#person-EH034">Garbetts</persName>
+<seg type="editorialNote-target-text">
+      the Garbetts
+      <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
+   </seg>
 + I represented
 <seg type="editorialNote-target-text">
 the Residency
@@ -1070,7 +1073,7 @@ hour of conversation conducted by Mr C. + me -
 during which Mr. C. fell a complete victim to
 <lb facs="#facs_6_r1l12" n="N012"/>
 my dear
-<persName ref="metadata/people.xml#person-EH095">Shukri Effendi</persName>
+<persName ref="metadata/people.xml#person-EH094">Shukri Effendi</persName>
 - the latter accepted with
 <lb facs="#facs_6_r1l14" n="N013"/>
 enthusiasm an invitation to to go + have a talk with
