@@ -406,7 +406,10 @@
 </add>
 <lb facs="#facs_1_r1l2" n="N002"/>
 Dearest
-<persName ref="metadata/people.xml#person-EH030">Parents</persName>
+ <seg type="editorialNote-target-text">
+      Parents
+      <note type="editorial">  Bell's Father, Sir Hugh Bell, and Stepmother, Lady Florence Bell. </note>
+   </seg>
 . I have today received your letters of Aug 16
 <lb facs="#facs_1_r1l3" n="N003"/>
 + 17. I may mention that it's extremely trying to be told by
