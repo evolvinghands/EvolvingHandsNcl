@@ -698,7 +698,10 @@ the ceremony, so I put him into my motor + we drove down
 together.
 <persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
 ,
-<persName ref="metadata/people.xml#person-EH034">the Garbetts</persName>
+<seg type="editorialNote-target-text">
+      the Garbetts
+      <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
+   </seg>
 ,
 <persName ref="metadata/people.xml#person-EH129">Mr Slater</persName>
 + I + one or two
@@ -813,7 +816,10 @@ gathered together. It is the first time it has happened, in
 <lb facs="#facs_2_r1l33" n="N031"/>
 history. So I went back to the office, breakfasted with
 <lb facs="#facs_2_r1l34" n="N032"/>
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+ <seg type="editorialNote-target-text">
+      The Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 + received masses of people who came in for
 </ab>
 <pb facs="#facs_3" n="3" xml:id="img_0003"/>
@@ -951,7 +957,10 @@ in a corner of the room + had coffee till the
 came in to say his party was ready. Then
 <lb facs="#facs_4_r1l7" n="N006"/>
 we left. Late in the afternoon
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+ <seg type="editorialNote-target-text">
+      The Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 gave a
 <lb facs="#facs_4_r1l8" n="N007"/>
 tiny party in their garden - Faisal had said he would
@@ -976,7 +985,10 @@ staff were there, Mr Cornwallis,
 + we
 <lb facs="#facs_4_r1l11" n="N010"/>
 of Sir Percy's staff,
-<persName ref="metadata/people.xml#person-EH034">the Garbetts</persName>
+<seg type="editorialNote-target-text">
+      the Garbetts
+      <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
+   </seg>
 + I. It was
 <lb facs="#facs_4_r1l14" n="N011"/>
 extremely pretty, on a grass lawn under the palm trees.
