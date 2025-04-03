@@ -943,8 +943,10 @@ wasn't a very amusing evening.
 </choice>
 <date when="1921-09-18">. 18. </date>
 Sunday. I've been out all day with
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
-,
+ <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 <lb facs="#facs_6_r1l29" n="N028"/>
 the rest of the party being
 <choice>
