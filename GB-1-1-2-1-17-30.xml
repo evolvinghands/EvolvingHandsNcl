@@ -836,7 +836,10 @@ of
 <ab facs="#facs_6_r1">
 <lb facs="#facs_6_r1l1" n="N001"/>
 The
-<persName ref="metadata/people.xml#person-EH161">Cunliffe Owens</persName>
+  <seg type="editorialNote-target-text">
+      Cunliffe Owens
+      <note type="editorial"> Mr Frederick Cunliffe Owen and his Wife, Marguerite Cunliffe Owen. </note>
+   </seg>
 are here, on their way home. His job is finally
 <lb facs="#facs_6_r1l2" n="N002"/>
 over, the Assyrians having all been dispersed. Some have
@@ -859,7 +862,10 @@ but not at our expense. The
 s came to tea with me
 <lb facs="#facs_6_r1l6" n="N006"/>
 yesterday + I met them at a little party which
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 <lb facs="#facs_6_r1l7" n="N007"/>
 gave last night in their garden - 9 to 12. It was extremely
 <lb facs="#facs_6_r1l8" n="N008"/>
