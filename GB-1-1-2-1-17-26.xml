@@ -572,7 +572,10 @@ invited
 <expan>aide-de-camp</expan>
 </choice>
 s,
-<persName ref="metadata/people.xml#person-EH034">the Garbetts</persName>
+<seg type="editorialNote-target-text">
+      the Garbetts
+      <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
+   </seg>
 ,
 <persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
 <lb facs="#facs_2_l_839" n="N002"/>
