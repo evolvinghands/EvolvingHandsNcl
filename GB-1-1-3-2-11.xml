@@ -424,7 +424,10 @@
 <date when="1921-06-05">? June</date>
 </add>
 <lb facs="#facs_1_r1l3" n="N005"/>
-<persName ref="metadata/people.xml#person-EH030">Darling Parents</persName>
+   <seg type="editorialNote-target-text">
+      Darling parents
+      <note type="editorial">  Bell's Father, Sir Hugh Bell, and Stepmother, Lady Florence Bell </note>
+   </seg>
 . I'm answering your letters of
 <date when="1921-05-04">May 4</date>
 - I may say
