@@ -50,13 +50,16 @@
 <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002445"/>
 </place>
 </listPlace>
-<object xml:id="object-EH001">
-<objectName type="Mausoleum" n="MausoleumofAbdul-QadirGilani" ref="#object-EH002">Qadiriyah shrine</objectName>
-    <note>
-      <p>Islamic religious complex dedicated to Abdul Qadir Gilani.</p>
+    <listObject>
+   <object xml:id="object-EH001">
+      <objectIdentifier>
+         <objectName type="Mausoleum" n="MausoleumofAbdul-QadirGilani" ref="#object-EH002">Qadiriyah shrine</objectName>
+      </objectIdentifier>
+      <note>
+         <p>Islamic religious complex dedicated to Abdul Qadir Gilani.</p>
       </note>
-    </object>
-  </listObject>
+   </object>
+</listObject>
 </standOff>
 <facsimile>
 <surface ulx="0" uly="0" lrx="7430" lry="4699" xml:id="facs_1">
