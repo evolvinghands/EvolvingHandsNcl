@@ -789,9 +789,9 @@ is therefore wrong, isn't it?
 <persName ref="metadata/people.xml#person-EH057">the Shaik</persName>
 <lb facs="#facs_3_r2l6" n="N004"/>
 of
-<placeName ref="place-1001220">Chabaish </placeName>
+<placeName ref="#place-1001220">Chabaish </placeName>
 - it's near the
-<placeName ref="place-1115337">Hammar Lake</placeName>
+<placeName ref="#place-1115337">Hammar Lake</placeName>
 - who is here in
 <lb facs="#facs_3_l_718" n="N005"/>
 his capacity as Minister without portfolio. He is a
