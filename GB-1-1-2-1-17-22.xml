@@ -890,7 +890,10 @@ been the
 <lb facs="#facs_5_r1l25" n="N022"/>
 Dinners! in this weather they really are a trial.
 <lb facs="#facs_5_r1l26" n="N023"/>
-<persName ref="metadata/people.xml#person-EH026">The Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 gave one to Faisal on Wednesday. I was
 <lb facs="#facs_5_r1l27" n="N024"/>
 well off for I sat by Air Vice Marshall Sir Geoffrey
@@ -987,7 +990,10 @@ Next day I did something much nicer. Sir
 Geoffrey came to tea with me + then carried me
 <lb facs="#facs_6_r1l31" n="N024"/>
 off to swim with
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 + the Airforce. It
 <lb facs="#facs_6_r1l32" n="N025"/>
 was heavenly. The temperature of the water must
@@ -1082,8 +1088,10 @@ This morning I rode before breakfast with
 <persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>
 + the
 <lb facs="#facs_7_r1l32" n="N031"/>
-<persName ref="metadata/people.xml#person-EH085">Campbell Mackies</persName>
-. Even at that hour a haze of dust
+   <seg type="editorialNote-target-text">
+      Campbell Mackies
+      <note type="editorial"> Dr. W. Campbell Mackie and his Wife, Dr Mary Campbell Mackie.</note>
+   </seg>. Even at that hour a haze of dust
 <lb facs="#facs_7_r1l33" n="N032"/>
 + heat was hanging over the world. We took it easily
 <lb facs="#facs_7_r1l34" n="N033"/>
@@ -1092,7 +1100,10 @@ This morning I rode before breakfast with
 party including
 <persName ref="metadata/people.xml#person-EH080">Sir Geoffrey</persName>
 +
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 . It's the only
 </ab>
 <pb facs="#facs_8" n="8" xml:id="img_0008"/>
@@ -1124,7 +1135,10 @@ has. But I think she has thought
 better of it.
 <anchor xml:id="facs_8_r1l7-delspan"/>
 She came to lunch with
-<persName ref="metadata/people.xml#person-EH026">the Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 and
 <lb facs="#facs_8_r1l8" n="N008"/>
 was very pleasant, + he lunched yesterday to say
