@@ -426,7 +426,7 @@
 <lb facs="#facs_1_r1l3" n="N005"/>
    <seg type="editorialNote-target-text">
       Darling parents
-      <note type="editorial">  Bell's Father, Sir Hugh Bell, and Stepmother, Lady Florence Bell </note>
+      <note type="editorial">  Bell's Father, Sir Hugh Bell, and Stepmother, Lady Florence Bell. </note>
    </seg>
 . I'm answering your letters of
 <date when="1921-05-04">May 4</date>
@@ -445,12 +445,10 @@ Smith
 </persName>
 flight
 <note type="editorial"> Ross Smith was an Australian aviator who, with his brother Keith, were the first pilots to fly fom England to Australia in 1919. He was a pilot for TE Lawrence, and made pioneering flights from Cairo to Calcutta, and Calcutta to Timor. It is unclear which flight this letter refers to, or it may even mean a documentary 'The Ross Smith Flight,' released in 1921.</note>
-</seg>
-, which indeed sounds wonderful - I wish I had been
+</seg>, which indeed sounds wonderful - I wish I had been
 <lb facs="#facs_1_r1l7" n="N009"/>
 there. And yours,
-<persName ref="metadata/people.xml#person-EH006">Father</persName>
-, told of the very interesting
+<persName ref="metadata/people.xml#person-EH006">Father</persName>, told of the very interesting
 <choice>
 <abbr>Rly</abbr>
 <expan>
@@ -491,8 +489,7 @@ is holding on for the
 moment but it's to my mind ominous that the excellent military
 <lb facs="#facs_1_r1l18" n="N020"/>
 adviser,
-<persName ref="metadata/people.xml#person-EH024">Col. Huddlestone</persName>
-, talks of coming away as he can now
+<persName ref="metadata/people.xml#person-EH024">Col. Huddlestone</persName>, talks of coming away as he can now
 <lb facs="#facs_1_r1l20" n="N021"/>
 do nothing. If he decides to go I hope we may get him here
 <lb facs="#facs_1_r1l21" n="N022"/>
@@ -533,10 +530,12 @@ over Asia should gather under the shadow of its wings every patriot
 who is out of a job. Saiyid Zia is a very interesting man. He
 <lb facs="#facs_1_r1l31" n="N032"/>
 lunched one day with the
-<persName ref="metadata/people.xml#person-EH026">Coxes</persName>
+   <seg type="editorialNote-target-text">
+      Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 (I had met him in
-<placeName ref="#place-7002004">Tehran</placeName>
-)
+<placeName ref="#place-7002004">Tehran</placeName>)
 <lb facs="#facs_1_r1l32" n="N033"/>
 + dined next day with me to meet
 <persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
@@ -562,8 +561,7 @@ make me laugh to see the Shah engulfed in it.
 <ab facs="#facs_2_r1">
 <lb facs="#facs_2_r1l1" n="N001"/>
 Well that's that. In
-<placeName ref="#place-1000144">Angora</placeName>
-, I think I told you, the extremists have
+<placeName ref="#place-1000144">Angora</placeName>, I think I told you, the extremists have
 <lb facs="#facs_2_r1l2" n="N002"/>
 got the upper hand which from our point of view means that Turkish
 <lb facs="#facs_2_r1l3" n="N003"/>
@@ -703,8 +701,7 @@ has told them (through me)
 to go ahead + rely on his support. By the way you'll
 <lb facs="#facs_3_r2l11" n="N012"/>
 notice that I'm not at
-<placeName ref="#place-1001109">Sulaimani</placeName>
-. When I told
+<placeName ref="#place-1001109">Sulaimani</placeName>. When I told
 <persName ref="metadata/people.xml#person-EH019">Naji</persName>
 +
 <lb facs="#facs_3_r2l12" n="N013"/>
@@ -782,8 +779,7 @@ And I can't give him a friendly word of warning. But he is
 spinning a bad cotton for he is earning a name as an
 <lb facs="#facs_4_r1l8" n="N008"/>
 opponent + I should not be at all surprised if
-<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
-,
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>,
 <lb facs="#facs_4_r1l9" n="N009"/>
 when he gets into the saddle, asks for his removal.
 <lb facs="#facs_4_r1l10" n="N010"/>
@@ -796,8 +792,7 @@ won't walk over it I can't help him.
 <persName ref="metadata/people.xml#person-EH032">the Master</persName>
 of
 <lb facs="#facs_4_r1l13" n="N013"/>
-<orgName ref="#org-134825322">Baliol</orgName>
-) went to another school function this week. It
+<orgName ref="#org-134825322">Baliol</orgName>) went to another school function this week. It
 <lb facs="#facs_4_r1l14" n="N014"/>
 was a prodigious affair.
 <foreign xml:lang="fr">Le tout</foreign>
@@ -883,10 +878,8 @@ a man called
 <persName ref="metadata/people.xml#person-EH033">Ma'ruf </persName>
 who has just returned from
 <lb facs="#facs_5_r2l13" n="N014"/>
-<placeName ref="#7004540">Palestine</placeName>
-- he came back with us on the
-<objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge" ref="#object-EH003">Hardinge</objectName>
-.
+<placeName ref="#7004540">Palestine</placeName> - he came back with us on the
+<objectName type="ArmedMerchantCruiserTroopship" n="R.I.M.S.Hardinge" ref="#object-EH003">Hardinge</objectName>.
 <lb facs="#facs_5_r2l14" n="N015"/>
 He is said to be one of the greatest Arabists living. I did
 <lb facs="#facs_5_r2l15" n="N016"/>
@@ -904,8 +897,7 @@ branch + I thought I noticed some of my
 <choice>
 <corr>turbaned</corr>
 <sic>turbanned</sic>
-</choice>
-.
+</choice>.
 <lb facs="#facs_5_r2l21" n="N022"/>
 neighbours drawing their robes metaphorically round
 <lb facs="#facs_5_r2l22" n="N023"/>
@@ -937,8 +929,7 @@ off the chair + he vanished from sight. He may be declaiming
 soundlessly to this day for ought I know.
 <lb facs="#facs_6_r1l2" n="N002"/>
 We all had to get up at 5 next morning to go to the
-<persName ref="#personEH001">King</persName>
-'s
+<persName ref="#personEH001">King</persName>'s
 <lb facs="#facs_6_r1l3" n="N003"/>
 Birthday Parade which was held in the desert quite near my
 <lb facs="#facs_6_r1l4" n="N004"/>
@@ -960,7 +951,10 @@ or
 . It ended with a flight of 30
 <lb facs="#facs_6_r1l9" n="N009"/>
 aeroplanes which really was splendid.
-<persName ref="metadata/people.xml#person-EH026">The Coxes</persName>
+ <seg type="editorialNote-target-text">
+      The Coxes
+      <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
+   </seg>
 <lb facs="#facs_6_r1l11" n="N010"/>
 gave a dinner that night -
 <persName ref="metadata/people.xml#person-EH005">C. in C.</persName>
@@ -969,9 +963,11 @@ gave a dinner that night -
 + Persian consuls
 <persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
 +
-<persName ref="metadata/people.xml#person-EH017">Sasun Eff</persName>
-,
-<persName ref="metadata/people.xml#person-EH034">the Garbetts </persName>
+<persName ref="metadata/people.xml#person-EH017">Sasun Eff</persName>,
+<seg type="editorialNote-target-text">
+      the Garbetts
+      <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
+   </seg>
 <lb facs="#facs_6_r1l13" n="N012"/>
 + me. It was very well done. After dinner we sat
 <lb facs="#facs_6_r1l14" n="N013"/>
