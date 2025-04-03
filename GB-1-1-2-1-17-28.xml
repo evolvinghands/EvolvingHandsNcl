@@ -1197,7 +1197,10 @@ the time I go into office that I don't often share in it.
 Next evening
 <persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
 ,
-<persName ref="metadata/people.xml#person-EH130">the Slaters</persName>
+<seg type="editorialNote-target-text">
+      the Slaters
+      <note type="editorial">  Mr and Mrs Slater, later divorced. </note>
+   </seg>
 + I + one or two more
 </ab>
 <pb facs="#facs_8" n="8" xml:id="img_0008"/>
