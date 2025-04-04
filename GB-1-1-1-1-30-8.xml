@@ -157,8 +157,7 @@
 <add place="in-line">1921</add>
 <lb facs="#facs_1_r5l2" n="N002"/>
 Dearest
-<persName ref="metadata/people.xml#person-EH009">Mother</persName>
-. I must send you
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>. I must send you
 <lb facs="#facs_1_r5l3" n="N003"/>
 a particular word to tell you
 <lb facs="#facs_1_r5l4" n="N004"/>
@@ -169,8 +168,7 @@ your accounts of the
 Heart of
 <note type="bibliographic">
 <bibl>
-<author>Lady Florence Eveleen Eleanore Bell</author>
-,
+<author>Lady Florence Eveleen Eleanore Bell</author>,
 <title>The Heart of Yorkshire\u003a A Play in Three Parts and an Epilogue.</title>
 <publisher>A. L. Humphreys: </publisher>
 <date>1923</date>
@@ -231,8 +229,7 @@ work before us - Congress
 <seg type="editorialNote-target-text">
 Organic Law
 <note type="editorial">Provided for a constitutional monarchy, a parliamentary government and a bicameral legislature</note>
-</seg>
-- + I
+</seg> - + I
 <lb facs="#facs_1_r3l13" n="N013"/>
 haven't much time to think
 <lb facs="#facs_1_r3l14" n="N014"/>
@@ -305,8 +302,7 @@ got the
 <choice>
 <abbr>G B E</abbr>
 <expan>Grand Cross of the Order of the British Empire</expan>
-</choice>
-! he's
+</choice>! he's
 <lb facs="#facs_2_r2l6" n="N006"/>
 immensely pleased. I
 <lb facs="#facs_2_r2l7" n="N007"/>
@@ -357,8 +353,7 @@ of doing. He's a great dear.
 <lb facs="#facs_3_l_224" n="N001"/>
 95, SLOANE ST.,
 <lb facs="#facs_3_l_233" n="N002"/>
-<placeName ref="#place-7011781">LONDON</placeName>
-,
+<placeName ref="#place-7011781">LONDON</placeName>,
 <lb facs="#facs_3_l_296" n="N003"/>
 S. W.
 </ab>
