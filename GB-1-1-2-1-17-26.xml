@@ -465,19 +465,14 @@
 <add place="below"> 1921</add>
 <lb facs="#facs_1_r1l2" n="N003"/>
 Darling
-<persName ref="metadata/people.xml#person-EH006">Father</persName>
-. We have had a quiet week. The plebiscite is
+<persName ref="metadata/people.xml#person-EH006">Father</persName>. We have had a quiet week. The plebiscite is
 <lb facs="#facs_1_r1l3" n="N004"/>
 nearly finished throughout the country. Many districts,
-<placeName ref="#place-1079402">Ramadi</placeName>
-,
+<placeName ref="#place-1079402">Ramadi</placeName>,
 <lb facs="#facs_1_r1l4" n="N005"/>
-<placeName ref="#place-1001072">Basrah</placeName>
-, the
-<placeName ref="#place-1123842">Euphrates</placeName>
-,
-<placeName ref="#place-1079380">Amarah</placeName>
-, have added a
+<placeName ref="#place-1001072">Basrah</placeName>, the
+<placeName ref="#place-1123842">Euphrates</placeName>,
+<placeName ref="#place-1079380">Amarah</placeName>, have added a
 <choice>
 <corr>rider</corr>
 <sic>ryder</sic>
@@ -544,8 +539,7 @@ interval for lunch, home to wash + change, visit to
 4.30 to 6, library committee 6 to 7, visit
 <lb facs="#facs_1_r1l34" n="N032"/>
 to
-<persName ref="metadata/people.xml#person-EH017">Sasun</persName>
-'s
+<persName ref="metadata/people.xml#person-EH017">Sasun</persName>'s
 <persName ref="metadata/people.xml#person-EH198" cert="low">sister in law</persName>
 <seg type="editorialNote-target-text">
 sister in law
@@ -570,18 +564,15 @@ invited
 <choice>
 <abbr>ADC</abbr>
 <expan>aide-de-camp</expan>
-</choice>
-s,
+</choice>s,
 <seg type="editorialNote-target-text">
       the Garbetts
       <note type="editorial">  Sir Colin Campbell Garbett and his Wife, Lady Marjorie Josephine Garbett. </note>
-   </seg>
-,
+   </seg>,
 <persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
 <lb facs="#facs_2_l_839" n="N002"/>
 +
-<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
-, + I took
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>, + I took
 <persName>Zaya</persName>
 with an excellent breakfast
 <lb facs="#facs_2_l_879" n="N003"/>
@@ -595,8 +586,7 @@ inspiring tourist. After we had reconstructed the palace + seen
 sitting in it, I took him into the high mounds to the
 <lb facs="#facs_2_r1l11" n="N007"/>
 south, whence we could see the
-<placeName ref="#place-1130850">Tigris</placeName>
-, + told him the story
+<placeName ref="#place-1130850">Tigris</placeName>, + told him the story
 <lb facs="#facs_2_r1l12" n="N008"/>
 of the Arab conquest as
 <persName ref="metadata/people.xml#person-EH111">Tabari</persName>
@@ -613,8 +603,7 @@ the more thrilled. I had a good audience too in one of his
 <choice>
 <abbr>ADC</abbr>
 <expan>aide-de-camp</expan>
-</choice>
-s, a Syrian called
+</choice>s, a Syrian called
 <persName ref="metadata/people.xml#person-EH112">Rustam Haidar</persName>
 whom I like
 <lb facs="#facs_2_r1l19" n="N014"/>
@@ -669,8 +658,7 @@ feel more dead than alive even when I haven't got up
 before 5. I couldn't rest in the afternoon because of my
 <lb facs="#facs_3_r2l4" n="N003"/>
 appointment with
-<persName ref="metadata/people.xml#person-EH068">the Naqib</persName>
-. I never loved the old man
+<persName ref="metadata/people.xml#person-EH068">the Naqib</persName>. I never loved the old man
 <lb facs="#facs_3_r2l5" n="N004"/>
 more than that day, though it took him an hour +
 <lb facs="#facs_3_r2l6" n="N005"/>
@@ -678,12 +666,9 @@ a half to say his say. He also was in the highest
 <lb facs="#facs_3_r2l7" n="N006"/>
 spirits + tremendously pleased with the part he has
 <lb facs="#facs_3_r2l8" n="N007"/>
-played. "
-<seg type="editorialNote-target-text">
-Khatun
-<note type="editorial">Female title of nobility; counterpoint to 'khan'.</note>
-</seg>
-" he said "you are my daughter, I will
+played. "<seg type="editorialNote-target-text">
+Khatun<note type="editorial">Female title of nobility; counterpoint to 'khan'.</note>
+</seg>" he said "you are my daughter, I will
 <lb facs="#facs_3_r2l9" n="N008"/>
 tell you all that passed through my mind. I have never
 <lb facs="#facs_3_r2l10" n="N009"/>
@@ -721,14 +706,10 @@ but isn't it fine? It's a privilege to deal with
 gentlefolk + there's no greater gentleman than the Naqib.
 <lb facs="#facs_3_r2l25" n="N022"/>
 So at the end of the day I came to
-<persName ref="metadata/people.xml#person-EH108">Hamid Khan</persName>
-,
+<persName ref="metadata/people.xml#person-EH108">Hamid Khan</persName>,
 <lb facs="#facs_3_r2l26" n="N023"/>
 Mutasarrif of
-<placeName ref="#place-1001343">Karbala</placeName>
-, cousin of the
-<persName ref="metadata/people.xml#person-EH113">Agha Khan</persName>
-,
+<placeName ref="#place-1001343">Karbala</placeName>, cousin of the <persName ref="metadata/people.xml#person-EH113">Agha Khan</persName>,
 <lb facs="#facs_3_r2l27" n="N024"/>
 + a really staunch adherent - He was immensely
 <lb facs="#facs_3_r2l28" n="N025"/>
@@ -742,8 +723,7 @@ seemed to retire fainter + fainter into a dim
 distance - + then I woke with a jump to
 <lb facs="#facs_3_r2l33" n="N029"/>
 supply the right answer about
-<persName ref="metadata/people.xml#person-EH058">'Abdul Wahid</persName>
-, or
+<persName ref="metadata/people.xml#person-EH058">'Abdul Wahid</persName>, or
 <lb facs="#facs_3_r2l34" n="N030"/>
 whoever it might be!
 <lb facs="#facs_3_r2l35" n="N031"/>
@@ -761,8 +741,7 @@ Egyptian paper + one from the
 about
 <lb facs="#facs_4_r1l4" n="N004"/>
 French policy in
-<placeName ref="#place-1000140">Syria</placeName>
-. He promised a leader on the
+<placeName ref="#place-1000140">Syria</placeName>. He promised a leader on the
 <lb facs="#facs_4_l" n="N005"/>
 subject next day, but when next day came there
 <lb facs="#facs_4_l_725" n="N006"/>
@@ -860,8 +839,7 @@ Sadr came in just before
 <seg type="editorialNote-target-text">
 the Amir
 <note type="editorial">Title used to refer to Faysal.</note>
-</seg>
-. Everybody rose
+</seg>. Everybody rose
 <lb facs="#facs_5_r1l19" n="N019"/>
 at his entrance - + I sat tight + gave him the
 <lb facs="#facs_5_r1l20" n="N020"/>
@@ -882,11 +860,9 @@ came to the office + expostulated with me. I
 replied "Why should I rise for Muhammad Sadr?
 <lb facs="#facs_5_r1l27" n="N026"/>
 he is not even an
-<seg type="editorialNote-target-text">
-'alim
+<seg type="editorialNote-target-text">'alim
 <note type="editorial">An educated scholar of Islamic law.</note>
-</seg>
-." "By God, that's true"
+</seg>." "By God, that's true"
 <lb facs="#facs_5_r1l28" n="N027"/>
 he answered, + left a wiser man than he had
 <lb facs="#facs_5_r1l29" n="N028"/>
@@ -937,8 +913,7 @@ have stopped him. I beg you to turn all
 your thoughts to the work of creating an
 <lb facs="#facs_6_r1l22" n="N017"/>
 Arab state in
-<placeName ref="#place-1000118">Mesopotamia</placeName>
-, + to think of
+<placeName ref="#place-1000118">Mesopotamia</placeName>, + to think of
 <lb facs="#facs_6_r1l24" n="N018"/>
 nothing else."
 <lb facs="#facs_6_r1l25" n="N019"/>
@@ -955,8 +930,7 @@ It was a small male dinner - I was the only
 woman. I sat by Faisal who was full of talk.
 <lb facs="#facs_6_r1l31" n="N024"/>
 He is tremendously excited about
-<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>
-'s
+<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>'s
 <lb facs="#facs_6_r1l32" n="N025"/>
 claim to sovereignty over all our nomad tribes
 <lb facs="#facs_6_r1l34" n="N026"/>
@@ -981,17 +955,14 @@ But we shall stop him; his claims are absolutely
 inadmissible.
 <lb facs="#facs_7_r1l5" n="N006"/>
 This evening
-<persName ref="metadata/people.xml#person-EH114">Nuri Pasha</persName>
-,
-<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>
-'s brother in law
+<persName ref="metadata/people.xml#person-EH114">Nuri Pasha</persName>,
+<persName ref="metadata/people.xml#person-EH011">Ja'far</persName>'s brother in law
 <lb facs="#facs_7_r1l6" n="N007"/>
 +
 <choice>
 <abbr>C.G.S.</abbr>
 <expan>Chief of the General Staff</expan>
-</choice>
-, came to see me + we spent an hour
+</choice>, came to see me + we spent an hour
 <lb facs="#facs_7_r1l7" n="N008"/>
 praising all the gods we knew for what has
 <lb facs="#facs_7_r1l8" n="N009"/>
@@ -1004,16 +975,14 @@ promised me a regiment of the Arab Army - the
 <seg type="editorialNote-target-text">
 Khatun
 <note type="editorial">Female title of nobility; counterpart of 'khan'.</note>
-</seg>
-'s own. I shall presently ask you to
+</seg>'s own. I shall presently ask you to
 <lb facs="#facs_7_r1l11" n="N012"/>
 have their colours embroidered. Nuri proposes
 <lb facs="#facs_7_r1l12" n="N013"/>
 that I should have an army corps!
 <lb facs="#facs_7_l" n="N014"/>
 Oh
-<persName ref="metadata/people.xml#person-EH006">Father</persName>
-, isn't it wonderful. I sometimes think
+<persName ref="metadata/people.xml#person-EH006">Father</persName>, isn't it wonderful. I sometimes think
 <lb facs="#facs_7_r1l15" n="N015"/>
 I must be in a dream.
 <lb facs="#facs_7_r1l16" n="N016"/>
@@ -1028,8 +997,7 @@ I must tell you another item of Nuri's conversation
 <del rend="strikethrough"> - mind, you are not to repeat any of these things; I don't</del>
 <lb facs="#facs_7_r1l21" n="N021"/>
 wish to emulate
-<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>
-. Nuri said "People
+<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>. Nuri said "People
 <lb facs="#facs_7_r1l22" n="N022"/>
 like to see you at the meetings for Faisal. Wherever you are
 <lb facs="#facs_7_r1l23" n="N023"/>
@@ -1054,10 +1022,8 @@ the same mind from the very beginning!
 <ab facs="#facs_8_r1">
 <lb facs="#facs_8_r1l1" n="N001"/>
 I've got
-<persName ref="metadata/people.xml#person-EH115">Ernest</persName>
-'s letter + I'm writing to
-<persName>Herbert</persName>
-. I entirely agree
+<persName ref="metadata/people.xml#person-EH115">Ernest</persName>'s letter + I'm writing to
+<persName>Herbert</persName>. I entirely agree
 <lb facs="#facs_8_r1l2" n="N002"/>
 with Ernest, it's just what I've always expected, +
 <lb facs="#facs_8_r1l3" n="N003"/>
@@ -1071,14 +1037,12 @@ be pan-Arab in
 <placeName ref="#place-1000118">Mesopotamia</placeName>
 + pan-Jew in
 <lb facs="#facs_8_r1l7" n="N007"/>
-<placeName ref="#place-7018359">Palestine</placeName>
-.
+<placeName ref="#place-7018359">Palestine</placeName>.
 <lb facs="#facs_8_r1l8" n="N008"/>
 Darling I've got your letter of July 6 with the
 <lb facs="#facs_8_r1l9" n="N009"/>
 account of
-<persName ref="metadata/people.xml#person-EH009">Mother</persName>
-'s accident. She really is a
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>'s accident. She really is a
 <lb facs="#facs_8_r1l10" n="N010"/>
 remarkable lady - I do hope she is better. Soon
 <lb facs="#facs_8_r1l11" n="N011"/>
