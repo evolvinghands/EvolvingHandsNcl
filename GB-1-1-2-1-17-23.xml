@@ -529,14 +529,12 @@
 </add>
 <lb facs="#facs_1_l" n="N002"/>
 Wed.
-<date when="1921-07-20">July 20</date>
-.
+<date when="1921-07-20">July 20</date>.
 <lb facs="#facs_1_l_830" n="N003"/>
 <add place="below"> 1921</add>
 <lb facs="#facs_1_l_834" n="N004"/>
 Dearest
-<persName ref="metadata/people.xml#person-EH006">Father</persName>
-.
+<persName ref="metadata/people.xml#person-EH006">Father</persName>.
 <foreign xml:lang="de">Ich fange an</foreign>
 - really these days are so packed with
 <lb facs="#facs_1_r1l5" n="N005"/>
@@ -569,8 +567,7 @@ the Residency
 <persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 came with the
 <lb facs="#facs_1_r1l14" n="N013"/>
-<persName ref="metadata/people.xml#person-EH001">Amir</persName>
-. The function took place at 7.30 a.m. in the big courtyard
+<persName ref="metadata/people.xml#person-EH001">Amir</persName>. The function took place at 7.30 a.m. in the big courtyard
 <lb facs="#facs_1_r1l15" n="N014"/>
 of the house - you know the kind of place, a square court round which
 <lb facs="#facs_1_r1l16" n="N015"/>
@@ -611,8 +608,7 @@ is too
 old, luckily, to say anything, but he is a wonderful figure, stepped
 <lb facs="#facs_1_r1l33" n="N032"/>
 straight out of a picture by
-<persName ref="metadata/people.xml#person-EH117">Gentile Bellini</persName>
-. The speeches on
+<persName ref="metadata/people.xml#person-EH117">Gentile Bellini</persName>. The speeches on
 <lb facs="#facs_1_r1l34" n="N033"/>
 these occasions are all set speeches - the orators read them
 <lb facs="#facs_1_r1l35" n="N034"/>
@@ -637,8 +633,7 @@ which underlay them, the anxiety of the Jews lest an Arab
 <lb facs="#facs_2_r1l2" n="N002"/>
 should mean chaos + their gradual reassurance, by reason of
 <lb facs="#facs_2_r1l3" n="N003"/>
-<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
-'s obviously enlightened attitude + our obvious support of
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>'s obviously enlightened attitude + our obvious support of
 <lb facs="#facs_2_r1l4" n="N004"/>
 him. Presently they brought the
 <seg type="editorialNote-target-text">
@@ -681,8 +676,7 @@ that the more fanatical Moslems, especially the
 <seg type="editorialNote-target-text">
 Shi'ahs
 <note type="editorial">An Islamic sect who believe that the descendants of the Prophet Muhammad are the rightful leaders of Islam.</note>
-</seg>
-, have
+</seg>, have
 <lb facs="#facs_2_r1l21" n="N020"/>
 been complaining a little that he takes Jews + Christians too
 <lb facs="#facs_2_r1l22" n="N021"/>
@@ -696,8 +690,7 @@ The
 <sic>vilain</sic>
 </choice>
 of the piece is
-<persName ref="metadata/people.xml#person-EH073">Saiyid Muhammad Sadr</persName>
-, the son
+<persName ref="metadata/people.xml#person-EH073">Saiyid Muhammad Sadr</persName>, the son
 <lb facs="#facs_2_r1l25" n="N024"/>
 of old
 <persName ref="metadata/people.xml#person-EH090">Saiyid Hasan Sadr</persName>
@@ -706,8 +699,7 @@ whom I took you to see in
 Kadhimain. Saiyid Muhammad was the man who first
 <lb facs="#facs_2_r1l28" n="N026"/>
 received us, a tall, black- bearded
-<seg type="editorialNote-target-text">
-'alim
+<seg type="editorialNote-target-text">'alim
 <note type="editorial">An Islamic legal scholar.</note>
 </seg>
 with a sinister
@@ -722,8 +714,7 @@ as the chief agitator in
 <seg type="editorialNote-target-text">
 the disturbances
 <note type="editorial">The revolt against British rule that began in May 1920 with the onset of mass meetings and demonstrations in Baghdad, also referred to as the 1920 Arab Revolt. The revolt ended in October 1920.</note>
-</seg>
-. In those insane
+</seg>. In those insane
 <lb facs="#facs_2_r1l33" n="N031"/>
 days he was treated like a divinity. Shi'ahs kissed the robe
 <lb facs="#facs_2_r1l34" n="N032"/>
@@ -745,12 +736,10 @@ tribes. It was he who called up the
 tribesmen +
 <lb facs="#facs_3_r2l3" n="N003"/>
 caused all those tragedies of which
-<persName ref="metadata/people.xml#person-EH091">Mrs Buchanan</persName>
-'s story is
+<persName ref="metadata/people.xml#person-EH091">Mrs Buchanan</persName>'s story is
 <lb facs="#facs_3_r2l4" n="N004"/>
 one. His next achievement was on the upper
-<placeName ref="#place-1130850">Tigris</placeName>
-. In
+<placeName ref="#place-1130850">Tigris</placeName>. In
 <lb facs="#facs_3_r2l5" n="N005"/>
 obedience to his preaching the tribes attacked
 <placeName ref="#place-7002480">Samarra</placeName>
@@ -759,8 +748,7 @@ but were beaten off. He then moved down to
 <placeName ref="#place-1001343">Karbala</placeName>
 <lb facs="#facs_3_r2l7" n="N007"/>
 + was the soul of the insurgence on the middle
-<placeName ref="#place-1123842">Euphrates</placeName>
-.
+<placeName ref="#place-1123842">Euphrates</placeName>.
 <lb facs="#facs_3_r2l8" n="N008"/>
 Finally, when the game was up, he fled with other
 <seg type="editorialNote-target-text">
@@ -778,8 +766,7 @@ across the desert to
 + came
 <lb facs="#facs_3_r2l10" n="N010"/>
 back, under the amnesty, with
-<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
-. He is tended to be
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>. He is tended to be
 <lb facs="#facs_3_r2l11" n="N011"/>
 second to Faisal, if indeed Faisal were not second to him,
 <lb facs="#facs_3_r2l12" n="N012"/>
@@ -805,8 +792,7 @@ I told you last week; Faisal has forbidden its circulation
 <lb facs="#facs_3_r2l21" n="N020"/>
 + we have issued an official formula through the
 <lb facs="#facs_3_r2l22" n="N021"/>
-<orgName ref="#org-155121446">Ministry of the Interior</orgName>
-. Everyone is signing ours. He
+<orgName ref="#org-155121446">Ministry of the Interior</orgName>. Everyone is signing ours. He
 <lb facs="#facs_3_l_803" n="N022"/>
 is in a black rage + I feel as it we were struggling
 <lb facs="#facs_3_r2l26" n="N023"/>
@@ -828,8 +814,7 @@ illustrated volume of biographies of the leaders of the
 <seg type="editorialNote-target-text">
 Iraq revolt
 <note type="editorial">The revolt against British rule that began in May 1920 with the onset of mass meetings and demonstrations in Baghdad, also referred to as the 1920 Arab Revolt. The revolt ended in October 1920.</note>
-</seg>
-. I sent for the editor + pointed out to
+</seg>. I sent for the editor + pointed out to
 <lb facs="#facs_3_r2l34" n="N029"/>
 him that the moment was not propitious - the object
 <lb facs="#facs_3_r2l35" n="N030"/>
@@ -846,12 +831,10 @@ editor bowed to my arguments, + the projected book
 <lb facs="#facs_4_r1l5" n="N002"/>
 is still-born.
 <lb facs="#facs_4_r1l6" n="N003"/>
-<persName ref="metadata/people.xml#person-EH006">Father</persName>
-, isn't it wonderfully interesting to be watching
+<persName ref="metadata/people.xml#person-EH006">Father</persName>, isn't it wonderfully interesting to be watching
 <lb facs="#facs_4_r1l7" n="N004"/>
 over the fortunes of this
-<placeName ref="#place-1000118">new state</placeName>
-! But it takes
+<placeName ref="#place-1000118">new state</placeName>! But it takes
 <lb facs="#facs_4_r1l8" n="N005"/>
 one all one's time. There are so many quicksands.
 <lb facs="#facs_4_r1l9" n="N006"/>
@@ -877,15 +860,12 @@ scowled at me as I gave him the salute. I sat down
 two places away + after passing the time of day with
 <lb facs="#facs_4_r1l18" n="N014"/>
 my neighbour, a rather colourless
-<seg type="editorialNote-target-text">
-'alim
+<seg type="editorialNote-target-text">'alim
 <note type="editorial">A scholar of Islamic law.</note>
-</seg>
-, I asked
+</seg>, I asked
 <lb facs="#facs_4_r1l19" n="N015"/>
 tenderly after the health of his father,
-<persName ref="metadata/people.xml#person-EH090">Saiyid Hasan</persName>
-,
+<persName ref="metadata/people.xml#person-EH090">Saiyid Hasan</persName>,
 <lb facs="#facs_4_r1l20" n="N016"/>
 + said you frequently enquired about him! I expect
 <lb facs="#facs_4_r1l21" n="N017"/>
@@ -899,21 +879,18 @@ but send you heaps of
 <seg type="editorialNote-target-text">
 salams
 <note type="editorial">Arabic word meaning 'peace'; also used as a form of greeting.</note>
-</seg>
-!
+</seg>!
 <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
 then
 <lb facs="#facs_4_l_787" n="N021"/>
 arrived + was installed between Sir Percy +
 <lb facs="#facs_4_r1l28" n="N022"/>
-<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
-. There was an opening speech by the
+<persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>. There was an opening speech by the
 <lb facs="#facs_4_r1l29" n="N023"/>
 dear little Arab officer who is at the head of
 <lb facs="#facs_4_r1l30" n="N024"/>
 the school,
-<persName ref="metadata/people.xml#person-EH092">Ahmad Haqqi</persName>
-, + then a couple of
+<persName ref="metadata/people.xml#person-EH092">Ahmad Haqqi</persName>, + then a couple of
 <lb facs="#facs_4_r1l31" n="N025"/>
 poems about the splendour of military service,
 <lb facs="#facs_4_r1l32" n="N026"/>
@@ -948,8 +925,7 @@ saw him no more, when
 accompanied, by the
 <lb facs="#facs_5_r1l5" n="N005"/>
 officers of the school, British + Arab,
-<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
-, Sir
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>, Sir
 <lb facs="#facs_5_r1l6" n="N006"/>
 <persName ref="metadata/people.xml#person-EH005">Aylmer</persName>
 + the rest of us, walked round + inspected
@@ -990,8 +966,7 @@ who led the
 <seg type="editorialNote-target-text">
 revolt
 <note type="editorial">The revolt against British rule that began in May 1920 with the onset of mass meetings and demonstrations in Baghdad, also referred to as the 1920 Arab Revolt. The revolt ended in October 1920.</note>
-</seg>
-. They all went up to see Sir Percy who
+</seg>. They all went up to see Sir Percy who
 <lb facs="#facs_5_r1l21" n="N021"/>
 gave them, I've no doubt, excellent advice, for they
 <lb facs="#facs_5_r1l22" n="N022"/>
@@ -1034,19 +1009,16 @@ This morning, before going into office. I took
 <persName ref="metadata/people.xml#person-EH014">Mr Cornwallis</persName>
 <lb facs="#facs_6_r1l3" n="N003"/>
 to see
-<persName ref="metadata/people.xml#person-EH094">Shukri Alusi</persName>
-, the famous
+<persName ref="metadata/people.xml#person-EH094">Shukri Alusi</persName>, the famous
 <seg type="editorialNote-target-text">
 Sunni
 <note type="editorial">An Islamic sect who do not believe that the descendents of the Prophet Muhammad are the rightful leaders of Islam.</note>
 </seg>
-<seg type="editorialNote-target-text">
-'Alim
+<seg type="editorialNote-target-text">'Alim
 <note type="editorial">Muslim learned in religious matters.</note>
 </seg>
 of
-<placeName ref="#place-7002482">Baghdad</placeName>
-,
+<placeName ref="#place-7002482">Baghdad</placeName>,
 <lb facs="#facs_6_r1l4" n="N004"/>
 of whom I have often told you. He is a
 <seg type="editorialNote-target-text">
@@ -1055,8 +1027,7 @@ Wahhabi
 </seg>
 <lb facs="#facs_6_r1l5" n="N005"/>
 + has a romantic attachment to
-<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>
-. He
+<persName ref="metadata/people.xml#person-EH064">Ibn Sa'ud</persName>. He
 <lb facs="#facs_6_r1l6" n="N006"/>
 hadn't been to see
 <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
@@ -1083,8 +1054,7 @@ Faisal. One gets a great deal of pleasure
 out of little episodes of this kind.
 <lb facs="#facs_6_r1l17" n="N016"/>
 Sunday
-<date when="1921-07-24">July 24</date>
-. On Thursday morning we had rather a scare. News
+<date when="1921-07-24">July 24</date>. On Thursday morning we had rather a scare. News
 <lb facs="#facs_6_r1l18" n="N017"/>
 had been coming in that
 <persName ref="metadata/people.xml#person-EH073">Saiyid Mhd Sadr</persName>
@@ -1094,8 +1064,7 @@ all the tribal
 <seg type="editorialNote-target-text">
 Saiyids
 <note type="editorial">Muslim honorary title.</note>
-</seg>
-,
+</seg>,
 <persName ref="metadata/people.xml#person-EH093">Saiyid Nur</persName>
 + the rest, not to sign the
 <lb facs="#facs_6_r1l20" n="N019"/>
@@ -1111,10 +1080,8 @@ Shi'ah
 <note type="editorial">An Islamic sect who believe that the descendants of the Prophet Muhammad are the rightful leaders of Islam.</note>
 </seg>
 divines of
-<placeName ref="#place-1001099">Najaf</placeName>
-.
-<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
-,
+<placeName ref="#place-1001099">Najaf</placeName>.
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>,
 <persName ref="metadata/people.xml#person-EH007">Mr Garbett</persName>
 + I
 <lb facs="#facs_6_r1l24" n="N023"/>
@@ -1153,8 +1120,7 @@ had consulted Sir Percy who replied
 - it didn't concern him.
 <lb facs="#facs_7_r1l2" n="N002"/>
 This answer
-<persName ref="metadata/people.xml#person-EH070">the Mutasarrif</persName>
-, who is not very bright, had taken
+<persName ref="metadata/people.xml#person-EH070">the Mutasarrif</persName>, who is not very bright, had taken
 <lb facs="#facs_7_r1l3" n="N003"/>
 to mean that
 <persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
@@ -1195,8 +1161,7 @@ the
 shaikhs up again to swear to him. I asked
 <lb facs="#facs_7_r1l21" n="N020"/>
 him about
-<persName ref="metadata/people.xml#person-EH096">his wife</persName>
-, who is his cousin, + his children -
+<persName ref="metadata/people.xml#person-EH096">his wife</persName>, who is his cousin, + his children -
 <lb facs="#facs_7_r1l22" n="N021"/>
 he has 3 - + said I thought she too ought to be encouraged
 <lb facs="#facs_7_r1l23" n="N022"/>
@@ -1244,8 +1209,7 @@ middle of the Syrian desert when suddenly his encampment
 was attacked by a famous old raider from the Syrian
 <lb facs="#facs_8_r1l5" n="N005"/>
 frontier,
-<persName ref="metadata/people.xml#person-EH097">Audah Abu Tai</persName>
-. After a stiff fight they beat
+<persName ref="metadata/people.xml#person-EH097">Audah Abu Tai</persName>. After a stiff fight they beat
 <lb facs="#facs_8_r1l6" n="N006"/>
 Audah off though he looted a great many camels. Shaikh
 <lb facs="#facs_8_r1l7" n="N007"/>
@@ -1275,8 +1239,7 @@ aeroplanes coming over from Amman + charged
 them to pick up Murdhi + bring him in to
 <lb facs="#facs_8_r1l17" n="N017"/>
 hospital at
-<placeName ref="#place-7002482">Baghdad</placeName>
-. They wirelessed the news
+<placeName ref="#place-7002482">Baghdad</placeName>. They wirelessed the news
 <lb facs="#facs_8_r1l18" n="N018"/>
 here, an ambulance was ready at the aerodrome,
 <lb facs="#facs_8_r1l19" n="N019"/>
@@ -1292,8 +1255,7 @@ There is a very nice + interesting man here,
 <persName ref="metadata/people.xml#person-EH099">Mr Barrington</persName>
 <lb facs="#facs_8_r1l24" n="N024"/>
 Ward, a barrister +
-<persName ref="metadata/people.xml#person-EH031">Lionel Smith</persName>
-'s brother in law. He
+<persName ref="metadata/people.xml#person-EH031">Lionel Smith</persName>'s brother in law. He
 <lb facs="#facs_8_r1l25" n="N025"/>
 has come out to defend a wealthy Jew called
 <lb facs="#facs_8_r1l26" n="N026"/>
@@ -1318,8 +1280,7 @@ was living with
 + had lived with a good
 <lb facs="#facs_9_r1l4" n="N003"/>
 many people before, including
-<persName ref="metadata/people.xml#person-EH100">Saiyid Talib</persName>
-. There isn't
+<persName ref="metadata/people.xml#person-EH100">Saiyid Talib</persName>. There isn't
 <lb facs="#facs_9_r1l5" n="N004"/>
 a scrap of evidence to show, that Sha'shu' had instigated
 <lb facs="#facs_9_r1l6" n="N005"/>
@@ -1378,8 +1339,7 @@ most heavenly; we get in refreshed + hungry towards 8
 o'clock. And every Sunday a big party of us go down
 <lb facs="#facs_9_r1l29" n="N027"/>
 river in a steamer of
-<persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>
-'s, bathe + dine on the
+<persName ref="metadata/people.xml#person-EH048">Mr Tod</persName>'s, bathe + dine on the
 <lb facs="#facs_9_r1l30" n="N028"/>
 steamer as we come back. Today the
 <choice>
@@ -1399,19 +1359,16 @@ hope this adorable north wind will hold for
 tomorrow
 <persName ref="metadata/people.xml#person-EH049">Fakhri Jamil</persName>
 + I are motoring to
-<placeName ref="#place-1079402">Ramadi</placeName>
-,
+<placeName ref="#place-1079402">Ramadi</placeName>,
 </ab>
 <pb facs="#facs_10" n="10" xml:id="img_0010"/>
 <ab facs="#facs_10_r1">
 <lb facs="#facs_10_r1l1" n="N001"/>
 guests of
-<persName ref="metadata/people.xml#person-EH102">the Mutasarrif</persName>
-, to see a great gathering
+<persName ref="metadata/people.xml#person-EH102">the Mutasarrif</persName>, to see a great gathering
 <lb facs="#facs_10_l" n="N002"/>
 of tribal standards + shaikhs, all the
-<seg type="editorialNote-target-text">
-'Anizah
+<seg type="editorialNote-target-text"> 'Anizah
 <note type="editorial">Tribe in Upper Mesopotamia and the Levant area.</note>
 </seg>
 <lb facs="#facs_10_r1l3" n="N003"/>
@@ -1419,26 +1376,22 @@ of tribal standards + shaikhs, all the
 <seg type="editorialNote-target-text">
 Dulaim
 <note type="editorial">Largest Sunni tribe in Iraq; dates to pre-Islamic era.</note>
-</seg>
-, in honour of
-<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
-. He's going too.
+</seg>, in honour of
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>. He's going too.
 <lb facs="#facs_10_r1l4" n="N004"/>
 It ought to be wonderful.
 <lb facs="#facs_10_r1l5" n="N005"/>
 I've got your letter of June 23. Oh I do sympathise
 <lb facs="#facs_10_r1l6" n="N006"/>
 about
-<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>
-!
+<persName ref="metadata/people.xml#person-EH078">Mrs Rosita Forbes</persName>!
 <persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
 + I are wondering
 <lb facs="#facs_10_r1l7" n="N007"/>
 what we shall do when she proposes to come out here.
 <lb facs="#facs_10_r1l8" n="N008"/>
 We saw her in
-<placeName ref="#place-7001215">Cairo</placeName>
-, I must tell you. I haven't
+<placeName ref="#place-7001215">Cairo</placeName>, I must tell you. I haven't
 <lb facs="#facs_10_r1l9" n="N009"/>
 yet got the
 <seg type="editorialNote-target-text">
