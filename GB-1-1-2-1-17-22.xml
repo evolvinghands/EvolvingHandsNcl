@@ -427,8 +427,7 @@
 <pb facs="#facs_1" n="1" xml:id="img_0001"/>
 <ab facs="#facs_1_r1">
 <lb facs="#facs_1_l" n="N001"/>
-<placeName ref="#place-7002482">Baghdad</placeName>
-.
+<placeName ref="#place-7002482">Baghdad</placeName>.
 <date when="1921-07-16">July 16</date>
 <lb facs="#facs_1_l_774" n="N002"/>
 <add place="in-line"> 1921</add>
@@ -490,8 +489,7 @@ voice of the people. With that one of Faisal's,
 <choice>
 <abbr>ADC</abbr>
 <expan>aide-de-camp</expan>
-</choice>
-s telephoned to
+</choice>s telephoned to
 <lb facs="#facs_1_r1l20" n="N022"/>
 me + asked me to go round. I found him radiant - it was
 <lb facs="#facs_1_r1l21" n="N023"/>
@@ -518,8 +516,7 @@ shaikhs
 <note type="editorial">Honorific title meaning 'Elder', used for leaders of tribes and royal family members.</note>
 </seg>
 from all parts of
-<placeName ref="#place-1000118">the 'Iraq</placeName>
-.
+<placeName ref="#place-1000118">the 'Iraq</placeName>.
 <del rend="strikethrough">The</del>
 I went back
 <lb facs="#facs_1_r1l30" n="N031"/>
@@ -585,8 +582,7 @@ his
 since he landed
 <del rend="strikethrough">to the</del>
 in
-<placeName ref="#place-7016465">Basrah</placeName>
-. The
+<placeName ref="#place-7016465">Basrah</placeName>. The
 <lb facs="#facs_2_r1l14" n="N014"/>
 truth is one doesn't mind what sort of crowd he
 <lb facs="#facs_2_r1l15" n="N015"/>
@@ -642,8 +638,7 @@ document in which there was no mention of our
 <lb facs="#facs_3_r1l5" n="N004"/>
 continued presence. And on his heels came Umran al
 <lb facs="#facs_3_r1l6" n="N005"/>
-<persName ref="metadata/people.xml#person-EH075">Haji Sa'dun</persName>
-, head of the
+<persName ref="metadata/people.xml#person-EH075">Haji Sa'dun</persName>, head of the
 <seg type="editorialNote-target-text">
 Bani Hasan
 <note type="editorial">Several possible meanings, may refer to Beni Hassan, a Bedouin Arab tribe, or perhaps Bani Hasan, a town in Western Libya, or even Beni Hasan, an Ancient Egyptian cemetry near modern-day Minya.</note>
@@ -698,13 +693,11 @@ means of the
 <seg type="editorialNote-target-text">
 Mutasarrifs
 <note type="editorial">Governor of an administrative district.</note>
-</seg>
-, +
+</seg>, +
 <seg type="editorialNote-target-text">
 Qaimmaqams
 <note type="editorial">Governor of a provincial district.</note>
-</seg>
-. So I
+</seg>. So I
 <lb facs="#facs_3_r1l22" n="N020"/>
 was able to send my visitors away comforted
 <lb facs="#facs_3_r1l23" n="N021"/>
@@ -732,16 +725,14 @@ It is very significant that the
 <seg type="editorialNote-target-text">
 Kamalists
 <note type="editorial">Now Kemalists, refers to the founding ideology of the Republic of Turkiye, characterised by reform and embracing of Western lifestyle. Founded by Mustafa Kemal Ataturk.</note>
-</seg>
-, as soon
+</seg>, as soon
 <lb facs="#facs_3_r1l32" n="N029"/>
 as they heard that Faisal was coming began
 <lb facs="#facs_3_r1l33" n="N030"/>
 a hot propaganda in favour of their candidate,
 <lb facs="#facs_3_r1l34" n="N031"/>
 Shaikh
-<persName ref="metadata/people.xml#person-EH077">Ahmad Idrisi</persName>
-, the Sanusi - he hails from
+<persName ref="metadata/people.xml#person-EH077">Ahmad Idrisi</persName>, the Sanusi - he hails from
 </ab>
 <pb facs="#facs_4" n="4" xml:id="img_0004"/>
 <ab facs="#facs_4_r1">
@@ -762,8 +753,7 @@ brought to
 a document, calling to on all Iraqis to swear fealty
 <lb facs="#facs_4_r1l8" n="N005"/>
 to
-<persName ref="metadata/people.xml#person-EH077">the Sanusi</persName>
-.
+<persName ref="metadata/people.xml#person-EH077">the Sanusi</persName>.
 <del rend="strikethrough">which</del>
 It had been thrown into his courtyard.
 <lb facs="#facs_4_r1l9" n="N006"/>
@@ -791,8 +781,7 @@ to
 + produced 80 of them which he
 <lb facs="#facs_4_r1l18" n="N015"/>
 asked Ja'far to hand over to
-<persName ref="metadata/people.xml#person-EH001">Faisal</persName>
-! The
+<persName ref="metadata/people.xml#person-EH001">Faisal</persName>! The
 <lb facs="#facs_4_r1l19" n="N016"/>
 Sanusi doesn't therefore seem to be cutting much
 <lb facs="#facs_4_r1l20" n="N017"/>
@@ -835,8 +824,7 @@ must obtain seek for pardon from
 + therewith
 <lb facs="#facs_5_r1l5" n="N004"/>
 sends them in to us. I see them, get
-<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>
-'s
+<persName ref="metadata/people.xml#person-EH002">Sir Percy</persName>'s
 <lb facs="#facs_5_l_835" n="N005"/>
 orders, + let
 <persName ref="metadata/people.xml#person-EH001">Faisal</persName>
@@ -853,8 +841,7 @@ decent rights!
 Incidentally some of these messengers are the most
 <lb facs="#facs_5_r1l13" n="N010"/>
 remarkable people,
-<seg type="editorialNote-target-text">
-'Aqail
+<seg type="editorialNote-target-text">'Aqail
 <note type="editorial">The Aquail tribe is one of many tribes within Iraq, some of which pre-date Islam. For centuries, tribes were the primary form of social organization through much of the Arabian Peninsula and tribal traditions remain culturally important in the region today.</note>
 </seg>
 who fought with
@@ -862,8 +849,7 @@ who fought with
 Mr
 <lb facs="#facs_5_r1l14" n="N011"/>
 Lawrence
-</persName>
-, whom I greet as friends once removed.
+</persName>, whom I greet as friends once removed.
 <lb facs="#facs_5_r1l15" n="N012"/>
 The office of a morning is flooded with tribal shaikhs.
 <lb facs="#facs_5_r1l16" n="N013"/>
@@ -882,11 +868,9 @@ hear it first from me + then from Sir Percy + I
 think they go away satisfied. This week it has
 <lb facs="#facs_5_r1l23" n="N020"/>
 been the
-<placeName ref="#place-1123842">Euphrates</placeName>
-; next week it will be the
+<placeName ref="#place-1123842">Euphrates</placeName>; next week it will be the
 <lb facs="#facs_5_r1l24" n="N021"/>
-<placeName ref="#place-1130850">Tigris</placeName>
-. Tonight Faisal has 50 of them to dinner.
+<placeName ref="#place-1130850">Tigris</placeName>. Tonight Faisal has 50 of them to dinner.
 <lb facs="#facs_5_r1l25" n="N022"/>
 Dinners! in this weather they really are a trial.
 <lb facs="#facs_5_r1l26" n="N023"/>
@@ -921,12 +905,10 @@ ball given by the French consul, it being their
 <seg type="editorialNote-target-text">
 Day
 <note type="editorial">Bastille Day</note>
-</seg>
-. I had
+</seg>. I had
 <persName ref="metadata/people.xml#person-EH081">Major Yetts</persName>
 (in from
-<placeName ref="#place-1079402">Ramadi</placeName>
-) +
+<placeName ref="#place-1079402">Ramadi</placeName>) +
 <lb facs="#facs_6_r1l5" n="N003"/>
 <persName ref="metadata/people.xml#person-EH063">Mr Thomson</persName>
 to dinner first. Barring that we
@@ -969,8 +951,7 @@ outside most of the time talking to
 <persName ref="metadata/people.xml#person-EH017">Sasun Eff</persName>
 <lb facs="#facs_6_r1l24" n="N017"/>
 +
-<persName ref="metadata/people.xml#person-EH080">Sir Geoffrey</persName>
-. But outside was almost as
+<persName ref="metadata/people.xml#person-EH080">Sir Geoffrey</persName>. But outside was almost as
 <lb facs="#facs_6_r1l25" n="N018"/>
 hot as inside. The French Consul has received
 <lb facs="#facs_6_r1l26" n="N019"/>
@@ -1008,8 +989,7 @@ sunset. It's about the hottest hour of the day.
 <ab facs="#facs_7_r1">
 <lb facs="#facs_7_r1l1" n="N001"/>
 4.
-<date when="1921-07-17">July 17</date>
-. In the middle of the week the
+<date when="1921-07-17">July 17</date>. In the middle of the week the
 <choice>
 <abbr>Govt</abbr>
 <expan>Government</expan>
@@ -1020,8 +1000,7 @@ breaking up function.
 <persName ref="metadata/people.xml#person-EH016">Lady Cox</persName>
 came, at the instance, of Sir
 <lb facs="#facs_7_r1l3" n="N003"/>
-<persName ref="metadata/people.xml#person-EH002">Percy</persName>
-, + was very pleasant. It was quite a good function -
+<persName ref="metadata/people.xml#person-EH002">Percy</persName>, + was very pleasant. It was quite a good function -
 <lb facs="#facs_7_r1l4" n="N004"/>
 the usual songs + recitations on the part of the children +
 <lb facs="#facs_7_r1l5" n="N005"/>
@@ -1046,8 +1025,7 @@ they had just dried it with.
 Last night I dined with one of the poor waifs who
 <lb facs="#facs_7_r1l16" n="N015"/>
 are cast up on our shores from
-<placeName ref="#place-7000231">Persia</placeName>
--
+<placeName ref="#place-7000231">Persia</placeName> -
 <persName ref="metadata/people.xml#person-EH082">Qasim Khan</persName>
 <lb facs="#facs_7_r1l17" n="N016"/>
 who was Military Governor of
@@ -1073,8 +1051,7 @@ flank won't be pleasant. Qasim Khan is married to
 <lb facs="#facs_7_r1l26" n="N025"/>
 <persName ref="metadata/people.xml#person-EH086">a Christian girl</persName>
 from
-<placeName ref="#place-7002473">Constantinople</placeName>
-- she is no asset
+<placeName ref="#place-7002473">Constantinople</placeName> - she is no asset
 <lb facs="#facs_7_r1l27" n="N026"/>
 to him, a stupid vulgar little creature; but the trouble is
 <lb facs="#facs_7_r1l28" n="N027"/>
@@ -1103,8 +1080,7 @@ party including
    <seg type="editorialNote-target-text">
       Coxes
       <note type="editorial">  Sir Percy Cox and his Wife, Lady Louisa Belle Cox. </note>
-   </seg>
-. It's the only
+   </seg>. It's the only
 </ab>
 <pb facs="#facs_8" n="8" xml:id="img_0008"/>
 <ab facs="#facs_8_r1">
@@ -1163,12 +1139,10 @@ can afford to lose.
 <lb facs="#facs_8_r1l17" n="N017"/>
 <delSpan rend="strikethrough" spanTo="#facs_8_r1l20-delspan"/>
 I've got
-<persName ref="metadata/people.xml#person-EH009">Mother</persName>
-'s letter of June 19 with an enclosure
+<persName ref="metadata/people.xml#person-EH009">Mother</persName>'s letter of June 19 with an enclosure
 <lb facs="#facs_8_r1l18" n="N018"/>
 from
-<persName>Alice Egerton</persName>
-, + also your letter of June 16. I hope
+<persName>Alice Egerton</persName>, + also your letter of June 16. I hope
 <lb facs="#facs_8_r1l19" n="N019"/>
 the
 <persName>Dow. Lady Carlisle</persName>
@@ -1206,8 +1180,7 @@ Rounton Grange
 <placeName ref="#place-7002445">England</placeName>
 <lb facs="#facs_9_r1l7" n="N005"/>
 ARAB BUREAU,
-<placeName ref="#place-7002482">BAGHDAD</placeName>
-.
+<placeName ref="#place-7002482">BAGHDAD</placeName>.
 <lb facs="#facs_9_r1l10" n="N006"/>
 G L Bell
 </ab>
