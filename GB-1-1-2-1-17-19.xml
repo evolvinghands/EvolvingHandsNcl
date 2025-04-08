@@ -1043,8 +1043,8 @@ Rounton Grange
 <lb facs="#facs_5_r2l7" n="N007"/>
 <placeName ref="#place-1030202">Northallerton</placeName>
 <lb facs="#facs_5_l_140" n="N008"/>
-ARAB BUREAU,
-<placeName ref="#place-7002482">BAGHDAD</placeName>.
+<del rend="strikthrough">ARAB BUREAU,
+<placeName ref="#place-7002482">BAGHDAD</placeName>.</del>
 </ab>
 <pb facs="#facs_6" n="6" xml:id="img_0006"/>
 </div>
