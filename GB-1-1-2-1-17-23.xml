@@ -1426,15 +1426,7 @@ Gertrude.
 <pb facs="#facs_11" n="11" xml:id="img_0011"/>
 <ab facs="#facs_11_r">
 <lb facs="#facs_11_r1l1" n="N001"/>
-<date when="1921-07-20">July 20</date>
-<lb facs="#facs_11_r1l4" n="N002"/>
-<date when="1921-08-23">August 23</date>
-<lb facs="#facs_11_r1l2" n="N003"/>
-<add place="above">1921</add>
-</ab>
-<ab facs="#facs_11_r1">
-<lb facs="#facs_11_r1l5" n="N001"/>
-      <figure>
+            <figure>
 <ab>OCCUPATION</ab>
 <lb facs="#facs_8_l_54" n="N006"/>
 <ab> 1 An</ab>
@@ -1445,6 +1437,14 @@ Gertrude.
 <figDesc>Postage Stamp</figDesc>
 </figure>
       <lb facs="#facs_8_l_50" n="N008"/>
+<date when="1921-07-20">July 20</date>
+<lb facs="#facs_11_r1l4" n="N002"/>
+<date when="1921-08-23">August 23</date>
+<lb facs="#facs_11_r1l2" n="N003"/>
+<add place="above">1921</add>
+</ab>
+<ab facs="#facs_11_r1">
+<lb facs="#facs_11_r1l5" n="N001"/>
 <persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell Bart C B</persName>
 <lb facs="#facs_11_r1l6" n="N002"/>
 Rounton Grange
