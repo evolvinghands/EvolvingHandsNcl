@@ -49,6 +49,11 @@
 <country>England</country>
 <ptr type="getty" target="http://vocab.getty.edu/page/tgn/7002445"/>
 </place>
+    <place xml:id="place-7008171" corresp="http://vocab.getty.edu/page/tgn/7008171">
+<placeName>Yorkshire</placeName>
+<country>England</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7008171"/>
+</place>
 </listPlace>
     <listObject>
    <object xml:id="object-EH001">
@@ -615,8 +620,12 @@ At the back of my mind there's the firm
 <lb facs="#facs_3_l_233" n="N002"/>
 <placeName ref="#place-1030202">NORTHALLERTON</placeName>,
 <lb facs="#facs_3_l_296" n="N003"/>
-YORKS.
-</ab>
+     <choice>
+<abbr>
+<placeName ref="#place-7008171">YORKS.</placeName>
+</abbr>
+<expan>Yorkshire</expan>
+</choice> </ab>
 <figDesc>Address Stamp</figDesc>
 </figure>
 <lb facs="#facs_3_l_331" n="N004"/>
@@ -643,7 +652,12 @@ GL Bell
 <lb facs="#facs_3_l_233" n="N002"/>
 <placeName ref="#place-1030202">NORTHALLERTON</placeName>,
 <lb facs="#facs_3_l_296" n="N003"/>
-YORKS.
+     <choice>
+<abbr>
+<placeName ref="#place-7008171">YORKS.</placeName>
+</abbr>
+<expan>Yorkshire</expan>
+</choice> </ab>
 </ab>
 <figDesc>Address Stamp</figDesc>
 </figure>
