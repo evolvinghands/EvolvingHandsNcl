@@ -1064,16 +1064,20 @@ Bart C B
 <placeName ref="#place-7011781">London</placeName>
 SW 1
 <lb facs="#facs_7_r1l12" n="N008"/>
-<add place="margin">ROUNTON GRANGE,</add>
-<lb facs="#facs_7_r1l13" n="N009"/>
+    <figure>
+   <ab>
+ <add place="in-line">ROUNTON GRANGE </add>
+<lb facs="#facs_3_l_233" n="N002"/>
 <placeName ref="#place-1030202">NORTHALLERTON</placeName>,
-<lb facs="#facs_7_r1l15" n="N010"/>
-<choice>
+<lb facs="#facs_3_l_296" n="N003"/>
+       <choice>
 <abbr>
 <placeName ref="#place-7008171">YORKS.</placeName>
 </abbr>
 <expan>Yorkshire</expan>
 </choice>
+<figDesc>Address Stamp</figDesc>
+</figure>
 <lb facs="#facs_7_r1l16" n="N011"/>
 G L Bell
 </ab>
