@@ -34,6 +34,11 @@
 <country>England</country>
 <ptr type="getty" target="http://vocab.getty.edu/page/tgn/1030202"/>
 </place>
+  <place xml:id="place-7011781" corresp="http://vocab.getty.edu/page/tgn/7011781">
+<placeName>London</placeName>
+<country>England</country>
+<ptr type="getty" target="http://vocab.getty.edu/page/tgn/7011781"/>
+</place>
 <place xml:id="place-7002445" corresp="http://vocab.getty.edu/page/tgn/7002445">
 <placeName>England</placeName>
 <country>England</country>
