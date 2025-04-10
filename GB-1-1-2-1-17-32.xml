@@ -1024,6 +1024,18 @@ Gertrude
 <lb facs="#facs_7_l_262" n="N002"/>
 1921
 <lb facs="#facs_7_l_290" n="N003"/>
+    <figure>
+   <ab>
+   <placeName ref="#place-7011781">LONDON. S.W.</placeName>
+   <lb facs="#facs_7_l_208" n="N002"/>
+     <date when="1921-10-10">10 OC</date>
+     <lb facs="#facs_7_l_218" n="N003"/>
+   3.45PM
+   <lb facs="#facs_7_l_224" n="N004"/>
+   21 B
+ </ab>
+<figDesc>Postage Frank Mark</figDesc>
+</figure>
 <add place="above">
 <placeName ref="#place-7002482">Baghdad</placeName>
 </add>
