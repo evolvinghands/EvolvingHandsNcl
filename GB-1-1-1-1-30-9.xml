@@ -329,6 +329,34 @@ next year + it's lovely here.
 <lb facs="#facs_3_r1l1" n="N004"/>
 <placeName ref="#place-7002482">Baghdad</placeName>
 <lb facs="#facs_3_r1l2" n="N005"/>
+  <figure>
+   <ab>
+   <placeName ref="#place-7011781">LONDON.S.W.</placeName>
+   <lb facs="#facs_7_l_208" n="N002"/>
+   12.45PM
+   <lb facs="#facs_7_l_218" n="N003"/>
+   <date when="1921-10-10">10 OC</date>
+   <lb facs="#facs_7_l_224" n="N004"/>
+   21
+   <lb facs="#facs_7_l_224" n="N005"/>
+   22
+ </ab>
+<figDesc>Postage Frank Mark</figDesc>
+</figure>
+  <figure>
+   <ab>
+   <placeName ref="#place-7011781">LONDON.S.W.</placeName>
+   <lb facs="#facs_7_l_208" n="N002"/>
+   12.45PM
+   <lb facs="#facs_7_l_218" n="N003"/>
+   <date when="1921-10-10">10 OC</date>
+   <lb facs="#facs_7_l_224" n="N004"/>
+   21
+   <lb facs="#facs_7_l_224" n="N005"/>
+   22
+ </ab>
+<figDesc>Postage Frank Mark</figDesc>
+</figure>
 <persName ref="metadata/people.xml#person-EH009">Lady Bell</persName>
 <choice>
 <abbr>D B E</abbr>
