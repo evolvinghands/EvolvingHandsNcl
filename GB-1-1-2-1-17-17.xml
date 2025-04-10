@@ -608,11 +608,17 @@ At the back of my mind there's the firm
  </ab>
 <figDesc>Postage Frank</figDesc>
 </figure>
-<add place="in-line">ROUNTON GRANGE</add>
-<lb facs="#facs_3_l_323" n="N002"/>
-<placeName ref="#place-1030202">NORTHALLERTON</placeName>
-<lb facs="#facs_3_l_327" n="N003"/>
+    <lb facs="#facs_3_l_331" n="N004"/>
+     <figure>
+   <ab>
+  ROUNTON GRANGE,
+<lb facs="#facs_3_l_233" n="N002"/>
+<placeName ref="#place-1030202">NORTHALLERTON</placeName>,
+<lb facs="#facs_3_l_296" n="N003"/>
 YORKS.
+</ab>
+<figDesc>Address Stamp</figDesc>
+</figure>
 <lb facs="#facs_3_l_331" n="N004"/>
 <del rend="strikethrough">ARAB BUREAU, BAGHDAD</del>
 </ab>
@@ -631,12 +637,16 @@ GL Bell
 </ab>
 <ab facs="#facs_3_r_295">
 <lb facs="#facs_3_l_335" n="N001"/>
-ROUNTON GRANGE
-<lb facs="#facs_3_l_339" n="N002"/>
-NORTHALLERTON
-<lb facs="#facs_3_l_343" n="N003"/>
+      <figure>
+   <ab>
+  ROUNTON GRANGE,
+<lb facs="#facs_3_l_233" n="N002"/>
+<placeName ref="#place-1030202">NORTHALLERTON</placeName>,
+<lb facs="#facs_3_l_296" n="N003"/>
 YORKS.
 </ab>
+<figDesc>Address Stamp</figDesc>
+</figure>
 <pb facs="#facs_4" n="4" xml:id="img_0004"/>
 </div>
 </body>
