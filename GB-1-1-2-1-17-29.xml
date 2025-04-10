@@ -1592,6 +1592,20 @@ dated
 <lb facs="#facs_11_r1l2" n="N003"/>
 1921
 <lb facs="#facs_11_r1l4" n="N004"/>
+        <figure>
+   <ab>
+   <placeName ref="#place-1030202">NORTHALLERTON</placeName>
+   <lb facs="#facs_7_l_208" n="N002"/>
+   PM
+   <lb facs="#facs_7_l_218" n="N003"/>
+   <date when="1921-10-06">6 OC</date>
+   <lb facs="#facs_7_l_224" n="N004"/>
+   21
+   <lb facs="#facs_7_l_224" n="N005"/>
+ </ab>
+<figDesc>Postage Frank Mark</figDesc>
+</figure>
+         <lb facs="#facs_7_l_224" n="N005"/>
 <persName ref="metadata/people.xml#person-EH006">Sir Hugh Bell </persName>
 Bart C B
 <lb facs="#facs_11_r1l5" n="N005"/>
