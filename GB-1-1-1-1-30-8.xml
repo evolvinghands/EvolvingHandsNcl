@@ -362,6 +362,17 @@ S. W.
 <figDesc>Address Stamp</figDesc>
 </figure>
 <lb facs="#facs_3_r_204">
+  <figure>
+   <ab>
+   <placeName ref="#place-7011781">NORTHALLERTON</placeName>
+   <lb facs="#facs_7_l_208" n="N002"/>
+   6 00
+   <lb facs="#facs_7_l_218" n="N003"/>
+   21
+   <lb facs="#facs_7_l_228" n="N005"/>
+ </ab>
+<figDesc>Postage Frank Mark</figDesc>
+</figure>
 <lb facs="#facs_3_l_248" n="N001"/>
 <persName ref="metadata/people.xml#person-EH009">Lady Bell </persName>
 <lb facs="#facs_3_l_257" n="N002"/>
