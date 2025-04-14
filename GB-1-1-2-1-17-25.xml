@@ -85,7 +85,8 @@
       <note>
         <p>Ukhaidir is a large, rectangular fortress erected in 775 AD with a unique defensive style. Constructed by the Abbasid caliph As-Saffah's nephew Isa ibn Musa.</p>
       </note>
-    </object>
+    </object> 
+    </listobject>
 </standOff>
 <facsimile>
 <surface ulx="0" uly="0" lrx="5418" lry="6580" xml:id="facs_1">
