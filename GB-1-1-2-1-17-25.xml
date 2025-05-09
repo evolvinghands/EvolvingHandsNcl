@@ -81,7 +81,9 @@
 </listPlace>
     <listObject>
  <object xml:id="object-EH002">
-     <objectName>Ukhaidhir</objectName>
+      <objectIdentifier>
+        <objectName>Ukhaidhir</objectName>
+      </objectIdentifier>
       <note>
         <p>Ukhaidir is a large, rectangular fortress erected in 775 AD with a unique defensive style. Constructed by the Abbasid caliph As-Saffah's nephew Isa ibn Musa.</p>
       </note>
